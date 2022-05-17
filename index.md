@@ -34,5 +34,5 @@ layout: lipu
 - o sona e ni: mi kama awen e lipu sina lon ilo ni la jan ale li ken lukin e ona. ni li ike tawa sina la o pana ala!
 - sina pana e lipu li kama wile ante e ona la sina ken pana sin e ona tawa mi!
 
-## o lukin e utala pini
+## [o lukin e utala pini](musi_pini.md)
 
