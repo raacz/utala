@@ -2,7 +2,7 @@
 layout: lipu
 # There are some other fields you can set here, like title, description, icon, image and color. They control what the page displays as the tab title, as well as how it appears in discord embeds
 ---
-(for an English version, click here)
+(for an English version, click [here](index_eng.md))
 
 ## tenpo utala pi lipu musi lili!
 
@@ -30,7 +30,7 @@ layout: lipu
 - o pana e sona! o pana e nimi sina pi toki pona, e nimi sina pi ilo Siko. kin la o pana e nimi pi lipu sina.
 
 **mi wile sona e ijo ante seme?**
-- jan wan o pana e lipu wan taso. sina jan mute/kulupu la sina ken pana e lipu mute. 
+- sina ken pana e lipu mute!
 - o sona e ni: mi kama awen e lipu sina lon ilo ni la jan ale li ken lukin e ona. ni li ike tawa sina la o pana ala!
 - sina pana e lipu li kama wile ante e ona la sina ken pana sin e ona tawa mi!
 
