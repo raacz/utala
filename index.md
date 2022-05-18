@@ -19,7 +19,7 @@ layout: lipu
 - o pana e pali sina taso. o pana ala e pali pi jan ante.
 
 **mi o toki e seme lon lipu?**
-- o toki e tenpo pi lon ala o toki e ijo pona pi wile sina!
+- o toki e ale pona pi wile sina!
 - taso o ike ala. o sewi ala e nasin ike. o toki wawa ala e unpa e pakala sijelo. 
 
 **tenpo seme la mi wile pana e lipu?**
@@ -34,5 +34,10 @@ layout: lipu
 - o sona e ni: mi kama awen e lipu sina lon ilo ni la jan ale li ken lukin e ona. ni li ike tawa sina la o pana ala!
 - sina pana e lipu li kama wile ante e ona la sina ken pana sin e ona tawa mi!
 
-## [o lukin e utala pini](musi_pini.md)
+***
+
+## o lukin e utala pini
+-[utala pi sitelen ma #MAMW/#LT/#W](musi_pini.md) la kulupu li pali e sitelen musi tawa ni: ma pona pi toki pona li seme lukin tawa jan lon ilo Siko?
+
+
 
