@@ -19,7 +19,7 @@ layout: lipu
 - o pana e pali sina taso. o pana ala e pali pi jan ante.
 
 **mi o toki e seme lon lipu?**
-- o toki e ale pona pi wile sina!
+- o toki e tenpo pi lon ala e ijo pona pi wile sina!
 - taso o ike ala. o sewi ala e nasin ike. o toki wawa ala e unpa e pakala sijelo. 
 
 **tenpo seme la mi wile pana e lipu?**
