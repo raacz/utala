@@ -19,7 +19,7 @@ layout: lipu
 - Only submit your own work. Don't submit someone else's work.
 
 **What should I say in the story?**
-- Talk about a time that didn't happen, and say anything good you want!
+- Talk about a time that didn't really happen, and say anything good you want!
 - But nothing bad. Don't promote bad ideas. Don't talk too much about sex or violence.
 
 **When do I need to submit the story?**
