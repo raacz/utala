@@ -9,5 +9,6 @@ lon la, sitelen tu li pona suli tawa kulupu: sitelen pi *jan Melon* en sitelen p
 
 sitelen pi jan Melon:
 
+![jan Melon's winning contest logo presented six times, three in light and three in dark mode. The logo is playful and colourful](jan Melon.png)
 
 o lukin e sitelen ale lon [ni](https://docs.google.com/forms/d/e/1FAIpQLSfrCDigcipOTCajDsKyLTvXzaHDOogleujgHqL55EGXooPOGQ/viewform).
