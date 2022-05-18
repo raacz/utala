@@ -2,7 +2,7 @@
 layout: lipu
 # There are some other fields you can set here, like title, description, icon, image and color. They control what the page displays as the tab title, as well as how it appears in discord embeds
 ---
-(English version is below)
+(for an English version, click here)
 
 ## tenpo utala pi lipu musi lili!
 
