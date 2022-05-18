@@ -34,4 +34,6 @@ layout: lipu
 - Be aware: I will post your story on this website and everyone will be able to see it. If you don't want this, don't submit a story!
 - If you change your story after sending it to me, you can send it again!
 
+***
+
 ## [See past contests](musi_pini.md)
