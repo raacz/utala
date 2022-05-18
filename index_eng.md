@@ -30,7 +30,7 @@ layout: lipu
 - Tell me a few things! Send your Toki Pona name and your Discord name. Also send the name of your story.
 
 **What else do I need to know?**
-- lipu mute !
+- You can submit multiple stories!
 - Be aware: I will post your story on this website and everyone will be able to see it. If you don't want this, don't submit a story!
 - If you change your story after sending it to me, you can send it again!
 
