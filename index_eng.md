@@ -6,7 +6,7 @@ layout: lipu
 
 ## Small story contest!
 
-*Writers of Toki Pona! Your time has come*
+*Writers of Toki Pona! Your time has come.*
 
 **What is my task?**
 - Write a small story and send it to me when it's time.
@@ -15,7 +15,7 @@ layout: lipu
 - Your story should be in Toki Pona only.
 - Your story should be amusing.
 - Don't translate a story from another language to toki pona. Write something new!
-- The number of words must be at least 500.
+- The number of words must be more than 500.
 - Only submit your own work. Don't submit someone else's work.
 
 **What should I say in the story?**
@@ -28,6 +28,11 @@ layout: lipu
 **Where do I need to submit the story?**
 - Send your story to me (jan Lakuse) using Discord (Raacz106#5873) or Email (tokipona.sasalin@gmail.com).
 - Tell me a few things! Send your Toki Pona name and your Discord name. Also send the name of your story.
+
+**What is the competition?**
+- When submissions are all done, everyone will look at the stories and say what they think. We'll find out which story the community thinks is the best!
+- So don't send your story to a lot of people or talk about what's in your story to a lot of people. When it's time to look, no one should know who wrote which story.
+- Once everyone's done looking, you can talk about everything!
 
 **What else do I need to know?**
 - You can submit multiple stories!
