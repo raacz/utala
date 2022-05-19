@@ -15,7 +15,7 @@ layout: lipu
 - lipu o kepeken toki pona taso. 
 - lipu o musi.
 - lipu la o ante ala e lipu lon tan toki ante tawa toki pona. lipu o sin!
-- mute nimi o lili ala tawa LA/luka ale (ale ale ale ale ale).
+- mute nimi o suli tawa LA/luka ale (ale ale ale ale ale).
 - o pana e pali sina taso. o pana ala e pali pi jan ante.
 
 **mi o toki e seme lon lipu?**
