@@ -42,7 +42,7 @@ layout: lipu
 ***
 
 ## o lukin e utala pini
-- [utala pi sitelen ma #MAMW/#LT/#W](musi_pini.md) la kulupu li pali e sitelen musi tawa ni: ma pona pi toki pona li seme lukin tawa jan lon ilo Siko?
+- [utala pi sitelen ma #MAMW/#LT/#W](sitelen_ma.md) la kulupu li pali e sitelen musi tawa ni: ma pona pi toki pona li seme lukin tawa jan lon ilo Siko?
 
 
 
