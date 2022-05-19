@@ -3,7 +3,7 @@
 layout: lipu
 
 ---
-# Place picture contest 2021-07-01/#LT/#W
+# Place picture contest 2021-07-01
 
 Ma Pona on Discord wanted a fun new picture. So they made this happen: many people made many possible pictures, then the group said which was the best.
 
