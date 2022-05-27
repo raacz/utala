@@ -1,0 +1,21 @@
+---
+
+layout:lipu
+# doc name: tml_jan_Apu.md
+
+--- 
+
+[o lukin e ale](toki_musi_lili_tok.md)
+
+# utala
+tan jan Apu
+
+sina olin e utala.
+taso sina sona ala:
+utala li ike e sina.
+tenpo ala la,
+ala li pona.
+
+
+
+[<--](tml_jan_Anulu.md) 5 [-->](tml_jan_Asuta.md)
