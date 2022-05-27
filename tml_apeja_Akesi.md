@@ -1,6 +1,6 @@
 ---
 
-layout:lipu
+layout: lipu
 # doc name: tml_apeja_Akesi.md
 
 --- 
