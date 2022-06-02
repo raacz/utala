@@ -41,4 +41,6 @@ layout: lipu
 
 ***
 
-## [See past contests](sitelen_ma_eng.md)
+## See finished contests
+- [place picture contest (2021-01-01)](sitelen_ma_eng.md), where the group made entertaining pictures to establish how Ma Pona was going to appear on Discord.
+- [poetry competition 2020-11-11](toki_musi_lili_eng.md) where the group made many amusing poems! Who wrote the poem that both the community and jan Sonja favoured?
