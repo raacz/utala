@@ -1,16 +1,15 @@
 ---
 layout: lipu
 ---
-(for an English version, click [here](index_en.md))
+(sina wile toki pona la o tawa [ni](index.md))
 
-## tenpo utala pi lipu musi lili!
+## Short story contest time!
 
-*tenpo pi pilin kulupu li lon! o lukin e lipu!*  
-*tenpo kama la sina ken toki e pilin sina tawa lipu!*
+*It's time for the community's thoughts! Read the stories!*
 
+*Later you'll be able to say what you think of them!*
 
-### o lukin e lipu lon ni!
-*sina luka e leko pimeja lili la sina ken kama sona lili e ni: lipu li toki e seme?*
+### Read the stories here!
 
 {% include nimilipu.html nimiilo="AAAmute" nimi="AAA-mute" toki="jan sona li poki e ijo pi nasa mute li alasa e sona tan ona. ijo nasa ni li wawa seme li tan seme?" %}
 
@@ -44,56 +43,18 @@ layout: lipu
 
 {% include nimilipu.html nimiilo="waso-mumu-li-mu-ala" nimi="waso Mumu li mu ala" toki="waso sama ale pi waso Mumu li mu. taso waso Mumu li wile toki! o alasa lon poka pi waso Mumu e ijo pi ken toki!" %}
 
-### ijo pi lipu musi li ken ike e pilin mi la mi o seme?   
-insa pi lipu ale la mi pana e ijo pi ken ike lon anpa sitelen sama ni:
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>ike nanpa wan</li>
-    <li>ike nanpa tu</li>
-  </ul>
-</details>
-sina wile lukin e sona la o luka e sitelen. sina wile ala lukin la o luka ala e sitelen.
+### How do I give my thoughts on the stories?
+You can't right now. Later there'll be a way.
 
-### lipu seme li lili? lipu seme li suli?
-mi ken toki e ni tawa sina! lipu LLL li lon.   
-mi open lon nimi pi lipu lili li pini lon nimi pi lipu suli la...
+### When does the competition end?
+When we set up a way to send your thoughts, you'll be able to send them in for fourteen days. When the time is up, we'll tell you all which story the community thinks is best, second best, and third best.
 
-- jan pi sona mi en jan pona ona (nimi LAMLLL) 
-- akesi li wile lon nena (nimi LWA) 
-- lipu pi soweli Lulu (nimi LWAM) 
-- lipu pi jan Kosi (nimi LWAMMTW) 
-- kala pi alasa kala (nimi LWAMMML) 
-- waso Mumu li mu ala (nimi LWAMMMLT) 
-- kasi lili li suli (nimi LTWALLLW) 
-- lipu tenpo pi waso lili (nimi LLAM) 
-- AAA-mute (nimi LLAMMLTT) 
-- jan usawi (nimi LLWAMTT) 
-- mije pi utala toki (nimi LLWAMMLLTT) 
-- olin kijetesantakalu (nimi LLTAMMMLW)
-- jan Posepomamuka#52208 o, (nimi LLTWAMMML) 
-- ali li ale (nimi MLLLATT) 
-- ilo li wile e soweli (nimi MLLLTA) 
-- ni li nasin (nimi MMLLALLLT)
-
-sina ale li sitelen e nimi mute a!
-
-
-### mi ken toki e pilin mi tawa lipu kepeken nasin seme?
-sina ken ala toki e pilin sina lon tenpo ni. lon tenpo kama la, nasin li kama open. 
-
-### tenpo seme la utala li kama pini?
-nasin pi toki pilin li kama la, sina ken toki e pilin lon tenpo suno luka luka tu tu. tenpo li pini la mi kama toki e ni tawa sina ale: tawa kulupu la, lipu seme li pona nanpa wan, li pona nanpa tu, li pona nanpa tu wan. 
-
-### sina pana ike e lipu mi a!
-ni li lon la o toki e pakala mi tawa mi (Raacz106#5873) kepeken tenpo lili. 
-
-### lawa pi utala lipu ni li lon seme?
-o lukin e [lawa pi utala lipu](lipu-lili/lawa_tok.html)
+### Where are the rules for this contest?
+Read [the contest rules](lipu-lili/lawa_en.html)
 
 ***
 
-## o lukin e utala pini
-- [utala pi sitelen ma pi tenpo #MAMW)#LT)#W](sitelen_ma_tok.md) la kulupu li pali e sitelen musi tawa ni: ma pona pi toki pona li seme lukin tawa jan lon ilo Siko?
-- [utala pi lipu kalama tawa pi tenpo #MAMW)#T)#LTW](lipu_kalama_tawa_tok.md) la kulupu li kama e lipu suli tawa ni: jan li ken kalama e ona lon poka!
-- [utala pi toki musi pi tenpo #MAM)#LLW)#LLW](toki_musi_lili_tok.md) la kulupu li pali e toki musi lili mute! musi pi jan seme li pona tawa kulupu tawa jan Sonja?
+## See finished contests
+- [place picture contest (2021-01-01)](sitelen_ma_en.md), where the group made entertaining pictures to establish how Ma Pona was going to appear on Discord.
+- [competition of sound movement documents (2021-02-08)](lipu_kalama_tawa_en.md), where the group made long documents, so that people can recite them together! 
+- [poetry competition (2020-11-11)](toki_musi_lili_en.md) where the group made many amusing poems! Who wrote the poem that both the community and jan Sonja liked?

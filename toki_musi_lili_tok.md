@@ -1,6 +1,5 @@
 ---
 layout: lipu
-# There are some other fields you can set here, like title, description, icon, image and color. They control what the page displays as the tab title, as well as how it appears in discord embeds
 ---
 # utala pi toki musi #MAM/#LLW/#LLW
 
@@ -21,7 +20,7 @@ ilo sina li ken kama jo e lipu kepeken nimi ni: [utala musi](lipu_pi_toki_musi.p
 #TW [kalama waso](#kalama-waso) - jan Ki ★  
 #TT [mu](#mu) - soweli nata  
 #L [lon linja telo](#lon-linja-telo) - jan Sitowapu  
-#LW [taso, waso mi li laso](#taso,-waso-mi-li-laso) - jan Jensi  
+#LW [taso, waso mi li laso](#taso-waso-mi-li-laso) - jan Jensi  
 #LT [telo li kama](#telo-li-kama) - jan Tanije  
 #LTW [lon sina](#lon-sina) - jan Kasipona  
 #LTT [laso tu](#laso-tu) - jan Ne ★★  
@@ -38,9 +37,9 @@ ilo sina li ken kama jo e lipu kepeken nimi ni: [utala musi](lipu_pi_toki_musi.p
 [wan taso](#wan-taso) - jan Atape  
 [ike Kolona](#ike-Kolona) - jan Awi  
 [lon pi tenpo](#lon-pi-tenpo) - jan Eko  
-[kala Lepijatan](#kala-Lepijatan) - jan Enta  
+[kala Lepijatan](#kala-lepijatan) - jan Enta  
 [ni li lipu](#ni-li-lipu) - jan inwin  
-[o moku e telo pimeja!](#o-moku-e-telo-pimeja!) - jan pi sona ala  
+[o moku e telo pimeja!](#o-moku-e-telo-pimeja) - jan pi sona ala  
 [awen](#awen) - jan tu  
 [mun lili](#mun-lili) - kala loje lili  
 [lipu pi jan wawa en kala](#lipu-pi-jan-wawa-en-kala) - jan Kawa  
@@ -50,7 +49,7 @@ ilo sina li ken kama jo e lipu kepeken nimi ni: [utala musi](lipu_pi_toki_musi.p
 [wile pi weka ala](#wile-pi-weka-ala) - jan Mali  
 [sama oko en oko ante](#sama-oko-en-oko-ante) - jan Naso  
 [kala nasa](#kala-nasa) - jan Niko  
-[soweli ali li tawa e kon sewi anu seme?](#soweli-ali-li-tawa-e-kon-sewi-anu-seme?) - kapesi Pake  
+[soweli ali li tawa e kon sewi anu seme?](#soweli-ali-li-tawa-e-kon-sewi-anu-seme) - kapesi Pake  
 [kule pi insa mi](#kule-pi-insa-mi) - jan Palo  
 [mi tawa kon sewi](#mi-tawa-kon-sewi) - jan Pawato  
 [lukin](#lukin) - jan Pitan  

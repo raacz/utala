@@ -1,12 +1,9 @@
 ---
 layout: lipu
-# There are some other fields you can set here, like title, description, icon, image and color. They control what the page displays as the tab title, as well as how it appears in discord embeds
+
 ---
-(sina wile lukin kepeken toki pona la [o tawa ni](index.md))
 
-## Small story contest!
-
-*Writers of Toki Pona! Your time has come.*
+# *Writers of Toki Pona! Your time has come.*
 
 **What is my task?**
 - Write a small story and send it to me when it's time.
@@ -38,9 +35,3 @@ layout: lipu
 - You can submit multiple stories!
 - Be aware: I will post your story on this website and everyone will be able to see it. If you don't want this, don't submit a story!
 - If you change your story after sending it to me, you can send it again!
-
-***
-
-## See finished contests
-- [place picture contest (2021-01-01)](sitelen_ma_eng.md), where the group made entertaining pictures to establish how Ma Pona was going to appear on Discord.
-- [poetry competition 2020-11-11](toki_musi_lili_eng.md) where the group made many amusing poems! Who wrote the poem that both the community and jan Sonja favoured?
