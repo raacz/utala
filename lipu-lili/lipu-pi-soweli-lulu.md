@@ -4,7 +4,7 @@ layout: lipu
 
 # lipu pi soweli Lulu
 
-**mute nimi:** <abbr title="620">LWAM</abbr>
+**mute nimi:** lili, <abbr title="620">LWAM</abbr>
 
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>

@@ -3,7 +3,7 @@ layout: lipu
 ---
 # jan usawi
 
-**mute nimi**: <abbr title="1124">LLWAMTT</abbr>
+**mute nimi**: suli lili, <abbr title="1124">LLWAMTT</abbr>
 
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>

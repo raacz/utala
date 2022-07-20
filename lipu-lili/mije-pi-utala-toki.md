@@ -4,7 +4,7 @@ layout: lipu
 
 # mije pi utala toki
 
-**mute nimi:** <abbr title="1154">LLWAMMLLTT</abbr>
+**mute nimi:** suli lili, <abbr title="1154">LLWAMMLLTT</abbr>
 
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>

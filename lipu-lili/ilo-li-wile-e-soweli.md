@@ -4,7 +4,7 @@ layout: lipu
 
 # ilo li wile e soweli
 
-**mute nimi**: <abbr title="3700">≈ MLLLTA</abbr>
+**mute nimi**: suli mute, <abbr title="3700">sama MLLLTA</abbr>
 
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>

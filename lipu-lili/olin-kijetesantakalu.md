@@ -3,7 +3,7 @@ layout: lipu
 ---
 # olin kijetesantakalu
 
-**mute nimi**: <abbr title="1266">LLTAMMMLW</abbr>
+**mute nimi**: suli lili, <abbr title="1266">LLTAMMMLW</abbr>
 
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>

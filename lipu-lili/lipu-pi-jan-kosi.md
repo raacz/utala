@@ -5,7 +5,7 @@ layout: lipu
 <style>
     @font-face {
         font-family: "linja sike";
-        src: url(https://wyub.github.io/tokipona/linja-sike-5.otf);
+        src: url({{ '/assets/linja-sike-5.otf' | relative_url }});
     }
     .sitelen-pona {
         font-family: "linja sike";
@@ -18,9 +18,9 @@ layout: lipu
 
 # lipu pi jan Kosi
 
-**mute nimi:** <abbr title="643">sama LWAMMTW</abbr>
+**mute nimi:** lili, <abbr title="643">sama LWAMMTW</abbr>
 
-*jan pali li wile e ni: sina lukin kepeken sitelen pona. taso, sina ken ala lukin e sitelen pona la, o tawa [ni](#sitelen-Lasina).*
+*jan pali li wile e ni: sina lukin kepeken sitelen pona. taso, sina ken ala lukin e sitelen pona la, o tawa [sitelen Lasina anpa](#sitelen-Lasina).*
 
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>
@@ -35,7 +35,6 @@ layout: lipu
 <h2>lipu pi jan [_-kala_-o_-sina_-ijo]</h2>
 <div class="kpn-weka">toki
 
-toki 
 mi jan [_-kala_-o_-sina_-ijo]     mi jan sin lon kulupu [_-ken_-ilo_-ma_-en]     mi kama tan ma ante a
 la mi sitelenlonmi lon lipu ni
 
@@ -73,8 +72,6 @@ tenpo lon la mi ken toki kepeken toki pona taso la mi pilin e ni     ken mi pi t
 mi sona ala e ni     mi ken ala ken tawa ma mama mi     ken ala la ni li pona tawa mi     kulupu [_-ken_-ilo_-ma_-en] li pona
 
 lipu kama li kepeken toki mama mi     sina wile kama sona e toki ona la o toki tawa mi
-
-
 </div></div>
 <details>
     <summary class="sitelen-pona">lipu pi toki mama mi</summary>

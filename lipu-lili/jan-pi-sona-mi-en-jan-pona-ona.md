@@ -4,7 +4,7 @@ layout: lipu
 
 # jan pi sona mi en jan pona ona
 
-**mute nimi**: <abbr title="535">LAMLLL</abbr>
+**mute nimi**: lili, <abbr title="535">LAMLLL</abbr>
 
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>

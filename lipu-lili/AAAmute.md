@@ -4,7 +4,7 @@ layout: lipu
 
 # AAA-mute
 
-**mute nimi**: <abbr title="1049">LLAMMLTT</abbr>
+**mute nimi**: suli lili, <abbr title="1049">LLAMMLTT</abbr>
 
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>

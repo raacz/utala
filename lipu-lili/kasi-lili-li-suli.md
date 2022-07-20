@@ -4,7 +4,7 @@ layout: lipu
 
 # kasi lili li suli
 
-**mute nimi**: <abbr title="816">LTWALLLW</abbr>
+**mute nimi**: lili, <abbr title="816">LTWALLLW</abbr>
 
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>

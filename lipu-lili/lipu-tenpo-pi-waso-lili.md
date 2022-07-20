@@ -4,7 +4,7 @@ layout: lipu
 
 # lipu tenpo pi waso lili
 
-**mute nimi**: <abbr title="1020">LLAM</abbr>
+**mute nimi**: suli lili, <abbr title="1020">LLAM</abbr>
 
 <details>
   <summary>o sona e ken ike lon lipu ni:</summary>

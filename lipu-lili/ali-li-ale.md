@@ -4,7 +4,7 @@ layout: lipu
 
 # ali li ale
 
-**mute nimi**: <abbr title="3504">MLLLATT</abbr>
+**mute nimi**: suli mute, <abbr title="3504">MLLLATT</abbr>
 
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>

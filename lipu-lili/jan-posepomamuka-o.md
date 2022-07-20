@@ -4,7 +4,7 @@ layout: lipu
 
 # jan Posepomamuka#52208 o,
 
-**mute nimi**: <abbr title="1365">LLTWAMMML</abbr>
+**mute nimi**: suli lili, <abbr title="1365">LLTWAMMML</abbr>
 
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>

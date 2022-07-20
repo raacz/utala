@@ -4,7 +4,7 @@ layout: lipu
 
 # kala pi alasa kala
 
-**mute nimi**: <abbr title="665">LWAMMML</abbr>
+**mute nimi**: lili, <abbr title="665">LWAMMML</abbr>
 
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>

@@ -1,9 +1,27 @@
 ---
 layout: lipu
 ---
+
+<style>
+    @font-face {
+        font-family: "nasin nanpa";
+        src: url({{ '/assets/nasin-nanpa-2.5.1.otf' | relative_url }});
+    }
+    .sitelen-pona {
+        font-family: "nasin nanpa";
+        font-size: 1.2em;
+        text-align: center;
+    }
+    .kpn-weka {
+        white-space: pre-wrap;
+    }
+</style>
+
 # akesi li wile lon nena
 
-**mute nimi:** <abbr title="600">LWA</abbr>
+**mute nimi:** lili, <abbr title="600">LWA</abbr>
+
+*jan pali li wile e ni: sina lukin kepeken sitelen pona. taso, sina ken ala lukin e sitelen pona la, o tawa [sitelen Lasina anpa](#sitelen-Lasina).*
 
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>
@@ -13,7 +31,136 @@ layout: lipu
 </details>
 
 ***
+<div class="sitelen-pona">
+<div class="kpn-weka">
+　󱤁󱤧󱥷󱤬󱥀　
+　󱤗󱥔󱤧󱤬󱥆　
+　󱥨󱥀󱤧󱥣󱤼　
+　󱥆󱤧󱤘󱤂󱥩　
+　󱥆󱤧󱥬󱥩󱥴　
+「󱥴󱥄󱥔󱤉󱤴」
+「󱥞󱥷󱤉󱥔󱥙」
+「󱤴󱥷󱤬󱥀󱥣　
+　󱥄󱥩󱥆󱤉󱤴」
+「󱥨󱤴󱥴󱤨󱤀　
+　󱤭󱤴󱤧󱥵󱤂　
+　󱤴󱥨󱤡󱤴󱥚　
+　󱤴󱤊󱥞󱤡󱤅」
+　󱤁󱤧󱤮󱤉󱥴　
+　󱥣󱤧󱥖󱤭󱥆　
+「󱤴󱥄󱥡󱤉󱥁　
+　󱥈󱤡󱤴󱥡󱤂　
+　󱤴󱤃󱤉󱤿󱤆　
+　󱤈󱤡󱥞󱥴󱥔」
+　󱤁󱤧󱥩󱤰󱤆　
+　󱥆󱤧󱤮󱤉󱥑　
+「󱥑󱥄󱥔󱤉󱤴」
+「󱥫󱥁󱤡󱤴󱥉　
+　󱥨󱤴󱤘󱤈󱤨　
+　󱥞󱥷󱤉󱥔󱥙」
+「󱤴󱥷󱤬󱥀󱥣」
+「󱥀󱥣󱤧󱥭󱤴　
+　󱤴󱤘󱥩󱤄󱥆　
+　󱤴󱥌󱤮󱤉󱤿　
+　󱥄󱥩󱤬󱥒󱤴」
+　󱥑󱤊󱤁󱤧󱥩　
+「󱥀󱥞󱤧󱥶󱥙」
+「󱥆󱤧󱤬󱥶󱤀」
+　󱥆󱥮󱤧󱤈󱥩　
+「󱥀󱥞󱤧󱥶󱥙」
+「󱥆󱤧󱤬󱥒󱤀」
+　󱤈󱤡󱥆󱤧󱥩　
+「󱥀󱥞󱤧󱥶󱥙」
+「󱥆󱤧󱤬󱥃󱥞」
+　󱥃󱤧󱤖󱥩󱤂　
+　󱥀󱤨󱤧󱤬󱤅　
+「󱥆󱤧󱥁󱤂󱥁」
+「󱥄󱥃󱤂󱤉󱥆」
+　󱤁󱤧󱥶󱤉󱥃　
+「󱤀󱤴󱥷󱤂󱥃　
+　󱥨󱤴󱤾󱥧󱥁　
+　󱥀󱤧󱥣󱤼󱤂」
+「󱥆󱤧󱥣󱤼󱤀　
+　󱥑󱤼󱤧󱤬󱥆　
+　󱤴󱤘󱥩󱥚󱥆　
+　󱥞󱥷󱤂󱥷󱤮」
+「󱥁󱤡󱤴󱥷󱤂　
+　󱤴󱤃󱤉󱤿󱤆　
+　󱤈󱤡󱥞󱥑󱥔」
+　󱤁󱤧󱥩󱥒󱥀　
+「󱤄󱥄󱥔󱤉󱤴」
+　󱤑󱤧󱤠󱤉󱥆　
+「󱥞󱥷󱤉󱥔󱥙」
+「󱤴󱥷󱥩󱥀󱥣」
+「󱤴󱥡󱤉󱤎󱥩　
+　󱥆󱤡󱥩󱤧󱥔」
+「󱥄󱤙󱥆󱤉󱤴」
+「󱥆󱤧󱥷󱤉󱤲　
+　󱥁󱤧󱥧󱤑󱤤」
+「󱤴󱤓󱤂󱤉󱤲」
+「󱥁󱤡󱥞󱤘󱤂」
+「󱥁󱤧󱤾󱥩󱤴　
+　󱤴󱤃󱤉󱤿󱤆　
+　󱤈󱤡󱥞󱤑󱥔」
+　󱤁󱤧󱤃󱤬󱥒　
+　󱥆󱤧󱤮󱤉󱥢　
+「󱥢󱥄󱥔󱤉󱤴　
+　󱤴󱥷󱤬󱥀󱥣」
+　󱥢󱤧󱤮󱤉󱥆　
+　󱥢󱤧󱤶󱤉󱤗　
+「󱥞󱤘󱤂󱤘󱤠」
+「󱤴󱤠󱥵󱤉󱥞　
+　󱥨󱥄󱥬󱤉󱥧」
+「󱤗󱥔󱤧󱤬󱥀　
+　󱤱󱤧󱥬󱤉󱥁」
+「󱤦󱥹󱤧󱤬󱥆　
+　󱥘󱤴󱤧󱤥󱥵　
+　󱤴󱤘󱤈󱤬󱥆　
+　󱥘󱥞󱤧󱤥󱤂」
+「󱤥󱤧󱤖󱥧󱥙」
+「󱤥󱤴󱤧󱥧󱤏　
+　󱤆󱤡󱤴󱥡󱤂」
+　󱤁󱤧󱥬󱤂󱤨　
+　󱥒󱤡󱥆󱤧󱥬　
+「󱥞󱤘󱤂󱤘󱥩　
+　󱥞󱤘󱤡󱥄󱥁　
+　󱥄󱤓󱤉󱤗󱤶　
+　󱥄󱤖󱥝󱤬󱥁　
+　󱥄󱥩󱤴󱤉󱥆」
+「󱥷󱥁󱤧󱥔󱤼　
+　󱥄󱤈󱤬󱥫󱤨」
+　󱥢󱤧󱥩󱥚󱥀　
+　󱤁󱤧󱤈󱤬󱤅　
+　󱥆󱤧󱤮󱤉󱤔　
+　󱤁󱤧󱥬󱥩󱥆　
+「󱥞󱥷󱤂󱥷󱤶　
+　󱥢󱤧󱥌󱤉󱤗」
+「󱥫󱥁󱤡󱥷󱤂　
+　󱤴󱤶󱤬󱥫󱥒　
+　󱤈󱤡󱥞󱤁󱥔」
+　󱤁󱤧󱥩󱥒󱥀　
+　󱥆󱤧󱤈󱥩󱥢　
+　󱥨󱤈󱤧󱤨󱤀　
+　󱥢󱤧󱤖󱥧󱥀　
+　󱥰󱤡󱤗󱤧󱤬　
+　󱥆󱤧󱤅󱤉󱥆　
+　󱤁󱤧󱤮󱤧󱤹　
+「󱤗󱥁󱤧󱥔󱤀」
+「󱤍󱤡󱤴󱥈󱤨　
+　󱤴󱤶󱤨󱤉󱥆」
+「󱥁󱤧󱥣󱤂󱤀　
+　󱥞󱥌󱤉󱤗󱤼　
+　󱤈󱤡󱥞󱥢󱥔」
+　󱤁󱤧󱤶󱤉󱤗　
+　󱥆󱥮󱤧󱥎󱥔　
+</div></div>
 
+---
+
+<details id="sitelen-Lasina">
+    <summary><h3 style="display: inline">sitelen Lasina</h3></summary>
+
+<div class="kpn-weka">
 akesi li wile lon nena  
 kasi pona li lon ona  
 taso nena li suli mute  
@@ -134,3 +281,6 @@ sina pana e kasi mute
 awen la sina soweli pona"  
 akesi li moku e kasi  
 ona tu li pilin pona  
+</div>
+</details>
+
