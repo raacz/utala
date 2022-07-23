@@ -44,7 +44,7 @@ layout: lipu
 {% include nimilipu.html nimiilo="waso-mumu-li-mu-ala" nimi="waso Mumu li mu ala" toki="waso sama ale pi waso Mumu li mu. taso waso Mumu li wile toki! o alasa lon poka pi waso Mumu e ijo pi ken toki!" %}
 
 ### How do I give my thoughts on the stories?
-You can't right now. Later there'll be a way.
+[Go to this document here](https://forms.gle/LVrX5D8ZRNX6sWaQ6)! If you want to express your feelings, you must give your Discord name.
 
 ### When does the competition end?
 When we set up a way to send your thoughts, you'll be able to send them in for fourteen days. When the time is up, we'll tell you all which story the community thinks is best, second best, and third best.

@@ -17,6 +17,15 @@ layout: lipu
 
 ***
 
+<style>
+  br {
+    margin-bottom: 0.5em;
+  }
+  p {
+    margin-bottom: 1.5em;
+  }
+</style>
+
 open la mu suli li lon. ni li weka e lape mi. mi weka tan supa lape li len kepeken len jelo mi. ale poka li walo walo la jelo ni li namako. ken la tenpo suno ni li ken ante li kama namako tawa mi.  
 kama moku li lon. ni li kama e mi tawa tomo moku.  
 jan mute li lon. tomo moku la mi en jan ante mute li kama.  

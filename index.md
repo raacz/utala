@@ -80,7 +80,7 @@ sina ale li sitelen e nimi mute a!
 
 
 ### mi ken toki e pilin mi tawa lipu kepeken nasin seme?
-sina ken ala toki e pilin sina lon tenpo ni. lon tenpo kama la, nasin li kama open. 
+[o tawa lipu ni](https://forms.gle/LVrX5D8ZRNX6sWaQ6)! sina wile pana e pilin la sina o toki e nimi sina pi ilo Siko.
 
 ### tenpo seme la utala li kama pini?
 nasin pi toki pilin li kama la, sina ken toki e pilin lon tenpo suno luka luka tu tu. tenpo li pini la mi kama toki e ni tawa sina ale: tawa kulupu la, lipu seme li pona nanpa wan, li pona nanpa tu, li pona nanpa tu wan. 
