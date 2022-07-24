@@ -5,9 +5,11 @@ layout: lipu
 
 ## tenpo utala pi lipu musi lili!
 
-*tenpo pi pilin kulupu li lon! o lukin e lipu!*  
-*tenpo kama la sina ken toki e pilin sina tawa lipu!*
+### tenpo pi pilin kulupu li lon!
 
+o lukin e lipu! sina lukin la [o tawa lipu pi pana pilin](https://forms.gle/LVrX5D8ZRNX6sWaQ6) o pana e pilin! sina wile pana e pilin la sina o toki e nimi sina pi ilo Siko.
+
+sina ken toki e pilin lon tenpo suno luka luka tu tu. ni li pini lon tenpo #MAMT)#LTW)#LW. tenpo li pini la mi kama toki e ni tawa sina ale: tawa kulupu la, lipu seme li pona nanpa wan, li pona nanpa tu, li pona nanpa tu wan. 
 
 ### o lukin e lipu lon ni!
 *sina luka e leko pimeja lili la sina ken kama sona lili e ni: lipu li toki e seme?*
@@ -78,12 +80,9 @@ mi open lon nimi pi lipu lili li pini lon nimi pi lipu suli la...
 
 sina ale li sitelen e nimi mute a!
 
+### mi lukin e lipu. mi o pana e pilin mi lon seme?
 
-### mi ken toki e pilin mi tawa lipu kepeken nasin seme?
-[o tawa lipu ni](https://forms.gle/LVrX5D8ZRNX6sWaQ6)! sina wile pana e pilin la sina o toki e nimi sina pi ilo Siko.
-
-### tenpo seme la utala li kama pini?
-nasin pi toki pilin li kama la, sina ken toki e pilin lon tenpo suno luka luka tu tu. tenpo li pini la mi kama toki e ni tawa sina ale: tawa kulupu la, lipu seme li pona nanpa wan, li pona nanpa tu, li pona nanpa tu wan. 
+[o tawa ni!](https://forms.gle/LVrX5D8ZRNX6sWaQ6)!
 
 ### sina pana ike e lipu mi a!
 ni li lon la o toki e pakala mi tawa mi (Raacz106#5873) kepeken tenpo lili. 
