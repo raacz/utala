@@ -3,6 +3,7 @@ layout: lipu
 ---
 
 # waso Mumu li mu ala
+tan jan Atelin
 
 **mute nimi**: lili, <abbr title="667">LWAMMMLT</abbr>
 

@@ -2,6 +2,7 @@
 layout: lipu
 ---
 # olin kijetesantakalu
+tan jan Kiwisin tan jan Telupiso
 
 **mute nimi**: suli lili, <abbr title="1266">LLTAMMMLW</abbr>
 

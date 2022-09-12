@@ -3,6 +3,7 @@ layout: lipu
 ---
 
 # lipu tenpo pi waso lili
+tan jan Sepi (pi mute to)
 
 **mute nimi**: suli lili, <abbr title="1020">LLAM</abbr>
 

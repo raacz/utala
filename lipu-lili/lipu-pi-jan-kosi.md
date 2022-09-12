@@ -17,6 +17,7 @@ layout: lipu
 </style>
 
 # lipu pi jan Kosi
+tan jan Temili
 
 **mute nimi:** lili, <abbr title="643">sama LWAMMTW</abbr>
 
