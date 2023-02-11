@@ -1,32 +1,32 @@
 ---
 layout: lipu
 ---
-# utala pi toki musi #MAM/#LLW/#LLW
+# Poetry contest (2020-11-11)
 
-## open
+## Introduction
 
-jan mute pi ma pona pi ilo Siko li sitelen e toki musi mute. jan mute a li pana e pali ona! taso kepeken nasin seme la mi ken sona e ni: seme li pona nanpa wan?
+Many people of the Ma Pona community on Discord wrote many artistic pieces. So many folks submitted! But how could the group discover which poem was the best?
 
-jan Le li pali e ilo nanpa lon ilo Siko. kulupu li toki e pilin ona kepeken nanpa ni. nanpa suli li toki e pona mute. kin la, jan Sonja (mama pi toki pona) li toki e ni: musi seme li pona suli tawa ona. lipu li kepeken sitelen mun ★ la musi li pona mute tawa jan Sonja. mute mun li suli la musi li pona a. 
+jan Le made a Discord number bot. The group could communicate their opinion via number. Big numbers were favourable. Also, jan Sonja (the mother of toki pona) said which poems were very good to her. If the website gives the piece a ★, that means that the poem was very good to jan Sonja. More stars indicate more goodness.
 
-utala li pini la mi pali e lipu. lipu la sina ken lukin e toki musi ale. lipu ni li pona mute tan ni: musi ni li kepeken toki pona taso. mi wile e lipu mute sama ni a!
+When the competition was finished, we made a book. You can read all the poems in the book. The book contains toki pona original content. We need more books like this!
 
-ilo sina li ken kama jo e lipu kepeken nimi ni: [utala musi](lipu_pi_toki_musi.pdf)
+Your device can have the book using these words: [art fight](lipu_pi_toki_musi.pdf)
 
-## kulupu la, toki musi seme li pona?
+## Which poems were good to the group?
 
-#W [lon ma tomo pi tenpo pini suli](#lon-ma-tomo-pi-tenpo-pini-suli) - jan Kapilu ★★★  
-#T [ona li monsuta e jan](#ona-li-monsuta-e-jan) - kule epiku Atawan en kala pona Tonyu  
-#TW [kalama waso](#kalama-waso) - jan Ki ★  
-#TT [mu](#mu) - soweli nata  
-#L [lon linja telo](#lon-linja-telo) - jan Sitowapu  
-#LW [taso, waso mi li laso](#taso-waso-mi-li-laso) - jan Jensi  
-#LT [telo li kama](#telo-li-kama) - jan Tanije  
-#LTW [lon sina](#lon-sina) - jan Kasipona  
-#LTT [laso tu](#laso-tu) - jan Ne ★★  
-#LL [tenpo weka](#tenpo-weka) - akesi kon Nalasuni  
+#1 [lon ma tomo pi tenpo pini suli](#lon-ma-tomo-pi-tenpo-pini-suli) - jan Kapilu ★★★  
+#2 [ona li monsuta e jan](#ona-li-monsuta-e-jan) - kule epiku Atawan en kala pona Tonyu  
+#3 [kalama waso](#kalama-waso) - jan Ki ★  
+#4 [mu](#mu) - soweli nata  
+#5 [lon linja telo](#lon-linja-telo) - jan Sitowapu  
+#6 [taso, waso mi li laso](#taso,-waso-mi-li-laso) - jan Jensi  
+#7 [telo li kama](#telo-li-kama) - jan Tanije  
+#8 [lon sina](#lon-sina) - jan Kasipona  
+#9 [laso tu](#laso-tu) - jan Ne ★★  
+#10 [tenpo weka](#tenpo-weka) - akesi kon Nalasuni  
 
-## musi ante ale
+## All the other poems
 
 [wawa](#wawa) - jan Ajon  
 [toki ala](#toki-ala) - apeja Akesi  
@@ -37,9 +37,9 @@ ilo sina li ken kama jo e lipu kepeken nimi ni: [utala musi](lipu_pi_toki_musi.p
 [wan taso](#wan-taso) - jan Atape  
 [ike Kolona](#ike-Kolona) - jan Awi  
 [lon pi tenpo](#lon-pi-tenpo) - jan Eko  
-[kala Lepijatan](#kala-lepijatan) - jan Enta  
+[kala Lepijatan](#kala-Lepijatan) - jan Enta  
 [ni li lipu](#ni-li-lipu) - jan inwin  
-[o moku e telo pimeja!](#o-moku-e-telo-pimeja) - jan pi sona ala  
+[o moku e telo pimeja!](#o-moku-e-telo-pimeja!) - jan pi sona ala  
 [awen](#awen) - jan tu  
 [mun lili](#mun-lili) - kala loje lili  
 [lipu pi jan wawa en kala](#lipu-pi-jan-wawa-en-kala) - jan Kawa  
@@ -49,7 +49,7 @@ ilo sina li ken kama jo e lipu kepeken nimi ni: [utala musi](lipu_pi_toki_musi.p
 [wile pi weka ala](#wile-pi-weka-ala) - jan Mali  
 [sama oko en oko ante](#sama-oko-en-oko-ante) - jan Naso  
 [kala nasa](#kala-nasa) - jan Niko  
-[soweli ali li tawa e kon sewi anu seme?](#soweli-ali-li-tawa-e-kon-sewi-anu-seme) - kapesi Pake  
+[soweli ali li tawa e kon sewi anu seme?](#soweli-ali-li-tawa-e-kon-sewi-anu-seme?) - kapesi Pake  
 [kule pi insa mi](#kule-pi-insa-mi) - jan Palo  
 [mi tawa kon sewi](#mi-tawa-kon-sewi) - jan Pawato  
 [lukin](#lukin) - jan Pitan  
@@ -97,7 +97,71 @@ o olin e tenpo ni, tenpo ante li lon ala.
 ### ona li monsuta e jan
 *kule epiku Atawan en kala pona Tonyu*
 
- <img src="kasi.png" alt="this poem is divided into two columns and can be read either across or top to bottom, left to right." width="580">
+<style>
+  .monsuta {
+    width: 100%;
+    border-spacing: 2em 0;
+  }
+  .monsuta td:first-child {
+    text-align: right;
+  }
+  .monsuta tr:not(:nth-child(2)) p {
+    margin-top: 0;
+  }
+</style>
+<table class="monsuta">
+  <tr><td width="50%"><b>ona</b></td><td width="50%"><b>jan</b></td></tr>
+  <tr><td style="text-align: center; margin-top: inherit" colspan="2"><p>ona li monsuta e jan.</p></td></tr>
+  <tr><td><p>
+    ona li pilin e ni:<br>
+    ike li kama tan jan<br>
+    ona li pilin e ike ni lon<br>
+    ante pi jan poki<br>
+  </p></td><td><p>
+    jan meli ni li pilin nasa<br>
+    li sona ala e tan<br>
+    sona jan pi kon jan<br>
+    li pilin e kama ante<br>
+  </p></td></tr>
+  <tr><td><p>
+    jan ni li sona ala e pilin<br>
+    jan ni li sona e nasin nasa<br>
+    li jan pakala.<br>
+    jan ale li sama.<br>
+    jan ni li ante ala.<br>
+  </p></td><td><p>
+    olin li nasa mute.<br>
+    li sama ala pi toki musi<br>
+    tawa olin.<br>
+    jan ale la<br>
+    olin o wile pali lili.<br>
+  </p></td></tr>
+  <tr><td><p>
+    o pana e tenpo tan ni:<br>
+    tenpo mute li ken nasin e pilin.<br>
+    o awen, o kama sona e<br>
+    nasin pi olin pona<br>
+  </p></td><td><p>
+    jan li lukin tawa meli ante la<br>
+    ni li suli e pilin nasa.<br>
+    jan, o kama sona e tan ni:<br>
+    jan li melome.<br>
+  </p></td></tr>
+  <tr><td><p>
+    nasin olin li<br>
+    lon pi jan ale<br>
+    o alasa e olin<br>
+    ona li wawa lili, taso<br>
+    ona li ken la<br>
+  </p></td><td><p>
+    ante li ike ala<br>
+    li apeja ala.<br>
+    wawa li lukin e insa sina.<br>
+    ona li suli ala<br>
+    ijo ante li ken ala lawa.<br>
+  </p></td></tr>
+  <tr><td style="text-align: center; margin-top: inherit" colspan="2"><p>ona li monsuta e jan.</p></td></tr>
+</table>
 
 ***
 

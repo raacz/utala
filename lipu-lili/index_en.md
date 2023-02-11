@@ -8,15 +8,15 @@ layout: lipu
 
 jan Lakuse powerfully said to everyone in Ma Pona: "Give me your short documents! The documents should say something in Toki Pona that isn't real. The document should be artistic."
 
-You can see everything she said [here](lipu-lili/lawa_en.md).
+You can see everything she said [here](lawa_en.md).
 
 Therefore many folks wrote new documents. jan Tepo and jan Lakuse gave them all to this website ('utala.pona.la') so the community could look at the documents. 
 
-If you would like to see the method of opinion expression look [here](lipu-lili/pana-pilin-en.md).
+If you would like to see the method of opinion expression look [here](pana-pilin-en.md).
 
 ## Which documents did the group favour?
 
-<img alt="akesi li wile lon nena, by jan Kita, came in third. ilo li wile e soweli, by jan Ke Tami, was second. waso Mumu li mu ala, by jan Atelin, came in first." src="lipu-lili/jan-wawa.png">
+<img alt="akesi li wile lon nena, by jan Kita, came in third. ilo li wile e soweli, by jan Ke Tami, was second. waso Mumu li mu ala, by jan Atelin, came in first." src="jan-wawa.png">
 
 ## Look at all the documents here:
 
