@@ -40,7 +40,7 @@ layout: lipu
 
 *mi wile pana e pali lon seme?*
 
-> o pana e ijo sina tawa mi (jan Lakuse) kepeken ilo Siko (Raacz106#5873) anu kepeken ilo lipu (tokipona.sasalin@gmail.com).
+> o pana e ijo sina tawa mi (jan Lakuse) kepeken ilo Siko (raacz106) anu kepeken ilo lipu (tokipona.sasalin@gmail.com).
 
 > o pana e sona. o pana 
 > - e nimi sina pi toki pona
