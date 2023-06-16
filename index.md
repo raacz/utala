@@ -17,7 +17,7 @@ layout: lipu
 > - nasin nanpa tu li lipu musi suli
 
 > sama la <br>
-> toki musi lili en lipu musi suli o **musi** o kepeken toki pona taso. 
+> toki musi lili en lipu musi suli o **musi** o kepeken toki pona taso o kepeken toki nimi taso. 
 
 > ante la <br>
 > toki musi lili la mute nimi li wile lili tawa TWA/tu wan ale (ale ale ale). <br>
@@ -37,6 +37,7 @@ layout: lipu
 *tenpo seme la mi wile pana e pali?*
 
 > lon sike #MAMTW/mute ale mute tu wan lon tenpo mun #LT/luka tu lon tenpo suno #LLL/luka luka luka.
+>   <details><summary>o sona kepeken nasin nanpa pi sitelen Alapi</summary> 2023-07-15 </details>
 
 *mi wile pana e pali lon seme?*
 
@@ -70,6 +71,7 @@ layout: lipu
 ***
 
 ## o lukin e utala pini
+- [utala pi sitelen ma pi tenpo #MAMTW)#T)#W](ma-nanpa-tu/) la kulupu pi ma pona li wile e sitelen musi sin lon ilo Siko. sitelen mute li kama. taso sitelen seme li pona nanpa wan?
 - [utala pi lipu musi lili pi tenpo #MAMT)#LTW)#LW](lipu-lili/) la jan mute li sitelen e lipu soweli e lipu monsuta e lipu olin e lipu pona!
 - [utala pi sitelen ma pi tenpo #MAMW)#LT)#W](sitelen-ma/) la kulupu li pali e sitelen musi tawa ni: ma pona pi toki pona li seme lukin tawa jan lon ilo Siko?
 - [utala pi lipu kalama tawa pi tenpo #MAMW)#T)#LTW](lipu-kalama-tawa/) la kulupu li kama e lipu suli tawa ni: jan li ken kalama e ona lon poka!
