@@ -57,7 +57,7 @@ ilo sina li ken kama jo e lipu kepeken nimi ni: [utala musi](lipu_pi_toki_musi.p
 [nena kiwen mi](#nena-kiwen-mi) - jan Pojeki  
 [kama pi poki ala](#kama-pi-poki-ala) - jan Sasalin  
 [musi mute](#musi-mute) - jan Seki  
-[monsuta insa](#monsuta-insa) - jan Sewa  
+[monsuta insa](#monsuta-insa) - jan Sami  
 [o lukin e insa pi lawa mi](#o-lukin-e-insa-pi-lawa-mi) - jan Sijo  
 [alasa](#alasa) - jan Simu  
 [kulupu pona pi mun weka](#kulupu-pona-pi-mun-weka) - jan Sohuwa  
@@ -832,7 +832,7 @@ suno mi li pini, tenpo mi li anpa.
 ***
 
 ### monsuta insa
-*jan Sewa*
+*jan Sami*
 
 monsuta li lon  
 insa pi jan ale  
