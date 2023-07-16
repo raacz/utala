@@ -35,7 +35,7 @@ ilo sina li ken kama jo e lipu kepeken nimi ni: [utala musi](lipu_pi_toki_musi.p
 [utala](#utala) - jan Ateneja  
 [tenpo ala la](#tenpo-ala-la) - jan Asuta  
 [wan taso](#wan-taso) - jan Atape  
-[ike Kolona](#ike-Kolona) - jan Awi  
+[ike Kolona](#ike-kolona) - jan Awi  
 [lon pi tenpo](#lon-pi-tenpo) - jan Eko  
 [kala Lepijatan](#kala-lepijatan) - jan Enta  
 [ni li lipu](#ni-li-lipu) - jan inwin  

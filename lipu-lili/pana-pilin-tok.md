@@ -88,4 +88,4 @@ sina ale li sitelen e nimi mute a!
 ni li lon la o toki e pakala mi tawa mi (Raacz106#5873) kepeken tenpo lili. 
 
 ### lawa pi utala lipu ni li lon seme?
-o lukin e [lawa pi utala lipu](lipu-lili/lawa_tok.html)
+o lukin e [lawa pi utala lipu](lawa_tok.html)

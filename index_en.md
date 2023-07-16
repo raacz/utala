@@ -58,7 +58,7 @@ layout: lipu
 
 *What else do I need to know?*
 
-> When you submit your thing to me, you allow [CC-BY-SA-4.0]((https://creativecommons.org/licenses/by-sa/4.0/)) to control the distribution of your work. If you don't like this, then don't submit! 
+> When you submit your thing to me, you allow [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) to control the distribution of your work. If you don't like this, then don't submit! 
 
 > If you submit work and decide you want to change it, you can resubmit it to me!
 

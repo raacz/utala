@@ -20,7 +20,7 @@ Your device can have the book using these words: [art fight](lipu_pi_toki_musi.p
 #3 [kalama waso](#kalama-waso) - jan Ki ★  
 #4 [mu](#mu) - soweli nata  
 #5 [lon linja telo](#lon-linja-telo) - jan Sitowapu  
-#6 [taso, waso mi li laso](#taso,-waso-mi-li-laso) - jan Jensi  
+#6 [taso, waso mi li laso](#taso-waso-mi-li-laso) - jan Jensi  
 #7 [telo li kama](#telo-li-kama) - jan Tanije  
 #8 [lon sina](#lon-sina) - jan Kasipona  
 #9 [laso tu](#laso-tu) - jan Ne ★★  
@@ -35,11 +35,11 @@ Your device can have the book using these words: [art fight](lipu_pi_toki_musi.p
 [utala](#utala) - jan Ateneja  
 [tenpo ala la](#tenpo-ala-la) - jan Asuta  
 [wan taso](#wan-taso) - jan Atape  
-[ike Kolona](#ike-Kolona) - jan Awi  
+[ike Kolona](#ike-kolona) - jan Awi  
 [lon pi tenpo](#lon-pi-tenpo) - jan Eko  
-[kala Lepijatan](#kala-Lepijatan) - jan Enta  
+[kala Lepijatan](#kala-lepijatan) - jan Enta  
 [ni li lipu](#ni-li-lipu) - jan inwin  
-[o moku e telo pimeja!](#o-moku-e-telo-pimeja!) - jan pi sona ala  
+[o moku e telo pimeja!](#o-moku-e-telo-pimeja) - jan pi sona ala  
 [awen](#awen) - jan tu  
 [mun lili](#mun-lili) - kala loje lili  
 [lipu pi jan wawa en kala](#lipu-pi-jan-wawa-en-kala) - jan Kawa  
@@ -49,7 +49,7 @@ Your device can have the book using these words: [art fight](lipu_pi_toki_musi.p
 [wile pi weka ala](#wile-pi-weka-ala) - jan Mali  
 [sama oko en oko ante](#sama-oko-en-oko-ante) - jan Naso  
 [kala nasa](#kala-nasa) - jan Niko  
-[soweli ali li tawa e kon sewi anu seme?](#soweli-ali-li-tawa-e-kon-sewi-anu-seme?) - kapesi Pake  
+[soweli ali li tawa e kon sewi anu seme?](#soweli-ali-li-tawa-e-kon-sewi-anu-seme) - kapesi Pake  
 [kule pi insa mi](#kule-pi-insa-mi) - jan Palo  
 [mi tawa kon sewi](#mi-tawa-kon-sewi) - jan Pawato  
 [lukin](#lukin) - jan Pitan  

@@ -51,4 +51,4 @@ You can send in your thoughts for fourteen days. This will end on 2022-08-06. Wh
 [Go here!](https://forms.gle/LVrX5D8ZRNX6sWaQ6)
 
 ### Where are the rules for this contest?
-Read [the contest rules](lipu-lili/lawa_en.html)
+Read [the contest rules](lawa_en.html)
