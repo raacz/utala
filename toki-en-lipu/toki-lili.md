@@ -5,22 +5,24 @@ layout: lipu
 
 
 <style>
+  @font-face {
+        font-family: "nasin nanpa";
+        src: url({{ '/assets/nasin-nanpa-2.5.1.otf' | relative_url }});
+    }
+  .sitelen-pona {
+        font-family: "nasin nanpa";
+        font-size: 1.2em;
+    }
+  .kpn-weka {
+        white-space: pre-wrap;
+    }
   .insa {
     text-align: center;
   }
   .pini {
     text-align: right;
   }
-    .sitelen-pona {
-        font-family: "nasin nanpa";
-        font-size: 1.4em;
-        src: url({{ '/assets/nasin-nanpa-2.5.1.otf' | relative_url }});
-    }
-
-    }
-    .kpn-weka {
-        white-space: pre-wrap;
-    }
+  
 </style>
 
 

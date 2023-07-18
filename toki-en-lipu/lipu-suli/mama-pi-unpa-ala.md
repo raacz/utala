@@ -3,11 +3,13 @@ layout: lipu
 ---
 
 <style>
-    .sitelen-pona {
+    @font-face {
         font-family: "nasin nanpa";
         src: url({{ '/assets/nasin-nanpa-2.5.1.otf' | relative_url }});
     }
-        font-size: 1.4em;
+    .sitelen-pona {
+        font-family: "nasin nanpa";
+        font-size: 1.2em;
         text-align: center;
     }
     .kpn-weka {
