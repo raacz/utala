@@ -14,6 +14,8 @@ layout: lipu
     .sitelen-pona {
         font-family: "nasin nanpa";
         font-size: 1.4em;
+        src: url({{ '/assets/nasin-nanpa-2.5.1.otf' | relative_url }});
+    }
 
     }
     .kpn-weka {

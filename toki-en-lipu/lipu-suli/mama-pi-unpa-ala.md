@@ -5,6 +5,8 @@ layout: lipu
 <style>
     .sitelen-pona {
         font-family: "nasin nanpa";
+        src: url({{ '/assets/nasin-nanpa-2.5.1.otf' | relative_url }});
+    }
         font-size: 1.4em;
         text-align: center;
     }
