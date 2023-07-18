@@ -1,76 +1,99 @@
 ---
 layout: lipu
 ---
-(sina wile toki pona la o tawa [ni](index.md))
+([sina wile toki pona la o tawa ni](index.md))
+# Art contest of little communications and big documents
 
-# Hey, toki pona people who write!
-## It's that time again!
+***
 
-*What work is needed?*
+## It's viewing time!
+Look at the entries and come to understand your feelings towards them. If you want to express your feelings, you can do that in your community! Still, don't tell others which entry you wrote. 
 
-> Write something artistic and submit it to me at the needed time. 
 
-*What should the artistic thing be?*
+### Little communications
 
-> Overall there's two methods:
-> - The first method is little artistic communication
-> - The second method is large artistic document
+The community submitted 15 little communications to me. 
 
-> Similarities: <br>
-> The little artistic communication and large artistic document should be **artistic** and use only toki pona. 
+[View all of the little communications.](./toki-en-lipu/toki-lili.md)
 
-> Differences <br>
-> For the little artistic communication, the word amount needs to be smaller than 300. 
-> For the large artistic document, the word amount needs to be bigger than 500. 
+### Big documents
 
-> Submit your own work. Do not give a different person's work. 
+The community submitted 13 big documents to me. 
 
-*What should I communicate in my artistic thing?*
+[ilo sitelen wawa](toki-en-lipu/lipu-suli/ilo-sitelen-wawa.md) 
 
-> Communicate anything good you want!
-> Talk about a strange cosmic place that's not real, a racoon with fire powers, a book house of all knowledge, something exciting, new, and entertaining from your head and from your heart. 
-> But nothing bad. Don't promote bad ideas. Don't talk too much about sex or violence.
-> Also, be artistic. Your thing should not be good for Wikipedia. Do not only teach. Don't present a new toki pona numbering system. 
+[ilo toki](toki-en-lipu/lipu-suli/ilo-toki.md) 
 
-> Look at the competitions of the past: [utala pi lipu lili musi](lipu-lili/) en [utala pi toki musi](toki-musi-lili). Your work should be similar. 
+[ilo wawa pi ma Toli](toki-en-lipu/lipu-suli/ilo-wawa-pi-ma-Toli.md) 
 
-*When do I submit my work?*
+[jan mun](toki-en-lipu/lipu-suli/jan-mun.md)
 
-> 2023-07-15
+[kili](toki-en-lipu/lipu-suli/kili.md)
 
-*Where do I submit my work?*
+[mama sewi pi unpa ala](toki-en-lipu/lipu-suli/mama-pi-unpa-ala.md) 
 
-> Give your thing to me (Lakuse) using Discord (Raacz106#5873) or using email (tokipona.sasalin@gmail.com).
+[mi en waso Kaka en monsuta pi ma kasi](toki-en-lipu/lipu-suli/mi-en-waso-Kaka.md) 
 
-> Give this information:
-> - your toki pona name
-> - your Discord name
-> - the title of your work  
-> - whether your work is for the large document competition or little communication competition. 
+[moku pi telo loje](toki-en-lipu/lipu-suli/moku-pi-telo-loje.md) 
 
-*What is the competition*
+[Nasi](toki-en-lipu/lipu-suli/nasi.md) 
 
-> When submissions are all done, everyone will look at the entries and say what they think. We'll find out which aristic document and artistic communication the community thinks are the best!
+[nasin nasa pi jan Mupa](toki-en-lipu/lipu-suli/nasin-nasa-Mupa.md) 
 
-> So don't send your entry to a lot of people or talk about what's in your entry to a lot of people. When it's time to look, no one should know who wrote which entry.
+[pilin pipi](toki-en-lipu/lipu-suli/pilin-pipi.md) 
 
-> Once everyone's done looking, you can talk about everything!
+[tawa suli soweli](toki-en-lipu/lipu-suli/tawa-suli-soweli.md) 
 
-*What else do I need to know?*
+[tenpo pini weka](toki-en-lipu/lipu-suli/tenpo-pini-weka.md) 
 
-> When you submit your thing to me, you allow [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) to control the distribution of your work. If you don't like this, then don't submit! 
+***
 
-> If you submit work and decide you want to change it, you can resubmit it to me!
+## Extra knowledge
 
-> In the large document competition, you can submit multiple documents! In the little communication competition, submit only once. 
+### Which documents are big? Which documents are small?
+For fun, I ranked the word amount of all the documents. If the word amount is big I put the document upwards. If the word amount is small I put the document downwards.  
 
-> Know that I will keep your work on this site so everyone can look at it. If you don't like this, then don't submit!
+- [Nasi](toki-en-lipu/lipu-suli/nasi.md) (super very very big)
+- [mi en waso Kaka en monsuta pi ma kasi](toki-en-lipu/lipu-suli/mi-en-waso-Kaka.md) (very big)
+- [nasin nasa pi jan Mupa](toki-en-lipu/lipu-suli/nasin-nasa-Mupa.md) (big)
+- [pilin pipi](toki-en-lipu/lipu-suli/pilin-pipi.md) (a little big)
+- [ilo wawa pi ma Toli](toki-en-lipu/lipu-suli/ilo-wawa-pi-ma-Toli.md) (a little big)
+- [moku pi telo loje](toki-en-lipu/lipu-suli/moku-pi-telo-loje.md) (a little big)
+- [jan mun](toki-en-lipu/lipu-suli/jan-mun.md) (a little big)
+- [tenpo pini weka](toki-en-lipu/lipu-suli/tenpo-pini-weka.md) (little) 
+- [kili](toki-en-lipu/lipu-suli/kili.md) (little)
+- [tawa suli soweli](toki-en-lipu/lipu-suli/tawa-suli-soweli.md) (little)
+- [ilo sitelen wawa](toki-en-lipu/lipu-suli/ilo-sitelen-wawa.md) (little)
+- [ilo toki](toki-en-lipu/lipu-suli/ilo-toki.md) (little)
+- [mama sewi pi unpa ala](toki-en-lipu/lipu-suli/mama-pi-unpa-ala.md) (little)
+
+### If the document contents can hurt me what should I do?
+Inside of all the documents I put a thing of potential badness under an icon like this:
+
+<details>
+  <summary>o sona e ken ike lon lipu ni</summary>
+  <ul>
+    <li>first bad thing</li>
+    <li>second bad thing</li>
+  </ul>
+</details>
+If you want to see this knowledge then press the icon. If you don't want to see then don't press the icon. 
+
+### I looked at the entries. Where should I vote?
+
+Wait! The voting mechanism will come soon. 
+
+### You presented my entry poorly!
+If this is true then communicate my mistake to me (Discord, @raacz106, other method, tokipona(little circle)sasalin('a' drawing)gmail(little circle)com). 
+
+### Where are the contest rules?
+If you want to, look at the [contest rules.](/toki-en-lipu/lawa_en.md)
 
 
 ***
 
 ## See finished contests
-- [competition of small artistic documents (2020-08-06)](lipu-lili/index_en.md), where the group wrote animal documents, horror documents, love documents, and good documents!
+- [competition of small artistic documents (2022-08-06)](lipu-lili/index_en.md), where the group wrote animal documents, horror documents, love documents, and good documents!
 - [place picture contest (2021-01-01)](sitelen-ma/index_en.md), where the group made entertaining pictures to establish how Ma Pona was going to appear on Discord.
 - [competition of sound movement documents (2021-02-08)](lipu-kalama-tawa/index_en.md), where the group made long documents, so that people can recite them together! 
 - [poetry competition (2020-11-11)](toki-musi-lili/index_en.md) where the group made many amusing poems! Who wrote the poem that both the community and jan Sonja liked?

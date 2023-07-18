@@ -1,0 +1,8 @@
+html {
+  line-height: var(--line-height-default);
+}
+
+@font-face {
+    font-family: "nasin nanpa";
+    src: url(/assets/nasin-nanpa-2.5.1.otf);
+}
