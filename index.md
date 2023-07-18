@@ -11,7 +11,7 @@ o lukin e lipu e toki o kama sona e pilin sina tawa ona. sina wile toki e pilin 
 
 ### toki lili
 
-kulupu li pana e toki lili  <abbr title="15">LLL</abbr> tawa mi!
+kulupu li pana e toki lili  <abbr title="16">LLLW</abbr> tawa mi!
 
 [o lukin e toki lili ale](./toki-en-lipu/toki-lili.md)
 

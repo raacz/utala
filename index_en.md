@@ -12,7 +12,7 @@ Look at the entries and come to understand your feelings towards them. If you wa
 
 ### Little communications
 
-The community submitted 15 little communications to me. 
+The community submitted 16 little communications to me. 
 
 [View all of the little communications.](./toki-en-lipu/toki-lili.md)
 

@@ -41,6 +41,7 @@ layout: lipu
 - [pimeja](#pimeja)
 - [pipi li wile pakala](#pipi-li-wile-pakala) (ken ike: nasa pi unpa lili)
 - [sina lon e ma](#sina-lon-e-ma)
+- [sitelen tawa lon](#sitelen-tawa-lon)
 - [sona la](#sona-la)
 - [tenpo li lili](#tenpo-li-lili)
 
@@ -194,7 +195,7 @@ li open, li pini.
 tan ni la, pilin nasa li kama. 
 
 mi pilin e nasa!  
-mi kute e pilin! 
+mi kute e pilin!  
 mi alasa sona!  
 mi weka e kute!  
 mi lukin e ante!  
