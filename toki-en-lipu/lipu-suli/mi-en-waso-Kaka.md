@@ -152,7 +152,7 @@ jan Ensi li wile ala kute tan ni: toki sin li pona mute ala tawa ona. taso ona o
 
 “ken.”
 
-mama pi jan Ensi li jan alawa wawa. jan ale pi ma tomo Nelamu li sona e ona. taso ona li lon ala. ona li kama moli lon tenpo lete pini. ona li wawa ala tan jaki sijelo la lete wawa li kama li ike a e sijelo mama.
+mama pi jan Ensi li jan alasa wawa. jan ale pi ma tomo Nelamu li sona e ona. taso ona li lon ala. ona li kama moli lon tenpo lete pini. ona li wawa ala tan jaki sijelo la lete wawa li kama li ike a e sijelo mama.
 
 jan Ensi li anpa e lawa ona tawa jan pan. “sina pona tan moku pona ni. mi tawa”
 
