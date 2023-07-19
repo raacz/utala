@@ -258,7 +258,7 @@
 <!--
 	sina wile sona e len
 	          taso ona li awen sona ala lon tenpo ni
-	- 5/8/2023 -
+	- 2023/8/5 -
 -->
 
 <div>
