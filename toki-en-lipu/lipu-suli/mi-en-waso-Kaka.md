@@ -78,9 +78,7 @@ mi toki pi pilin ike lili. “a... ike a. kiwen pona ante li lon la mi wile alas
 
 mi lukin sin e kiwen, mi tawa lili e ona. suno lili li tawa musi lon selo kiwen. ni li pona tawa waso Kaka. ona li lukin wawa e kiwen.
 
-tenpo ni la mi kama lukin e ni: suno sewi li tawa anpa. tenpo kama poka la tenpo pimeja li lon.
-
-mi sewi e sijelo mi tan supa ma. mi lukin tawa waso Kaka. “o kama. mi o tawa tomo.”
+tenpo ni la mi kama lukin e ni: suno sewi li tawa anpa. tenpo kama poka la tenpo pimeja li lon. mi sewi e sijelo mi tan supa ma. mi lukin tawa waso Kaka. “o kama. mi o tawa tomo.”
 
 waso Kaka li mu pona.
 
@@ -154,7 +152,7 @@ jan Ensi li wile ala kute tan ni: toki sin li pona mute ala tawa ona. taso ona o
 
 mama pi jan Ensi li jan alasa wawa. jan ale pi ma tomo Nelamu li sona e ona. taso ona li lon ala. ona li kama moli lon tenpo lete pini. ona li wawa ala tan jaki sijelo la lete wawa li kama li ike a e sijelo mama.
 
-jan Ensi li anpa e lawa ona tawa jan pan. “sina pona tan moku pona ni. mi tawa”
+jan Ensi li anpa e lawa ona tawa jan pan. “sina pona tan moku pona ni. mi tawa.”
 
 “tawa pona!” jan pan li tawa insa tomo ona, li lanpan e pan ante, li pana e ona lon sinpin tomo.
 
@@ -194,7 +192,7 @@ jan Ensi li wile ala awen toki e monsuta, li open e toki ante. “tenpo mun sin 
 
 “o pana e sitelen pi mama mi. sina jo e ona lon ale pi tenpo mun pini. tenpo mun ni la mi o jo e ona.”
 
-“a...” jan Patan li lukin weka “mi... jo ala e ona.”
+“a...” jan Patan li lukin e weka. “mi... jo ala e ona.”
 
 “seme a?!”
 
@@ -338,7 +336,7 @@ tenpo ni la kalama nasa li kama tan sinpin, tan ijo weka. mi lukin e lukin mama.
 
 mama li toki kepeken kalama lili. “o awen lon ni. mi taso li tawa. mi wile kama sona e ni: nasin sinpin li pona ala pona? ale li pona la mi kama e sina.”
 
-mama li tawa la mi awen lukin e mama. ona li kama weka lon monsi kasi la mi anpa e sijelo mi lon ma mi lukin e poka mi e monsi mi. ni la waso Kaka li kama tan sewi tawa poka mi. ona li sona e ni: mi wile ala wan taso.
+mama li tawa la mi awen lukin e mama. ona li kama weka lon monsi kasi la mi anpa e sijelo mi lon ma. mi lukin e poka mi e monsi mi. ni la waso Kaka li kama tan sewi tawa poka mi. ona li sona e ni: mi wile ala wan taso.
 
 mi lon anpa, mi kute pona, mi kalama ala.
 
@@ -350,7 +348,7 @@ jan Ensi li tawa lon ma kasi suli. ona li kute e mu waso lon luka kasi. ona li k
 
 tenpo ni la ona li kute e kalama telo. ni li pona. tenpo suno pini la jan Patan en jan Apo li awen lon poka pi nasin telo. ken suli la sitelen mama li kama tan poki pi jan Patan lon ma awen ni.
 
-jan Ensi li kama lukin e sitelen pi noka jan lon insa ma. jan Patan li lon ni lon tenpo pini. jan Ensi li tawa nasin sama la ona li kama lukin e ko pimeja pi seli pini lon poka telo. ni li ma awen a! jan Patan en jan Apo li pali e seli lon ko pimeja ni.
+jan Ensi li kama lukin e sitelen pi noka jan lon insa ma. tenpo pini la jan Patan li lon ni. jan Ensi li tawa nasin sama la ona li kama lukin e ko pimeja pi seli pini lon poka telo. ni li ma awen a! jan Patan en jan Apo li pali e seli lon ko pimeja ni.
 
 jan Ensi li lukin e ijo ale lon ma awen, lon poka pi ma awen kin. ona li lukin lon ma, lon anpa kasi, lon telo tawa, lon ale. sitelen noka mute li lon, taso sitelen mama li lon ala.
 
@@ -446,7 +444,7 @@ mi kama ala. “mi... mi wile pana e pali pona tawa soweli ni. mi wile weka e pa
 
 mi lukin e lukin mama. “ken la ona li monsuta. mi sona ala e ni. taso mi sona e ni a: ona li wile ala moli e mi. ona li pilin monsuta taso.”
 
-mama li lukin e lukin mi, li toki ala. pilin mi la ona li sona ala e ni: ona li pali e seme. taso pilin monsuta li awen lon lukin ona.
+mama li lukin e lukin mi, li toki ala. pilin mi la ona li sona ala e ni: ona o pali e seme. taso pilin monsuta li awen lon lukin ona.
 
 mi toki. “tenpo ale la sina toki e ni: mi lukin e soweli pakala e waso pakala la mi o pona tawa ona. sina pana e nasin ni tawa mi. o lukin e soweli ni a.”
 
@@ -486,7 +484,7 @@ awen la jan Ensi li wile alasa e sitelen pi mama ona, taso ona li sona e ni: ni 
 
 jan Ensi li lukin e monsuta. ona li nasa tawa jan Ensi. ona li sama lili jan, li sama lili soweli kin. selo ona li jo e linja mute, sama soweli. luka ona li sama luka jan. taso palisa luka ona li lili lukin lon luka suli ni.
 
-monsuta li ken tawa kepeken noka tu. taso luka kin li ken kama noka. tenpo ni monsuta suli li tawa kepeken nasin pi noka tu tu, sama monsuta lili poka.
+monsuta li ken tawa kepeken noka tu. taso luka kin li ken kama noka. tenpo ni la monsuta suli li tawa kepeken nasin pi noka tu tu, sama monsuta lili poka.
 
 jan Ensi li toki insa e ijo ni: ante suli monsuta li tan seme? ken la monsuta lili li meli pi monsuta suli. ken la monsuta suli li mama. jan Ensi li sona ala. taso ona li sona a e ni: monsuta suli li wile awen e monsuta lili.
 
