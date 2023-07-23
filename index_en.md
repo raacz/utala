@@ -6,7 +6,10 @@ layout: lipu
 
 ***
 
-## It's viewing time!
+<mark><a href="https://docs.google.com/forms/d/e/1FAIpQLSdxnxTH5B7UWpn99X7Q91y21vXoGFCVunzkU_8GcaoVxldhcQ/viewform" target="blank">The voting document is here!</a></mark>
+
+
+## It's voting time!
 Look at the entries and come to understand your feelings towards them. If you want to express your feelings, you can do that in your community! Still, don't tell others which entry you wrote. 
 
 
@@ -81,7 +84,8 @@ If you want to see this knowledge then press the icon. If you don't want to see 
 
 ### I looked at the entries. Where should I vote?
 
-Wait! The voting mechanism will come soon. 
+[Vote at this document here!](https://docs.google.com/forms/d/e/1FAIpQLSdxnxTH5B7UWpn99X7Q91y21vXoGFCVunzkU_8GcaoVxldhcQ/viewform
+)
 
 ### You presented my entry poorly!
 If this is true then communicate my mistake to me (Discord, @raacz106, other method, tokipona(little circle)sasalin('a' drawing)gmail(little circle)com). 

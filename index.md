@@ -6,7 +6,10 @@ layout: lipu
 
 ***
 
-## tenpo lukin li lon!
+<mark><a href="https://docs.google.com/forms/d/e/1FAIpQLSdxnxTH5B7UWpn99X7Q91y21vXoGFCVunzkU_8GcaoVxldhcQ/viewform" target="blank">o pana e pilin sina lon lipu ni!</a></mark>
+
+
+## tenpo pi pana pilin li lon!
 o lukin e lipu e toki o kama sona e pilin sina tawa ona. sina wile toki e pilin sina la sina ken lon kulupu sina! awen la o toki ala e ni: sina sitelen e lipu seme. 
 
 ### toki lili
@@ -79,7 +82,8 @@ sina wile lukin e sona la o luka e sitelen. sina wile ala lukin la o luka ala e 
 
 ### mi lukin e lipu e toki. mi o pana e pilin mi lon seme?
 
-o awen! nasin pi pana pilin li kama lon tenpo poka!
+[o pana lon lipu ni](https://docs.google.com/forms/d/e/1FAIpQLSdxnxTH5B7UWpn99X7Q91y21vXoGFCVunzkU_8GcaoVxldhcQ/viewform
+)
 
 ### sina pana ike e lipu mi a!
 ni li lon la o toki e pakala mi tawa mi (ilo Siko la @raacz106, nasin ante la tokipona(sike lili)sasalin(sitelen a)gmail(sike lili)com).
