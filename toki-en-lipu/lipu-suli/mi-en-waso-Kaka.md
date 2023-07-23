@@ -252,7 +252,7 @@ ken la mi kepeken toki nasa la wawa nasa li kama.
 
 “mu mi, mu mi, ma mi mu!”
 
-mi lukin e waso Kaka. “ijo li nasa kama anu seme?”
+mi lukin e waso Kaka. “ijo nasa li kama anu seme?”
 
 waso Kaka li mu pi pilin ike.
 
