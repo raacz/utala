@@ -14,7 +14,6 @@
 	</nav>
 	<main><div class="ale w-40">
 		<h1>Nasi</h1>
-		<p>tan jan Kepe</p>
 
 		<p><strong>mute nimi</strong>: suli mute mute a, <abbr title="19230">AMMMMLLTAMLL</abbr></p>
 
