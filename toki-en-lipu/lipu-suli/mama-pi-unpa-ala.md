@@ -16,9 +16,9 @@ layout: lipu
         white-space: pre-wrap;
     }
     .nimi{
-        outline-width: 3px;
+        outline-width: 2px;
         outline-style: solid;
-        outline-radius: 1px 50%;
+        outline-radius: 3px;
 
 
 }
