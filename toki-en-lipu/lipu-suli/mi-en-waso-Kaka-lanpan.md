@@ -4,6 +4,8 @@ layout: lipu
 
 # mi en waso Kaka en monsuta pi ma kasi
 
+tan jan Pensa
+
 nimi 'lanpan' mute li lon lipu ni. sina wile lukin e lipu kepeken nimi lanpan ala la o tawa [mi en waso Kaka en monsuta pi ma kasi en nimi lanpan ala](mi-en-waso-Kaka.md)
 
 **mute nimi**: suli mute, <abbr title="8402">MMMMTTAT</abbr>

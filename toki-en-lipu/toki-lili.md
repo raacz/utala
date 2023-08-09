@@ -28,7 +28,7 @@ layout: lipu
 
 # toki musi lili
 
-- [alasa musi pini](#alasa-musi-pini)
+- [alasa musi pini](#alasa-musi-pini) 
 - [ilo wawa](#ilo-wawa) (ken ike: ilo utala pakala pi wawa moli mute)
 - [jan Pilipu Kalasi](#jan-pilipu-kalasi)
 - [ken la jan](#ken-la-jan) 
@@ -48,6 +48,8 @@ layout: lipu
 ***
 
 ## alasa musi pini
+*tan kapesi Pake*
+
 tenpo pini la mi lukin e  
 toki pona li wile mute  
 kama sona e ona. 
@@ -57,6 +59,7 @@ e nasa nasin mute ike.
 ***
 
 ## ilo wawa 
+*tan jan Sepulon*
 
 pimeja li lon sinpin pi jan utala ale, li len e ma ko. kalama ala li lon. jan utala ni li sama kiwen laso: ona li tawa ala, li awen. jan ante ala li lukin e ona. waso en pipi en soweli li kalama ala. ma ale li lape lon pimeja pi pilin musi ala.
 
@@ -72,6 +75,7 @@ en la, jan utala ale li sona e ni: ijo lili ante li kama moli lon tenpo ni; pili
 
  
 ## jan Pilipu Kalasi (Philip Glass)
+*tan jan Mimakenta*
 
 jan Pilipu Kalasi li pali e kalama musi pi epiku mute  
 mi olin e kalama musi pi jan Pilipu Kalasi
@@ -79,7 +83,8 @@ mi olin e kalama musi pi jan Pilipu Kalasi
  ***
 
  
-## ken la jan 
+## ken la jan
+*tan jan Uwe (Russ Sharek)*
 <div class="sitelen-pona kpn-weka">
 󱤘󱤡
 󱤑󱥝󱤧
@@ -103,6 +108,7 @@ kama jan olin.</p>
 
  
 ## linja mije
+*tan kulupu kala*
 
 linja lawa li ijo nasa. ona li ken toki e mute li ken toki e lon sina. taso ona li ken toki e powe.
 
@@ -118,6 +124,7 @@ jasima li lupa e uta mi. mi mije lukin. mi *mi* lukin.
  
  
 ## luka waso pi nena taso
+*tan jan Lakuse*
 
 mi lukin e waso pona tu  
 lon ma kasi lon poka pi  
@@ -185,6 +192,7 @@ sina ken sama waso ante ale
  ***
  
 ## lon n taso ala
+*tan jan Pontu*
 
 open la, ijo li kama.  
 pini la, ijo li weka.  
@@ -232,6 +240,7 @@ mi wile lon a!
  ***
  
 ## mu namako 
+*tan ijo tan anpa nanpa (Itan)*
 
 tenpo nasa nasa la soweli li kama pana tawa mi e sona pi kulupu soweli ona! ona li lon kulupu suli! ona li musi lon tenpo ale! musi ona li musi utala.
 
@@ -247,6 +256,7 @@ tenpo nasa nasa la mi lukin e nasin ni pi ante wawa lon tenpo mute. ona li musi 
  ***
  
 ## mu wawa
+*tan jan Puloku*
 
 monsuta li kama. jan li wile tawa  
 jan li ken ala mu wawa. mu wawa la monsuta li ken alasa e jan.   
@@ -267,7 +277,8 @@ jan li monsuta.
 
  ***
  
-## nasin mun 
+## nasin mun
+*tan jan inwin*
 {:.insa}
 
 suno li weka· sinpin li pimeja·  
@@ -325,6 +336,7 @@ sike monsuta li suli ala·
  ***
  
 ## pimeja
+*tan kili potato_9898*
 
 pimeja li lon.  
 pimeja li ike.  
@@ -407,6 +419,7 @@ ken la, pimeja li ike ala
  ***
  
 ## pipi li wile pakala
+*tan jan Keri*
 
 toki! mi pipi. jan mute li pakala e mi kepeken palisa pi utala pipi. ona li sona ala e ni: mi wile e ni! ni li pona mute tawa mi! jan li pona mute tawa mi. pipi ante li wile ala e ni. ona li pilin e ni: jan mute li ike mute tawa pipi ante. pipi ante li pilin monsuta tan jan. pipi ante li tawa kepeken luka waso ona la ona li lukin e jan. mi awen li wile pakala la mi lukin e jan. mi tawa kon lon poka sinpin lawa jan. mi pali e ni la jan li pilin utala mute. jan jo e palisa pi utala pipi. jan li wile pakala e mi. ona li moli e mi. mi wile pilin e pakala. mi wile ala moli. tenpo sin la mi tawa kon lon jan kepeken luka waso mi. pipi ante li lukin e mi. 
 
@@ -419,6 +432,7 @@ tenpo ni la jan li utala e monsi mi kepeken palisa pi utala pipi. ni li pilin po
  ***
  
 ## sina lon e ma
+*tan kala suno/waso laso Alisanosaka, pi kulupu telo mun (kutemu)*
 
 ijo lili, o lukin e sina  
 sina lape mute li moli lili.  
@@ -463,6 +477,7 @@ ma sin li awen.
  ***
  
 ## sitelen tawa lon 
+*tan jan Poli*
 
 jan musi li pali e sitelen tawa.
 
@@ -485,6 +500,8 @@ taso mi pali e sitelen tawa lon sama kepeken ona!
  ***
  
 ## sona la
+*tan asali*
+
 sona lipu la lon  
 ali nimi li ken e insa  
 ona. oko lon lipu   
@@ -505,6 +522,8 @@ sona pona li awen ala.
  ***
  
 ## tenpo li lili
+*tan jan Jasun*
+
 {:.insa}
 
 ona li wawa li lawa li tawa  

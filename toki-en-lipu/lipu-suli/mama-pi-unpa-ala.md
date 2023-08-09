@@ -27,6 +27,8 @@ layout: lipu
 
 # mama sewi pi unpa ala
 
+tan jan Lakuse
+
 **mute nimi**: lili, <abbr title="500">LA</abbr>
 
 <details>

@@ -4,7 +4,10 @@ layout: lipu
 
 # nasin nasa pi jan Mupa
 
+tan jan Telupiso tan jan Kiwisin
+
 **mute nimi**: suli, <abbr title="4392">MMTWAMMMMLLT</abbr>
+
 
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>
