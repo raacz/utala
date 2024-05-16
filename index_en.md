@@ -48,11 +48,11 @@ layout: lipu
 > - your toki pona name
 > - your Discord name
 > - the title of your work  
-> - whether your work is for the large document competition or little communication competition. 
+> - whether your work is for the large document competition or little document competition. 
 
 *What is the competition*
 
-> When submissions are all done, everyone will look at the entries and say what they think. We'll find out which aristic document and artistic communication the community thinks are the best!
+> When submissions are all done, everyone will look at the entries and say what they think. We'll find out which aristic documents the community thinks are the best!
 
 > So don't send your entry to a lot of people or talk about what's in your entry to a lot of people. When it's time to look, no one should know who wrote which entry.
 
@@ -65,7 +65,7 @@ layout: lipu
 
 > If you submit work and decide you want to change it, you can resubmit it to me!
 
-> In the large document competition, you can submit multiple documents! In the little communication competition, submit only once. 
+> In the large document competition, you can submit multiple documents! In the little document competition, submit only once. 
 
 > Know that I will keep your work on this site so everyone can look at it. If you don't like this, then don't submit!
 

@@ -49,11 +49,11 @@ layout: lipu
 > - e nimi sina pi toki pona
 > - e nimi sina pi ilo Siko
 > - e nimi pi pali sina
-> - e sona ni: ijo sina li tawa utala pi lipu suli anu utala pi toki lili
+> - e sona ni: ijo sina li tawa utala pi lipu suli anu utala pi lipu lili
 
 *utala li seme?*
 
-> pana pali li pini la ale li kama lukin e ijo ale li kama toki e pilin ona. mi kama sona e ni: lipu suli seme en toki lili seme li pona nanpa wan tawa kulupu?
+> pana pali li pini la ale li kama lukin e ijo ale li kama toki e pilin ona. mi kama sona e ni: lipu suli seme en lipu lili seme li pona nanpa wan tawa kulupu?
 
 > ni la, o pana ala e pali sina tawa jan mute o toki ala e insa pi pali sina tawa jan mute. tenpo lukin la ale o sona ala e ni: jan seme li pali e ijo.
 
@@ -66,9 +66,9 @@ layout: lipu
 
 > sina pana e pali li kama wile ante e ona la sina ken pana sin e ona tawa mi!
 
-> utala pi lipu suli la sina ken pana e lipu mute! utala pi toki musi lili la o pana e toki wan taso. 
+> utala pi lipu suli la sina ken pana e lipu mute! utala pi lipu musi lili la o pana e toki wan taso. 
 
-> o sona e ni: mi kama awen e pali sitelen sina lon ilo ni la jan ale li ken lukin e ona. ni li ike tawa sina la o pana ala!
+> o sona e ni: mi kama awen e lipu sina lon ilo ni la jan ale li ken lukin e ona. ni li ike tawa sina la o pana ala!
 
 *ken pali mi li wawa mute ala. sina ken pana e pona seme tawa mi?*
 
