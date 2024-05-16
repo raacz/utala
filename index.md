@@ -1,100 +1,89 @@
 ---
 layout: lipu
 ---
-(for an English version, click [here](index_en.md))
-# utala musi pi toki lili pi lipu suli
+([Click here to read in English](index_en.md))
 
-***
+# kulupu pi toki pona o!
+## tenpo pali lipu li sin!
 
-<mark><a href="https://docs.google.com/forms/d/e/1FAIpQLSdxnxTH5B7UWpn99X7Q91y21vXoGFCVunzkU_8GcaoVxldhcQ/viewform" target="blank">o pana e pilin sina lon lipu ni!</a></mark>
+*pali seme li wile?*
+
+> o pali e ijo toki musi o pana e ona tawa mi lon tenpo wile.
+
+*ijo musi mi o seme?*
+
+> suli la nasin tu li lon!
+> - nasin nanpa wan li lipu musi lili
+> - nasin nanpa tu li lipu musi suli
+
+> sama la <br>
+> lipu o **musi** o kepeken toki pona taso o kepeken toki nimi taso. 
+
+> ante la <br>
+> lipu lili la mute nimi li wile lili tawa TWA/tu wan ale (ale ale ale). <br>
+> lipu suli la mute nimi li wile suli tawa LA/luka ale (ale ale ale ale ale). 
+
+> sina o pana e pali sina taso. o pana ala e pali pi jan ante.
+> lipu suli la sina ken pali kulupu e lipu lon poka pi jan ante. 
+
+*mi o toki seme lon ijo musi?*
+
+> o toki e ijo pona pi wile sina!
+> o toki e ma nasa mun pi lon ala, e kijetesantakalu pi wawa seli, e tomo lipu pi sona ale e ijo sin wawa musi tan lawa sina tan pilin sina!
+> taso o ike ala. o sewi ala e nasin ike. o toki wawa ala e unpa e pakala sijelo.
+> kin la, o musi. ijo sina o pona ala tawa [lipu Wikipesija](https://wikipesija.org/wiki/lipu_open). o pana sona taso ala. o toki wawa ala e nasin nanpa sin pi toki pona. 
+
+> o lukin e utala ni pi tenpo pini: [utala pi lipu suli pi toki lili](../toki-en-lipu/). pali sina o sama. 
+
+*tenpo seme la mi wile pana e pali?*
+
+> tenpo mun kama nanpa tu.
+> lon sike #MAMTT/mute ale mute tu wan lon tenpo mun #LT/luka tu lon tenpo suno #LLL/luka luka luka.
+>   <details><summary>o sona kepeken nasin nanpa pi sitelen Alapi</summary> 2024-07-15 </details>
+
+*mi wile pana e pali lon seme?*
+
+> o pana e ijo sina tawa mi (jan Lakuse) kepeken ilo Siko (raacz106) anu kepeken ilo lipu (tokipona.sasalin@gmail.com).
+
+> o pana e sona. o pana 
+> - e nimi sina pi toki pona
+> - e nimi sina pi ilo Siko
+> - e nimi pi pali sina
+> - e sona ni: ijo sina li tawa utala pi lipu suli anu utala pi toki lili
+
+*utala li seme?*
+
+> pana pali li pini la ale li kama lukin e ijo ale li kama toki e pilin ona. mi kama sona e ni: lipu suli seme en toki lili seme li pona nanpa wan tawa kulupu?
+
+> ni la, o pana ala e pali sina tawa jan mute o toki ala e insa pi pali sina tawa jan mute. tenpo lukin la ale o sona ala e ni: jan seme li pali e ijo.
+
+> tenpo lukin li pini la sina ken toki e ale!
 
 
-## tenpo pi pana pilin li lon!
-o lukin e lipu e toki o kama sona e pilin sina tawa ona. sina wile toki e pilin sina la sina ken lon kulupu sina! awen la o toki ala e ni: sina sitelen e lipu seme. 
+*mi wile sona e ijo ante seme?*
 
-### toki lili
+> sina pana e ijo tawa mi la, sina ken e ni: nasin [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) li lawa e esun pi pali sina. ni li ike tawa sina la o pana ala!
 
-kulupu li pana e toki lili  <abbr title="16">LLLW</abbr> tawa mi!
+> sina pana e pali li kama wile ante e ona la sina ken pana sin e ona tawa mi!
 
-[o lukin e toki lili ale](./toki-en-lipu/toki-lili.md)
+> utala pi lipu suli la sina ken pana e lipu mute! utala pi toki musi lili la o pana e toki wan taso. 
 
-### lipu suli
+> o sona e ni: mi kama awen e pali sitelen sina lon ilo ni la jan ale li ken lukin e ona. ni li ike tawa sina la o pana ala!
 
-kulupu li pana e lipu suli <abbr title="13">LLTW</abbr> tawa mi!
+*ken pali mi li wawa mute ala. sina ken pana e pona seme tawa mi?*
 
-[ilo sitelen wawa](toki-en-lipu/lipu-suli/ilo-sitelen-wawa.md) 
+> ken sina li lili la mi (pi jan Lakuse) li ken pana e pona kepeken nasin tu wan.
 
-[ilo toki](toki-en-lipu/lipu-suli/ilo-toki.md) 
+> #W) ken sina pi toki pona li lili la o sona e ni: mi ken lukin e lipu sina. mi lukin la ken toki e ni: nasin sina pi toki pona li pona ala pona. mi ken toki e pakala sona e pakala nasin.
 
-[ilo wawa pi ma Toli](toki-en-lipu/lipu-suli/ilo-wawa-pi-ma-Toli.md) 
+> #T) ken la ken sina pali li lili lon nasin ni: a! sina wile pali, taso sina weka e pali lon tenpo mute. sina weka e sona ni: pali li lon. sina weka e sona ni: sina wile pali e lipu. mi ken pana e pona ni: mi toki e wile pali lon tenpo mute tawa sina. sina wile e pona ni la o toki tawa mi!
 
-[jan mun](toki-en-lipu/lipu-suli/jan-mun.md)
-
-[kili](toki-en-lipu/lipu-suli/kili.md)
-
-[mama sewi pi unpa ala](toki-en-lipu/lipu-suli/mama-pi-unpa-ala.md) 
-
-[mi en waso Kaka en monsuta pi ma kasi](toki-en-lipu/lipu-suli/mi-en-waso-Kaka.md) 
-
-[moku pi telo loje](toki-en-lipu/lipu-suli/moku-pi-telo-loje.md) 
-
-[Nasi](toki-en-lipu/lipu-suli/nasi.md) 
-
-[nasin nasa pi jan Mupa](toki-en-lipu/lipu-suli/nasin-nasa-Mupa.md) 
-
-[pilin pipi](toki-en-lipu/lipu-suli/pilin-pipi.md) 
-
-[tawa suli soweli](toki-en-lipu/lipu-suli/tawa-suli-soweli.md) 
-
-[tenpo pini weka](toki-en-lipu/lipu-suli/tenpo-pini-weka.md) 
-
-***
-
-## sona namako
-
-### lipu seme li suli? lipu seme li lili?
-musi la mi nanpa e mute nimi pi lipu ale. mute nimi lipu li suli la mi pana e lipu lon sewi. mute nimi lipu li lili la mi pana e lipu lon anpa. 
-
-- [Nasi](toki-en-lipu/lipu-suli/nasi.md) (suli mute mute a)
-- [mi en waso Kaka en monsuta pi ma kasi](toki-en-lipu/lipu-suli/mi-en-waso-Kaka.md) (suli mute)
-- [nasin nasa pi jan Mupa](toki-en-lipu/lipu-suli/nasin-nasa-Mupa.md) (suli)
-- [pilin pipi](toki-en-lipu/lipu-suli/pilin-pipi.md) (suli lili)
-- [ilo wawa pi ma Toli](toki-en-lipu/lipu-suli/ilo-wawa-pi-ma-Toli.md) (suli lili)
-- [moku pi telo loje](toki-en-lipu/lipu-suli/moku-pi-telo-loje.md) (suli lili)
-- [jan mun](toki-en-lipu/lipu-suli/jan-mun.md) (suli lili)
-- [tenpo pini weka](toki-en-lipu/lipu-suli/tenpo-pini-weka.md) (lili) 
-- [kili](toki-en-lipu/lipu-suli/kili.md) (lili)
-- [tawa suli soweli](toki-en-lipu/lipu-suli/tawa-suli-soweli.md) (lili)
-- [ilo sitelen wawa](toki-en-lipu/lipu-suli/ilo-sitelen-wawa.md) (lili)
-- [ilo toki](toki-en-lipu/lipu-suli/ilo-toki.md) (lili)
-- [mama sewi pi unpa ala](toki-en-lipu/lipu-suli/mama-pi-unpa-ala.md) (lili)
-
-### ijo pi lipu musi li ken ike e pilin mi la mi o seme?   
-insa pi lipu ale la mi pana e ijo pi ken ike lon anpa sitelen sama ni:
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>ike nanpa wan</li>
-    <li>ike nanpa tu</li>
-  </ul>
-</details>
-sina wile lukin e sona la o luka e sitelen. sina wile ala lukin la o luka ala e sitelen.
-
-### mi lukin e lipu e toki. mi o pana e pilin mi lon seme?
-
-[o pana lon lipu ni](https://docs.google.com/forms/d/e/1FAIpQLSdxnxTH5B7UWpn99X7Q91y21vXoGFCVunzkU_8GcaoVxldhcQ/viewform
-)
-
-### sina pana ike e lipu mi a!
-ni li lon la o toki e pakala mi tawa mi (ilo Siko la @raacz106, nasin ante la tokipona(sike lili)sasalin(sitelen a)gmail(sike lili)com).
-
-### lawa pi utala lipu ni li lon seme?
-sina wile la o lukin e [lawa pi utala ni](/toki-en-lipu/lawa.md)
-
+> #TW) ken la ken sina pi musi lipu li lili. ken la sina ken toki pona wawa li wile pali e lipu. taso sina sona ala a e ni: lipu o toki e seme. sina wile la mi en sina li ken toki e ijo musi ken a!
 
 ***
 
 ## o lukin e utala pini
+- [utala musi pi lipu suli pi toki lili pi tenpo #MAMTW)#LTW)#LLL](/toki-en-lipu/index.md) la kulupu li pali e toki lili mute e lipu suli mute en lipu tu pi suli mute a
 - [utala pi sitelen ma pi tenpo #MAMTW)#T)#W](sitelen-ma-nanpa-tu/) la kulupu pi ma pona li wile e sitelen musi sin lon ilo Siko. sitelen mute li kama. taso sitelen seme li pona nanpa wan?
 - [utala pi musi mu pi tenpo #MAMTW)#L)#LLLW](musi-mu/) la o lukin e musi tawa e musi kalama e musi lukin o kama mu suli tan pilin musi wawa!
 - [utala pi lipu musi lili pi tenpo #MAMT)#LTW)#LW](lipu-lili/) la jan mute li sitelen e lipu soweli e lipu monsuta e lipu olin e lipu pona!

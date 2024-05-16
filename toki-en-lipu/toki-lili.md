@@ -28,22 +28,22 @@ layout: lipu
 
 # toki musi lili
 
-- [alasa musi pini](#alasa-musi-pini) 
-- [ilo wawa](#ilo-wawa) (ken ike: ilo utala pakala pi wawa moli mute)
-- [jan Pilipu Kalasi](#jan-pilipu-kalasi)
-- [ken la jan](#ken-la-jan) 
-- [linja mije](#linja-mije)
-- [luka waso pi nena taso](#luka-waso-pi-nena-taso)
-- [lon n taso ala](#lon-n-taso-ala)
-- [mu namako](#mu-namako)
-- [mu wawa](#mu-wawa) (ken ike: jan li moli tan wile)
-- [nasin mun](#nasin-mun)
-- [pimeja](#pimeja)
-- [pipi li wile pakala](#pipi-li-wile-pakala) (ken ike: nasa pi unpa lili)
-- [sina lon e ma](#sina-lon-e-ma)
-- [sitelen tawa lon](#sitelen-tawa-lon)
-- [sona la](#sona-la)
-- [tenpo li lili](#tenpo-li-lili)
+- [alasa musi pini](#alasa-musi-pini) tan kapesi Pake
+- [ilo wawa](#ilo-wawa) tan jan Sepulon (ken ike: ilo utala pakala pi wawa moli mute)
+- [jan Pilipu Kalasi](#jan-pilipu-kalasi) tan jan Mimakenta
+- [ken la jan](#ken-la-jan) tan jan Uwe (Russ Sharek)
+- [linja mije](#linja-mije) tan kulupu kala
+- [luka waso pi nena taso](#luka-waso-pi-nena-taso) tan jan Lakuse
+- [lon n taso ala](#lon-n-taso-ala) tan jan Pontu
+- [mu namako](#mu-namako) tan ijo tan anpa nanpa (Itan)
+- [mu wawa](#mu-wawa) tan jan Puloku (ken ike: jan li moli tan wile) 
+- [nasin mun](#nasin-mun) tan jan inwin
+- [pimeja](#pimeja) tan kili potat_99898
+- [pipi li wile pakala](#pipi-li-wile-pakala) tan jan Keri (ken ike: nasa pi unpa lili)
+- [sina lon e ma](#sina-lon-e-ma) tan kala suno/waso laso Alisanosaka, pi kulupu telo mun (kutemu)
+- [sitelen tawa lon](#sitelen-tawa-lon) tan jan Poli
+- [sona la](#sona-la) tan asali
+- [tenpo li lili](#tenpo-li-lili) tan jan Jasun
 
 ***
 
