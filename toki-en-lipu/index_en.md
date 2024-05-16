@@ -23,9 +23,9 @@ If you want to look at the [opinion-sharing method](pana-pilin_en.md)
 
 ### Small communications
 <ol>
-  <li><a href="toki-lili.html/#tenpo-li-lili">tenpo li lili</a> by jan Jasun</li>
-  <li><a href="toki-lili.html/#pimeja">pimeja</a>, by kili_potato9898</li>
-  <li><a href="toki-lili.html/#mu-namako">mu namako</a>, by ijo tan anpa nanpa (Itan)</li>
+  <li><a href="toki-lili.html#tenpo-li-lili">tenpo li lili</a> by jan Jasun</li>
+  <li><a href="toki-lili.html#pimeja">pimeja</a>, by kili_potato9898</li>
+  <li><a href="toki-lili.html#mu-namako">mu namako</a>, by ijo tan anpa nanpa (Itan)</li>
 </ol>
 
 <img alt="" style="width:100%"

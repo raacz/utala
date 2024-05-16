@@ -42,7 +42,7 @@ layout: lipu
 
 *Where do I submit my work?*
 
-> Give your thing to me (Lakuse) using Discord (Raacz106#5873) or using email (tokipona.sasalin@gmail.com).
+> Give your thing to me (Lakuse) using Discord (@raacz106) or using email (tokipona.sasalin@gmail.com).
 
 > Give this information:
 > - your toki pona name

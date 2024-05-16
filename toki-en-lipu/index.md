@@ -24,9 +24,9 @@ sina wile la o lukin [nasin pi pana pilin](pana-pilin.md).
 ### toki lili musi
 
 <ol>
-  <li><a href="toki-lili.html/#tenpo-li-lili">tenpo li lili</a> tan jan Jasun</li>
-  <li><a href="toki-lili.html/#pimeja">pimeja</a>, tan kili_potato9898</li>
-  <li><a href="toki-lili.html/#mu-namako">mu namako</a>, tan ijo tan anpa nanpa (Itan)</li>
+  <li><a href="toki-lili.html#tenpo-li-lili">tenpo li lili</a> tan jan Jasun</li>
+  <li><a href="toki-lili.html#pimeja">pimeja</a>, tan kili_potato9898</li>
+  <li><a href="toki-lili.html#mu-namako">mu namako</a>, tan ijo tan anpa nanpa (Itan)</li>
 </ol>
 
 <img alt="" style="width:100%"
