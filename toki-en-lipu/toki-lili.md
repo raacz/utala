@@ -30,7 +30,7 @@ layout: lipu
 
 - [alasa musi pini](#alasa-musi-pini) tan kapesi Pake
 - [ilo wawa](#ilo-wawa) tan jan Sepulon (ken ike: ilo utala pakala pi wawa moli mute)
-- [jan Pilipu Kalasi](#jan-pilipu-kalasi) tan jan Mimakenta
+- [jan Pilipu Kalasi](#jan-pilipu-kalasi-philip-glass) tan jan Mimakenta
 - [ken la jan](#ken-la-jan) tan jan Uwe (Russ Sharek)
 - [linja mije](#linja-mije) tan kulupu kala
 - [luka waso pi nena taso](#luka-waso-pi-nena-taso) tan jan Lakuse
