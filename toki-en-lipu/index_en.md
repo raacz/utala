@@ -54,7 +54,7 @@ During the *suno pi toki pona* jan Lakuse spoke of the goodness of all the art a
 Participants agreed that all works would be licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 
-<h2><a href="/toki-lili.html">View all the communications here</a></h2>
+<h2><a href="toki-lili.html">View all the communications here</a></h2>
 
 ## View all the documents here:
 
