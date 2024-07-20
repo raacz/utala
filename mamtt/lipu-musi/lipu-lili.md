@@ -70,7 +70,10 @@ layout: lipu
     border-spacing: 2em 0;
   }
   .comma {
-    font-family: serif;
+    font-family: sans-serif;
+  }
+  .h2 comma{
+    font-size: 2.5rem;
   }
 
 
@@ -935,6 +938,8 @@ li pilin lete mute.
 "o luka olin!"
 
 ***
+
+## telo tu
 
 <h2 id="telo-tu" class="linja-lipamanka">telo tu</h2>
 
