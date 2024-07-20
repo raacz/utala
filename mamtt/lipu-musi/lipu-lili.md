@@ -52,8 +52,14 @@ layout: lipu
   .weka {
     text-indent: 2em;
   }
-  .weka-suli{
+  .weka-suli {
     text-indent: 4em;
+  }
+  .weka-sp {
+    text-indent: 1em;
+  }
+  .weka-suli-sp {
+    text-indent: 2em;
   }
   .lipu-weka p {
     margin-bottom:1px;
@@ -305,16 +311,16 @@ pini.
 tenpo open la
 
 sewi li pali e mun
-{:.weka}
+{:.weka-sp}
 
   e ma
-  {:.weka-suli}
+  {:.weka-suli-sp}
 
   e soweli
-  {:.weka-suli}
+  {:.weka-suli-sp}
 
   e ijo ali
-  {:.weka-suli}
+  {:.weka-suli-sp}
 
 <br>
 
@@ -323,74 +329,74 @@ nimi taso li lon ala
 nimi li sama ala mun
 
   anu ma
-  {:.weka}
+  {:.weka-sp}
 
   anu soweli
-  {:.weka}
+  {:.weka-sp}
 
   anu ijo ante
-  {:.weka}
+  {:.weka-sp}
 
 tan ni:
 
   nimi li ijo ala
-  {:.weka}
+  {:.weka-sp}
 
   nimi li kulupu ijo
-  {:.weka}
+  {:.weka-sp}
 
 <br>
 
 sewi li wile e nimi la
 
   sewi li pali e nimi-tu
-  {:.weka}
+  {:.weka-sp}
 
 nimi-tu li ni:
 
   lon en ala
-  {:.weka}
+  {:.weka-sp}
 
 <br>
 
 toki insa sewi li ni:
 
   nimi-tu li pona tan ni:
-  {:.weka}
+  {:.weka-sp}
 
   tu li mute ala
-  {:.weka-suli}
+  {:.weka-suli-sp}
 
 <br>
 
 sona nimi li ni:
 
   ijo ali li lon
-  {:.weka}
+  {:.weka-sp}
 
   ali ante li ala
-  {:.weka}
+  {:.weka-sp}
 
 sona ni li wawa ala tan ni:
 
   nimi ali li sama
-  {:.weka}
+  {:.weka-sp}
 
   taso kon ona li ante
-  {:.weka}
+  {:.weka-sp}
 
 <br>
 
 nimi-tu li jaki tawa mun
 
   tawa ma
-  {:.weka}
+  {:.weka-sp}
 
   tawa soweli
-  {:.weka}
+  {:.weka-sp}
 
   tawa ijo ali
-  {:.weka}
+  {:.weka-sp}
 
 sona pi++kon ona li suli tawa ona
 
@@ -405,13 +411,13 @@ sewi li kute
   {:.weka}
 
   tawa ma ali
-  {:.weka-suli}
+  {:.weka-suli-sp}
 
   tawa soweli ali
-  {:.weka-suli}
+  {:.weka-suli-sp}
 
   tawa ijo ali
-  {:.weka-suli}
+  {:.weka-suli-sp}
 
 nimi ni li nimi+ali
 
@@ -425,28 +431,28 @@ taso ona li ike
 pilin nimi li ni:
 
   ijo ali li ante 
-  {:.weka}
+  {:.weka-sp}
 
 nimi-ali li wawa ala tan ni:
 
   soweli li pilin sama tawa soweli ante
-  {:.weka}
+  {:.weka-sp}
 
   taso nimi ona li ante
-  {:.weka}
+  {:.weka-sp}
 
 <br>
 
 nimi-ali li jaki tawa mun
 
   tawa ma
-  {:.weka}
+  {:.weka-sp}
 
   tawa soweli
-  {:.weka}
+  {:.weka-sp}
 
   tawa ijo ali
-  {:.weka}
+  {:.weka-sp}
 
 pilin sama li suli tawa ona
 
@@ -467,10 +473,10 @@ tenpo suli li pini
 tenpo ni la
 
    sewi li pali e nimi-mute
-  {:.weka}
+  {:.weka-sp}
 
   li pana e wawa pi++pali nimi tawa ijo ali
-  {:.weka-suli}
+  {:.weka-suli-sp}
 
 <br>
 
@@ -483,19 +489,19 @@ nimi mi li nimi [_wawa_awen_linja_ante_suwi_alasa]
 ni li pona tawa mun
 
   tawa ma
-  {:.weka}
+  {:.weka-sp}
 
   tawa soweli
-  {:.weka}
+  {:.weka-sp}
 
   tawa ijo ali
-  {:.weka}
+  {:.weka-sp}
 
 <br>
 tenpo ni la
 
   nimi li lon
-  {:.weka}
+  {:.weka-sp}
 
 </div>
 
