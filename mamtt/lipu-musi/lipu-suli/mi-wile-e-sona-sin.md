@@ -161,7 +161,7 @@ poki uta pi jan Neli li tawa sewi.
 
 ## tenpo pimeja li lon
 
-pimeja li lon. mi lon poka mi tomo mi. tenpo suno la mi en jan Neli li toki mute li musi mute. jan pona mi li tawa tomo ona la mi telo pona e sijelo mi. mi alasa e len pi pona suli. mi jo e poki lili. taso ijo pi mute ala li lon insa ona. moku lete li lon. telo kili li lon kin. pana sona pi jan mun li wile ala e tenpo suli. tawa li wile ala e tenpo suli.
+pimeja li lon. mi lon poka pi tomo mi. tenpo suno la mi en jan Neli li toki mute li musi mute. jan pona mi li tawa tomo ona la mi telo pona e sijelo mi. mi alasa e len pi pona suli. mi jo e poki lili. taso ijo pi mute ala li lon insa ona. moku lete li lon. telo kili li lon kin. pana sona pi jan mun li wile ala e tenpo suli. tawa li wile ala e tenpo suli.
 
 mi lukin e nasin pi ma tomo e ma kasi e sewi kin. taso mi lukin ala e ilo tawa pi jan mun. jan pi sona sin li toki lili e tawa ona. mi sona e ni taso: tawa ona li pana e pilin nasa. ken la jan pi sona sin li jo ala e nimi pona tawa toki pona. ken la jan mun li pana e nimi sin tawa mi. ni la mi ken pana e sona ale pi tawa mi.
 
