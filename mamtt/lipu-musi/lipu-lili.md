@@ -18,9 +18,20 @@ layout: lipu
       font-family: "nasin nanpa";
       src: url({{ '/assets/nasin-nanpa-4.0.1.otf' | relative_url }});
   }
+  @font-face {
+    font-family: "linja pona";
+    src: url({{ '/assets/linja-pona-4.9.otf' | relative_url }});
+  }
   .nasin-nanpa {
       font-family: "nasin nanpa";
       font-size: 1.2em;
+  }
+  .linja-pona {
+      font-family: "linja pona";
+      font-size: 1.6em;
+  }
+  h2.linja-pona {
+      font-size: 2.2em;
   }
   .sitelen-pona {
     font-family: "linja luka";
@@ -28,7 +39,7 @@ layout: lipu
   }
   .linja-lipamanka {
     font-family: "linja lipamanka";
-    font-size: large;
+    font-size: 1.45em;
   }
   h2.linja-lipamanka {
     font-size: 2em;
@@ -286,22 +297,232 @@ pini.
 
 ***
 
-## nimi
+<h2 id="nimi" class="linja-pona">nimi</h2>
 
-<div class="lipu-weka" markdown="1">
+<div class="lipu-weka linja-pona" markdown="1">
+
 
 tenpo open la
 
 sewi li pali e mun
+{:.weka}
 
   e ma
-  {:.weka}
-    
+  {:.weka-suli}
+
   e soweli
-  {:.weka}
+  {:.weka-suli}
 
   e ijo ali
+  {:.weka-suli}
+
+<br>
+
+nimi taso li lon ala
+
+nimi li sama ala mun
+
+  anu ma
   {:.weka}
+
+  anu soweli
+  {:.weka}
+
+  anu ijo ante
+  {:.weka}
+
+tan ni:
+
+  nimi li ijo ala
+  {:.weka}
+
+  nimi li kulupu ijo
+  {:.weka}
+
+<br>
+
+sewi li wile e nimi la
+
+  sewi li pali e nimi-tu
+  {:.weka}
+
+nimi-tu li ni:
+
+  lon en ala
+  {:.weka}
+
+<br>
+
+toki insa sewi li ni:
+
+  nimi-tu li pona tan ni:
+  {:.weka}
+
+  tu li mute ala
+  {:.weka-suli}
+
+<br>
+
+sona nimi li ni:
+
+  ijo ali li lon
+  {:.weka}
+
+  ali ante li ala
+  {:.weka}
+
+sona ni li wawa ala tan ni:
+
+  nimi ali li sama
+  {:.weka}
+
+  taso kon ona li ante
+  {:.weka}
+
+<br>
+
+nimi-tu li jaki tawa mun
+
+  tawa ma
+  {:.weka}
+
+  tawa soweli
+  {:.weka}
+
+  tawa ijo ali
+  {:.weka}
+
+sona pi++kon ona li suli tawa ona
+
+nimi-tu li weka e sona ni
+
+<br>
+ona li toki e ni tawa sewi
+tu li mute ala
+sewi li kute
+
+  li pana e nimi wan tawa mun ali
+  {:.weka}
+
+  tawa ma ali
+  {:.weka-suli}
+
+  tawa soweli ali
+  {:.weka-suli}
+
+  tawa ijo ali
+  {:.weka-suli}
+
+nimi ni li nimi+ali
+
+<br>
+
+nimi-ali li ken ala toki kepeken toki ni
+
+taso ona li ike
+
+<br>
+pilin nimi li ni:
+
+  ijo ali li ante 
+  {:.weka}
+
+nimi-ali li wawa ala tan ni:
+
+  soweli li pilin sama tawa soweli ante
+  {:.weka}
+
+  taso nimi ona li ante
+  {:.weka}
+
+<br>
+
+nimi-ali li jaki tawa mun
+
+  tawa ma
+  {:.weka}
+
+  tawa soweli
+  {:.weka}
+
+  tawa ijo ali
+  {:.weka}
+
+pilin sama li suli tawa ona
+
+nimi-ali li weka e pilin ni
+
+<br>
+
+ona li toki e ni tawa sewi
+
+sewi li kute
+
+<br>
+
+tenpo suli li pini
+
+<br>
+
+tenpo ni la
+
+   sewi li pali e nimi-mute
+  {:.weka}
+
+  li pana e wawa pi++pali nimi tawa ijo ali
+  {:.weka-suli}
+
+<br>
+
+nimi+mute li toki ni
+
+nimi mi li nimi [_wawa_awen_linja_ante_suwi_alasa]
+
+<br>
+
+ni li pona tawa mun
+
+  tawa ma
+  {:.weka}
+
+  tawa soweli
+  {:.weka}
+
+  tawa ijo ali
+  {:.weka}
+
+<br>
+tenpo ni la
+
+  nimi li lon
+  {:.weka}
+
+</div>
+
+
+
+<br>
+
+<details markdown="1">
+  <summary><em>o lukin kepeken sitelen Lasina</em></summary>
+
+<div class="lipu-weka" markdown="1">
+
+<br>
+
+tenpo open la
+
+sewi li pali e mun
+{:.weka}
+
+  e ma
+  {:.weka-suli}
+
+  e soweli
+  {:.weka-suli}
+
+  e ijo ali
+  {:.weka-suli}
 
 <br>
 
@@ -485,6 +706,8 @@ tenpo ni la
   {:.weka}
 
 </div>
+
+</details>
 
 ***
 
