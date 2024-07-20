@@ -398,7 +398,7 @@ nimi-tu li weka e sona ni
 
 <br>
 ona li toki e ni tawa sewi
-tu li mute ala
+
 sewi li kute
 
   li pana e nimi wan tawa mun ali
@@ -606,7 +606,7 @@ nimi tu li weka e sona ni
 
 <br>
 ona li toki e ni tawa sewi
-tu li mute ala
+
 sewi li kute
 
   li pana e nimi wan tawa mun ali
