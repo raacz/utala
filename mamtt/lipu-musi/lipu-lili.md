@@ -72,9 +72,6 @@ layout: lipu
   .comma {
     font-family: sans-serif;
   }
-  .h2 comma{
-    font-size: 2.5rem;
-  }
 
 
 </style>
