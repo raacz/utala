@@ -9,7 +9,8 @@ layout: lipu
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>
   <ul>
-    <li></li>
+    <li>moli mute</li>
+    <li>nimi pi pu ala</li>
   </ul>
 </details>
 

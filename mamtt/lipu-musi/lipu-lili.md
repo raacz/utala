@@ -728,6 +728,7 @@ li pilin lete mute.
   weka li ike ala  
   wawa sewi li kasi  
   kama li sin pona  
+  
   ni li telo oko  
   ———————  
   telo tu li kama <span class="comma">,</span>  
@@ -754,8 +755,8 @@ li pilin lete mute.
   pakala li lili taso<br>
   weka li ike ala<br>
   wawa sewi li kasi<br>
-  kama li sin pona</p>
-
+  kama li sin pona</p>  
+  
   <p>ni li telo oko<br>
   ———————<br>
   telo tu li kama,<br>
