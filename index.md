@@ -66,7 +66,7 @@ lipu mute li pona li musi. o lukin pona! sina pini e lipu la, wile la o toki e '
 suli mute mute a - nasin Lanpan  
 suli - lon anpa pi sewi walo lon sewi pi telo suno  
 suli - mi jan  
-suli - mi pana e musi   
+suli - mi pana e lipu   
 suli lili - waso sona UKami en monsuta pi kiwen pimeja  
 suli lili - mi wile e sona sin  
 suli lili - kasi utala pi ma Tokono  
