@@ -936,8 +936,6 @@ li pilin lete mute.
 
 ***
 
-## telo tu
-
 <h2 id="telo-tu" class="linja-lipamanka">telo tu</h2>
 
 <div class="linja-lipamanka" markdown="1">
@@ -970,6 +968,9 @@ li pilin lete mute.
 
 <details>
   <summary><em>o lukin kepeken sitelen Lasina</em></summary>
+
+  <h2>telo tu</h2>
+
   <p>telo li kama la,<br>
   ale li kama ante<br>
   suno sama li lon,<br>
