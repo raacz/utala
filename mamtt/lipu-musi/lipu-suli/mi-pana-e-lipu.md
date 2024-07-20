@@ -21,7 +21,7 @@ layout: lipu
   }
 </style>
 
-# mi pana e musi
+# mi pana e lipu
 **mute nimi**: suli, <abbr title="6200">MMMTA</abbr> 
 
 <details>
