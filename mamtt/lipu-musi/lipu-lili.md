@@ -408,7 +408,7 @@ ona li toki e ni tawa sewi
 sewi li kute
 
   li pana e nimi wan tawa mun ali
-  {:.weka}
+  {:.weka-sp}
 
   tawa ma ali
   {:.weka-suli-sp}
