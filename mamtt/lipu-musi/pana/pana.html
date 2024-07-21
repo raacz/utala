@@ -1,6 +1,10 @@
 <style>
-.kenante .lipukule,.tawani,.kenante .lipulili,#lipuale .js,.kenante .nojs,.weka{
+.kenante .lipukule,.tawani,.kenante .lipulili,.js,.kenante .nojs,.weka,.kenante .lipupikuleala,.lipupikuleala,#osp,#ospala{
 display:none;
+}
+
+#osp,#ospala{
+float:right;
 }
 
 .lipulili{
@@ -12,14 +16,21 @@ text-decoration:none;
 }
 
 .kenante .pipi{
-width:100%;
+width:90%;
 }
 
 .kenante .js{
 display:inline;
 } 
+
+@keyframes kama{
+0%{opacity:0;display:none;}
+1%{opacity:0;display:block;}
+100%{opacity:1;}
+}
 .kenante .lipulili.ona{
 display:block;
+animation:1.5s ease-in-out 0s 1 kama;	
 }
 
 .kenante h2{
@@ -66,11 +77,11 @@ font-family: Times New Roman,serif;
     src: url("https://cdn.jsdelivr.net/gh/retsamys/nishiki-teki-lili@d295164/nishiki-teki-lili.ttf");	
 }
 
-.sp,.sp button,.sp input{
+.sp,.sp button,.sp input,#osp{
 font-family: "nasin-nanpa";
 }
 
-.sp{
+.sp,#osp{
 font-size:2em;
 }
 
@@ -105,7 +116,60 @@ background:initial;
 input:valid{
 background:paleturquoise;
 }
+
+@media print{
+.lipukule,.js,.weka,input,button{
+display:none;
+}
+
+.kenante .lipulili,.lipulili,.lipupikuleala,h2{
+display:block;
+}
+
+.tawani,.kenante .tawani,.kenante .nojs,.nojs{
+display:inline;
+}
+
+.sp{
+font-size:1.2em;
+}
+
+.lipulili,.lipuwile{
+float:left;
+/*display:inline-block !important;*/
+}
+
+.pipi{
+background:transparent;
+/*color:white;
+text-shadow:0 0 10px black,0 0 1px white,0 0 2px black,0 0 7px black,0 0 5px black,0 0 8px black,0 0 9px black;*/
+text-stroke:3px lightgrey;
+}
+
+#lipuale,a{
+color:black;
+}
+
+h2,.kenante h2{
+font-size:1.6em;
+opacity:.5;
+}
+
+.lipulili,ul,p{
+break-inside: avoid;
+}
+.lipulili{
+break-after:region;
+}
+
+.lipupikuleala,.kenante .lipupikuleala{
+display:block;
+}
+
+#wile{display:none;}
+}
 </style>
+<div id="wile"><a id="ospala" onclick="spala();return false;">sitelen o ante</a><a onclick="window.location.reload();" id="osp">sitelen o ante</a></div>
 <div id="lipuale" class="sp">
 <div class='lipulili'>
 
@@ -149,7 +213,7 @@ background:paleturquoise;
 <h2 id="3-">3 <a name="TW"></a></h2>
 <p>&#x3000;&#x3000;nena li suli sewi&#x3000;<br/>taso anpa nena li wile+ala e wawa&#x3000;<br/>mi kama lon poka nena la&#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;tomo li lon</p>
 <p>tomo li sama poki mute&#x3000;<br/>poki wan li lon sewi pi(poki ante)&#x3000;<br/>&#x3000;&#x3000;li lon poka poki&#x3000;<br/>&#x3000;&#x3000;li lon anpa poki&#x3000;<br/>mute a&#x3000;<br/>lupa mute kin li lon tomo</p>
-<p>mi kama lon poka tomo la mi mu mu1&#x3000;<br/>&#x3000;&#x3000;te mu to&#x3000;<br/>lupa li kama open&#x3000;<br/>tawa lupa la&#x3000;<br/>&#x3000;&#x3000;mi lukin&#x3000;<br/>lon lupa la&#x3000;<br/>&#x3000;&#x3000;jan li lukin e mi&#x3000;<br/>tan lupa la&#x3000;<br/>&#x3000;&#x3000;soweli mute mute mute li kama&#x3000;<br/>soweli li lon ale&#x3000;<br/>&#x3000;li luka e noka mi &#x3000;<br/>&#x3000;li alasa e kasi poka &#x3000;<br/>&#x3000;li pana e selo-ona tawa jan lupa &#x3000;<br/>&#x3000;li lon poka tomo &#x3000;<br/>&#x3000;li lon sewi tomo &#x3000;<br/>&#x3000;li lon monsi mi &#x3000;<br/>&#x3000;li lon lawa pi(jan tomo) &#x3000;<br/>&#x3000;li seli e sijelo ona lon suno &#x3000;<br/>&#x3000;li mu &#x3000;<br/>&#x3000;li kalama ala &#x3000;<br/>&#x3000;li wile moku &#x3000;<br/>&#x3000;li lape taso &#x3000;<br/>&#x3000;li tawa wawa &#x3000;<br/>&#x3000;li tawa(insa tomo) &#x3000;<br/>&#x3000;li utala lili &#x3000;<br/>&#x3000;li pakala e poki kiwen kasi &#x3000;<br/>&#x3000;li pana e ko jaki2 &#x3000;<br/>&#x3000;li weka e kasi tan uta&#x3000;<br/>mute a</p>
+<p>mi kama lon poka tomo la mi mu mu1&#x3000;<br/>&#x3000;&#x3000;te mu to&#x3000;<br/>lupa li kama open&#x3000;<br/>tawa lupa la&#x3000;<br/>&#x3000;&#x3000;mi lukin&#x3000;<br/>lon lupa la&#x3000;<br/>&#x3000;&#x3000;jan li lukin e mi&#x3000;<br/>tan lupa la&#x3000;<br/>&#x3000;&#x3000;soweli mute mute mute li kama&#x3000;<br/>soweli li lon ale&#x3000;<br/>&#x3000;li luka e noka mi &#x3000;<br/>&#x3000;li alasa e kasi poka &#x3000;<br/>&#x3000;li pana e selo-ona tawa jan lupa &#x3000;<br/>&#x3000;li lon poka tomo &#x3000;<br/>&#x3000;li lon sewi tomo &#x3000;<br/>&#x3000;li lon monsi mi &#x3000;<br/>&#x3000;li lon lawa pi(jan tomo) &#x3000;<br/>&#x3000;li seli e sijelo ona lon suno &#x3000;<br/>&#x3000;li mu &#x3000;<br/>&#x3000;li kalama ala &#x3000;<br/>&#x3000;li wile moku &#x3000;<br/>&#x3000;li lape taso &#x3000;<br/>&#x3000;li tawa wawa &#x3000;<br/>&#x3000;li tawa(insa tomo) &#x3000;<br/>&#x3000;li utala lili &#x3000;<br/>&#x3000;li pakala e poki kiwen kasi &#x3000;<br/>&#x3000;li pana e ko1 jaki2 &#x3000;<br/>&#x3000;li weka e kasi tan uta&#x3000;<br/>mute a</p>
 <p>jan mu1&#x3000;<br/>&#x3000;&#x3000;te lon a&#x3000;<br/>&#x3000;&#x3000;&#x3000;mu to&#x3000;<br/>ona li awen lukin e mi&#x3000;<br/>&#x3000;li lawa e soweli ale kepeken tawa luka wan taso&#x3000;<br/>soweli li tawa(insa tomo)&#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;anu seme&#x3000;<br/>soweli li tawa pi(wawa ala)&#x3000;<br/>tenpo la ona li ken tawa insa</p>
 <p>jan li lukin</p>
 <ul>
@@ -195,7 +259,7 @@ background:paleturquoise;
 <p>mi mu1&#x3000;<br/>&#x3000;&#x3000;te toki&#x3000;<br/>&#x3000;&#x3000;&#x3000;pipi o to&#x3000;<br/>pipi mu1&#x3000;<br/><span class="mama">&#x3000;&#x3000;te&#x3000;a sina lon&#x3000;<br/>&#x3000;&#x3000;sina lon la o kute pona&#x3000;<br/>&#x3000;&#x3000;sina kute pona la lipu mute li tawa(mi)&#x3000;<br/>&#x3000;&#x3000;lipu li tawa mi la mi jo e lipu mute&#x3000;<br/>&#x3000;&#x3000;mi jo e lipu la lipu li toki e nimi&#x3000;<br/>&#x3000;&#x3000;lipu li toki la nimi li toki e tomo&#x3000;<br/>&#x3000;&#x3000;nimi li toki la lipu li wile tawa tomo nimi&#x3000;<br/>&#x3000;&#x3000;lipu li wile la o pana e ona ale tawa tomo wile ona&#x3000;<br/>&#x3000;&#x3000;sina pana e ona la pali sina li pini&#x3000;to</a></span></p>
 <p>ni li pali mi&#x3000;<br/>mi mu1&#x3000;<br/>&#x3000;&#x3000;te pona&#x3000;<br/>&#x3000;&#x3000;&#x3000;mi open e pali to&#x3000;<br/>pipi mu1&#x3000;<br/><span class="mama">&#x3000;&#x3000;te&#x3000;o awen&#x3000;<br/>&#x3000;&#x3000;&#x3000;sina awen la o kute&#x3000;<br/>&#x3000;&#x3000;&#x3000;sina kute la o pana ala e lipu tawa tomo pi(wile ala)&#x3000;to</a></span></p>
 <p>lon&#x3000;<br/>mi mu1&#x3000;<br/>&#x3000;&#x3000;te mi sona e pali to&#x3000;<br/>pipi mu1&#x3000;<br/><span class="mama">&#x3000;&#x3000;te &#x3000;sina sona la o pali &#x3000;to</a></span></p>
-<p>mi jo e <span class="nojs"><span class="tawani">→lipuwile&#x3000;</a></span><a href="#lipuwile">lipu mute</a></a></span><span class="js">lipu mute</a></span></p>
+<p>mi jo e <span class="nojs"><span class="tawani">→lipu wile&#x3000;</a></span><a href="#lipuwile">lipu mute</a></a></span><span class="js">lipu mute</a></span></p>
 <ul>
 <li><span class="tawani">→11&#x3000;</a></span><a href="#LLW">mi tawa poka pi(telo lili)</a></li>
 <li><span class="tawani">→12&#x3000;</a></span><a href="#LLT">mi tawa anpa nena</a></li>
@@ -277,7 +341,7 @@ background:paleturquoise;
 <h2 id="12">12<a name="LLT"></a></h2>
 <p>&#x3000;&#x3000;nena li suli sewi&#x3000;<br/>taso anpa nena li wile+ala e wawa&#x3000;<br/>mi kama lon poka nena la&#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;tomo li lon</p>
 <p>tomo li sama poki mute&#x3000;<br/>poki wan li lon sewi pi(poki ante)&#x3000;<br/>&#x3000;&#x3000;li lon poka poki&#x3000;<br/>&#x3000;&#x3000;li lon anpa poki&#x3000;<br/>mute a&#x3000;<br/>lupa mute kin li lon tomo</p>
-<p>mi kama lon poka tomo la&#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;mi mu mu1&#x3000;<br/>&#x3000;te mu to&#x3000;<br/>lupa li kama open&#x3000;<br/>tawa lupa la&#x3000;<br/>&#x3000;&#x3000;mi lukin&#x3000;<br/>lon lupa la&#x3000;<br/>&#x3000;&#x3000;jan li lukin e mi&#x3000;<br/>tan lupa la&#x3000;<br/>&#x3000;&#x3000;soweli mute mute mute li kama&#x3000;<br/>soweli li lon ale &#x3000;<br/>&#x3000;li luka e noka mi&#x3000;<br/>&#x3000;li alasa e kasi poka&#x3000;<br/>&#x3000;li pana e selo-ona tawa jan lupa&#x3000;<br/>&#x3000;li lon poka tomo&#x3000;<br/>&#x3000;li lon sewi tomo&#x3000;<br/>&#x3000;li lon monsi mi&#x3000;<br/>&#x3000;li lon lawa pi(jan tomo)&#x3000;<br/>&#x3000;li seli e sijelo ona lon suno&#x3000;<br/>&#x3000;li mu&#x3000;<br/>&#x3000;li kalama ala&#x3000;<br/>&#x3000;li wile moku&#x3000;<br/>&#x3000;li lape taso&#x3000;<br/>&#x3000;li tawa wawa&#x3000;<br/>&#x3000;li tawa(insa tomo)&#x3000;<br/>&#x3000;li utala lili&#x3000;<br/>&#x3000;li pakala e poki kiwen kasi&#x3000;<br/>&#x3000;li pana e ko jaki3&#x3000;<br/>&#x3000;li weka e kasi tan uta&#x3000;<br/>mute a</p>
+<p>mi kama lon poka tomo la&#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;mi mu mu1&#x3000;<br/>&#x3000;te mu to&#x3000;<br/>lupa li kama open&#x3000;<br/>tawa lupa la&#x3000;<br/>&#x3000;&#x3000;mi lukin&#x3000;<br/>lon lupa la&#x3000;<br/>&#x3000;&#x3000;jan li lukin e mi&#x3000;<br/>tan lupa la&#x3000;<br/>&#x3000;&#x3000;soweli mute mute mute li kama&#x3000;<br/>soweli li lon ale &#x3000;<br/>&#x3000;li luka e noka mi&#x3000;<br/>&#x3000;li alasa e kasi poka&#x3000;<br/>&#x3000;li pana e selo-ona tawa jan lupa&#x3000;<br/>&#x3000;li lon poka tomo&#x3000;<br/>&#x3000;li lon sewi tomo&#x3000;<br/>&#x3000;li lon monsi mi&#x3000;<br/>&#x3000;li lon lawa pi(jan tomo)&#x3000;<br/>&#x3000;li seli e sijelo ona lon suno&#x3000;<br/>&#x3000;li mu&#x3000;<br/>&#x3000;li kalama ala&#x3000;<br/>&#x3000;li wile moku&#x3000;<br/>&#x3000;li lape taso&#x3000;<br/>&#x3000;li tawa wawa&#x3000;<br/>&#x3000;li tawa(insa tomo)&#x3000;<br/>&#x3000;li utala lili&#x3000;<br/>&#x3000;li pakala e poki kiwen kasi&#x3000;<br/>&#x3000;li pana e ko2 jaki3&#x3000;<br/>&#x3000;li weka e kasi tan uta&#x3000;<br/>mute a</p>
 <p>ona mu1 &#x3000;<br/>&#x3000;&#x3000;te lon a&#x3000;<br/>&#x3000;&#x3000;&#x3000;mu to&#x3000;<br/>ona li lawa e soweli ale kepeken tawa luka wan taso&#x3000;<br/>soweli li tawa(insa tomo)&#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;anu seme&#x3000;<br/>soweli li tawa pi(wawa ala&#x3000;<br/>tenpo la ona li ken tawa insa</p>
 <ul><li><span class="tawani">→21&#x3000;</a></span><a href="#MW">mi toki tawa(jan)</a></li>
 <li class="lipuloje"><span class="tawani">→22&#x3000;</a></span><a href="#MT">mi pana e lipu tawa(jan)</a></li>
@@ -597,7 +661,7 @@ background:paleturquoise;
 <h2 id="40">40<a name="MM"></a></h2>
 <p>lukin [soweli..lipu:] li toki mu1&#x3000;<br/>&#x3000;&#x3000;te a sina pana pona&#x3000;<br/>&#x3000;&#x3000;&#x3000;ni li lipu+pona&#x3000;<br/>&#x3000;&#x3000;&#x3000;sina wile ala wile pana e lipu tawa tomo mute to&#x3000;<br/>mi mu1&#x3000;<br/>&#x3000;te wile to&#x3000;<br/>lukin mu1&#x3000;<br/>&#x3000;&#x3000;te mi jo e lipu sona mute la&#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;mi sona mute&#x3000;<br/>&#x3000;&#x3000;&#x3000;sina jo e lipu seme to</p>
 <p>mi kama e lipu tan poki mi&#x3000;<br/>lukin [soweli..lipu:] li toki mu1&#x3000;<br/>&#x3000;<br/>&#x3000;&#x3000;te mi ken toki e nimi pi(lipu wan)&#x3000;<br/>&#x3000;&#x3000;&#x3000;ona li toki e jan [suli.linja:] to</p>
-<p><img src="lipupimeja.svg" alt="lipu pimeja" title="lipu pimeja"></p>
+<p><span class="lipukule"><img src="lipupimeja.svg" alt="lipu pimeja" title="lipu pimeja"></span><span class="lipupikuleala"><img src="lipupimejapka.svg" alt="lipu pimeja" title="lipu pimeja"></span></p>
 <p>mi mu1 &#x3000;<br/>&#x3000;te sona+pona a to</p>
 <ul>
 <li><span class="tawani">→26&#x3000;</a></span><a href="#MLW">mi tawa poka pi(telo lili)</a></li>
@@ -745,7 +809,7 @@ background:paleturquoise;
 <h2 id="56">56<a name="MMLLLW"></a></h2>
 <p>pipi li kama lon poka mi&#x3000;<br/>mi mu1&#x3000;<br/>&#x3000;te mi pakala a to&#x3000;<br/>pipi mu1&#x3000;<br/><span class="mama">&#x3000;te sina pakala la pali sina li kama ala pini pona&#x3000;<br/>&#x3000;&#x3000;pali sina li kama ala pini la pali li awen&#x3000;<br/>&#x3000;&#x3000;pali li awen la sina wile awen pali&#x3000;<br/>&#x3000;&#x3000;sina wile awen pali la sina wile pali pona&#x3000;<br/>&#x3000;&#x3000;sina wile pali pona la sina wile e lape&#x3000;<br/>&#x3000;&#x3000;sina lape la sijelo sina li pona&#x3000;<br/>&#x3000;&#x3000;sijelo li pona la sina ken pali pona&#x3000;<br/>&#x3000;&#x3000;sina pali pona la ni li tan lape&#x3000;<br/>&#x3000;&#x3000;ni li tan lape la o lukin e tenpo&#x3000;<br/>&#x3000;&#x3000;sina lukin e tenpo la sina kama lukin e pimeja&#x3000;<br/>&#x3000;&#x3000;sina lukin e pimeja la sina sona e tenpo lape&#x3000;<br/>&#x3000;&#x3000;sina sona e tenpo lape la o lape to</a></span></p>
 <ul>
-<li><span class="tawani">→0&#x3000;</a></span><a href="#X">mi lape</a></li>
+<li><span class="tawani">→0&#x3000;</a></span><a onclick="document.getElementById('lipuale').className='sp kenante';" href="#X">mi lape</a></li>
 </ul>
 </div>
 <div class='lipulili'>
@@ -1030,12 +1094,12 @@ background:paleturquoise;
 
 <h2 id="81">81<a name="MMMMW"></a></h2>
 <p>mi tawa&#x3000;<br/>mi awen tawa&#x3000;<br/>kasi li kama lili&#x3000;<br/>&#x3000;li kama ala&#x3000;<br/>ma taso li lon&#x3000;<br/>lupa suli li kama&#x3000;<br/>mi lukin e ona</p>
-<p>jan li lon&#x3000;<br/>ko mute li lon ale ona&#x3000;<br/>jan li toki mu1&#x3000;<br/>&#x3000;&#x3000;te toki to&#x3000;<br/>mi mu1&#x3000;<br/>&#x3000;te a sina seme to&#x3000;<br/>jaki5 [ante.telo:] li toki mu1&#x3000;<br/>&#x3000;&#x3000;te mi jan [ante.telo:]&#x3000;<br/>&#x3000;&#x3000;&#x3000;mi alasa e kiwen musi lon lupa&#x3000;<br/>&#x3000;&#x3000;&#x3000;mi kama e kiwen musi la&#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;mi pana e ona lon poki mi to&#x3000;<br/>mi mu1&#x3000;<br/>&#x3000;te sina jo e poki mute to&#x3000;<br/>jaki6 mu1&#x3000;<br/>&#x3000;&#x3000;te jo to</p>
+<p>jan li lon&#x3000;<br/>ko1 mute li lon ale ona&#x3000;<br/>jan li toki mu1&#x3000;<br/>&#x3000;&#x3000;te toki to&#x3000;<br/>mi mu1&#x3000;<br/>&#x3000;te a sina seme to&#x3000;<br/>jaki5 [ante.telo:] li toki mu1&#x3000;<br/>&#x3000;&#x3000;te mi jan [ante.telo:]&#x3000;<br/>&#x3000;&#x3000;&#x3000;mi alasa e kiwen musi lon lupa&#x3000;<br/>&#x3000;&#x3000;&#x3000;mi kama e kiwen musi la&#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;mi pana e ona lon poki mi to&#x3000;<br/>mi mu1&#x3000;<br/>&#x3000;te sina jo e poki mute to&#x3000;<br/>jaki6 mu1&#x3000;<br/>&#x3000;&#x3000;te jo to</p>
 <ul><li class="lipusuno"><span class="tawani">→88&#x3000;</a></span><a href="#MMMMLTW">mi pana e lipu tawa(ona)</a></li>
 <li><span class="tawani">→76&#x3000;</a></span><a href="#MMMLLLW">mi tawa tomo pi(kiwen wawa</a></li>
 <li><span class="tawani">→77&#x3000;</a></span><a href="#MMMLLLT">mi tawa ma kili</a></li>
 <li><span class="tawani">→79&#x3000;</a></span><a href="#MMMLLLTT">mi tawa ma pi(poka telo</a></li>
-<li><span class="tawani">→80&#x3000;</a></span><a href="#MMMM">mi tawa tomo sike</a></li></ul>
+<li><span class="tawani">→80&#x3000;</a></span><a href="#MMMM">mi tawa tomo sike</a></li>
 
 </div>
 <div class='lipulili'>
@@ -1071,8 +1135,8 @@ background:paleturquoise;
 <div class='lipulili'>
 
 <h2 id="85">85<a name="MMMML"></a></h2>
-<p><label class="nojs" for="nanpapona">mi sona e nanpa pona la&#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;mi tawa(ona)</label><label class="js" for="nanpapona">mi sona e nanpa pona la&#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;mi pana e nanpa</label>&#x3000;<br>&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;<input id="nanpapona" name="nanpapona" required pattern="MMLTW|mmltw|48|mute mute luka tu wan" /><button onclick="if(document.getElementById('nanpapona').checkValidity()){window.location.hash='MMLTW';}">pana</button></p>
-<p>mi sona+ala e nanpa pona la&#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;<span class="tawani">→86&#x3000;</a></span><a href="#MMMMLW">mi weka</a></p>
+<p><label class="nojs" for="nanpapona">mi sona e nanpa pona la&#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;<span class="tawani">→&#x3000;</span>mi tawa(ona)</label><label class="js" for="nanpapona">mi sona e nanpa pona la&#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;mi pana e nanpa</label>&#x3000;<br>&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;<input id="nanpapona" name="nanpapona" required pattern="MMLTW|mmltw|48|mute mute luka tu wan" /><button onclick="if(document.getElementById('nanpapona').checkValidity()){window.location.hash='MMLTW';}">pana</button></p>
+<p>mi sona+ala e nanpa pona la&#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;<span class="tawani">→86&#x3000;</span><a href="#MMMMLW">mi weka</a></p>
 </div>
 <div class='lipulili'>
 
@@ -1179,7 +1243,7 @@ background:paleturquoise;
 <div class='lipulili'>
 
 <h2 id="95">95<a name="MMMMLLL"></a></h2>
-<p>luka ona li kama jo e lipu&#x3000;<br/>&#x3000;&#x3000;li ko lili e lipu&#x3000;<br/>ona mu1&#x3000;<br/>&#x3000;&#x3000;te a&#x3000;<br/>&#x3000;&#x3000;&#x3000;taso lipu+ni li wile+ala tawa(mi)&#x3000;<br/>&#x3000;&#x3000;&#x3000;lipu li toki+ala e nimi mi to</p>
+<p>luka ona li kama jo e lipu&#x3000;<br/>&#x3000;&#x3000;li ko3 lili e lipu&#x3000;<br/>ona mu1&#x3000;<br/>&#x3000;&#x3000;te a&#x3000;<br/>&#x3000;&#x3000;&#x3000;taso lipu+ni li wile+ala tawa(mi)&#x3000;<br/>&#x3000;&#x3000;&#x3000;lipu li toki+ala e nimi mi to</p>
 <ul>
 <li><span class="tawani">→56&#x3000;</a></span><a href="#MMLLLW">mi pakala a</a></li>
 </ul>
@@ -1187,7 +1251,7 @@ background:paleturquoise;
 <div class='lipulili'>
 
 <h2 id="96">96<a name="MMMMLLLW"></a></h2>
-<p>luka ona li kama jo e lipu&#x3000;<br/>&#x3000;&#x3000;li ko lili e lipu&#x3000;<br/>ona mu1&#x3000;<br/>&#x3000;&#x3000;te a&#x3000;<br/>&#x3000;&#x3000;&#x3000;taso lipu+ni li wile+ala tawa(mi)&#x3000;<br/>&#x3000;&#x3000;&#x3000;lipu li toki+ala e nimi mi to</p>
+<p>luka ona li kama jo e lipu&#x3000;<br/>&#x3000;&#x3000;li ko4 lili e lipu&#x3000;<br/>ona mu1&#x3000;<br/>&#x3000;&#x3000;te a&#x3000;<br/>&#x3000;&#x3000;&#x3000;taso lipu+ni li wile+ala tawa(mi)&#x3000;<br/>&#x3000;&#x3000;&#x3000;lipu li toki+ala e nimi mi to</p>
 <ul>
 <li><span class="tawani">→56&#x3000;</a></span><a href="#MMLLLW">mi pakala a</a></li>
 </ul>
@@ -1195,7 +1259,7 @@ background:paleturquoise;
 <div class='lipulili'>
 
 <h2 id="97">97<a name="MMMMLLLT"></a></h2>
-<p>luka ona li kama jo e lipu&#x3000;<br/>&#x3000;&#x3000;li ko lili e lipu&#x3000;<br/>ona mu1&#x3000;<br/>&#x3000;&#x3000;te a&#x3000;<br/>&#x3000;&#x3000;&#x3000;taso lipu+ni li wile+ala tawa(mi)&#x3000;<br/>&#x3000;&#x3000;&#x3000;lipu li toki+ala e nimi mi to</p>
+<p>luka ona li kama jo e lipu&#x3000;<br/>&#x3000;&#x3000;li ko5 lili e lipu&#x3000;<br/>ona mu1&#x3000;<br/>&#x3000;&#x3000;te a&#x3000;<br/>&#x3000;&#x3000;&#x3000;taso lipu+ni li wile+ala tawa(mi)&#x3000;<br/>&#x3000;&#x3000;&#x3000;lipu li toki+ala e nimi mi to</p>
 <ul>
 <li><span class="tawani">→56&#x3000;</a></span><a href="#MMLLLW">mi pakala a</a></li>
 </ul>
@@ -1203,7 +1267,7 @@ background:paleturquoise;
 <div class='lipulili'>
 
 <h2 id="98">98<a name="MMMMLLLTW"></a></h2>
-<p>luka ona li kama jo e lipu&#x3000;<br/>&#x3000;&#x3000;li ko lili e lipu&#x3000;<br/>ona mu1&#x3000;<br/>&#x3000;&#x3000;te a&#x3000;<br/>&#x3000;&#x3000;&#x3000;taso lipu+ni li wile+ala tawa(mi)&#x3000;<br/>&#x3000;&#x3000;&#x3000;lipu li toki+ala e nimi mi to</p>
+<p>luka ona li kama jo e lipu&#x3000;<br/>&#x3000;&#x3000;li ko6 lili e lipu&#x3000;<br/>ona mu1&#x3000;<br/>&#x3000;&#x3000;te a&#x3000;<br/>&#x3000;&#x3000;&#x3000;taso lipu+ni li wile+ala tawa(mi)&#x3000;<br/>&#x3000;&#x3000;&#x3000;lipu li toki+ala e nimi mi to</p>
 <ul>
 <li><span class="tawani">→56&#x3000;</a></span><a href="#MMLLLW">mi pakala a</a></li>
 </ul>
@@ -1211,7 +1275,7 @@ background:paleturquoise;
 <div class='lipulili'>
 
 <h2 id="99">99<a name="MMMMLLLTT"></a></h2>
-<p>luka ona li kama jo e lipu&#x3000;<br/>&#x3000;&#x3000;li ko lili e lipu&#x3000;<br/>ona mu1&#x3000;<br/>&#x3000;&#x3000;te a&#x3000;<br/>&#x3000;&#x3000;&#x3000;pona&#x3000;<br/>&#x3000;&#x3000;&#x3000;pona pona&#x3000;<br/>&#x3000;&#x3000;&#x3000;a&#x3000;<br/>&#x3000;&#x3000;&#x3000;lon&#x3000;<br/>&#x3000;&#x3000;&#x3000;lon lon&#x3000;<br/>&#x3000;&#x3000;&#x3000;a&#x3000;<br/>&#x3000;&#x3000;&#x3000;sona&#x3000;<br/>&#x3000;&#x3000;&#x3000;sona sona&#x3000;<br/>&#x3000;&#x3000;&#x3000;a&#x3000;<br/>&#x3000;&#x3000;&#x3000;musi&#x3000;<br/>&#x3000;&#x3000;&#x3000;musi musi&#x3000;<br/>&#x3000;&#x3000;&#x3000;nanpa li lon lipu&#x3000;<br/>&#x3000;&#x3000;&#x3000;te wan to</p>
+<p>luka ona li kama jo e lipu&#x3000;<br/>&#x3000;&#x3000;li ko7 lili e lipu&#x3000;<br/>ona mu1&#x3000;<br/>&#x3000;&#x3000;te a&#x3000;<br/>&#x3000;&#x3000;&#x3000;pona&#x3000;<br/>&#x3000;&#x3000;&#x3000;pona pona&#x3000;<br/>&#x3000;&#x3000;&#x3000;a&#x3000;<br/>&#x3000;&#x3000;&#x3000;lon&#x3000;<br/>&#x3000;&#x3000;&#x3000;lon lon&#x3000;<br/>&#x3000;&#x3000;&#x3000;a&#x3000;<br/>&#x3000;&#x3000;&#x3000;sona&#x3000;<br/>&#x3000;&#x3000;&#x3000;sona sona&#x3000;<br/>&#x3000;&#x3000;&#x3000;a&#x3000;<br/>&#x3000;&#x3000;&#x3000;musi&#x3000;<br/>&#x3000;&#x3000;&#x3000;musi musi&#x3000;<br/>&#x3000;&#x3000;&#x3000;nanpa li lon lipu&#x3000;<br/>&#x3000;&#x3000;&#x3000;te wan to</p>
 <p>&#x3000;&#x3000;&#x3000;a sina pana pona la&#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;mi kin li wile pana&#x3000;<br/>&#x3000;&#x3000;&#x3000;mi alasa e kiwen musi lon lupa mi ni&#x3000;<br/>&#x3000;&#x3000;&#x3000;taso mi jo ala e kiwen musi&#x3000;<br/>&#x3000;&#x3000;&#x3000;mi jo e poki taso&#x3000;<br/>&#x3000;&#x3000;&#x3000;mi pana e poki tawa(sina)&#x3000;<br/>&#x3000;&#x3000;&#x3000;o jo to</p>
 <p>taso mi jo e poki sin la &#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;mi wile ona e seme</p>
 <ul>
@@ -1843,7 +1907,7 @@ taso tan insa tomo la&#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;mi kama kute e
 
 <h2 id="161">161<a name="AMMMW"></a></h2>
 <p>mi kama lon lupa&#x3000;<br/>mi lukin e ona&#x3000;<br/>jaki7 [ante.telo:] li lon insa &#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;li toki mu1&#x3000;<br/>&#x3000;&#x3000;te toki to&#x3000;<br/>mi mu1&#x3000;<br/>&#x3000;te a mi jo e telo mije&#x3000;<br/>&#x3000;&#x3000;sina wile ala wile e ona to&#x3000;<br/>jaki8 mu1&#x3000;<br/>&#x3000;&#x3000;te wile a&#x3000;<br/>&#x3000;&#x3000;&#x3000;mi wile kama mije to&#x3000;<br/>mi mu1&#x3000;<br/>&#x3000;te a pona to</p>
-<p>mi pana e telo tawa(ona)&#x3000;<br/>jaki9 [ante.telo:] li pana e telo tawa(ona)&#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;li weka e ko ale tan ona&#x3000;<br/>ko li weka&#x3000;<br/>taso ante li lon ala lon&#x3000;<br/>lon ala&#x3000;<br/>mije [ante.telo:] li mije lon tenpo ale</p>
+<p>mi pana e telo tawa(ona)&#x3000;<br/>jaki9 [ante.telo:] li pana e telo tawa(ona)&#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;li weka e ko8 ale tan ona&#x3000;<br/>ko2 li weka&#x3000;<br/>taso ante li lon ala lon&#x3000;<br/>lon ala&#x3000;<br/>mije [ante.telo:] li mije lon tenpo ale</p>
 <p>mije [ante.telo:] mu1&#x3000;<br/>&#x3000;&#x3000;te a pona&#x3000;<br/>&#x3000;&#x3000;&#x3000;mi ken lukin e mi mije&#x3000;<br/>&#x3000;&#x3000;&#x3000;sina pona e mi&#x3000;<br/>&#x3000;&#x3000;&#x3000;mi ken ala ken pona e sina to&#x3000;<br/>mi mu1&#x3000;<br/>&#x3000;te mi wile pana e lipu tawa(sina)&#x3000;<br/>&#x3000;&#x3000;taso mi jo e lipu mute&#x3000;<br/>&#x3000;&#x3000;lipu+seme li pona to</p>
 <p>mi kama e lipu tan poki mi&#x3000;<br/>mije li lon poka mi&#x3000;<br/>&#x3000;li lukin e lipu&#x3000;<br/>&#x3000;li toki mu1&#x3000;<br/>&#x3000;&#x3000;te a&#x3000;<br/>&#x3000;&#x3000;&#x3000;nimi mi li lon ona to</p>
 <ul>
@@ -2380,7 +2444,7 @@ taso tan insa tomo la&#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;mi kama kute e
 <div class='lipulili'>
 
 <h2 id="218">218<a name="AALLLTW"></a></h2>
-<p>mi kama lon lupa&#x3000;<br/>mi lukin e lupa&#x3000;<br/>jan li lon insa&#x3000;<br/>ko li lon ale ona&#x3000;<br/>taso mi lukin ala e jan+lili</p>
+<p>mi kama lon lupa&#x3000;<br/>mi lukin e lupa&#x3000;<br/>jan li lon insa&#x3000;<br/>ko3 li lon ale ona&#x3000;<br/>taso mi lukin ala e jan+lili</p>
 <ul>
 <li><span class="tawani">→215&#x3000;</a></span><a href="#AALLL">mi tawa tomo pi(kiwen wawa</a></li>
 <li><span class="tawani">→219&#x3000;</a></span><a href="#AALLLTT">mi tawa ma pi(ilo tawa</a></li>
@@ -2473,10 +2537,12 @@ taso tan insa tomo la&#x3000;<br/>&#x3000;&#x3000;&#x3000;&#x3000;mi kama kute e
 <div class='lipuwile'>
 
 <h2 id="lipu-wile">lipu wile<a name="lipuwile"></a></h2>
-<p><span class="lipulaso"><a class="lipukule"><img src="lipulaso.svg" alt="lipu laso" title="lipu laso"></a></span> <span class="lipukule lipuloje"><a class="lipukule"><img src="lipuloje.svg" alt="lipu loje" title="lipu loje"></a></span> <span class="lipukule lipupimeja"><a class="lipukule"><img src="lipupimeja.svg" alt="lipu pimeja" title="lipu pimeja"></a></span> <span class="lipukule lipuwalo"><a class="lipukule"><img src="lipuwalo.svg" alt="lipu walo" title="lipu walo"></a></span> <span class="lipukule lipujelo"><a class="lipukule"><img src="lipujelo.svg" alt="lipu jelo" title="lipu jelo"></a></span> <span class="lipukule lipupiselonasa"><a class="lipukule"><img src="lipupiselonasa.svg" alt="lipu pi selo nasa" title="lipu pi selo nasa"></a></span> <span class="lipukule lipusuno"><a class="lipukule"><img src="lipusuno.svg" alt="lipu suno" title="lipu suno"></a></span></p>
+<p><span class="lipulaso"><a class="lipukule"><img src="lipulaso.svg" alt="lipu laso" title="lipu laso"></a></span> <span class="lipukule lipuloje"><a class="lipukule"><img src="lipuloje.svg" alt="lipu loje" title="lipu loje"></a></span> <span class="lipukule lipupimeja"><a class="lipukule"><img src="lipupimeja.svg" alt="lipu pimeja" title="lipu pimeja"></a></span> <span class="lipukule lipuwalo"><a class="lipukule"><img src="lipuwalo.svg" alt="lipu walo" title="lipu walo"></a></span> <span class="lipukule lipujelo"><a class="lipukule"><img src="lipujelo.svg" alt="lipu jelo" title="lipu jelo"></a></span> <span class="lipukule lipupiselonasa"><a class="lipukule"><img src="lipupiselonasa.svg" alt="lipu pi selo nasa" title="lipu pi selo nasa"></a></span> <span class="lipukule lipusuno"><a class="lipukule"><img src="lipusuno.svg" alt="lipu suno" title="lipu suno"></a></span>
+<span class="lipupikuleala"><img src="lipulasopka.svg" alt="lipu laso" title="lipu laso">  <img src="lipulojepka.svg" alt="lipu loje" title="lipu loje"> <img src="lipupimejapka.svg" alt="lipu pimeja" title="lipu pimeja"> <img src="lipuwalopka.svg" alt="lipu laso" title="lipu walo"> <img src="lipujelopka.svg" alt="lipu jelo" title="lipu jelo"> <img src="lipupiselonasapka.svg" alt="lipu pi selo nasa" title="lipu pi selo nasa"> <img src="lipusunopka.svg" alt="lipu suno" title="lipu suno"></p>
 </div>
 <script>
 document.getElementById("lipuale").classList.add("kenante");
+document.getElementById("ospala").style.display="block";
 function lukin(){
 if(window.location.hash) {
     var hash = window.location.hash.substring(1);
@@ -2487,6 +2553,7 @@ try{document.getElementsByClassName("ona")[0].classList.remove("ona");}catch (e)
 var ona=document.getElementsByName(hash)[0].parentElement;
 while(ona.tagName!="DIV"){ona=ona.parentElement;}
 ona.classList.add("ona");
+/*tawasitelen(ona);*/
 }
 lukin();
 window.addEventListener(
@@ -2502,5 +2569,28 @@ if(window.location.hash) {
 }
 function weka(kule){
 document.getElementById("lipuale").classList.add("weka"+kule);
+}
+function spala(){
+document.getElementById("osp").style.display="block";
+document.getElementById("ospala").style.display="none";
+var ale=document.getElementById("lipuale").innerHTML;
+for (var i=50;i>0;i--){
+ale=ale.replaceAll(">a("+" ".repeat(i),">a"+"a".repeat(i));
+ale=ale.replaceAll(">a("+"　".repeat(i),">a"+"a".repeat(i));
+ale=ale.replaceAll(">a("+"&#x3000;".repeat(i),">a"+"a".repeat(i));
+ale=ale.replaceAll(";a("+" ".repeat(i),";a"+"a".repeat(i));
+ale=ale.replaceAll(";a("+"　".repeat(i),";a"+"a".repeat(i));
+ale=ale.replaceAll(";a("+"&#x3000;".repeat(i),";a"+"a".repeat(i));
+ale=ale.replaceAll(" a("+" ".repeat(i)," a"+"a".repeat(i));
+ale=ale.replaceAll(" a("+"　".repeat(i)," a"+"a".repeat(i));
+ale=ale.replaceAll(" a("+"&#x3000;".repeat(i)," a"+"a".repeat(i));
+ale=ale.replaceAll("jaki"+i,"jaki");
+ale=ale.replaceAll("ko"+i,"ko");
+}
+ale=ale.replaceAll("+"," ").replaceAll("-"," ").replaceAll("("," ").replaceAll(")"," ").replaceAll("namako1","namako").replaceAll("mu1",":").replaceAll("[ilo lon:]","Ilon").replaceAll("[poki.kili:]","Pokili").replaceAll("[soweli..lipu:]","Sowelipu").replaceAll("[suli.linja:]","Sulinja").replaceAll("[wile.len:]","Wilen").replaceAll("[suli.lili:]","Sulili").replaceAll("[ante.telo:]","Antelo").replaceAll("[utala.lawa:]","Utalawa").replaceAll("^","").replace(/\bte\b/g,"&quot;").replace(/\bto\b/g,"&quot;");
+ale=ale.replaceAll("weka.li:]","weli").replaceAll("[wan:","Wan").replaceAll("[tu:","Tu").replaceAll("[luka:","Luka").replaceAll("[mute:","Mute").replaceAll("[ale:","Ale").replaceAll("ale:","ale").replaceAll("mute:","mute").replaceAll("luka:","luka").replaceAll("tu:","tu").replaceAll("wan:","wan");
+while (ale.includes("  ")){ale=ale.replaceAll("  "," ")}
+document.getElementById("lipuale").innerHTML=ale;
+document.getElementById("lipuale").classList.remove("sp");
 }
 </script>
