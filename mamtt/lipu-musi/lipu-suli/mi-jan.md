@@ -602,6 +602,7 @@ jan li wile kulupu. jan mi li lon kulupu sewi, li tawa tomo sewi, li toki e ijo 
 
 sona pi sewi jan li nasa tawa mi. mi ken ala lukin e ona, li ken ala kute e ona, li sona e lili pi nasin ona. taso, jan mi li ken pilin pona tan ona la, ale li pona tawa jan mi. 
 
+***
 
 </div>
 <strong>toki insa nanpa 31 (mute luka luka wan)</strong>
@@ -639,6 +640,7 @@ mi wile e kama sina. sina ken lukin e ijo mi, li ken toki tawa jan pona mi, li k
 
 tenpo li tawa la, mi awen. sina ken kama. mi sona e ni. mi ken musi sin lon ma ni, li ken moku li ken lape li ken lukin tawa sewi pimeja. tenpo mute la mun li pimeja. taso, sewi li awen pona tawa mi. 
 
+***
 
 
 </div>
