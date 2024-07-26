@@ -91,31 +91,31 @@ musi mi li ni. ona o pini ala pini? mi pini. ni li pini tan ni: ale li ike! ale 
 
 **ni li sona lili kulupu tan lipu sin pi jan Kipisi:**
 
-    I. sina lukin e jan pi pona taso la, o moli e ona.  
+  I. sina lukin e jan pi pona taso la, o moli e ona.  
 
-    II. seme li nasin sewi pona pi suli suli? ona li kili lili.   
+  II. seme li nasin sewi pona pi suli suli? ona li kili lili.   
 
-    III. luka tu li pana e kalama wan. luka wan li pana e kalama tu.   
+  III. luka tu li pana e kalama wan. luka wan li pana e kalama tu.   
 
-    IV. linja li open pakala la, o loje.   
+  IV. linja li open pakala la, o loje.   
 
-    V. ilo kalama li pan.  
+  V. ilo kalama li pan.  
 
-    VI. sina wan e mi. ni la, mi kama tu.   
+  VI. sina wan e mi. ni la, mi kama tu.   
 
-    VII. sina o open e mu soweli la, sina o alasa e mun sina insa. 
+  VII. sina o open e mu soweli la, sina o alasa e mun sina insa. 
 
-    VIII. sina ken sin e ilo moli utala tawa tenpo pi utala ala.
+  VIII. sina ken sin e ilo moli utala tawa tenpo pi utala ala.
 
-    IX. sina lon pan suwi linja la, o kon. 
+  IX. sina lon pan suwi linja la, o kon. 
 
-    X. tenpo li ken pini. taso, ma li awen sama kiwen mani jelo. 
+  X. tenpo li ken pini. taso, ma li awen sama kiwen mani jelo. 
 
-    XI. waso nanpa wan li kama jo e pipi ma. soweli lili nanpa tu li kama jo e moku alasa. 
+  XI. waso nanpa wan li kama jo e pipi ma. soweli lili nanpa tu li kama jo e moku alasa. 
 
-    XII. lipu pi mute ale li tawa sinpin jan la, jan ni o nasin e kon pi lipu ni. 
+  XII. lipu pi mute ale li tawa sinpin jan la, jan ni o nasin e kon pi lipu ni. 
 
-    XIII. mi wile ala mi tan weka ike. mi wile e ale mi. ike li tan ale lon mi. mi wile pona mi. mi wile ike mi. mi wile mi. 
+  XIII. mi wile ala mi tan weka ike. mi wile e ale mi. ike li tan ale lon mi. mi wile pona mi. mi wile ike mi. mi wile mi. 
 
 (nasa la, jan Kipisi li nanpa e sona lili kulupu kepeken sitelen nanpa tan toki Lasina.) nasin ni li ken: mi pana tawa pilin mi pi sona lili mute. mi ken pana. mi sona kin e ni: sina wile oko e nimi pana mi ale. taso, ike lili ni li awen kin: mi ken ala sona e sona lili kulupu ni. ona o nasa e lawa. ona o nasa taso. ona o nasa tawa mi, tawa sona mi, tawa lawa mi, tawa pilin mi, tawa toki mi. ike ni li lon a. tan ike pi sona mi la, mi o pana taso e sona lili kulupu. pilin mi pi lon ala o tawa ala lipu mi. nasa pi sona lili kulupu la, ni kin li ken: linja nimi ona o kepeken ala kon. ken la, kon ken ona li tan pilin pi sina taso li tan nasin pi sina taso. tawa tenpo ale la, sona pi kulupu weka ni li musi anu musi lili.
 
