@@ -67,11 +67,11 @@ suli mute mute a - nasin Lanpan
 suli - lon anpa pi sewi walo lon sewi pi telo suno  
 suli - mi jan  
 suli - mi pana e lipu   
-suli lili - waso sona UKami en monsuta pi kiwen pimeja  
+suli lili - waso sona Ukami en monsuta pi kiwen pimeja  
 suli lili - mi wile e sona sin  
 suli lili - kasi utala pi ma Tokono  
-lili suli - kasi li toki  
-lili suli - utala nanpa  
+lili lili - kasi li toki  
+lili lili - utala nanpa  
 lili - mi alasa e telo  
 lili - likujo  
 lili - toki musi pata  

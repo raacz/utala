@@ -1,4 +1,4 @@
-run = "bundle exec jekyll serve -H 0.0.0.0 "
+run = "bundle exec jekyll serve -H 0.0.0.0 --livereload"
 hidden = [".bundle"]
 
 onBoot = "chmod go-w /tmp"
@@ -22,3 +22,7 @@ requiredFiles = [".replit", "replit.nix", "README.md"]
 [[ports]]
 localPort = 4000
 externalPort = 80
+
+[[ports]]
+localPort = 35729
+externalPort = 3000

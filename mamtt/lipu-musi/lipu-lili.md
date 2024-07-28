@@ -95,8 +95,8 @@ layout: lipu
 - [tomo lape pi Pocatello](#tomo-lape-pi-pocatello)
 
 ***
-## ilo pi tenpo awen
 
+## ilo pi tenpo awen
 
 mi pilin wawa tan ni: ilo ni li ken awen e tenpo.
 
@@ -116,89 +116,71 @@ pi telo suli.
 
 ***
 
-<h2 id="ma-kon-telo-seli"> ma, telo, kon, seli: ijo tu tu pi lon ale</h2>
+## ma, telo, kon, seli: ijo tu tu pi lon ale
+{:#ma-kon-telo-seli}
 
 <table class="tutu" markdown="1">
   <tr>
-  <td>
-    <p>
-    <strong>ma</strong> ni li pona, lon poka sina.<br>
-    o pini e lupa, o awen lon ni,<br>
-    lon supa monsi suli lon poka mi.<br> 
-    tawa mi tu la, mi pali e <strong>seli.</strong>
-  </p>
-  </td>
-  <td>
-    <p>
-  <strong>ma</strong> seme la sina lon?<br>
-  weka sina li nasa e mi. <br> 
-  mi kama sona e sina la,  <br>
-  pilin mi li kama <strong>seli.</strong>
-  </p>
-  </td>
+    <td>
+        <strong>ma</strong> ni li pona, lon poka sina.<br>
+        o pini e lupa, o awen lon ni,<br>
+        lon supa monsi suli lon poka mi.<br> 
+        tawa mi tu la, mi pali e <strong>seli.</strong>
+    </td>
+    <td>
+      <strong>ma</strong> seme la sina lon?<br>
+      weka sina li nasa e mi. <br> 
+      mi kama sona e sina la,  <br>
+      pilin mi li kama <strong>seli.</strong>
+    </td>
   </tr>
   
   <tr>
-  <td>
-    <p>
+    <td>
       <strong>telo</strong> nasa pona li lon poki.<br>
       o moku e ona! tenpo li<br>
       tawa, taso olin li awen.<br>
       o pona, o alasa ala e <strong>kon!</strong>
-  </p>
-  </td>
-  <td>
-    <p>
+    </td>
+    <td>
       <strong>telo</strong> li kama tan sewi la, <br>
       sina awen lon poka lupa.<br>
       mi kama lukin e sina. mi la<br>
       sina suno lon lete <strong>kon.</strong>
-  </p>
-  </td>
+    </td>
   </tr>
 
   <tr>
-  <td>
-    <p>
+    <td>
       <strong>kon</strong> lete li tawa e kasi suli<br>
       pi ma walo lete. mi tu li<br>
       lon insa tomo; tawa poki suli<br>
       la, mi pana suli e <strong>telo.</strong>
-  </p>
-  </td>
-  <td>
-    <p>
+    </td>
+    <td>
       <strong>kon</strong> pi olin ni la, lawa<br>
       mi li ken ala sona pona.<br>
       mi sama kiwen tawa sina;<br>
       tawa mi la, sina sama <strong>telo.</strong>
-  </p>
-  </td>
+    </td>
   </tr>
 
   <tr>
-  <td>
-    <p>
+    <td>
       <strong>seli.</strong> lon ona la, mi tu li<br>
       ken pona e sijelo. mi uta<br>
       olin e sina; mi tu li awen lon<br>
       poka pi seli pona, lon <strong>ma.</strong>
-  </p>
-  </td>
-  <td>
-    <p>
+    </td>
+    <td>
       <strong>seli</strong> pilin li ken kama lete <br>
       sin; tan suli lete mi la,<br>
       mi kama anpa tawa<br>
       ma, sama ma, lon <strong>ma.</strong>
-  </p>
-  </td>
+    </td>
   </tr>
   
 </table>
-
-
-
 
 ***
 
@@ -303,10 +285,11 @@ pini.
 
 ***
 
-<h2 id="nimi" class="linja-pona">nimi</h2>
+<div class="linja-pona" markdown="1">
 
-<div class="lipu-weka linja-pona" markdown="1">
+## nimi
 
+<div class="lipu-weka" markdown="1">
 
 tenpo open la
 
@@ -505,7 +488,7 @@ tenpo ni la
 
 </div>
 
-
+</div>
 
 <br>
 
@@ -765,65 +748,48 @@ li sewi.
 
 ***
 
-<h2 id="sina-seme"><span class="nasin-nanpa">󱥞󱥙</span></h2>
+<div class="nasin-nanpa" style="line-height: 1.8" markdown=1>
 
-<div class="nasin-nanpa" markdown="1">
-  󱥞  
-   󱥙
-  
-<br>
+## 󱥞󱥙
+{:#sina-seme}
 
-   󱥞​󱤚  
-   󱤂​󱤚  
+󱥞  
+󱥙
 
-  <br>
+󱥞​󱤚  
+󱤂​󱤚  
 
-   󱤚​󱤫   
-   󱤇​󱥙  
+󱤚​󱤫   
+󱤇​󱥙  
 
-  <br>
+󱤴​󱥡​󱤂  
 
-   󱤴​󱥡​󱤂  
+󱥂​te 󱥞​to 󱤧​󱥬​󱤂​󱤉​󱥁  
 
-  <br>
+te 󱥞​to 󱤧​󱤘​󱤼  
+te 󱥞​to 󱤧​󱤘​󱥳  
+te 󱥞​to 󱤧​󱤘​󱤬​󱤂​󱤮​󱥍󱦗󱤪󱥁󱦘  
 
-   󱥂​te 󱥞​to 󱤧​󱥬​󱤂​󱤉​󱥁  
+󱥂​te 󱥞​to 󱤧​󱥬​󱤂​󱤉​󱤽​󱥞  
+󱤉​󱤬​󱥞  
+󱤉​󱤝​󱥞  
+󱤉​󱥎​󱥞  
+󱤉​󱥷​󱥞  
 
-  <br>
+󱥆​󱤧​󱥬​󱤉​te 󱤴​󱤂​to 󱥨  
+󱥆​󱤧​󱥓​󱤉​te 󱤴​󱤂​to 󱤄
 
-   te 󱥞​to 󱤧​󱤘​󱤼  
-   te 󱥞​to 󱤧​󱤘​󱥳  
-   te 󱥞​to 󱤧​󱤘​󱤬​󱤂​󱤮​󱥍󱦗󱤪󱥁󱦘  
+󱤴​󱤡​󱥞​te 󱥞​to  
+󱥞​󱤡​te 󱥞​to 󱤴
 
-  <br>
+󱥁​󱤡   
+󱤴​󱤘​󱤂​󱥡​󱤉​󱤬​󱥞  
+󱤈​󱤡  
+󱤴​󱤘​󱥷​󱤉​󱥔​󱤬​󱥞
 
-   󱥂​te 󱥞​to 󱤧​󱥬​󱤂​󱤉​󱤽​󱥞  
-   󱤉​󱤬​󱥞  
-   󱤉​󱤝​󱥞  
-   󱤉​󱥎​󱥞  
-   󱤉​󱥷​󱥞  
+󱥞​󱥄​󱥞​󱤉​󱥞   
+󱥄​󱥞​󱥔.
 
-  <br>
-
-   󱥆​󱤧​󱥬​󱤉​te 󱤴​󱤂​to 󱥨  
-   󱥆​󱤧​󱥓​󱤉​te 󱤴​󱤂​to 󱤄
-
-  <br>
-
-   󱤴​󱤡​󱥞​te 󱥞​to  
-   󱥞​󱤡​te 󱥞​to 󱤴
-
-  <br>
-
-   󱥁​󱤡   
-   󱤴​󱤘​󱤂​󱥡​󱤉​󱤬​󱥞  
-   󱤈​󱤡  
-   󱤴​󱤘​󱥷​󱤉​󱥔​󱤬​󱥞
-
-<br>
-
-   󱥞​󱥄​󱥞​󱤉​󱥞   
-   󱥄​󱥞​󱥔.
 </div>
 
 <details markdown=1>
@@ -868,62 +834,56 @@ o sina pona~
 
 ***
 
-<h2 class="sitelen-pona"><span class="lon">tawa</span></h2>
+<div class="sitelen-pona" markdown=1>
+
+## tawa
 
 ijo ni li suli    
 mi tawa suli lon ma ni la  
 mi pilin ma, mi kama ma  
-{:.sitelen-pona}
-
 
 mi tawa la, mi kute ala  
 kalama taso li kalama kala  
-{:.sitelen-pona}
-
 
 mi tawa suli la, mi o kama  
 mi o tawa mama  
 mi o tawa jan sama  
-{:.sitelen-pona}
-
 
 mi kama la, mi pilin jan  
 mi kama la, mi moku e pan  
 ni li tan  
 poki nanpa wan
-{:.sitelen-pona}
-
 
 a , mi kama lon tomo mi  
 mi o tawa  
-{:.sitelen-pona}
 
-<details>
+</div>
+
+<details markdown=1>
 <summary><em>o lukin kepeken sitelen Lasina</em></summary>
-  <h2>lon</h2>
-  <p>ijo ni li suli  <br>
-  mi tawa suli lon ma ni la  <br>
-  mi pilin ma, mi kama ma </p>
+
+## tawa
+  
+ijo ni li suli  
+mi tawa suli lon ma ni la  
+mi pilin ma, mi kama ma 
 
 
-  <p>mi tawa la, mi kute ala<br>
-  kalama taso li kalama kala</p>
+mi tawa la, mi kute ala
+kalama taso li kalama kala
 
 
-  <p>mi tawa suli la, mi o kama <br>
-  mi o tawa mama  <br>
-  mi o tawa jan sama  </p>
+mi tawa suli la, mi o kama  
+mi o tawa mama  
+mi o tawa jan sama  
 
+mi kama la, mi pilin jan  
+mi kama la, mi moku e pan  
+ni li tan  
+poki nanpa wan
 
-  <p>mi kama la, mi pilin jan<br>
-  mi kama la, mi moku e pan<br>
-  ni li tan<br>
-  poki nanpa wan</p>
-
-
-  <p>a, mi kama lon tomo mi  <br>
-  mi o tawa  </p>
- 
+a, mi kama lon tomo mi  
+mi o tawa  
 </details>
 
 ***
@@ -936,32 +896,32 @@ li pilin lete mute.
 
 ***
 
-<h2 id="telo-tu" class="linja-lipamanka">telo tu</h2>
-
 <div class="linja-lipamanka" markdown="1">
-  
-  telo li kama la <span class="comma">,</span>  
-  ale li kama ante  
-  suno sama li lon <span class="comma">,</span>  
-  taso lili li pakala  
-  ala ike li weka  
-  kasi li sewi wawa  
-  pona sin li kama
 
-  ni li telo sewi  
-  ———————  
-  telo li kama la<span class="comma">,</span>  
-  ante kama li ale  
-  lon li sama suno  
-  pakala li lili taso  
-  weka li ike ala  
-  wawa sewi li kasi  
-  kama li sin pona  
-  
-  ni li telo oko  
-  ———————  
-  telo tu li kama <span class="comma">,</span>  
-  li pona e ale    
+## telo tu
+
+telo li kama la <span class="comma">,</span>  
+ale li kama ante  
+suno sama li lon <span class="comma">,</span>  
+taso lili li pakala  
+ala ike li weka  
+kasi li sewi wawa  
+pona sin li kama
+
+ni li telo sewi  
+———————  
+telo li kama la<span class="comma">,</span>  
+ante kama li ale  
+lon li sama suno  
+pakala li lili taso  
+weka li ike ala  
+wawa sewi li kasi  
+kama li sin pona  
+
+ni li telo oko  
+———————  
+telo tu li kama <span class="comma">,</span>  
+li pona e ale    
   
 </div>
 

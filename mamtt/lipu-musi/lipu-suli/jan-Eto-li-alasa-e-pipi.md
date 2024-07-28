@@ -15,9 +15,9 @@ layout: lipu
 
 ***
 
-<img width="700" src = "sitelen-Eto.svg" alt=""/>
+[![](sitelen-Eto.svg){: style="width: 100%"}](sitelen-Eto.svg)
 
-<a href="sitelen-Eto.svg">o kama jo e sitelen lon ilo sina</a>
+[o lukin suli e sitelen taso](sitelen-Eto.svg)
 
 <details markdown="1">
   <summary><em>o lukin kepeken sitelen Lasina</em></summary>  
