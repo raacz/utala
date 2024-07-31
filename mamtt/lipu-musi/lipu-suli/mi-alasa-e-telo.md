@@ -9,7 +9,9 @@ layout: lipu
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>
   <ul>
-    <li></li>
+    <li>monsuta</li>
+    <li>ijo li ken ala e tawa jan</li>
+    <li>pilin pi kama moli</li>
   </ul>
 </details>
 
@@ -28,7 +30,7 @@ mi tawa olin. telo li selo e luka mi, e sijelo mi. olin li mu lili lon poka miâ€
 
 mi tawa olin li jo e ona kepeken luka. ni li wile e wawa ala, tan ni: telo li pana sewi e sijelo ona. olin li pana musi e telo tawa sinpin mi la, mi pilin uta e namako telo. olin li uta e sinpin mi. ona li toki: selo sinpin sina li namako a tawa uta. mi toki: ni li tan sina. olin li toki: ni li lon a. 
 
-tenpo telo li kama pini. mi en olin li tawa ko. mi tawa, mi alasa e kiwen kala. olin li pana lukin e kiwen jelo loje. ona li pona lukin a. a, la kiwen kin li pona lukin. linja kule nasa li selo e ona. lupa ona li open; ijo ala li lon. mi pana e ona tawa poki. 
+tenpo telo li kama pini. mi en olin li tawa ko. mi tawa, mi alasa e kiwen kala. olin li pana lukin e kiwen jelo loje. ona li pona lukin a. a, kiwen kin li pona lukin. linja kule nasa li selo e ona. lupa ona li open; ijo ala li lon. mi pana e ona tawa poki. 
 
 suno li kama anpa la mi tawa tomo. olin li esun e suwi lete, li pana e ona tawa mi. tawa la mi moku li lukin e telo sewi. ona li kama kule, li sama suwi lete ni tawa lukin. 
 
