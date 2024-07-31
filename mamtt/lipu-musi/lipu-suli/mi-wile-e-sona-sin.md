@@ -231,7 +231,7 @@ mi toki e ni tawa akesi suli nasa:
 
 —  ma pi jan mun li lon sewi, li mun ante. sina lon monsi mi la sina ken ala kon. tawa la sina lon uta mi.
 
-mi pilin nasa ike lili. mi o tawa lon insa pi akesi suli anu seme? mi tawa ala la mi lukin ala e jan mun e sona sin. insa pi akesi li jo ala jo e kon pona?
+mi pilin nasa ike lili. mi o tawa lon insa pi akesi suli anu seme? mi tawa ala la mi lukin ala e jan mun e sona sin. insa akesi li jo ala jo e kon pona?
 
 —  jan ale pi sona sin li kama ala kama lon insa pi uta sina?
 
