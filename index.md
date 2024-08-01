@@ -3,28 +3,9 @@ layout: lipu
 ---
 ([Click here to read in English](index_en.md))
 
-# utala musi la 
-# tenpo lukin li *kama* kama lon a!
+# utala musi la tenpo pi pana pilin li lon!
 
-toki a! lipu mute li lon la mi wile open e tenpo lukin. o sona: awen la lipu mute li ken kama ante. KIN LA O SONA: tenpo mute la, mi kepeken nasin ni
-
-<details>
-  <summary>o sona e ken ike</summary>
-  <ul>
-    <li>ike nanpa wan</li>
-    <li>ike nanpa tu</li>
-  </ul>
-</details>
-
-O SONA A: mi lukin pi ale ala e lipu ale. la tenpo ni la lipu mute la sona pona pi 'ken ike' li lon ala. 
-
-suli la, *tenpo mute ala* li lon tawa lukin lipu la mi wile open e ken lukin lon tenpo ni. 
-
-lipu pi pana pilin li lon ala. ona li kama. lon tenpo poka. 
-
-lipu mute li pona li musi. o lukin pona! sina pini e lipu la, wile la o toki e 'ken ike' pi lipu ni tawa mi. ni li pona e pali mi. sina ale li pona a. 
-
-**KIN LA: sina lukin e pakala lon lipu SINA la o toki tawa mi a! mi pona e ona! sina wile ante e lipu la o toki! ken suli la mi ken ante e lipu!**
+[o pana e pilin sina lon ni](https://forms.gle/mi2YvruyrcEvW5WC7)
 
 ## lipu lili
 
@@ -77,6 +58,26 @@ lili - likujo
 lili - toki musi pata  
 lili - jan Eto li alasa e pipi  
 lili - toki pi ma kasi  
+
+### ijo pi lipu musi li ken ike e pilin mi la mi o seme?   
+insa pi lipu ale la mi pana e ijo pi ken ike lon anpa sitelen sama ni:
+<details>
+  <summary>o sona e ken ike lon lipu ni</summary>
+  <ul>
+    <li>ike nanpa wan</li>
+    <li>ike nanpa tu</li>
+  </ul>
+</details>
+sina wile lukin e sona la o luka e sitelen. sina wile ala lukin la o luka ala e sitelen.
+
+### mi lukin e lipu. mi o pana e pilin mi lon seme?
+
+[o pana lon lipu ni](https://forms.gle/mi2YvruyrcEvW5WC7)
+
+### sina pana ike e lipu mi a!
+ni li lon la o toki e pakala mi tawa mi (ilo Siko la @raacz106, nasin ante la tokipona(sike lili)sasalin(sitelen a)gmail(sike lili)com).
+
+
   
 
 
