@@ -869,7 +869,7 @@ mi tawa suli lon ma ni la
 mi pilin ma, mi kama ma 
 
 
-mi tawa la, mi kute ala
+mi tawa la, mi kute ala  
 kalama taso li kalama kala
 
 
