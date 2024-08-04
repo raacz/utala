@@ -37,7 +37,7 @@ mi kama jo e poki telo tu tan akesi la soweli nasa li toki tawa mi. “sina sin 
 
 “a! ni la mi ken pana e sona tawa sina. poki telo sina o pilin e poki mi. ni la mi kama soweli pona a.”
 
-poki tu wan li kama wan li kalama tan ni. mi tu li toki tawa soweli ni lon tenpo lili la, soweli olin mi li kama nasa lili li toki e ni. “tenpo suli la mi wile weka tan ma tomo lili. taso soweli alasa monsuta li kama la, wile ni li kama wawa! tan ni mi tu li kama.”
+poki tu wan li kama wan li kalama tan ni. mi tu li toki tawa soweli ni lon tenpo lili la, soweli olin mi li kama nasa lili li toki e ni. “tenpo suli la mi wile weka tan ma tomo lili. taso soweli alasa monsuta li kama la, wile ni li kama wawa! tan ni la mi tu li kama.”
 
 toki ni li pini la lukin akesi li tawa sewi lili. kin la uta ona li kama open. taso toki nanpa wan li kama tan uta pi soweli nasa. “a a! seme a? soweli alasa li lon ala a a!” 
 
@@ -57,7 +57,7 @@ mi o tawa lon monsi ona. taso tenpo ni la mi kute e toki pi akesi pali. ona li t
 
 soweli nasa li luka e lawa ona li toki e ni: “seme a! sina tu li toki e ijo wan anu seme?” ona li lukin tawa mi. “soweli pona pi olin sina li kama moli tan ijo monsuta.” ona li lukin tawa akesi. “sina la, mama sama li kama pakala kin tan moli monsuta ni. taso lon la, mama sama sina li akesi pona a. mi kin sona e ona—mi sona e soweli suli ale a!”
 
-akesi li toki wawa. “ni la sina o alasa e jan ni a!: ona li ken pana e sona lon pi soweli alasa tawa soweli ale!”
+akesi li toki wawa. “ni la sina o alasa e soweli ni a!: ona li ken pana e sona lon pi soweli alasa tawa soweli ale!”
 
 wawa pi soweli nasa li kama lili. sinpin lawa ona li tawa lili tan kepeken ona pi insa lawa. ona li sike e lukin ona li lukin e soweli ale lon tomo. insa tomo li jo e soweli mute e kalama suli tan mu ona. 
 
@@ -77,17 +77,17 @@ soweli nasa li n. “akesi pali en soweli ni li jo e wile sona. wile ni li suli 
 
 “waso o.” mi toki e ni. “monsuta li kama.” 
 
-mi toki e pakala akaesi la mi awen toki: “mi o open lon tenpo weka.”
+mi toki e pakala akesi la mi awen toki: “mi o open lon tenpo weka.”
 
 waso li mu la mi open toki. anpa li toki mi:
 
 ...
 
-ma tomo lili mi li jo e soweli pi nanpa lili taso. ni la, soweli ale li sona e soweli ante ale. tenpo suli kin la soweli pi ma ni li alasa e soweli olin lon ma sama. 
+ma tomo lili mi li jo e soweli pi mute lili taso. ni la, soweli ale li sona e soweli ante ale. tenpo suli kin la soweli pi ma ni li alasa e soweli olin lon ma sama. 
 
-tenpo mi pi kama suli la soweli mute li wile olin e soweli wan tan ni: seli ona li pona ale tawa lukin; insa ona li jo e pilin loje pi pona mute; lawa ona li sona wawa. ni li soweli Mansamu.
+tenpo mi pi kama suli la soweli mute li wile olin e soweli wan tan ni: selo ona li pona ale tawa lukin; insa ona li jo e pilin loje pi pona mute; lawa ona li sona wawa. ni li soweli Mansamu.
 
-mi kin li wile olin e ona. taso mi lukin e ni: soweli Mansamu li toki mute tawa soweli Puko, tawa soweli Tano, li toki pi lili taso tawa mi. taso soweli Mansamu li jo e soweli pona. ni li soweli Kanpi. ona li toki mute tawa mi la mi pilin pona. mi kama suli la ona li kama e soweli olin mi.
+mi kin li wile olin e ona. taso mi lukin e ni: soweli Mansamu li toki mute tawa soweli Puko, tawa soweli Tano, li toki pi lili taso tawa mi. taso soweli Mansamu li jo e soweli pona. ni li soweli Kanpi. ona li toki mute tawa mi la mi pilin pona. mi kama suli la ona li kama soweli olin mi.
 
 soweli Kanpi en mi li kama wan olin la soweli Puko en soweli Tano li awen alasa e olin pi soweli Mansamu. taso soweli Mansamu li toki e ni:
 
@@ -99,17 +99,17 @@ ona li toki e ni kin: “sina tu li pona mute tawa mi. taso mi ken olin e wan ta
 
 ma tomo lili ni la soweli ale li pali e musi moku suli wan lon tenpo sike ale. soweli ale li pana kin e ijo pona tawa soweli ante lon musi ni. tenpo pi musi moku li kama la, akesi esun li kama tawa ma ni kepeken tomo tawa esun li esun e ijo pana.
 
-soweli Puko li tawa akesi li lukin e kiwen pi pona lukin. kiwen li palisa lili li kule pimeja, taso ona li suno wawa kin. akesi li toki: “ni li kiwen pona. ona li jo e wawa pi kon pona! soweli li kama jo e ona la kiwen en pilin pi soweli jo li ken kama wan. soweli jo li pilin pona la, kiwen pimeja li ken pana e suno jelo wawa. ona pilin ike la, kiwen li pana ala e suno ale.”
+soweli Puko li tawa akesi li lukin e kiwen pi pona lukin. kiwen li palisa lili li kule pimeja, taso ona li suno wawa kin. akesi li toki: “ni li kiwen pona. ona li jo e wawa pi kon pona! soweli li kama jo e ona la kiwen en pilin pi soweli jo li ken kama wan. soweli jo li pilin pona la, kiwen pimeja li ken pana e suno jelo wawa. ona li pilin ike la, kiwen li pana ala e suno ale.”
 
 ni li pona tawa soweli Puko. esun la kiwen ni li wile e mani mute mute, taso soweli Puko li jo e mani li kama jo e ona. ona li wile pana e ona tawa soweli Mansamu lon musi moku suli.
 
 soweli Tano kin li tawa akesi esun. soweli Puko la, nasin ona pi pana pona li ante suli. soweli Tano li esun e lipu suli. lipu ni li toki e ijo mute pi tenpo pini. 
 
-musi moku li kama la, soweli Puko li toki: “soweli Mansamu o moku pona o musi pona. mi pana e kiwen pi wawa pona tawa sina. sina jo e ona la mi ken sona e pilin sina lon tenpo ale la. sina en mi li kama wan olin a la ni li pona mute.
+musi moku li kama la, soweli Puko li toki: “soweli Mansamu o moku pona o musi pona. mi pana e kiwen pi wawa pona tawa sina. sina jo e ona la mi ken sona e pilin sina lon tenpo ale. sina en mi li kama wan olin a la ni li pona mute.”
 
 soweli Tano li toki kin: soweli Mansamu o moku pona o musi pona. mi pana e lipu suli. insa ona li jo e toki pi tenpo pini. mi tu li kama wan la sina en mi li ken kalama e toki ona lon tenpo suli.
 
-lon musi suli la, soweli Mansamu li pilin pona tan kama jo ona pi ijo pona tu. ona li uta e sinpin lawa pi soweli Puko, pi soweli Tano, taso ona li awen toki ala e ni: ona li wile olin e soweli seme.
+lon musi suli la, soweli Mansamu li pilin pona tan kama jo ona pi ijo pona tu. ona li uta e sinpin lawa pi soweli Puko, e sinpin lawa pi soweli Tano, taso ona li awen toki ala e ni: ona li wile olin e soweli seme.
 
 tenpo suno mute li kama, soweli Mansamu li lukin e lipu ni pi tenpo pini. nasa la, lipu ni li toki e wawa pi kiwen pimeja ni! taso ona li toki ala e wawa pona. toki lipu la, kiwen ni li ken kama e soweli alasa!
 
@@ -117,7 +117,7 @@ pilin monsuta la, soweli Mansamu li tawa soweli lawa pi ma lili. soweli lawa li 
 
 soweli Mansamu li pilin sama soweli lawa, taso soweli majuna li pilin monsuta la ona li pilin ike. tenpo sama la, ona li wile ala weka e kiwen pimeja tan ni: soweli Puko li pana e ona. ni la, soweli Mansamu li awen lukin e lipu suli li alasa e nasin pona.
 
-tenpo lili la, ona li kama sin lon ma tomo lili mi, li kama tawa tomo mi. mi en soweli Kanpa li lon tomo. soweli Mansamu li toki e ni tawa mi tu: lipu la, ona li kama jo e sona ni: wawa ike kiwen ken weka kepeken nasin seme!
+tenpo lili la, ona li kama sin lon ma tomo lili mi, li kama tawa tomo mi. mi en soweli Kanpa li lon tomo. soweli Mansamu li toki e ni tawa mi tu: lipu la, ona li kama jo e sona ni: wawa ike kiwen li ken weka kepeken nasin seme!
 
 “nasin ni li seme?” mi toki e ni, taso soweli Mansamu li pilin apeja. ona li wile ala toki e ni tawa mi. ni la, ona li toki kepeken kalama pi lili mute tawa kute mi soweli Kanpa. toki li pini la ona tu li kalama e mu musi suli lon tenpo suli. mi pilin e wile sona, taso ona tu li toki ala e nasin tawa mi.
 
@@ -137,7 +137,7 @@ soweli Tano li tawa wawa tawa soweli lawa. soweli lawa li toki e ni:
 
 soweli lawa li awen toki: “o lukin: kiwen li pana ala e suno. ni li tan weka wawa anu seme? ala. tan ni taso: ona li kiwen ante pi wawa ala. akesi li alasa e kiwen ni lon ma kasi, li moli e soweli Mansamu, li kama jo e kiwen lon, li esun e ona tawa mani. ona li akesi monsuta.”
 
-tawa soweli pali ona, soweli lawa li toki wawa: “o jo kiwen e ona!” 
+tawa soweli pali ona la, soweli lawa li toki wawa: “o jo kiwen e ona!” 
 
 ...
 
@@ -179,7 +179,7 @@ ona li awen e lukin e mu mu. “a!” ona li kalama. “ni li suli. mi kama sona
 
 “a?” 
 
-“n. sina kute la sina kama sona e tan pi apeja ona. mi kalama e toki lipu: ‘kiwen pimeja suno. ma ale li jo e nanpa lili pi kiwen ni. ona li jo e wawa pona e wawa ike. pona la, ona li ken toki e pilin pi soweli jo. taso ike li ike suli. ona li ken kama e soweli alasa. pona li ni: nasin pi pali pona li ken weka e wawa ike li ken awen e wawa pona. 
+“n. sina kute la sina kama sona e tan pi apeja ona. mi kalama e toki lipu: ‘kiwen pimeja suno. ma ale li jo e kiwen ni pi mute lili. ona li jo e wawa pona e wawa ike. pona la, ona li ken toki e pilin pi soweli jo. taso ike li ike suli. ona li ken kama e soweli alasa. pona li ni: nasin pi pali pona li ken weka e wawa ike li ken awen e wawa pona. 
 
 “‘nasin li ni: nanpa wan la, o moku e kiwen. nanpa tu la, o awen lon kipisi pi tenpo suno. nanpa tu wan la... o pana e kiwen jaki lon lawa pi soweli olin sina!”
 
@@ -236,9 +236,9 @@ mi alasa pona e ona. kiwen pimeja sona li lon insa pi luka mi. sinpin pi soweli 
 
 waso sona Ukami li tawa e lawa ona. lon la, ona li sona e ale lon tenpo pimeja pini, taso ona li ken ala toki e ni tawa mi tan pilin apeja.
 
-ona li toki: “soweli mute pi sama pona li soweli ike lon lon.” mi pana e kon suli. tenpo ni la, soweli olin mi li tawa tomo pi awen kiwen. tenpo lili la, akesi li tawa sin ma.
+ona li toki: “soweli mute pi sama pona li soweli ike lon lon.” mi pana e kon suli. tenpo ni la, soweli olin mi li tawa tomo pi awen kiwen. tenpo lili la, akesi li tawa sin tawa ma.
 
-waso li awen toki. “sina tawa sin ma tomo lili sina anu seme?”
+waso li awen toki. “sina tawa sin tawa ma tomo lili sina anu seme?”
 
 “ala. ma tomo lili ni li pona ala tawa mi lon tenpo ni. mi jo ala e soweli pona lon ona. akesi la, soweli lawa ona li jo e nasin lawa nasa. ni li ike tawa mi. mi awen lon ma ni.”
 
