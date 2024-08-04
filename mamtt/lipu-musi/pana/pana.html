@@ -2581,7 +2581,7 @@ const textNodes = [];
 function pushTextNode(node) {
   if (node.nodeName === "#text") {
   var ale=node.nodeValue;
-  for (var i=50;i<0;i--){
+  for (var i=50;i>0;i--){
 ale=ale.replaceAll(">a("+" ".repeat(i),">a"+"a".repeat(i));
 ale=ale.replaceAll(">a("+"　".repeat(i),">a"+"a".repeat(i));
 ale=ale.replaceAll(">a("+"&#x3000;".repeat(i),">a"+"a".repeat(i));
