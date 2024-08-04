@@ -35,7 +35,7 @@ layout: lipu
 - [lon anpa pi sewi pimeja lon sewi pi telo suno](/mamtt/lipu-musi/lipu-suli/lon-anpa-pi-sewi-walo-lon-sewi-pi-telo-suno.html)  
 - [mi alasa e telo](/mamtt/lipu-musi/lipu-suli/mi-alasa-e-telo.html)  
 - [mi jan](/mamtt/lipu-musi/lipu-suli/mi-jan.html)
-- [mi pana e lipu](/mamtt/lipu-musi/lipu-suli/mi-pana-e-lipu.html)  
+- [mi pana e lipu](/mamtt/lipu-musi/lipu-suli/mi-pana-e-lipu/)  
 - [mi wile e sona sin](/mamtt/lipu-musi/lipu-suli/mi-wile-e-sona-sin.html)  
 - [nasin Lanpan](/mamtt/lipu-musi/lipu-suli/nasin-Lanpan.html)  
 - [toki pi ma kasi](/mamtt/lipu-musi/lipu-suli/toki-pi-ma-kasi.html)  
