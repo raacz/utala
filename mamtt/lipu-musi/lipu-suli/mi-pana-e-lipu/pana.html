@@ -7,8 +7,13 @@ display:none;
 float:right;
 }
 
+#lipuale{
+clear:both;/*o utala ala e ilo ni: ona li ante e nasin sitelen*/
+}
+  
 .lipulili{
-padding:1em;
+padding:0 1em;
+overflow:auto;/*weka sewi pi poki p o lon insa poki*/
 }
 
 .lipulili a{
@@ -16,7 +21,7 @@ text-decoration:none;
 }
 
 .kenante .pipi{
-width:90%;
+/*width:90%;*/
 }
 
 .kenante .js{
@@ -34,11 +39,11 @@ animation:1.5s ease-in-out 0s 1 kama;
 }
 
 .kenante h2{
-opacity:0;
+display:none;
 }
 
 .lipukule{
-width:13%;
+/*width:13%;*/
 }
 
 .lipukule:focus{
@@ -122,7 +127,7 @@ background:paleturquoise;
 display:none;
 }
 
-.kenante .lipulili,.lipulili,.lipupikuleala,h2{
+.kenante .lipulili,.lipulili,.lipupikuleala,.kenante h2{
 display:block;
 }
 
