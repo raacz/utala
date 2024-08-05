@@ -961,7 +961,7 @@ li pona e ale
 
 [telo suli la sina kute e ni: nena telo li kalama suwi. sina kute e mu kin pi waso telo walo lon sewi weka.]
 
-jan toki: "o tawa weka. o tawa tomo lape suwi pi Pocatello. ma Italija la ona weka tan ma tomo suli. sina ken lape lon ko jelo. o tawa musi lon telo suli laso pi jaki ala. o awen lon tomo lili pi lupa ni: sina ken lukin e telo suli. ale li pilin wawa.
+jan toki: "o tawa weka. o tawa tomo lape suwi pi Pocatello. ma Italija la ona li weka tan ma tomo suli. sina ken lape lon ko jelo. o tawa musi lon telo suli laso pi jaki ala. o awen lon tomo lili pi lupa ni: sina ken lukin e telo suli. ale li pilin wawa.
 
 tomo lape pi Pocatello la ale li pona la sina o tawa. o esun e lipu pi ken tawa la sina o pilin pona sin."
 
