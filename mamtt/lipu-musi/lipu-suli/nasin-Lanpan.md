@@ -34,7 +34,7 @@ layout: lipu
 </style>
 
 # nasin Lanpan
-**mute nimi**: suli mute mute a, <abbr title="60731">LWALTAMLLW</abbr> 
+**mute nimi**: suli mute mute a, <abbr title="66372">LWAMMMTWAMMMLLT</abbr> 
 
 <details markdown=1>
   <summary>o sona e ken ike lon lipu ni</summary>
