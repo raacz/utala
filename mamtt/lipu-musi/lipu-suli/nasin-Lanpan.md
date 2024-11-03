@@ -36,6 +36,8 @@ layout: lipu
 # nasin Lanpan
 **mute nimi**: suli mute mute a, <abbr title="66372">LWAMMMTWAMMMLLT</abbr> 
 
+tan kapesi Pake
+
 <details markdown=1>
   <summary>o sona e ken ike lon lipu ni</summary>
   - jan toki lipu li toki e sona ante lon tenpo ante

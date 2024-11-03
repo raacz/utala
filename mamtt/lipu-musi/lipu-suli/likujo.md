@@ -19,6 +19,8 @@ layout: lipu
 # likujo
 **mute nimi**: lili, <abbr title="774">LTAMMMLLTT</abbr> 
 
+tan jan Peton
+
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>
   <ul>

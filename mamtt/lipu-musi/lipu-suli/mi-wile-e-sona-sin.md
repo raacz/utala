@@ -6,6 +6,8 @@ layout: lipu
 # mi wile e sona sin
 **mute nimi**: suli lili, <abbr title="2661">MLWAMMMW</abbr> 
 
+tan jan Sepulon
+
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>
   <ul>

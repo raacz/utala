@@ -31,6 +31,8 @@ layout: lipu
 # kasi li toki
 **mute nimi**: lili suli, <abbr title="1542">LLLAMMTT</abbr> 
 
+tan kapesi Pake
+
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>
   <ul>

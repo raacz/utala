@@ -10,6 +10,9 @@ layout: lipu
 
 
 # lon anpa pi sewi walo lon sewi pi telo suno
+
+tan jan Ameki
+
 **mute nimi**: suli, <abbr title="10881">WALTWAMMMMW
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>

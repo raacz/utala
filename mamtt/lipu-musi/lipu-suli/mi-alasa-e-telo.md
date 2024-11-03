@@ -6,6 +6,8 @@ layout: lipu
 # mi alasa e telo
 **mute nimi**: lili, <abbr title="790">LTAMMMMLL</abbr> 
 
+tan ijo Wen
+
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>
   <ul>

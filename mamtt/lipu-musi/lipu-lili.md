@@ -78,25 +78,27 @@ layout: lipu
 
 # lipu musi lili
 
-- [ilo pi tenpo awen](#ilo-pi-tenpo-awen)
-- [laso poki](#laso-poki)
-- [ma, telo, kon, seli: ijo tu tu pi lon ale](#ma-kon-telo-seli)
-- [mi tawa](#mi-tawa)
-- [mi tawa lon pimeja](#mi-tawa-lon-pimeja)
-- [moku li suwi ala suwi?](#moku-li-suwi-ala-suwi)
-- [nimi](#nimi)
-- [nimi nasa](#nimi-nasa)
-- [olin mute](#olin-mute)
-- [sina seme?](#sina-seme)
-- [seme li sewi?](#seme-li-sewi)
-- [tawa](#tawa)
-- [tenpo seli li pini la](#tenpo-seli-li-pini-la)
-- [telo tu](#telo-tu)
+- [ilo pi tenpo awen](#ilo-pi-tenpo-awen), tan jan Seko
+- [laso poki](#laso-poki), tan jan Elasa
+- [ma, telo, kon, seli: ijo tu tu pi lon ale](#ma-kon-telo-seli), tan soweli Lapate
+- [mi tawa](#mi-tawa), tan akesi Nu
+- [mi tawa lon pimeja](#mi-tawa-lon-pimeja), tan jan Simiman
+- [moku li suwi ala suwi?](#moku-li-suwi-ala-suwi), tan jan Wano (Ron Raphael)
+- [nimi](#nimi), tan jan Walasa
+- [nimi nasa](#nimi-nasa), tan ilo Tani
+- [olin mute](#olin-mute), tan jan Jasun
+- [sina seme?](#sina-seme), tan kili potato
+- [seme li sewi?](#seme-li-sewi), tan jan Jan
+- [tawa](#tawa), tan jan Sesi
+- [tenpo seli li pini la](#tenpo-seli-li-pini-la), tan jan Kinte
+- [telo tu](#telo-tu), tan jan Pontu
 - [tomo lape pi Pocatello](#tomo-lape-pi-pocatello)
 
 ***
 
 ## ilo pi tenpo awen
+
+*tan jan Seko*
 
 mi pilin wawa tan ni: ilo ni li ken awen e tenpo.
 
@@ -110,14 +112,22 @@ mi pilin monsuta tan ni: ilo ni li ken moli e ale.
 
 ## laso poki
 
+*tan jan Elasa*
+
+
 tomo pipi la  
 o kute e kalama  
 pi telo suli.
 
 ***
 
-## ma, telo, kon, seli: ijo tu tu pi lon ale
 {:#ma-kon-telo-seli}
+
+
+## ma, telo, kon, seli: ijo tu tu pi lon ale
+
+*tan soweli Lapate*
+
 
 <table class="tutu" markdown="1">
   <tr>
@@ -186,6 +196,9 @@ pi telo suli.
 
 ## mi tawa
 
+*tan akesi Nu*
+
+
 sina toki e ni: mi tawa
 
 mi sona e tawa pi ijo ale  
@@ -218,6 +231,9 @@ mi toki e ni: tawa pona
 ***
 
 ## mi tawa lon pimeja
+
+*tan jan Simiman*
+
 
 <div class="lipu-weka" markdown="1">
   
@@ -277,6 +293,9 @@ pona.
 
 ## moku li suwi ala suwi?
 
+*tan jan Wano (Ron Rapahel)*
+
+
 lon tomo lon tenpo pimeja. jan ni li lon tomo. sinpin pi tomo ni li kiwen li walo pimeja. tomo ni li jo e sinpin sewi loje. lupa pi tomo ni li jelo loje pimeja. lupa ni li tan kasi. jan ni li lon poka mama ona, mama ona li pali e moku. moku ni li kala li kon walo. kon walo ni li tan kasi. kon ni li kama kon kepeken telo seli.
 
 mama ona li pana e moku tawa sike. sike ni li poki tawa moku, taso poki ni li poki ala. sijelo ona li sama mute sike li sama lili poki. jan ni li moku e moku. mama ona li toki e ni. “moku li suwi ala suwi?” ni la jan ni li toki e ni. “suwi”
@@ -288,6 +307,9 @@ pini.
 <div class="linja-pona" markdown="1">
 
 ## nimi
+
+*tan jan [_wan _alasa _laso _ala _sona _ale]*
+
 
 <div class="lipu-weka" markdown="1">
 
@@ -702,6 +724,9 @@ tenpo ni la
 
 ## nimi nasa
 
+*tan ilo Tani*
+
+
 lipu pu li lipu  
 la lipu ku li liku anu seme.
 
@@ -709,6 +734,9 @@ la lipu ku li liku anu seme.
 ***
 
 ## olin mute
+
+*tan jan Jasun*
+
 
 mi open e olin sin mute  
 li suli e pilin tan ona  
@@ -735,6 +763,9 @@ la sin la mi olin e mi
 
 ## seme li sewi?
 
+*tan jan Jan*
+
+
 seme li sewi?  
 ken la sewi li jan.  
 ken la sewi li ike.  
@@ -752,6 +783,9 @@ li sewi.
 
 ## 󱥞󱥙
 {:#sina-seme}
+
+*tan kili [pona olin taso alasa toki o]*
+
 
 󱥞  
 󱥙
@@ -838,6 +872,9 @@ o sina pona~
 
 ## tawa
 
+*tan jan [seli esun seli insa]*
+
+
 ijo ni li suli    
 mi tawa suli lon ma ni la  
 mi pilin ma, mi kama ma  
@@ -863,6 +900,9 @@ mi o tawa
 <summary><em>o lukin kepeken sitelen Lasina</em></summary>
 
 ## tawa
+
+*tan jan Sesi*
+
   
 ijo ni li suli  
 mi tawa suli lon ma ni la  
@@ -890,6 +930,9 @@ mi o tawa
 
 ## tenpo seli li pini la
 
+*tan jan Kinte*
+
+
 soweli suwi,  
 li pilin lete mute.  
 "o luka olin!"
@@ -899,6 +942,9 @@ li pilin lete mute.
 <div class="linja-lipamanka" markdown="1">
 
 ## telo tu
+
+*tan jan [pona ona ni tu uta]*
+
 
 telo li kama la <span class="comma">,</span>  
 ale li kama ante  
@@ -930,6 +976,8 @@ li pona e ale
   <summary><em>o lukin kepeken sitelen Lasina</em></summary>
 
   <h2>telo tu</h2>
+
+  <em>tan jan Pontu</em>
 
   <p>telo li kama la,<br>
   ale li kama ante<br>

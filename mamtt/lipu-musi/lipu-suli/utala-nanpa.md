@@ -6,6 +6,8 @@ layout: lipu
 # utala nanpa
 **mute nimi**: lili suli, <abbr title="1149">LLWAMMLTT</abbr> 
 
+tan nasa utala
+
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>
   <ul>

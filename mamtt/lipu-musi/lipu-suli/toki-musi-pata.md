@@ -6,6 +6,8 @@ layout: lipu
 # toki musi pata
 **mute nimi**: lili, <abbr title="671">LWAMMMLLW</abbr> 
 
+tan kapesi Pake
+
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>
   <ul>

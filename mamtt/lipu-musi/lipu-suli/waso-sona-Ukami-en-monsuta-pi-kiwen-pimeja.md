@@ -6,6 +6,8 @@ layout: lipu
 # waso sona Ukami en monsuta pi kiwen pimeja
 **mute nimi**: suli lili, <abbr title="3831">MLLLTWAMLLW</abbr> 
 
+tan jan Jowi
+
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>
   <ul>

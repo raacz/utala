@@ -6,6 +6,8 @@ layout: lipu
 # jan Eto li alasa e pipi
 **mute nimi**: lili, <abbr title="644">LWAMMTT</abbr> 
 
+tan lipamanka
+
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>
   <ul>

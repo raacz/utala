@@ -6,6 +6,8 @@ layout: lipu
 # kasi utala pi ma Tokono
 **mute nimi**: suli lili, <abbr title="2234">MTAMLLTT</abbr> 
 
+tan jan Wilo
+
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>
   <ul>

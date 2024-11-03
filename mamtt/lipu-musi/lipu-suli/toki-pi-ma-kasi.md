@@ -6,6 +6,8 @@ layout: lipu
 # toki pi ma kasi: utala pi jan ete
 **mute nimi**: lili, <abbr title="544">LAMMTT</abbr> 
 
+tan ala Lojewalo
+
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>
   <ul>

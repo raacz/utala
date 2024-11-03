@@ -11,6 +11,8 @@ layout: lipu
 # mi jan
 **mute nimi**: suli, <abbr title="8861">MMMMLTWAMMMW</abbr> 
 
+tan jan Seko
+
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>
   <ul>
