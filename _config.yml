@@ -5,4 +5,4 @@ description: >- # this means to ignore newlines until "url:"
 lawa:
 
 # Build settings
-remote_theme: pona-la/kule-lipu
+# remote_theme: pona-la/kule-lipu

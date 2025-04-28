@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+<div class="layout">
+    <header class="main-container">
+    <span class="utala-musi">utala musi pi toki pona</span>
+    <nav>
+        <ul>
+        <li><a href="">utala li seme</a></li>
+        <li><a href="">lipu musi</a></li>
+        <li><a href="">sitelen musi</a></li>
+        <li><a href="">kulupu pali</a></li>
+        </ul>
+    </nav>
+    
+
+    <a class="lang" lang="en" href="{{ page.langSwitch }}">
+        {% if page.langSwitch contains "en" %}
+        Switch to English
+        {% else %}
+        SHIT
+    {% endif %}
+
+    </a>
+    </header>
+    <main class="main-container">
+        <section>
+            {{ content }}
+
+        </section>
+    </main>
+    <aside class="main-container">
+        <h2>ijo wawa kulupu</h2>
+        <div class="card-wrapper">
+          <div class="card-wrapper-child-winner">
+            <a href="">jan Metan</a>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2WDtWP-2V-Yb2mw60SrNxLQhzMiDGRvizdw&s" alt="">
+            <small>tenpo sike #MAML</small>
+            <small>lipu suli #W</small>
+  
+          </div>
+          <div class="card-wrapper-child-winner">
+            <a href="">jan Miki</a>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy4t2oxxA51VlXx1jV3X_gAOd-X7UtFFn9tw&s" alt="">
+            <small>tenpo sike #MAML</small>
+            <small>lipu suli #T</small>
+          </div>
+          <div class="card-wrapper-child-winner">
+            <a href="">jan Like</a>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGIV4NfXfos_TnRgqkWia3yK2IlRhOYyiH-w&s" alt="">
+            <small>tenpo sike #MAML</small>
+            <small>lipu suli #TW</small>
+          </div>
+          
+        </div>
+        
+      </aside>
+
+    <footer class="main-container">
+    </footer>
+</div>
