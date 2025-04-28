@@ -1,0 +1,32 @@
+<!-- 
+o wile e nimi 'langSwitch'
+-->
+<style>
+    @font-face {
+        font-family: lipamanka;
+        src: url(/assets/linja-lipamanka.otf);
+    }
+    html{
+
+    }
+    body{
+        font-family: "lipamanka";
+    }
+    body *[lang="en"]{
+        font-family: sans-serif;
+    }
+</style>
+<header class="main-container">
+    <span class="utala-musi">utala musi pi(tokipona)</span>
+    <nav>
+        <ul>
+        <li><a href="utala-pini.html">utala pini</a></li>
+        <li><a href="lipu-ale.html">lipu-ale</a></li>
+        <li><a href="sitelen-ale.html">sitelen-ale</a></li>
+        <li><a href="kulupu-pali.html">kulupu pali</a></li>
+        </ul>
+    </nav>
+    
+
+    <a class="lang" lang="en" href="{{ page.langSwitch }}">Switch to English</a>
+</header>

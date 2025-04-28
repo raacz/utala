@@ -3,27 +3,15 @@ layout: default
 ---
 
 <div class="layout">
-    <header class="main-container">
-    <span class="utala-musi">utala musi pi toki pona</span>
-    <nav>
-        <ul>
-        <li><a href="">utala li seme</a></li>
-        <li><a href="">lipu musi</a></li>
-        <li><a href="">sitelen musi</a></li>
-        <li><a href="">kulupu pali</a></li>
-        </ul>
-    </nav>
-    
+  {% if page.lang == "tok" %}
+    {% include lawa_tok.html %}
+    {% elsif page.lang == "en" %}
+    {% include lawa_en.html %}
+    {% elsif page.lang == "tok-sp" %}
+    {% include lawa_sp.html %}
+  {% endif %}
 
-    <a class="lang" lang="en" href="{{ page.langSwitch }}">
-        {% if page.langSwitch contains "en" %}
-        Switch to English
-        {% else %}
-        SHIT
-    {% endif %}
 
-    </a>
-    </header>
     <main class="main-container">
         <section>
             {{ content }}

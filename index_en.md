@@ -1,5 +1,7 @@
 ---
-layout: lipu
+layout: main
+langSwitch: "index.html"
+lang: "en"
 ---
 ([sina wile e toki pona la o tawa ni](index.md))
 

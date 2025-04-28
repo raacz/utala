@@ -1,7 +1,7 @@
 ---
 layout: main
-langSwitch: "index_en.md"
-lang: tok;
+langSwitch: "index_en.html"
+lang: "tok"
 ---
 
 
