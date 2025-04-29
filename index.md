@@ -5,9 +5,8 @@ lang: "tok"
 ---
 
 
-# utala musi pi toki pona a
 
-## o lukin e utala pini
+# o lukin e utala pini
 - [utala musi lipu pi tenpo #MAMTT)#LTW)#LL](/mamtt/lipu-musi/) la kulupu li pali e lipu musi sin mute a!
 - [utala musi pi lipu suli pi toki lili pi tenpo #MAMTW)#LTW)#LLL](/toki-en-lipu/index.md) la kulupu li pali e toki lili mute e lipu suli mute en lipu tu pi suli mute a
 - [utala pi sitelen ma pi tenpo #MAMTW)#T)#W](sitelen-ma-nanpa-tu/) la kulupu pi ma pona li wile e sitelen musi sin lon ilo Siko. sitelen mute li kama. taso sitelen seme li pona nanpa wan?
