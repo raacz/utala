@@ -1,11 +1,18 @@
 
-html {
-}
 
 @font-face {
     font-family: "nasin nanpa";
     src: url(/assets/nasin-nanpa-2.5.1.otf);
 }
+@font-face {
+  font-family: "Teachers";
+  src: url(/assets/teachers/Teachers-Regular.ttf);
+}
+@font-face {
+  font-family: "Teachers-Bold";
+  src: url(/assets/teachers/Teachers-Bold.ttf);
+}
+
 
 
 * {
@@ -14,24 +21,47 @@ html {
     box-sizing: border-box;
 }
 :root{
-    --pimeja: #280003ff;
-    --loje-laso: #9141acff;
-    --walo-laso: #d6eeffff;
+    /*main colors*/
+    --pimeja: rgb(40,0,3);
+    --walo: white;
+    --loje-laso: rgb(145, 65, 172);
+    --walo-laso:rgb(214, 238, 255);
     --jelo: rgb(245, 245, 216);;
-    --laso-pimeja: #08126Dff;
-    --main-max-width: 70em;
+    --laso-pimeja: rgb(8, 18, 109);
+
+    --c1: rgb(198, 231, 249);
+    --c2: rgb(245, 245, 216);
+    --color-tint-opacity: 0.26;
+
+    
+    --main-max-width: 55em;
     --reading-max-width: 50em;
     --container-border-radius: 2em;
     --threedee-box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
     
+    @media (prefers-color-scheme: dark){
+      --pimeja: white;
+      --walo: black;
+      --loje-laso: rgb(232, 189, 246);
+      --walo-laso:rgb(5, 34, 56);
+      --jelo: rgb(78, 78, 2);;
+      --laso-pimeja: rgb(192, 198, 249);
+  
+      --c1: rgb(2, 60, 91);
+      --c2: rgb(73, 68, 38);
+      --color-tint-opacity: 0.17;
 
-    
+  
+    }
+
 }
 body{
     font-family: Teachers, sans-serif;
     color: var(--laso-pimeja);
-    font-size: 1.25em;
-    
+    font-size: 1.35em;
+}
+h1, h2, h3, h4, h5, strong, .utala-musi{
+  font-family: Teachers-Bold, sans-serif;
 }
 .layout{
     padding-inline: 2em;
@@ -64,8 +94,6 @@ body{
 /*temani afif style*/
 html {
     --s: 40px; /* control the size*/
-    --c1: rgb(198, 231, 249);
-    --c2: rgb(245, 245, 216);
 
     background:
       repeating-conic-gradient(var(--c1) 0 25%,#0000 0 50%)
@@ -103,7 +131,7 @@ header{
   grid-template-columns: 1fr min-content;
   gap: 0.5em;
   grid-area: header-content;
-  background-image: radial-gradient(circle,rgba(240, 233, 186, 0.26) 25%, rgba(234, 201, 245, 0.35) 100%);
+  background-image: radial-gradient(circle,rgba(240, 233, 186, var(--color-tint-opacity)) 25%, rgba(234, 201, 245, var(--color-tint-opacity)) 100%);
 
 }
 
@@ -140,7 +168,7 @@ nav a{
 }
 .lang {
   border-radius: 3em;
-  background-color: white;
+  background-color: var(--walo);
   margin-block-start: -2em;
   padding: 0.5em;
   place-self: end;
@@ -157,6 +185,7 @@ nav a{
   white-space: nowrap;
   text-decoration: none;
   padding-inline: 0.25em;
+  color: var(--laso-pimeja);
 }
 .settings{
   background-color: inherit;
@@ -168,7 +197,7 @@ nav a{
   object-fit: contain;
 }
 .settings:is(:hover, :focus-visible) {
-  box-shadow: 0 0 0 0.2em white;
+  box-shadow: 0 0 0 0.2em var(--walo);
   mix-blend-mode: difference;
 }
 .lang a:is(:hover, :focus-visible){
@@ -186,28 +215,39 @@ nav a{
   position: fixed;        
   top: calc((100vh - var(--modal-size-block)) / 2);
   left: calc((100vw - var(--modal-size-inline)) / 2);
-  background-color: var(--jelo);
-  border-color: white;
+  background-color: var(--walo);
+  color: var(--laso-pimeja);
+  border-color: var(--walo);
   overflow: auto;
+  padding-inline: 2em;
+  padding-block: 4vh;
+
 
 }
 .modal-container{
   margin: auto;
-  padding-inline: 2em;
-  padding-block: 2vh;
-  display: flex;
+  height: 100%;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   position: static;
-
 }
 dialog fieldset {
-  background-color: white;
+  background-color: var(--walo);
   border: none;
   padding-block: 1em;
   padding-inline: 1em;
   width: fit-content;
   margin: auto;
+}
+dialog h2{
+  margin: auto;
+  text-align: center;
+}
+
+dialog button{
+  margin: auto;
+  margin-inline-end: 0;
 
 }
 
@@ -215,15 +255,13 @@ dialog legend {
   position: relative;
   top: 1em;
   font-weight: 800;
-  margin: auto;
   
 }
 dialog label{
   display: block;
-  background-color: white;
+  background-color: var(--walo);
 }
-dialog input[type="radio"]{
-}
+
 
 
 @media (max-width: 50rem){
@@ -270,12 +308,17 @@ main p, main ul, main h2{
 main li {
   margin-inline-start: 1em;
 }
+a, a:visited {
+  color: var(--loje-laso);
+}
 
 
 /*ASIDE STYLES*/
 aside {
     grid-area: sidebar;
-    padding-block-end: 2em;
+    padding-block-end: 1em;
+    display: flex; 
+    flex-direction: column;
 }
 aside h2{
     width: min-content;
@@ -300,17 +343,13 @@ aside h2{
     padding: 0.5em;
     border-top: 0.2em solid var(--jelo);
 }
-.card-wrapper-child-winner:last-of-type{
-  border-bottom: 0.2em solid var(--jelo);
-
-}
 
 
 .card-wrapper-child-winner:nth-of-type(2n+1){
-  background-image: radial-gradient(circle,rgba(240, 233, 186, 0.26) 25%, rgba(246, 231, 252, 0.35) 100%);
+  background-image: radial-gradient(circle,rgba(240, 233, 186, var(--color-tint-opacity)) 25%, rgba(246, 231, 252, var(--color-tint-opacity)) 100%);
 }
 .card-wrapper-child-winner:nth-of-type(2n){
-  background-image: radial-gradient(circle,rgba(249, 246, 224, 0.26) 25%, rgba(244, 245, 188, 0.35) 100%);
+  background-image: radial-gradient(circle,rgba(249, 246, 224, var(--color-tint-opacity)) 25%, rgba(244, 245, 188, var(--color-tint-opacity)) 100%);
 
 }
 
@@ -326,7 +365,6 @@ aside h2{
     text-decoration: none;
     font-weight: 500;
     color: var(--loje-laso);
-    padding: 0.5em;
 }
 @media (max-width: 45em){ 
 
@@ -336,6 +374,7 @@ aside h2{
     justify-content: space-between;
     gap: 1em;
     flex-wrap: wrap;
+    max-height: 450px;
 
   }
   aside h2{
@@ -350,7 +389,7 @@ aside h2{
     
   }
   .card-wrapper-child-winner{
-    padding: 1em 0.5em;
+    flex: 40%;
   }
 
 
@@ -365,6 +404,40 @@ aside h2{
 /*FOOTER*/
 footer {
     grid-area: footer;
+    margin-block-end: 2em;
+    padding: 1em;
+    
+}
+.container-in-footer {
+  display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+
+}
+footer h2{
+  text-align: center;
+  padding: 1em;
+}
+footer a{
+  display: flex;
+  flex-direction: row-reverse;
+  border: 0.4em solid var(--loje-laso);
+  border-radius: var(--container-border-radius);
+  align-items: center;
+  text-decoration: none;
+  font-weight: 700;
+
+}
+footer span {
+  width: fit-content;
+  text-align: center;
+  border-inline-start: 0.4em solid var(--loje-laso);
+  padding: 0.25em;
+}
+footer svg{
+  fill: var(--loje-laso);
 }
 
 /*UTILITY*/

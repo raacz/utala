@@ -18,7 +18,7 @@ o wile e nimi 'langSwitch'
                 
 
             </button>
-            <dialog aria-labelledby="dialog-name" open>
+            <dialog aria-labelledby="dialog-name" tabindex="-1">
                 <div class="modal-container">
                     <h2>ilo</h2>
                     <form>
@@ -43,7 +43,7 @@ o wile e nimi 'langSwitch'
 
                     </form>
                     <form method="dialog">
-                      <button>o pini e ilo</button>
+                      <button class="close">o pini e ilo</button>
                     </form>
                 </div>
             </dialog>
@@ -63,3 +63,4 @@ o wile e nimi 'langSwitch'
     
 
 </header>
+<script src="/scripts/dialogManager.js"></script>

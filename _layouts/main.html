@@ -30,6 +30,12 @@ layout: default
 
 
 
-    <footer class="container-in-main">
-    </footer>
+  {% if page.lang == "tok" %}
+  {% include noka_tok.html %}
+  {% endif %}
+
 </div>
+
+
+<script src="/scripts/winnerDynamicHeight.js"></script>
+<script src="/scripts//nimiNanpa.js"></script>
