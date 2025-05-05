@@ -26,8 +26,9 @@
     --walo: white;
     --loje-laso: rgb(145, 65, 172);
     --walo-laso:rgb(214, 238, 255);
-    --jelo: rgb(245, 245, 216);;
+    --jelo: rgb(245, 245, 216);
     --laso-pimeja: rgb(8, 18, 109);
+    --jelo-walo: rgb(249, 249, 235); /*focus indicator*/
 
     --c1: rgb(198, 231, 249);
     --c2: rgb(245, 245, 216);
@@ -44,8 +45,9 @@
       --walo: black;
       --loje-laso: rgb(232, 189, 246);
       --walo-laso:rgb(5, 34, 56);
-      --jelo: rgb(78, 78, 2);;
+      --jelo: rgb(78, 78, 2);
       --laso-pimeja: rgb(192, 198, 249);
+      --jelo-walo: rgb(43, 43, 2);
   
       --c1: rgb(2, 60, 91);
       --c2: rgb(73, 68, 38);
@@ -59,6 +61,13 @@ body{
     font-family: Teachers, sans-serif;
     color: var(--laso-pimeja);
     font-size: 1.35em;
+}
+*:focus-visible {
+	/* inner indicator */
+	outline: 0.15em var(--laso-pimeja) solid;
+  background-color: var(--jelo-walo);
+	outline-offset: 0;
+	/* outer indicator */
 }
 h1, h2, h3, h4, h5, strong, .utala-musi{
   font-family: Teachers-Bold, sans-serif;
@@ -159,7 +168,7 @@ nav li {
     list-style: none;
     margin: auto;
 }
-nav a{
+nav a {
     text-underline-offset: 0.5em;
     text-decoration-style: solid;
     text-decoration-thickness: 0.03em;
@@ -190,16 +199,16 @@ nav a{
 .settings{
   background-color: inherit;
   border: none;
-  outline: none;
   border-radius: 50%;
-  height: 1.5em;
-  width: 1.5em;
+  height: 2em;
+  width: 2em;
   object-fit: contain;
 }
-.settings:is(:hover, :focus-visible) {
-  box-shadow: 0 0 0 0.2em var(--walo);
-  mix-blend-mode: difference;
+.settings svg {
+  fill: var(--loje-laso);
+
 }
+
 .lang a:is(:hover, :focus-visible){
   text-decoration: underline solid;
 }
@@ -221,34 +230,45 @@ nav a{
   overflow: auto;
   padding-inline: 2em;
   padding-block: 4vh;
+}
+@media (max-height: 40em) or (max-width: 27em){
+  .lang dialog {
+    max-height: 100%;
+    max-width: var(--modal-size-inline);
+    position: fixed;
+    opacity: 90%;
+    top: 0;
+    left: 0;
+    }
+
 
 
 }
-.modal-container{
+.container-in-modal{
   margin: auto;
   height: 100%;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  position: static;
 }
 dialog fieldset {
   background-color: var(--walo);
   border: none;
   padding-block: 1em;
   padding-inline: 1em;
-  width: fit-content;
-  margin: auto;
 }
 dialog h2{
-  margin: auto;
   text-align: center;
 }
 
 dialog button{
-  margin: auto;
-  margin-inline-end: 0;
-
+  position: absolute;
+  inset-inline-end: 1em;
+  inset-block-start: 1em;
+}
+.close {
+  background-color: inherit;
+  color: inherit;
+  border: 0.2em solid var(--loje-laso);
+  padding: 0.2em; 
+  border-radius: 1em;
 }
 
 dialog legend {
@@ -281,16 +301,13 @@ dialog label{
 }
 
 
-
-
-
-
-
 /*Main styles*/
 main{
     grid-area: main;
     padding: 2em;
     align-self: start;
+    line-height: 1.5em;
+
 
 }
 h1{
@@ -321,10 +338,11 @@ aside {
     flex-direction: column;
 }
 aside h2{
+   margin: 0 auto;
+   flex-grow: 0;
     width: min-content;
     color: var(--laso-pimeja);
     text-align: center;
-    margin: auto;
     padding-block: 0.75em;
     font-size: 1.2em;
 
@@ -335,7 +353,7 @@ aside h2{
     overflow-y: auto;
 
 }
-.card-wrapper-child-winner{
+.card-winner{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -345,22 +363,22 @@ aside h2{
 }
 
 
-.card-wrapper-child-winner:nth-of-type(2n+1){
+.card-winner:nth-of-type(2n+1){
   background-image: radial-gradient(circle,rgba(240, 233, 186, var(--color-tint-opacity)) 25%, rgba(246, 231, 252, var(--color-tint-opacity)) 100%);
 }
-.card-wrapper-child-winner:nth-of-type(2n){
+.card-winner:nth-of-type(2n){
   background-image: radial-gradient(circle,rgba(249, 246, 224, var(--color-tint-opacity)) 25%, rgba(244, 245, 188, var(--color-tint-opacity)) 100%);
 
 }
 
-.card-wrapper-child-winner img{
+.card-winner img{
     width: 5em;
     height: 5em;
     object-fit: cover;
     border-radius: 50%;
     border: 0.4em solid grey;
 }
-.card-wrapper-child-winner a{
+.card-winner a{
     display: block;
     text-decoration: none;
     font-weight: 500;
@@ -371,7 +389,7 @@ aside h2{
   .card-wrapper{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
     gap: 1em;
     flex-wrap: wrap;
     max-height: 450px;
@@ -382,13 +400,10 @@ aside h2{
     padding: 0.25em;
 
   }
-  .card-wrapper-child-winner, .card-wrapper-child-winner:last-of-type {
+  .card-winner, .card-winner:last-of-type {
     border: none;
   }
-  .card-wrapper-child-winner:not(:first-of-type){
-    
-  }
-  .card-wrapper-child-winner{
+  .card-winner{
     flex: 40%;
   }
 
@@ -423,17 +438,21 @@ footer h2{
 footer a{
   display: flex;
   flex-direction: row-reverse;
-  border: 0.4em solid var(--loje-laso);
-  border-radius: var(--container-border-radius);
   align-items: center;
-  text-decoration: none;
   font-weight: 700;
+  padding-bottom: 0.3em;
+  text-decoration: none;
+  border-bottom: 0.03em solid var(--loje-laso);
+  /*
+  text-underline-offset: 0.5em;
+  text-decoration-style: solid;
+  text-decoration-thickness: 0.03em;*/
+
 
 }
 footer span {
   width: fit-content;
   text-align: center;
-  border-inline-start: 0.4em solid var(--loje-laso);
   padding: 0.25em;
 }
 footer svg{
