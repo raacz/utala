@@ -168,12 +168,12 @@ nav li {
     list-style: none;
     margin: auto;
 }
-nav a, nav a: {
+nav a, nav a:link, nav a:visited {
     text-underline-offset: 0.5em;
     text-decoration-style: solid;
     text-decoration-thickness: 0.03em;
     display: block;
-    color: var(--laso-pimeja);
+    color: var(--loje-laso);
 }
 nav a[aria-current="page"]{
   background-color: var(--jelo);
