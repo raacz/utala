@@ -14,6 +14,7 @@ layout: default
 
     <main class="container-in-main">
         <section>
+            <h1 tabindex="-1" id="skiplinktarget">{{ page.title }}</h1>
             {{ content }}
 
         </section>
@@ -25,7 +26,7 @@ layout: default
     {% include winner-container_en.html %}
     {% elsif page.lang == "tok-sp" %}
     {% include winner-container_sp.html %}
-  {% endif %}
+    {% endif %}
   </aside>
 
 
@@ -34,7 +35,6 @@ layout: default
   {% include noka_tok.html %}
   {% elsif page.lang == "en" %}
   {% include noka_en.html %}
-
   {% endif %}
 
 </div>

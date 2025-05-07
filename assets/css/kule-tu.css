@@ -168,12 +168,15 @@ nav li {
     list-style: none;
     margin: auto;
 }
-nav a {
+nav a, nav a: {
     text-underline-offset: 0.5em;
     text-decoration-style: solid;
     text-decoration-thickness: 0.03em;
     display: block;
     color: var(--laso-pimeja);
+}
+nav a[aria-current="page"]{
+  background-color: var(--jelo);
 }
 .lang {
   border-radius: 3em;
@@ -200,7 +203,7 @@ nav a {
   background-color: inherit;
   border: none;
   border-radius: 50%;
-  height: 2em;ante toki
+  height: 2em;
   width: 2em;
   object-fit: contain;
 }

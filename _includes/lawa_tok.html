@@ -53,15 +53,43 @@ o wile e nimi 'langSwitch'
         <span class="utala-musi">utala musi pi <span class="no-wrap">toki pona</span></span>
         <nav>
             <ul>
-            <li><a href="index.html">utala pini</a></li>
-            <li><a href="lipu-ale.html">lipu ale</a></li>
-            <li><a href="sitelen-ale.html">sitelen ale</a></li>
-            <li><a href="seme_tok.html">seme</a></li>
+            <li>
+                
+                {% if page.url == "/" %}
+                <a href="index.html" aria-current="page"> utala pini</a>
+                {% else %}
+                <a href="index.html"> utala pini</a>
+                {% endif %}
+                
+            </li>
+            <li>
+                {% if page.url == "/lipu-ale.html" %}
+                <a href="lipu-ale_tok.html" aria-current="page">lipu ale</a>
+                {% else %}
+                <a href="lipu-ale_tok.html">lipu ale</a>
+                {% endif %}
+            </li>
+            <li>
+                {% if page.url == "/sitelen-ale_tok.html" %}
+                <a href="sitelen-ale_tok.html" aria-current="page">sitelen ale</a>
+                {% else %}
+                <a href="sitelen-ale_tok.html">sitelen ale</a>
+                {% endif %}
+            </li>
+            <li>
+                {% if page.url == "/seme_tok.html" %}
+                <a href="seme_tok.html" aria-current="page">seme</a>
+                {% else %}
+                <a href="seme_tok.html">seme</a>
+                {% endif %}
+            </li>
             </ul>
         </nav>
 
     </div>
-    
+    <h1>{{ page.url }} Is the URL</h1>
+
 
 </header>
+
 <script src="/scripts/dialogManager.js"></script>
