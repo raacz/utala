@@ -1,6 +1,30 @@
 ---
 layout: default
 ---
-<main class="container-in-main w-40">
-  {{ content }}
-</main>
+
+<div class="layout">
+  {% if page.lang == "tok" %}
+    {% include lawa_tok.html %}
+    {% elsif page.lang == "en" %}
+    {% include lawa_en.html %}
+    {% elsif page.lang == "tok-sp" %}
+    {% include lawa_sp.html %}
+  {% endif %}
+
+
+    <main>
+            <h1 tabindex="-1" id="skiplinktarget">{{ page.title }}</h1>
+            {{ content }}
+    </main>
+
+  {% if page.lang == "tok" %}
+  {% include noka_tok.html %}
+  {% elsif page.lang == "en" %}
+  {% include noka_en.html %}
+  {% endif %}
+
+</div>
+
+
+<script src="/scripts/winnerDynamicHeight.js"></script>
+<script src="/scripts//nimiNanpa.js"></script>

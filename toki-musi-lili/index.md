@@ -1,6 +1,10 @@
 ---
 layout: lipu
+lang: tok
+langSwitch: index_en.html
 ---
+<section markdown="1" class="front-matter container-in-main">
+
 # utala pi toki musi #MAM/#LLW/#LLW
 
 ## open
@@ -63,7 +67,10 @@ ilo sina li ken kama jo e lipu kepeken nimi ni: [utala musi](lipu_pi_toki_musi.p
 [kulupu pona pi mun weka](#kulupu-pona-pi-mun-weka) - jan Sohuwa  
 [nasin pona](#nasin-pona) - jan Tumo
 
-***
+</section>
+<section markdown="1" class="content">
+
+## toki musi ale
 
 ### lon ma tomo pi tenpo pini suli
 *jan Kapilu*
@@ -645,7 +652,7 @@ taso mi wawa mute.
 ***
 
 ### wile pi weka ala
-*jan Mali*
+*jan Minasa*
 
 sona mi li suli ala. taso mi wile sona  
 e sina.  
@@ -921,3 +928,5 @@ ante li awen
 lon tenpo ale.  
 ni li nasin  
 pi ijo ale.  
+
+</section>

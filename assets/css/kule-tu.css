@@ -30,6 +30,9 @@
     --laso-pimeja: rgb(8, 18, 109);
     --jelo-walo: rgb(249, 249, 235); /*focus indicator*/
 
+    --lipu-monsi: rgb(252, 253, 246);
+    --lipu-sinpin: black;
+
     --c1: rgb(198, 231, 249);
     --c2: rgb(245, 245, 216);
     --color-tint-opacity: 0.26;
@@ -37,6 +40,8 @@
     
     --main-max-width: 55em;
     --reading-max-width: 50em;
+    --reading-comfort-width: 40em;
+
     --container-border-radius: 2em;
     --threedee-box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
     
@@ -72,7 +77,7 @@ body{
 h1, h2, h3, h4, h5, strong, .utala-musi{
   font-family: Teachers-Bold, sans-serif;
 }
-.layout{
+.layout {
     padding-inline: 2em;
     margin: auto;
     display: grid;
@@ -120,7 +125,6 @@ html {
     box-shadow: var(--threedee-box-shadow);
     background-color: var(--walo-laso);
     color: var(--laso-pimeja);
-
 }
 /*Header styles*/
 header{
@@ -307,9 +311,12 @@ dialog label{
 /*Main styles*/
 main{
     grid-area: main;
-    padding: 2em;
     align-self: start;
-    line-height: 1.5em;
+
+}
+main section {
+  padding: 2em;
+  line-height: 1.5em;
 
 
 }
@@ -411,9 +418,50 @@ aside h2{
   }
 
 
+}
 
+/*LIPU STYLES
+*/
+section h1{
+  font-size: 1.5em;
+}
+.layout:has(.content) .container-in-main {
+  margin-inline: 2em;
+}
+.layout:has(.content) {
+  padding: 0;
+  grid-template-areas:
+  "header"
+  "main"
+  "footer";
+  max-width: var(--reading-max-width);
 
+}
 
+.content {
+  margin-block-start: 2em;
+  margin-inline: auto;
+  box-shadow: 0 0 0 100vmax var(--lipu-sinpin);
+  border-block: 3em solid var(--lipu-sinpin);
+  clip-path: inset(0 -100vmax);
+  background-color: var(--lipu-monsi);
+  color: var(--lipu-sinpin);
+  padding-inline: 4em;
+  max-width: var(--reading-comfort-width)
+}
+@media (max-width: 40rem){
+  .content {
+    padding-inline: 1em;
+  }
+}
+@media (max-width: 20rem){
+  .content {
+    padding-inline: 0.5em;
+  }
+}
+
+.content hr {
+  margin-block: 2em;
 }
 
 
