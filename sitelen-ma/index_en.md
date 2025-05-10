@@ -1,6 +1,6 @@
 ---
 
-layout: lipu
+layout: main
 
 ---
 # Place picture contest 2021-07-01

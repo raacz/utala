@@ -1,5 +1,5 @@
 ---
-layout: lipu
+layout: main
 
 ---
 # Sound-Movement-Document Competition #MAMW/#T/#LTW

@@ -1,5 +1,5 @@
 ---
-layout: lipu
+layout: main
 
 ---
 # utala pi lipu kalama tawa #MAMW/#T/#LTW

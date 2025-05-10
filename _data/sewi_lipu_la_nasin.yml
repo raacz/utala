@@ -1,8 +1,13 @@
 -
   nimi:
-    tok: utala
-    en: Competitions
+    tok: utala pini
+    en: Past Competitions
   lipu: index.md
+-
+  nimi:
+    tok: tenpo ni
+    en: Now
+  lipu: tenpo-ni.md
 -
   nimi:
     tok: lipu ale

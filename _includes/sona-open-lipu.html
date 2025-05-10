@@ -1,0 +1,16 @@
+<section class="front-matter container-in-main">
+    <h1>{{ nimilipu }}</h1>
+  
+    <p>tan {{ nimipali }}</p>
+  
+    <p><strong>mute nimi</strong>: {{ mutenimi }}, {{ muteniminanpa }}</p>
+  
+    <details>
+      <summary>o sona e ken ike lon lipu ni</summary>
+      <ul>
+        {% for item in kenike %}
+          <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+    </details>
+  </section>
