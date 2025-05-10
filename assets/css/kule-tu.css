@@ -67,13 +67,9 @@ body{
     color: var(--laso-pimeja);
     font-size: 1.35em;
 }
-*:focus-visible {
-	/* inner indicator */
-	outline: 0.15em var(--laso-pimeja) solid;
-  background-color: var(--jelo-walo);
-	outline-offset: 0;
-	/* outer indicator */
-}
+
+
+
 h1, h2, h3, h4, h5, strong, .utala-musi{
   font-family: Teachers-Bold, sans-serif;
 }
@@ -104,6 +100,33 @@ h1, h2, h3, h4, h5, strong, .utala-musi{
     "sidebar"
     "footer";
   }
+}
+
+/*Accessibility*/
+*:focus-visible {
+	/* inner indicator */
+	outline: 0.15em var(--laso-pimeja) solid;
+  background-color: var(--jelo-walo);
+	outline-offset: 0;
+	/* outer indicator */
+}
+.skip-button:link, .skip-button:visited {
+  position: absolute;
+  margin: auto;
+  display: block;
+  width: 100%;
+  text-align: center; 
+  color: var(--laso-pimeja);
+  background-color: var(--jelo);
+  padding-block: 0.5em;
+  /* Ensure the Y position is set to zero and any movement on the transform property */
+  transform: translateY(0);
+  transition: transform 50ms ease-in;
+}
+
+/* When it is not focused, transform its Y position by its total height, using a negative value, so it hides above the viewport */
+.skip-button:not(:focus) {
+  transform: translateY(-9rem);
 }
 /*temani afif style*/
 html {

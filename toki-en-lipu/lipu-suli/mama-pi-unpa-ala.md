@@ -1,30 +1,29 @@
 ---
 layout: lipu
+lang: "tok"
 ---
 
 <style>
-    @font-face {
-        font-family: "nasin nanpa";
-        src: url({{ '/assets/nasin-nanpa-2.5.1.otf' | relative_url }});
-    }
-    .sitelen-pona {
-        font-family: "nasin nanpa";
-        font-size: 1.2em;
-        text-align: center;
-    }
-    .kpn-weka {
-        white-space: pre-wrap;
-    }
-    .nimi{
-        outline-width: 2px;
-        outline-style: solid;
-        outline-radius: 3px;
-
-
+@font-face {
+    font-family: "nasin nanpa";
+    src: url({{ '/assets/nasin-nanpa-2.5.1.otf' | relative_url }});
 }
-    }
+.sitelen-pona {
+    font-family: "nasin nanpa";
+    font-size: 1.2em;
+    text-align: center;
+}
+.kpn-weka {
+    white-space: pre-wrap;
+}
+.nimi{
+    outline-width: 2px;
+    outline-style: solid;
+    outline-radius: 3px;
+}
 </style>
 
+<section class="front-matter container-in-main" markdown="1">
 # mama sewi pi unpa ala
 
 tan jan Lakuse
@@ -42,8 +41,8 @@ tan jan Lakuse
 
 *jan pali li wile e ni: sina lukin kepeken sitelen pona. taso, sina ken ala lukin e sitelen pona la, o tawa [sitelen Lasina anpa](#sitelen-lasina).*
 
-***
-
+</section>
+<section class="content" markdown="1">
 <div class="sitelen-pona kpn-weka">
 󱤴󱥍󱥯󱤂󱤧
 󱤖󱤱󱥧󱥙󱤀
@@ -272,3 +271,4 @@ taso toki ante ale la
 jan lili li sona ala.  
 nasa la toki pona taso   
 li ken lon pilin ona.  
+</section>
