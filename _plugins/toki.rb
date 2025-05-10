@@ -39,7 +39,7 @@ Jekyll::Hooks.register :site, :post_read do |ma_lipu|
 end
 
 module NimiWawa
-  # nimi waw {% toki_sama lipu_ante.md %} li alasa e lipu ante 
+  # nimi wawa {% tawa_lipu_pi_toki_sama lipu_ante.md %} li alasa e lipu ante ni pi toki ni: lipu lon li kepeken. ni la ilo li pana e nasin tawa ona.
   class TawaLipuPiTokiSama < Liquid::Tag
     include Jekyll::Filters::URLFilters
     def initialize(tag_name, nimi_lipu, tokens)
@@ -52,6 +52,7 @@ module NimiWawa
       lipu = self.o_alasa_e_lipu(poka, nimi_lipu)
       return relative_url(lipu) if lipu
       Jekyll.logger.warn "ilo tawa_lipu_pi_toki_sama li alasa la lipu '#{nimi_lipu}' li lon ala"
+      nil
     end
     def o_alasa_e_lipu(poka, nimi_lipu)
       ma_lipu = poka.registers[:site]
