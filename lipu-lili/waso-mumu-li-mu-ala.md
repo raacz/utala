@@ -1,5 +1,10 @@
 ---
 layout: lipu
+nimi_lipu: waso Mumu li mu ala
+suli_lipu: lili
+mute_nimi: 667
+ken_ike:
+- akesi linja pi noka ala
 ---
 
 # waso Mumu li mu ala

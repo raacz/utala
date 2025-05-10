@@ -1,5 +1,13 @@
 ---
 layout: lipu
+nimi_lipu: ilo li wile e soweli
+suli_lipu: suli mute
+mute_nimi: 3700
+ken_ike:
+- ilo li kama ken sona sama jan
+- kala li moli
+- pakala ilo li kama li sama moli
+- moku li lon
 ---
 
 # ilo li wile e soweli

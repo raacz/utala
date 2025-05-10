@@ -1,5 +1,13 @@
 ---
 layout: lipu
+nimi_lipu: jan Posepomamuka#52208 o,
+suli_lipu: suli lili
+mute_nimi: 1365
+ken_ike:
+- pipi li ike tawa sijelo
+- insa sijelo
+- lawa kulupu li anpa e jan
+- nimi unpa lili
 ---
 
 # jan Posepomamuka#52208 o,

@@ -1,7 +1,11 @@
----  
-layout: lipu
 ---
-
+layout: lipu
+nimi_lipu: toki musi pata
+suli_lipu: lili
+mute_nimi: 671
+ken_ike:
+- ''
+---
 
 # toki musi pata
 **mute nimi**: lili, <abbr title="671">LWAMMMLLW</abbr> 

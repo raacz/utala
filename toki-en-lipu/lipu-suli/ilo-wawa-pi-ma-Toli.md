@@ -1,5 +1,12 @@
 ---
 layout: lipu
+nimi_lipu: ilo wawa pi ma Toli
+suli_lipu: suli lili
+mute_nimi: 1141
+ken_ike:
+- utala pi kulupu ma
+- pakala sijelo
+- poki li ken ala e tan jan
 ---
 
 <style>

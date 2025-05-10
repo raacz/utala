@@ -1,5 +1,10 @@
 ---
 layout: lipu
+nimi_lipu: kasi lili li suli
+suli_lipu: lili
+mute_nimi: 816
+ken_ike:
+- kasi li pilin ike tawa ona sama
 ---
 
 # kasi lili li suli

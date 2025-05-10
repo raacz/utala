@@ -1,5 +1,15 @@
 ---
 layout: lipu
+nimi_lipu: mi en waso Kaka en monsuta pi ma kasi
+suli_lipu: suli mute
+mute_nimi: 8402
+ken_ike:
+- pakala sijelo
+- pilin ike pi ken moli
+- sijelo moli jaki
+- moku li lon
+- utala sijelo
+- nimi ku li mute
 ---
 
 # mi en waso Kaka en monsuta pi ma kasi

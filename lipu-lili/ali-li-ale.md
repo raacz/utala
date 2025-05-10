@@ -1,5 +1,16 @@
 ---
 layout: lipu
+nimi_lipu: ali li ale
+suli_lipu: suli mute
+mute_nimi: 3504
+ken_ike:
+- utala suli li lon
+- moli
+- pakala ma
+- seli tomo
+- 'jan li pakala e sijelo jan tawa ni: ona li ken sona e sona len'
+- nimi sin mute
+- nasin sewi
 ---
 
 # ali li ale

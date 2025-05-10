@@ -1,6 +1,15 @@
 ---
 layout: lipu
+nimi_lipu: jan usawi
+suli_lipu: suli lili
+mute_nimi: 1124
+ken_ike:
+- pakala sijelo
+- moli
+- pali jan li ike
+- nimi sin mute li lon
 ---
+
 # jan usawi
 tan jan Kepe
 

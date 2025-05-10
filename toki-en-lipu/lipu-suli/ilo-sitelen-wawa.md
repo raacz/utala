@@ -1,7 +1,13 @@
 ---
 layout: lipu
+nimi_lipu: ilo sitelen wawa
+suli_lipu: lili
+mute_nimi: 566
+ken_ike:
+- pilin pi wan taso
+- utala sijelo ike
+- ilo nasa li ante e sijelo jan
 ---
-
 
 # ilo sitelen wawa
 

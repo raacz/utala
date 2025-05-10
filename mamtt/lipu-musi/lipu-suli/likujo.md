@@ -1,5 +1,10 @@
 ---
 layout: lipu
+nimi_lipu: likujo
+suli_lipu: lili
+mute_nimi: 774
+ken_ike:
+- toki moli
 ---
 
 <style>

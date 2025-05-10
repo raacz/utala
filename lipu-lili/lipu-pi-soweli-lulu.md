@@ -1,5 +1,11 @@
 ---
 layout: lipu
+nimi_lipu: lipu pi soweli Lulu
+jan_pali: jan Non
+suli_lipu: lili
+mute_nimi: 620
+ken_ike:
+- moku li lon
 ---
 
 # lipu pi soweli Lulu

@@ -1,5 +1,10 @@
 ---
 layout: lipu
+nimi_lipu: ilo toki
+suli_lipu: lili
+mute_nimi: 522
+ken_ike:
+- ilo nanpa li sona wawa e toki
 ---
 
 <style>

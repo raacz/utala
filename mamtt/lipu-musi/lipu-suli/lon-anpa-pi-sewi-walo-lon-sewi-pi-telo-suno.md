@@ -1,5 +1,8 @@
 ---
 layout: lipu
+nimi_lipu: lon anpa pi sewi walo lon sewi pi telo suno
+ken_ike:
+- ''
 ---
 
 <style>

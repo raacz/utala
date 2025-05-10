@@ -1,5 +1,12 @@
 ---
 layout: lipu
+nimi_lipu: ni li nasin
+suli_lipu: suli mute mute a
+mute_nimi: 5017
+ken_ike:
+- kulupu lili ike pi nasin sewi nasa
+- nasin ike - jan li toki ike e nasin pi jan ante
+- moku li lon
 ---
 
 # ni li nasin

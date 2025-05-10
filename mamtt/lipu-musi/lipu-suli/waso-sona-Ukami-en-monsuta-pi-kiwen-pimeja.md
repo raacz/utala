@@ -1,7 +1,12 @@
 ---
 layout: lipu
+nimi_lipu: waso sona Ukami en monsuta pi kiwen pimeja
+suli_lipu: suli lili
+mute_nimi: 3831
+ken_ike:
+- moli mute
+- nimi pi pu ala
 ---
-
 
 # waso sona Ukami en monsuta pi kiwen pimeja
 **mute nimi**: suli lili, <abbr title="3831">MLLLTWAMLLW</abbr> 

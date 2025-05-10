@@ -1,6 +1,17 @@
 ---
 layout: lipu
+nimi_lipu: mi jan
+suli_lipu: suli
+mute_nimi: 8861
+ken_ike:
+- moku
+- ma li kama jaki moli tan pali jan
+- pilin ike tawa jan
+- wan taso
+- utala
+- moli
 ---
+
 <style>
   .weka-open {
     text-indent: 40px;

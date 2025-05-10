@@ -1,7 +1,11 @@
 ---
 layout: lipu
+nimi_lipu: utala nanpa
+suli_lipu: lili suli
+mute_nimi: 1149
+ken_ike:
+- ''
 ---
-
 
 # utala nanpa
 **mute nimi**: lili suli, <abbr title="1149">LLWAMMLTT</abbr> 

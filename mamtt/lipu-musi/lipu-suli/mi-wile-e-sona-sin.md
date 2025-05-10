@@ -1,7 +1,11 @@
 ---
 layout: lipu
+nimi_lipu: mi wile e sona sin
+suli_lipu: suli lili
+mute_nimi: 2661
+ken_ike:
+- ''
 ---
-
 
 # mi wile e sona sin
 **mute nimi**: suli lili, <abbr title="2661">MLWAMMMW</abbr> 

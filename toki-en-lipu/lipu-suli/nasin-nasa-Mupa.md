@@ -1,5 +1,12 @@
 ---
 layout: lipu
+nimi_lipu: nasin nasa pi jan Mupa
+suli_lipu: suli
+mute_nimi: 4392
+ken_ike:
+- utala sijelo
+- ijo tu li toki kepeken kalama ala kepeken lukin ala kepeken nasin nasa lawa
+- pakala seli
 ---
 
 # nasin nasa pi jan Mupa

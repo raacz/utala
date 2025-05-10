@@ -1,5 +1,14 @@
 ---
 layout: lipu
+nimi_lipu: kasi li toki
+suli_lipu: lili suli
+mute_nimi: 1542
+ken_ike:
+- kasi li moli
+- kasi li ken toki
+- pilin ike
+- ike pi nasin kulupu
+- nimi wan pi pu ala
 ---
 
 <style>

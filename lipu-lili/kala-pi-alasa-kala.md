@@ -1,5 +1,12 @@
 ---
 layout: lipu
+nimi_lipu: kala pi alasa kala
+suli_lipu: lili
+mute_nimi: 665
+ken_ike:
+- moku
+- pipi
+- sijelo jan li nasa lili
 ---
 
 # kala pi alasa kala

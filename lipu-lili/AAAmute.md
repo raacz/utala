@@ -1,5 +1,13 @@
 ---
 layout: lipu
+nimi_lipu: AAA-mute
+suli_lipu: suli lili
+mute_nimi: 1049
+ken_ike:
+- ijo li ken ala weka tan poki
+- ijo monsuta
+- ijo li lawa e lawa jan
+- misikeke nasa en ike sijelo
 ---
 
 # AAA-mute

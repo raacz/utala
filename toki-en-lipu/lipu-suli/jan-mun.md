@@ -1,5 +1,14 @@
 ---
 layout: lipu
+nimi_lipu: jan mun
+jan_pali: mun Kekan San
+suli_lipu: suli lili
+mute_nimi: 932
+ken_ike:
+- moli
+- sona wawa pi nasin mun
+sona_namako: 'jan pali li wile e ni: sina lukin kepeken sitelen pona. taso, sina ken
+  ala lukin e sitelen pona la, o tawa [sitelen Lasina anpa](#sitelen-Lasina).'
 ---
 
 <style>

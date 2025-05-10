@@ -1,5 +1,8 @@
 ---
 layout: lipu
+nimi_lipu: nasin Lanpan
+suli_lipu: suli mute mute a
+mute_nimi: 66372
 ---
 
 <style>

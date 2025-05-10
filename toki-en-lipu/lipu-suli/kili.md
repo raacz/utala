@@ -1,6 +1,12 @@
 ---
 layout: lipu
+nimi_lipu: kili
+suli_lipu: lili
+mute_nimi: 656
+ken_ike:
+- nimi ku li lon
 ---
+
 <style>
 .weka {
   text-indent: 2em;

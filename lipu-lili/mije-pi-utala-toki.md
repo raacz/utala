@@ -1,5 +1,11 @@
 ---
 layout: lipu
+nimi_lipu: mije pi utala toki
+jan_pali: jan Ke Tami
+suli_lipu: suli lili
+mute_nimi: 154
+ken_ike:
+- moku
 ---
 
 # mije pi utala toki

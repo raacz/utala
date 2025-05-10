@@ -1,5 +1,12 @@
 ---
 layout: lipu
+nimi_lipu: lipu pi jan Kosi
+jan_pali: jan Temili
+suli_lipu: lili
+mute_nimi: 643
+ken_ike:
+- jan li weka e sona mute
+- moku li lon
 ---
 
 <style>

@@ -1,5 +1,14 @@
 ---
 layout: lipu
+nimi_lipu: mama sewi pi unpa ala
+suli_lipu: lili
+mute_nimi: 500
+ken_ike:
+- sewi li nasa e sijelo jan
+- ike nasin pi ma Mewika tawa jan pi ken mama sijelo
+- jan li mama e jan lili lon insa ona li ken ala weka e ona tan lawa
+sona_namako: 'jan pali li wile e ni: sina lukin kepeken sitelen pona. taso, sina ken
+  ala lukin e sitelen pona la, o tawa [sitelen Lasina anpa](#sitelen-lasina).'
 ---
 
 <style>

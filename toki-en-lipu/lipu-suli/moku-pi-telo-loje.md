@@ -1,5 +1,11 @@
 ---
 layout: lipu
+nimi_lipu: moku pi telo loje
+suli_lipu: suli lili
+mute_nimi: 1063
+ken_ike:
+- monsuta
+- moku pi telo loje sijelo
 ---
 
 # moku pi telo loje

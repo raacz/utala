@@ -1,7 +1,11 @@
 ---
 layout: lipu
+nimi_lipu: jan Eto li alasa e pipi
+suli_lipu: lili
+mute_nimi: 644
+ken_ike:
+- toki sona pi nasin pipi
 ---
-
 
 # jan Eto li alasa e pipi
 **mute nimi**: lili, <abbr title="644">LWAMMTT</abbr> 

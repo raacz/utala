@@ -1,6 +1,13 @@
 ---
 layout: lipu
+nimi_lipu: olin kijetesantakalu
+suli_lipu: suli lili
+mute_nimi: 1266
+ken_ike:
+- moku mute li lon
+- pakala lili sijelo
 ---
+
 # olin kijetesantakalu
 tan jan Kiwisin tan jan Telupiso
 

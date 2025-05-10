@@ -1,5 +1,8 @@
 ---
 layout: lipu
+nimi_lipu: lipu tenpo pi waso lili
+suli_lipu: suli lili
+mute_nimi: 1020
 ---
 
 # lipu tenpo pi waso lili

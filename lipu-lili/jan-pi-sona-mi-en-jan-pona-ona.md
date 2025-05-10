@@ -1,5 +1,11 @@
 ---
 layout: lipu
+nimi_lipu: jan pi sona mi en jan pona ona
+suli_lipu: lili
+mute_nimi: 535
+ken_ike:
+- moku
+- jan li weka e jan pona ona
 ---
 
 # jan pi sona mi en jan pona ona

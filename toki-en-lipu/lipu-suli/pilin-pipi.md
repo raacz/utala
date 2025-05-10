@@ -1,5 +1,10 @@
 ---
 layout: lipu
+nimi_lipu: pilin pipi
+suli_lipu: suli lili
+mute_nimi: 2135
+ken_ike:
+- nasa pi nasin sitelen selo
 ---
 
 # pilin pipi

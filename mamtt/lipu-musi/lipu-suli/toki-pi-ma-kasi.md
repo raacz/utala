@@ -1,7 +1,11 @@
 ---
 layout: lipu
+nimi_lipu: 'toki pi ma kasi: utala pi jan ete'
+suli_lipu: lili
+mute_nimi: 544
+ken_ike:
+- ''
 ---
-
 
 # toki pi ma kasi: utala pi jan ete
 **mute nimi**: lili, <abbr title="544">LAMMTT</abbr> 

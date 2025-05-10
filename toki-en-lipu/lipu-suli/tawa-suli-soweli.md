@@ -1,5 +1,11 @@
 ---
 layout: lipu
+nimi_lipu: tawa suli soweli
+suli_lipu: lili
+mute_nimi: 649
+ken_ike:
+- jan pali en ilo ChatGPT li sitelen e lipu ni
+- nimi sin mute pi ku ala
 ---
 
 # tawa suli soweli

@@ -1,7 +1,16 @@
 ---
 layout: lipu
+nimi_lipu: kasi utala pi ma Tokono
+suli_lipu: suli lili
+mute_nimi: 2234
+ken_ike:
+- moli
+- pilin ike suli
+- utala suli kulupu
+- pakala sijelo
+- weka moku en weka telo
+- wan taso
 ---
-
 
 # kasi utala pi ma Tokono
 **mute nimi**: suli lili, <abbr title="2234">MTAMLLTT</abbr> 

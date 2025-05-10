@@ -1,5 +1,10 @@
 ---
 layout: lipu
+nimi_lipu: mi pana e lipu
+suli_lipu: suli
+mute_nimi: 6200
+ken_ike:
+- ''
 ---
 
 # mi pana e lipu

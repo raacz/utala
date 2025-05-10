@@ -1,5 +1,10 @@
 ---
 layout: lipu
+nimi_lipu: tenpo pini weka
+suli_lipu: lili
+mute_nimi: 698
+ken_ike:
+- moku li lon
 ---
 
 <style>
