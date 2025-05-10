@@ -1,7 +1,5 @@
 ---
 layout: main
-langSwitch: "ijo-ale_en.html"
-lang: "tok"
 ---
 
 # utala musi li seme?

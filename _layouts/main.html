@@ -3,13 +3,7 @@ layout: default
 ---
 
 <div class="layout">
-  {% if page.lang == "tok" %}
-    {% include lawa_tok.html %}
-    {% elsif page.lang == "en" %}
-    {% include lawa_en.html %}
-    {% elsif page.lang == "tok-sp" %}
-    {% include lawa_sp.html %}
-  {% endif %}
+    {% include lawa.html %}
 
 
     <main class="">
@@ -19,23 +13,18 @@ layout: default
         </section>
     </main>
   <aside class="container-in-main">
-    {% if page.lang == "tok" %}
+    {% if page.toki == "tok" %}
     {% include winner-container_tok.html %}
-    {% elsif page.lang == "en" %}
+    {% elsif page.toki == "en" %}
     {% include winner-container_en.html %}
-    {% elsif page.lang == "tok-sp" %}
+    {% elsif page.toki == "tok-sp" %}
     {% include winner-container_sp.html %}
     {% endif %}
   </aside>
 
 
 
-  {% if page.lang == "tok" %}
-  {% include noka_tok.html %}
-  {% elsif page.lang == "en" %}
-  {% include noka_en.html %}
-  {% endif %}
-
+  {% include noka.html %}
 </div>
 
 

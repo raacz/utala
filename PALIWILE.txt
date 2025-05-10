@@ -1,6 +1,4 @@
 Issues
-- Relative links broken
-- dealng with 'monolingual' pages in YAML  
 - reading mode feature requires further segmenting of content
 - all settings tools still need work
 - page titles broken

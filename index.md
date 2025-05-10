@@ -1,7 +1,6 @@
 ---
 layout: main
-langSwitch: "index_en.html"
-lang: "tok"
+toki: "tok"
 ---
 
 # utala pi pali musi li lon tenpo pini li lon tenpo kama

@@ -3,13 +3,7 @@ layout: default
 ---
 
 <div class="layout">
-  {% if page.lang == "tok" %}
-    {% include lawa_tok.html %}
-    {% elsif page.lang == "en" %}
-    {% include lawa_en.html %}
-    {% elsif page.lang == "tok-sp" %}
-    {% include lawa_sp.html %}
-  {% endif %}
+    {% include lawa.html %}
 
 
     <main>
@@ -17,12 +11,7 @@ layout: default
             {{ content }}
     </main>
 
-  {% if page.lang == "tok" %}
-  {% include noka_tok.html %}
-  {% elsif page.lang == "en" %}
-  {% include noka_en.html %}
-  {% endif %}
-
+  {% include noka.html %}
 </div>
 
 

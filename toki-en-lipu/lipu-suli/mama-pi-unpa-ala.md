@@ -1,6 +1,5 @@
 ---
 layout: lipu
-lang: "tok"
 ---
 
 <style>

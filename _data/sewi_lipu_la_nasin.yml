@@ -1,0 +1,20 @@
+-
+  nimi:
+    tok: utala
+    en: Competitions
+  lipu: index.md
+-
+  nimi:
+    tok: lipu ale
+    en: All Documents
+  lipu: lipu-ale.md
+-
+  nimi:
+    tok: sitelen ale
+    en: All Depictions
+  lipu: sitelen-ale.md
+-
+  nimi:
+    tok: seme
+    en: What?
+  lipu: seme.md

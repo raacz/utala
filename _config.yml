@@ -4,5 +4,7 @@ description: >- # this means to ignore newlines until "url:"
 # This is the list of links that show up at the top of the page using `lipu` template, adjust it with whatever (or none) links you would like
 lawa:
 
-# Build settings
-# remote_theme: pona-la/kule-lipu
+toki:
+  - tok
+  - en
+sona_ala_la_toki: tok

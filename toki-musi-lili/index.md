@@ -1,7 +1,5 @@
 ---
 layout: lipu
-lang: tok
-langSwitch: index_en.html
 ---
 <section markdown="1" class="front-matter container-in-main">
 
