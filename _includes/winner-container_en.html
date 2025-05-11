@@ -1,5 +1,7 @@
-    <h2 aria-labelledby="winner-id">ijo wawa kulupu</h2>
-    <div id="winner-id" tabindex="0" class="card-wrapper">
-     
-    </div>
-    
+<h2>Past Winners</h2>
+<div class="card-wrapper">
+  {%- for entry in site.data.ijo_wawa -%}
+    {% include winner.html nimiilo=entry.lipu nimi=entry.nimi sitelen=sitelen nanpawan=entry.tenpo.en nanpatu=entry.nanpa.en %}
+  {%- endfor -%}
+  
+</div>

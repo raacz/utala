@@ -1,9 +1,7 @@
 ---
-layout: lipu
+layout: main
 
 ---
-
-([sina wile e toki pona la o tawa ni](index.md))
 
 
 # Competition of Big Documents and Small Communications 2023-08-15

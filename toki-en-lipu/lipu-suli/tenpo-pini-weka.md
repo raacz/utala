@@ -1,37 +1,25 @@
 ---
 layout: lipu
 nimi_lipu: tenpo pini weka
+jan_pali: jan Akeso
 suli_lipu: lili
 mute_nimi: 698
 ken_ike:
 - moku li lon
+ijo_toki: 'ma li kama kepeken nasin seme? lipu li toki e ni: ale li kama tan pali pi soweli wawa wan.'
+lukin_sin: pona
 ---
 
 <style>
 .weka {
   text-indent: 2em;
 }
-p{
+.content p{
   margin-bottom:1px;
   margin-top:1px;
 }
 </style>
 
-
-# tenpo pini weka
-
-tan jan Akeso
-
-**mute nimi**: lili, <abbr title="698">LWAMMMMLLLTW</abbr> 
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>moku li lon</li>
-  </ul>
-</details>
-
-***
 
 o lukin tawa tenpo pini weka. tenpo ni la, sina lon ala. nena suli li lon ala. ale lon ma ni li lon ala. ma taso li sona e tenpo ni. taso, ona li kama ante mute. o sona e toki ni!
 

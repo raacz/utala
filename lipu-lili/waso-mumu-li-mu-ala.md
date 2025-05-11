@@ -1,25 +1,15 @@
 ---
 layout: lipu
 nimi_lipu: waso Mumu li mu ala
+jan_pali: jan Atelin
 suli_lipu: lili
 mute_nimi: 667
 ken_ike:
 - akesi linja pi noka ala
+ijo_toki: 'waso sama ale pi waso Mumu li mu. taso waso Mumu li wile toki! o alasa lon poka pi waso Mumu e ijo pi ken toki!'
+lukin_sin: pona
 ---
 
-# waso Mumu li mu ala
-tan jan Atelin
-
-**mute nimi**: lili, <abbr title="667">LWAMMMLT</abbr>
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>akesi linja pi noka ala</li>
-  </ul>
-</details>
-
-***
 
 waso Mumu li waso nasa. ona li lili li jo e len waso pimeja sama waso ante. waso sin li kama tan sike kiwen mama la, ona li mu mute. taso waso wawa wan li toki e ni:  
 *“toki, mama o! nimi mi li seme?”*  

@@ -1,12 +1,27 @@
 ---
 layout: lipu
 nimi_lipu: nasin Lanpan
+jan_pali: kapesi Pake
 suli_lipu: suli mute mute a
 mute_nimi: 66372
+ken_ike: 
+  - jan toki lipu li toki e sona ante lon tenpo ante
+  - pakala sijelo
+  - ike pi kulupu mama
+  - ike pi kulupu ma
+  - "jan li toki e ni: jan li moli e jan"
+  - wile ike la, jan li kama jo e ijo tan jan ante
+  - jan li pilin ike tawa soweli
+  - moku li lon
+  - nanpa li lon
+  - nasin sewi
+  - lipu li pana e nasin tawa lipu ilo
+
+ijo_toki: 'jan li ken pali e lipu kepeken nasin ni? jan wan ni li sona pona ala. taso ken la, ona li pali e lipu wan taso ala e lipu mute, la ona li ken kama pilin pona tan ike pi nasa olin.'
 ---
 
 <style>
-  p {
+  .content p {
     line-height: 1.5;
   }
 
@@ -36,28 +51,7 @@ mute_nimi: 66372
   }
 </style>
 
-# nasin Lanpan
-**mute nimi**: suli mute mute a, <abbr title="66372">LWAMMMTWAMMMLLT</abbr> 
 
-tan kapesi Pake
-
-<details markdown=1>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  - jan toki lipu li toki e sona ante lon tenpo ante
-  - pakala sijelo
-  - ike pi kulupu mama
-  - ike pi kulupu ma
-  - jan li toki e ni: jan li moli e jan
-  - wile ike la, jan li kama jo e ijo tan jan ante
-  - jan li pilin ike tawa soweli
-  - moku li lon
-  - nanpa li lon
-  - nasin sewi
-  - lipu li pana e nasin tawa lipu ilo
-  </ul>
-</details>
-
-***
 
 mi jan pi ike sijelo. mi olin e ijo ala. selo mi li ike. insa sijelo mi li tawa moli. a. sina wile kute e ni ala. sina ijo suli! sina nasin ken! ken nasin li sina li ilo nasin. nimi li musi anu kiwen. (mi sona lili e nimi mi. nimi mute li tan luka kepeken ilo sitelen. kon nimi li lili tawa mi. kalama pini nimi li suli tawa mi.) jan mute o pona e ike sijelo mi. taso, mi wile pona ala. mi ni tan seme? mi ni tan ni: pilin mi li sama li kiwen li ante ala. jan li pona e sijelo la, jan li ike tawa mi. mi sona ala e ike ona. ike ona li awen lon. pilin sina li kama ala kama ike? sina lukin e nimi tan seme? sina wile ala wile alasa e kon pi nimi mi? wile la, o sona e sona ni: nimi mi ni li ala li ilo. kon ala li ona li lon ona. mi pali e lipu tan weka tenpo tan weka pilin kin. (sona sina o pakala. lawa mi li wile pona e ona ala. lawa mi li olin e ni taso: lipu la, kalama pi linja nimi li pona kute.) ni li tan sina ala ante. ni li tan ante jan. ante jan li musi. musi mi pi ante jan li lon ni: pali pini mi li ike li lili e olin nasin. pali li seme? mi la, ona li pali pi kulupu lawa. a, kulupu lawa li suli. kulupu lawa li pali e nasin mute. kulupu lawa li suli e nasin mute. o pini e pilin pi nasin jan! o pini! mi wile suli ala e nasin jan. ona li lili lon lawa li jaki taso. kulupu lawa li suli tan ijo wan taso ni: ona li pana e pali tawa mi. pali li pini lon tenpo pini. pali li pini la, mi jo ala e mani e tomo. ike. pali li pini tan seme? ona li ni tan ni: mi ike tawa jan ale. mi pali kepeken wile lili kepeken jaki mute. tan seme la, nasin ni o ante? mi olin ala e jan. jan li ike pilin tawa mi. mi wile e ike sama lon jan ante ale. jan mama li wile ante e pilin mi. taso, ona o taso ala e alasa sona. jan ala li ante. sina ala o ante. jan ala li ken ante. mi ken ala kin. ante jan li sin. wile ante li mute. a. ante lon la, jan ala li kute. a. a. a. sina lukin kin. sina awen lukin. a. lukin la, mi pana. pana ni li toki musi. ona li tawa sina. o lukin e sitelen mi. sitelen li jo e musi pi jan pi kama jo. jan ni li wile kama jo e ijo ale. a, jan ni li kama jo e ijo kepeken nasin ike! ni li pona anu ike la, ni li pilin sina. mi open e musi e toki musi lon anpa lipu. 
 

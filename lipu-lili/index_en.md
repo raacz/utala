@@ -12,7 +12,7 @@ You can see everything she said [here](lawa_en.md).
 
 Therefore many folks wrote new documents. jan Tepo and jan Lakuse gave them all to this website ('utala.pona.la') so the community could look at the documents. 
 
-If you would like to see the method of opinion expression look [here](pana-pilin-en.md).
+If you would like to see the method of opinion expression look [here](pana-pilin_en.md).
 
 ## Which documents did the group favour?
 

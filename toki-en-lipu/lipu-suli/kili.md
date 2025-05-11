@@ -1,39 +1,24 @@
 ---
 layout: lipu
 nimi_lipu: kili
+jan_pali: jan Simiman
 suli_lipu: lili
 mute_nimi: 656
 ken_ike:
 - nimi ku li lon
+ijo_toki: 'lon ma kasi suli la soweli ale li wile alasa e moku. taso kijetesantakalu li kijetesantakalu.'
+lukin_sin: pona
 ---
 
 <style>
 .weka {
   text-indent: 2em;
 }
-p{
+.content p{
   margin-bottom:1px;
   margin-top:1px;
 }
 </style>
-
-# kili
-
-tan jan Simiman
-
-<br>
-
-**mute nimi**: lili, <abbr title="656">LWAMMLLLW</abbr>
-<br>
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>nimi ku li lon</li>
-  </ul>
-</details>
-
-***
 
 tenpo weka la soweli lili li tawa lon ma kasi suli.  
 

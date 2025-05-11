@@ -1,5 +1,5 @@
 ---
-layout: lipu
+layout: main
 ---
 # utala pi musi mu #MAMTW/#L/#LLLW
 

@@ -106,6 +106,32 @@
     tok: "lipu suli #TW"
     en: Third Place
   lipu: index.md
-
+-
+  nimi: jan Atelin
+  tenpo: 
+    tok: 'tenpo sike #MAMT'
+    en: Artistic Document 2022
+  nanpa:
+    tok: "lipu #W"
+    en: First Place
+  lipu: index.md
+-
+  nimi: jan Ke Tami
+  tenpo: 
+    tok: 'tenpo sike #MAMT'
+    en: Artistic Document 2022
+  nanpa:
+    tok: "lipu #T"
+    en: Second Place
+  lipu: index.md
+-
+  nimi: jan Kita
+  tenpo: 
+    tok: 'tenpo sike #MAMT'
+    en: Artistic Document 2022
+  nanpa:
+    tok: "lipu #TW"
+    en: Third Place
+  lipu: index.md
 
 

@@ -1,28 +1,16 @@
 ---
 layout: lipu
 nimi_lipu: moku pi telo loje
+jan_pali: jan Wilo
 suli_lipu: suli lili
 mute_nimi: 1063
 ken_ike:
 - monsuta
 - moku pi telo loje sijelo
+ijo_toki: 'lon anpa sewi pimeja pi pana telo mute la jan tawa tu li kama lukin e sama.'
+lukin_sin: pona
 ---
 
-# moku pi telo loje
-
-tan jan Wilo
-
-**mute nimi**: suli lili, <abbr title="1063">LLAMMMTW</abbr>
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>monsuta</li>
-    <li>moku pi telo loje sijelo</li>
-  </ul>
-</details>
-
-***
 
 sewi li pimeja. kon li len e ale. telo lete li kama tan sewi, li tawa anpa. jan li tawa lon nasin. len ona li jo e telo lete mute. ona li wile lape, taso ona li awen tawa. ona li kute e ni: soweli tu li tawa, sike mute li tawa sike… jan li lukin tawa monsi, li lukin e soweli tu e tomo tawa.
 

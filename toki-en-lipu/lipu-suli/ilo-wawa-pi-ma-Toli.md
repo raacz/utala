@@ -1,12 +1,15 @@
 ---
 layout: lipu
 nimi_lipu: ilo wawa pi ma Toli
+jan_pali: jan Peli
 suli_lipu: suli lili
 mute_nimi: 1141
 ken_ike:
 - utala pi kulupu ma
 - pakala sijelo
 - poki li ken ala e tan jan
+ijo_toki: 'ma Toli en ma Soni li utala. ma Soni li pana e jan wan alasa tawa jan Toli. taso ike li kama...'
+lukin_sin: pona
 ---
 
 <style>
@@ -15,22 +18,6 @@ ken_ike:
 }
 </style>
 
-# ilo wawa pi ma Toli
-
-tan jan Peli
-
-**mute nimi**: suli lili, <abbr title="1141">LLWAMMW</abbr> 
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>utala pi kulupu ma</li>
-    <li>pakala sijelo</li>
-    <li>poki li ken ala e tan jan</li>
-  </ul>
-</details>
-
-***
 
 jan lawa mi li toki e ni : "o pali mute. o pana e mani tawa mi." ni li ike ala, tawa mi.  
 

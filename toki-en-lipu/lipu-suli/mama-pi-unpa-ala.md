@@ -1,15 +1,18 @@
 ---
 layout: lipu
-lang: tok
-nimilipu: mama sewi pi unpa ala
-nimipali: jan Lakuse
-mutenimi: lili
-muteniminanpa: LA
-kenike:
+nimi_lipu: mama sewi pi unpa ala
+jan_pali: jan Lakuse
+suli_lipu: lili
+mute_nimi: 500
+ken_ike:
 - sewi li nasa e sijelo jan
 - ike nasin pi ma Mewika tawa jan pi ken mama sijelo
 - jan li mama e jan lili lon insa ona li ken ala weka e ona tan lawa
+ijo_toki: 'sewi li toki tawa jan pi unpa ala e ni: o mama pi toki pona a!'
+sona_namako: 'jan pali li wile e ni: sina lukin kepeken sitelen pona. taso, sina ken ala lukin e sitelen pona la, o tawa <a href="#sitelen-Lasina">sitelen Lasina lon anpa</a>.'
+lukin_sin: pona
 ---
+
 
 <style>
 @font-face {
@@ -32,28 +35,6 @@ kenike:
 </style>
 
 
-
-
-<section class="front-matter container-in-main" markdown="1">
-# mama sewi pi unpa ala
-
-tan jan Lakuse
-
-**mute nimi**: lili, <abbr title="500">LA</abbr>
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>sewi li nasa e sijelo jan</li>
-    <li>ike nasin pi ma Mewika tawa jan pi ken mama sijelo</li>
-    <li>jan li mama e jan lili lon insa ona li ken ala weka e ona tan lawa</li>
-  </ul>
-</details>
-
-*jan pali li wile e ni: sina lukin kepeken sitelen pona. taso, sina ken ala lukin e sitelen pona la, o tawa [sitelen Lasina anpa](#sitelen-lasina).*
-
-</section>
-<section class="content" markdown="1">
 <div class="sitelen-pona kpn-weka">
 󱤴󱥍󱥯󱤂󱤧
 󱤖󱤱󱥧󱥙󱤀
@@ -170,7 +151,7 @@ tan jan Lakuse
 </div>
 
 
-### sitelen Lasina
+## sitelen Lasina
 mi pi unpa ala li  
 kama mama tan seme a?  
 tenpo sike suno luka weka  

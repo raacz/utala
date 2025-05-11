@@ -1,9 +1,9 @@
 ---
-layout: lipu
+layout: main
+lang: tok
 
 ---
 
-([Click here to read in English](index_en.md))
 
 
 # utala musi pi lipu suli pi toki lili #MAMTW/#LTW/#LLL

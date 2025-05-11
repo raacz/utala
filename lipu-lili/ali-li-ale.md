@@ -1,6 +1,7 @@
 ---
 layout: lipu
 nimi_lipu: ali li ale
+jan_pali: kapesi Pake
 suli_lipu: suli mute
 mute_nimi: 3504
 ken_ike:
@@ -11,27 +12,9 @@ ken_ike:
 - 'jan li pakala e sijelo jan tawa ni: ona li ken sona e sona len'
 - nimi sin mute
 - nasin sewi
+ijo_toki: 'kulupu tu li utala tan nasin toki. utala li ike tawa jan li ike tawa ma. jan seme li ken pini e utala ni?'
+lukin_sin: pona
 ---
-
-# ali li ale
-tan kapesi Pake
-
-**mute nimi**: suli mute, <abbr title="3504">MLLLATT</abbr>
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>utala suli li lon</li>
-    <li>moli</li>
-    <li>pakala ma</li>
-    <li>seli tomo</li>
-    <li>jan li pakala e sijelo jan tawa ni: ona li ken sona e sona len</li>
-    <li>nimi sin mute</li>
-    <li>nasin sewi</li>
-  </ul>
-</details>
-
-***
 
 ma nanpa wan li lon.  
 ma ni li lete lili.  

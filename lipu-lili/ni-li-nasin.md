@@ -1,35 +1,24 @@
 ---
 layout: lipu
 nimi_lipu: ni li nasin
+jan_pali: palisa jelo Natan
 suli_lipu: suli mute mute a
 mute_nimi: 5017
 ken_ike:
 - kulupu lili ike pi nasin sewi nasa
-- nasin ike - jan li toki ike e nasin pi jan ante
+- nasin ike 
+- jan li toki ike e nasin pi jan ante
 - moku li lon
+ijo_toki: 'jan pi kulupu pona li pona. jan pi kulupu ma li ike. ni li nasin, anu seme? jan pi wile sona li alasa e sona sin.'
+lukin_sin: pona
 ---
 
-# ni li nasin
-tan palisa jelo Natan
-
-**mute nimi**: suli mute mute a, <abbr title="5017">MMLLALLLT</abbr>
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>kulupu lili ike pi nasin sewi nasa</li>
-    <li>nasin ike - jan li toki ike e nasin pi jan ante</li>
-    <li>moku li lon</li>
-  </ul>
-</details>
-
-***
 
 <style>
   br {
     margin-bottom: 0.5em;
   }
-  p {
+  content p {
     margin-bottom: 1.5em;
   }
 </style>

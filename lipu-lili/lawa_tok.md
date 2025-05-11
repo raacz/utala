@@ -1,10 +1,10 @@
 ---
-layout: lipu
+layout: main
+lukin_sin: pona
 
 ---
 
-# *jan sitelen pi toki pona o!* 
-# *tenpo wawa li lon!*
+# *jan sitelen pi toki pona o, tenpo wawa li lon!*
 
 **pali seme li wile?**
 - o sitelen e lipu lili o pana e ona tawa mi lon tenpo wile. 

@@ -1,17 +1,18 @@
 ---
-layout: lipu
-
+layout: main
+lukin_sin: pona
 ---
 
-## tenpo utala pi lipu musi lili!
 
-### tenpo pi pilin kulupu li lon!
+# tenpo utala pi lipu musi lili!
+
+## tenpo pi pilin kulupu li lon!
 
 o lukin e lipu! sina lukin la [o tawa lipu pi pana pilin](https://forms.gle/LVrX5D8ZRNX6sWaQ6) o pana e pilin! sina wile pana e pilin la sina o toki e nimi sina pi ilo Siko.
 
 sina ken toki e pilin lon tenpo suno luka luka tu tu. ni li pini lon tenpo #MAMT)#LTW)#LW. tenpo li pini la mi kama toki e ni tawa sina ale: tawa kulupu la, lipu seme li pona nanpa wan, li pona nanpa tu, li pona nanpa tu wan. 
 
-### o lukin e lipu lon ni!
+## o lukin e lipu lon ni!
 *sina luka e leko pimeja lili la sina ken kama sona lili e ni: lipu li toki e seme?*
 
 {% include nimilipu.html nimiilo="AAAmute" nimi="AAA-mute" toki="jan sona li poki e ijo pi nasa mute li alasa e sona tan ona. ijo nasa ni li wawa seme li tan seme?" suli="suli lili"%}
@@ -46,7 +47,7 @@ sina ken toki e pilin lon tenpo suno luka luka tu tu. ni li pini lon tenpo #MAMT
 
 {% include nimilipu.html nimiilo="waso-mumu-li-mu-ala" nimi="waso Mumu li mu ala" toki="waso sama ale pi waso Mumu li mu. taso waso Mumu li wile toki! o alasa lon poka pi waso Mumu e ijo pi ken toki!" suli="lili" %}
 
-### ijo pi lipu musi li ken ike e pilin mi la mi o seme?   
+## ijo pi lipu musi li ken ike e pilin mi la mi o seme?   
 insa pi lipu ale la mi pana e ijo pi ken ike lon anpa sitelen sama ni:
 <details>
   <summary>o sona e ken ike lon lipu ni</summary>
@@ -57,7 +58,7 @@ insa pi lipu ale la mi pana e ijo pi ken ike lon anpa sitelen sama ni:
 </details>
 sina wile lukin e sona la o luka e sitelen. sina wile ala lukin la o luka ala e sitelen.
 
-### lipu seme li lili? lipu seme li suli?
+## lipu seme li lili? lipu seme li suli?
 mi ken toki e ni tawa sina! lipu luka luka luka li lon.   
 mi open lon nimi pi lipu lili li pini lon nimi pi lipu suli la...
 
@@ -80,12 +81,12 @@ mi open lon nimi pi lipu lili li pini lon nimi pi lipu suli la...
 
 sina ale li sitelen e nimi mute a!
 
-### mi lukin e lipu. mi o pana e pilin mi lon seme?
+## mi lukin e lipu. mi o pana e pilin mi lon seme?
 
 [o tawa ni!](https://forms.gle/LVrX5D8ZRNX6sWaQ6)
 
-### sina pana ike e lipu mi a!
+## sina pana ike e lipu mi a!
 ni li lon la o toki e pakala mi tawa mi (Raacz106#5873) kepeken tenpo lili. 
 
-### lawa pi utala lipu ni li lon seme?
+## lawa pi utala lipu ni li lon seme?
 o lukin e [lawa pi utala lipu](lawa_tok.html)

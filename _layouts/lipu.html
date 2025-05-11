@@ -1,5 +1,6 @@
 ---
 layout: default
+title: {{ page.nimi_lipu }}
 ---
 
 <div class="layout">
@@ -7,13 +8,35 @@ layout: default
 
 
     <main>
-            <h1 tabindex="-1" id="skiplinktarget">{{ page.title }}</h1>
-            {{ content }}
+      <section class="front-matter container-in-main">
+        <h1>{{ page.nimi_lipu }}</h1>
+      
+        <p><em>tan {{ page.jan_pali }}</em></p>
+      
+        <p><strong>mute nimi</strong>: {{ page.suli_lipu }}, {{ page.mute_nimi }}</p>
+      
+        <details>
+          <summary>o sona e ken ike lon lipu ni</summary>
+          <ul>
+            {% for item in page.ken_ike %}
+              <li>{{ item }}</li>
+            {% endfor %}
+          </ul>
+        </details>
+        
+        <p markdown="1"> <em>{{ page.sona_namako }}</em></p>
+
+
+
+      </section>
+      <section class="content">
+        <h1>{{ page.nimi_lipu }}</h1>
+        {{ content }}
+      </section>      
     </main>
 
   {% include noka.html %}
 </div>
 
 
-<script src="/scripts/winnerDynamicHeight.js"></script>
 <script src="/scripts//nimiNanpa.js"></script>

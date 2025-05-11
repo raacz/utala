@@ -6,7 +6,7 @@ layout: main
 
 ## pali musi
 
-kulupu pi toki pona li pali e ijo musi mute a kepeken toki pona. lipu toki pi toki pona en sitelen pi toki pona li musi a. 
+kulupu pi toki pona li pali e ijo musi mute a kepeken toki pona. lipu toki pi toki pona e sitelen pi toki pona li musi a. 
 
 ## utala? utala li ike anu seme?
 

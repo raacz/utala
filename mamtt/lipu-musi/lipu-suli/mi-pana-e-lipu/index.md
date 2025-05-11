@@ -1,27 +1,26 @@
 ---
 layout: lipu
+jan_pali: jan Ke Tami
 nimi_lipu: mi pana e lipu
 suli_lipu: suli
 mute_nimi: 6200
 ken_ike:
-- ''
+- 'sina wile pini e musi la ni li ken wile e pali lawa'
+ijo_toki: 'sina pana e lipu tawa kulupu. taso nasin li mute, tomo li mute! lipu seme li tawa seme! aaa! o kama pana e lipu pona tawa poka wile!'
+lukin_sin: pona
 ---
 
-# mi pana e lipu
-**mute nimi**: suli, <abbr title="6200">MMMTA</abbr> 
-
-tan jan Ke Tami
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li></li>
-  </ul>
-</details>
-
-***
-
 <style>
+  .content .sp {
+    font-size: 1.5em; 
+  }
+    .content .sp, .content #osp{
+  font-size:1.5em;
+  }
+
+  .content .sp button, .content .sp input{
+  font-size:1.5em;
+  }
 </style>
 
 {::nomarkdown}

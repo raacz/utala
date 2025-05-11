@@ -1,30 +1,17 @@
 ---
 layout: lipu
 nimi_lipu: ilo sitelen wawa
+jan_pali: nasa utala
 suli_lipu: lili
 mute_nimi: 566
 ken_ike:
 - pilin pi wan taso
 - utala sijelo ike
 - ilo nasa li ante e sijelo jan
+ijo_toki: 'jan Kaja li jo e ilo sitelen pi wawa nasa mute. jan Kaja li kama ala kama sewi?'
+lukin_sin: pona
 ---
 
-# ilo sitelen wawa
-
-tan nasa utala
-
-**mute nimi**: lili, <abbr title="566">LAMMMLW</abbr> 
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>pilin pi wan taso</li>
-    <li>utala sijelo ike</li>
-    <li>ilo nasa li ante e sijelo jan</li>
-  </ul>
-</details>
-
-***
 
 tenpo pini a la, jan Kaja li kama lon. jan Kaja li nasa tan ni: kule ona li weka! jan li ken ala lukin e ona tan ni. lukin la ona li sama kon, taso jan li kon ala. pilin ona li lon a. taso, jan ale li weka e pilin ona. jan ala li toki tawa ona, li kute e ona. pilin ale li ni: “kon li toki tawa mi! kon li luka e mi! mi pilin monsuta a!” ni la, jan Kaja li wan ike.
 

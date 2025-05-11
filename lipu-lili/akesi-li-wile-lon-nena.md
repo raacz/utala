@@ -6,6 +6,11 @@ suli_lipu: lili
 mute_nimi: 600
 ken_ike:
 - moku li lon
+ijo_toki: 'lipu ni li kepeken nasin suwi: kulupu nimi ale la nimi luka taso li lon. o kama sona e ni: akesi pona li ken lon nena kepeken nasin seme?'
+sona_namako: 'jan pali li wile e ni: sina lukin kepeken sitelen pona. taso, sina ken ala lukin e sitelen pona la, o tawa <a href="#sitelen-Lasina">sitelen Lasina lon anpa</a>.'
+lukin-sin: pona
+
+
 ---
 
 <style>
@@ -23,21 +28,7 @@ ken_ike:
     }
 </style>
 
-# akesi li wile lon nena
-tan jan Kita
 
-**mute nimi:** lili, <abbr title="600">LWA</abbr>
-
-*jan pali li wile e ni: sina lukin kepeken sitelen pona. taso, sina ken ala lukin e sitelen pona la, o tawa [sitelen Lasina anpa](#sitelen-Lasina).*
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>moku li lon</li>
-  </ul>
-</details>
-
-***
 <div class="sitelen-pona">
 <div class="kpn-weka">
 　󱤁󱤧󱥷󱤬󱥀　

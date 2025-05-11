@@ -1,12 +1,10 @@
 ---
-layout: lipu
+layout: main
 ---
 
 
-([sina wile toki pona la o tawa ni](pana-pilin.md))
 # Art contest of little communications and big documents
 
-***
 
 <mark><a href="https://docs.google.com/forms/d/e/1FAIpQLSdxnxTH5B7UWpn99X7Q91y21vXoGFCVunzkU_8GcaoVxldhcQ/viewform" target="blank">The voting document is here!</a></mark>
 

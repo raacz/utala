@@ -1,18 +1,19 @@
 ---
-layout: lipu
+layout: main
+lukin_sin: pona
 
 ---
 
-## Short story contest time!
+# Short story contest time!
 
-### It's time for the community's thoughts!
+## It's time for the community's thoughts!
 
 Read the stories! Once you've read them, [go to the opinion document](https://forms.gle/LVrX5D8ZRNX6sWaQ6) and tell us what you think! If you want to express your feelings, you must give your Discord name.
 
 You can send in your thoughts for fourteen days. This will end on 2022-08-06. When the time is up, we'll tell you all which story the community thinks is best, second best, and third best.
 
 
-### Read the stories here!
+## Read the stories here!
 
 {% include nimilipu.html nimiilo="AAAmute" nimi="AAA-mute" toki="jan sona li poki e ijo pi nasa mute li alasa e sona tan ona. ijo nasa ni li wawa seme li tan seme?" %}
 
@@ -46,9 +47,9 @@ You can send in your thoughts for fourteen days. This will end on 2022-08-06. Wh
 
 {% include nimilipu.html nimiilo="waso-mumu-li-mu-ala" nimi="waso Mumu li mu ala" toki="waso sama ale pi waso Mumu li mu. taso waso Mumu li wile toki! o alasa lon poka pi waso Mumu e ijo pi ken toki!" %}
 
-### I read the stories. Where should I send my feelings about them?
+## I read the stories. Where should I send my feelings about them?
 
 [Go here!](https://forms.gle/LVrX5D8ZRNX6sWaQ6)
 
-### Where are the rules for this contest?
+## Where are the rules for this contest?
 Read [the contest rules](lawa_en.html)

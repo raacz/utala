@@ -1,27 +1,16 @@
 ---
 layout: lipu
 nimi_lipu: waso sona Ukami en monsuta pi kiwen pimeja
+jan_pali: jan Jowi
 suli_lipu: suli lili
 mute_nimi: 3831
 ken_ike:
 - moli mute
 - nimi pi pu ala
+ijo_toki: 'seme a li moli e jan Menaka? ken la waso Ukami li waso sona pona. taso ken la, sona sina li suli tawa sona ona, jan lukin o!'
+lukin_sin: pona
 ---
 
-# waso sona Ukami en monsuta pi kiwen pimeja
-**mute nimi**: suli lili, <abbr title="3831">MLLLTWAMLLW</abbr> 
-
-tan jan Jowi
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>moli mute</li>
-    <li>nimi pi pu ala</li>
-  </ul>
-</details>
-
-***
 tenpo mute la waso sona Ukami li toki e ni: “lape la leko pi mute ike li kama wan pona.”
 
 mi kama sona e waso sona Ukami tan nasin nasa. mi o toki e nasin ni:

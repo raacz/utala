@@ -1,25 +1,15 @@
 ---
 layout: lipu
 nimi_lipu: 'toki pi ma kasi: utala pi jan ete'
+jan_pali: ala Lojewalo
 suli_lipu: lili
 mute_nimi: 544
 ken_ike:
-- ''
+- 'nimi sin mute'
+ijo_toki: 'ma kasi li toki e seme?'
+lukin_sin: pona
 ---
 
-# toki pi ma kasi: utala pi jan ete
-**mute nimi**: lili, <abbr title="544">LAMMTT</abbr> 
-
-tan ala Lojewalo
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li></li>
-  </ul>
-</details>
-
-***
 ## 1 - ilo sewi
 
 kasi. kasi li lon ale. 

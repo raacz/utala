@@ -1,5 +1,5 @@
 ---
-layout: lipu
+layout: lipu-main 
 ---
 
 
@@ -25,6 +25,7 @@ layout: lipu
   
 </style>
 
+<section class="front-matter container-in-main" markdown="1">
 
 # toki musi lili
 
@@ -45,7 +46,9 @@ layout: lipu
 - [sona la](#sona-la) tan asali
 - [tenpo li lili](#tenpo-li-lili) tan jan Jasun
 
-***
+
+</section>
+<section class="content" markdown="1">
 
 ## alasa musi pini
 *tan kapesi Pake*
@@ -538,6 +541,6 @@ e ken pali ali pi jan pali ni
 tenpo li moku e tenpo mi sona  
 mi wile e tenpo tan wile mi pona  
 {:.insa}
-
+</section>
 
 

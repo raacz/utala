@@ -1,26 +1,15 @@
 ---
 layout: lipu
 nimi_lipu: pilin pipi
+jan_pali: jan Ke Tami
 suli_lipu: suli lili
 mute_nimi: 2135
 ken_ike:
 - nasa pi nasin sitelen selo
+ijo_toki: 'pipi li ken ala toki kepeken nimi. taso pipi li kama pilin wawa tawa pipi suwi. nasin toki seme la pipi li ken pana e pilin wawa ona tawa pipi suwi?'
+lukin_sin: pakala
 ---
 
-# pilin pipi
-
-tan jan Ke Tami
-
-**mute nimi**: suli lili, <abbr title="2135">MWAMLLL</abbr>
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>nasa pi nasin sitelen selo</li>
-  </ul>
-</details>
-
-***
 
 pipi wan li kama suli, li weka tan kulupu ona. ni li nasin pi pipi ale.
 
@@ -85,9 +74,12 @@ ni li wile e tenpo - taso pipi li kama kama lon kiwen pi wawa suli! pipi li lupa
 pini pali la, pipi li wile tawa e kiwen. tawa li wile e wawa mute, e tenpo mute tan suli kiwen. pona la, kiwen li sike pona, li awen tawa.
 
 pini tawa la, pipi tawa en kiwen tawa li kama lon poka pi pipi suwi. pipi poka suwi li tawa kiwen, li kama lukin e poka kiwen ale.
-```
+
+
+<code style="">
 sina pona mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute mute tawa mi
-```
+</code>
+
 pini lukin la, pipi lukin li kama wawa tawa kiwen, li kama e kiwen tawa tomo. tawa pi kiwen suli li wile e tenpo suli a tan suli kiwen. 
 
 pilin pipi li awen suli la, suli pi wile pilin li sama ala sama suli kiwen? pipi li lukin e weka kiwen, e weka pi pipi kiwen. suli kiwen la, wile pilin li suli namako a! kiwen ante o toki e suli ni!
@@ -115,10 +107,11 @@ pipi li tawa kiwen pi pona suli, li open e pali sitelen.
 	            sina pona mute
 	   mute mute mute mute mute mute mute mute 
 ```
+
 pini pali la, ona en kiwen ala li tawa tomo pi pipi lape, li mu suli. mu la, pipi lape li kama lape ala. ona li kama tan tomo, li lukin e pipi kama, e kiwen sin ala. a... ona kama li tawa poka pi ona tomo, li tawa sewi lili. pipi lukin li awen lukin e pipi sewi la, ona li kama lukin e ijo ante.
 
 kiwen a li lon, li suli, li sike, li pona. sitelen li lon kiwen.
-<pre role="img" alt="sitelen ni li kepeken nimi, taso selo ona li sama mun. toki sitelen li sama ni: sina pona mute mute mute tawa mi - taso nimi Mute li mute suli" title="sitelen ni li kepeken nimi, taso selo ona li sama mun. toki sitelen li sama ni: sina pona mute mute mute tawa mi - taso nimi Mute li mute suli" size="1" style="font-family: monospace, monospace;font-size:65%">
+<pre role="img" alt="sitelen ni li kepeken nimi, taso selo ona li sama mun. toki sitelen li sama ni: sina pona mute mute mute tawa mi - taso nimi Mute li mute suli" title="sitelen ni li kepeken nimi, taso selo ona li sama mun. toki sitelen li sama ni: sina pona mute mute mute tawa mi - taso nimi Mute li mute suli" size="1" style="font-family: monospace, monospace;font-size:45%">
                sina pona mute
   mute mute mute mute mute mute mute mute 
        mute mute mute mute mute mute mute mute mute 

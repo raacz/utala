@@ -1,30 +1,16 @@
 ---
 layout: lipu
 nimi_lipu: kala pi alasa kala
+jan_pali: jan Itan
 suli_lipu: lili
 mute_nimi: 665
 ken_ike:
 - moku
 - pipi
 - sijelo jan li nasa lili
+ijo_toki: mun ante li lon weka mute li kepeken nasin pi ma mi ala. ma mi en mun ni li ante seme li sama seme?
+lukin_sin: pona
 ---
-
-# kala pi alasa kala
-tan jan Itan
-
-**mute nimi**: lili, <abbr title="665">LWAMMML</abbr>
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>moku</li>
-    <li>pipi</li>
-    <li>sijelo jan li nasa lili</li>
-  </ul>
-</details>
-
-
-***
 
 tenpo poka la mun ante pi weka suli a la kulupu jan li lon. mun ni ona li sama ala mun sina.
 

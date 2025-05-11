@@ -1,6 +1,7 @@
 ---
 layout: lipu
 nimi_lipu: jan usawi
+jan_pali: jan Kepe
 suli_lipu: suli lili
 mute_nimi: 1124
 ken_ike:
@@ -8,24 +9,10 @@ ken_ike:
 - moli
 - pali jan li ike
 - nimi sin mute li lon
+ijo_toki: 'jan Kasona li wile kama sona e ijo wawa nasa sin li wile weka tan ma mama ona. seme li kama?'
+lukin_sin: pona
 ---
 
-# jan usawi
-tan jan Kepe
-
-**mute nimi**: suli lili, <abbr title="1124">LLWAMTT</abbr>
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>pakala sijelo</li>
-    <li>moli</li>
-    <li>pali jan li ike</li>
-    <li>nimi sin mute li lon</li>
-  </ul>
-</details>
-
-***
  
 tenpo pi lon ala la, kulupu jan li lon ma lili Akepa. kulupu ni li kulupu lili, li ken ala pali e <abbr title="ijo wawa kepeken nasin pi nasa mute, sama ni: mi tawa ma pi weka mute kepeken tenpo ala">usawi</abbr>.
  

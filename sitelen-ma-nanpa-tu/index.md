@@ -1,5 +1,5 @@
 ---
-layout: lipu
+layout: main
 ---
 # utala pi sitelen ma #MAMTW/#T/#W
 

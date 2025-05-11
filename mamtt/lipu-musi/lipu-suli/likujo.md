@@ -1,10 +1,14 @@
 ---
 layout: lipu
 nimi_lipu: likujo
+jan_pali: jan Peton
 suli_lipu: lili
 mute_nimi: 774
 ken_ike:
 - toki moli
+ijo_toki: 'nimi li nimi e nimi tan nimi lon nimi. jan li toki e pilin mute tan nimi mute pi toki pona.'
+lukin_sin: pona
+
 ---
 
 <style>
@@ -19,21 +23,6 @@ ken_ike:
 }
 
 </style>
-
-
-# likujo
-**mute nimi**: lili, <abbr title="774">LTAMMMLLTT</abbr> 
-
-tan jan Peton
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>toki moli</li>
-  </ul>
-</details>
-
-***
 
 o toki tawa mi, *kon* musi o  
 pana tawa insa mi e kalama.  

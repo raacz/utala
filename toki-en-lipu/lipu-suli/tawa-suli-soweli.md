@@ -1,29 +1,15 @@
 ---
 layout: lipu
 nimi_lipu: tawa suli soweli
+jan_pali: jan pi nimi ala tan ilo Sasipisi
 suli_lipu: lili
 mute_nimi: 649
 ken_ike:
-- jan pali en ilo ChatGPT li sitelen e lipu ni
+- jan pali en ilo ChatGPT li pali e lipu ni
 - nimi sin mute pi ku ala
+ijo_toki: 'kijetesantakalu en sutopatikuna en misa mulapisu li wile yupekosi e Pingo! o lukin e musi pi nimi sin nasa!'
 ---
 
-# tawa suli soweli
-
-tan jan pi nimi ala
-
-**mute nimi**: lili, <abbr title="649">LWAMMLTT</abbr> 
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>jan pali en ilo ChatGPT li sitelen e lipu ni</li>
-    <li>nimi sin mute pi ku ala</li>
-  </ul>
-</details>
-
-***
-*tan ilo Sasipisi, tan jan pi nimi ala*
 
 tenpo pini wan la ma tomo lili Apu pi kalama ala la kijetesantakalu lili Wiki li lon li wile pali e ijo suli musi. kijetesantakalu Wiki li pilin pona li suli tan moku mute li musi mute. ona li alasa e ijo nasa lon jaki pi ma tomo lili la ni li pona tawa ona. jaki ale la kijetesantakalu li kama olin e ijo nasa wan seme? ona li polinpin pakala pi tenpo pini.
 

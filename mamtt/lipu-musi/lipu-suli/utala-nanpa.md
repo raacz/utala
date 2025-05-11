@@ -1,25 +1,15 @@
 ---
 layout: lipu
 nimi_lipu: utala nanpa
-suli_lipu: lili suli
+jan_pali: nasa utala
+suli_lipu: lili lili
 mute_nimi: 1149
 ken_ike:
-- ''
+- 'nanpa a'
+ijo_toki: 'a, a, a! mun Kekan San li lawa ike e ale pi ma nanpa. nasin seme la jan lili wan pi ma nanpa li ken utala e ike a?'
+lukin_sin: pona
 ---
 
-# utala nanpa
-**mute nimi**: lili suli, <abbr title="1149">LLWAMMLTT</abbr> 
-
-tan nasa utala
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li></li>
-  </ul>
-</details>
-
-***
 jan pi ma ni li ken utala kepeken nanpa. lukin la nanpa li sama ni: 0 1 2 3 4 5 6 7 8 9. jan li kama e nanpa tan kon li tawa e ona lon kon tawa jan ante li pakala suli e jan. sijelo pi nanpa ni li kiwen pakala la ona li ilo moli pi suli mute. taso, nanpa ni li kulupu ala la ona li pakala ala e sijelo jan. nanpa li kulupu sama ni: 123 456 789. nanpa li suli la nanpa li ken ilo moli.
 
 jan pi mute suli pi ma ni li ken ala kama e nanpa suli. ona li ken kama e suli 25 e suli sama taso. taso a, mun Kekan San li sona e kama suli. sina toki e ijo ike pi mun Kekan San la sina moli a. mun Kekan San li lawa e ma ni. ale ante li pilin pakala tan ona. taso, ale ante li ken ala pakala e mun Kekan San li pona e ma.

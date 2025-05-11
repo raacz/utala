@@ -1,27 +1,16 @@
 ---
 layout: lipu
 nimi_lipu: toki musi pata
+jan_pali: kapesi Pake
 suli_lipu: lili
 mute_nimi: 671
 ken_ike:
 - ''
+ijo_toki: 'kapesi Pake li pali e lipu musi mute lili li toki e pilin mute.'
 ---
 
-# toki musi pata
-**mute nimi**: lili, <abbr title="671">LWAMMMLLW</abbr> 
 
-tan kapesi Pake
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li></li>
-  </ul>
-</details>
-
-***
-
-<strong>toki musi pi lipu ni:</strong>
+<h2>toki musi pi lipu ni:</h2>
 <ul>
   <li><a href="#mi-weka-e-pilin-tan-moli-ni">mi weka e pilin tan moli ni</a></li>
   <li><a href="#pake">pake</a></li>

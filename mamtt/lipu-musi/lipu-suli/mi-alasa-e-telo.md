@@ -1,29 +1,17 @@
 ---
 layout: lipu
 nimi_lipu: mi alasa e telo
+jan_pali: ijo Wen
 suli_lipu: lili
 mute_nimi: 790
 ken_ike:
 - monsuta
 - ijo li ken ala e tawa jan
 - pilin pi kama moli
+ijo_toki: 'lon poka pi jan olin la ale li pona lon poka telo... anu...'
 ---
 
-# mi alasa e telo
-**mute nimi**: lili, <abbr title="790">LTAMMMMLL</abbr> 
 
-tan ijo Wen
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>monsuta</li>
-    <li>ijo li ken ala e tawa jan</li>
-    <li>pilin pi kama moli</li>
-  </ul>
-</details>
-
-***
 olin en mi li tawa ma pi poka telo. suno li utala wawa e selo mi. tawa la mi pana e telo tan selo. mi lukin e kasi. kasi suli mute li luka e sewi laso. lipu ona li sama linja, li tawa lili lon kon. 
 
 olin en mi li tawa lon nasin noka. olin li toki: o lukin e tomo suwi a. mi lukin. tomo pi kule mute li selo e nasin. kule ona li sama selo pi kala kiwen li sama kasi kule. kule ona li pana e pilin suwi tawa mi. suno li awen utala. 

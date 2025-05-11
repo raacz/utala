@@ -1,5 +1,5 @@
 ---
-layout: lipu
+layout: lipu-main
 ---
 # Poetry contest (2020-11-11)
 

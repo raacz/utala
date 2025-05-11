@@ -1,63 +1,38 @@
 ---
 layout: lipu
 nimi_lipu: nasin nasa pi jan Mupa
+jan_pali: jan Telupison tan jan Kiwisin
 suli_lipu: suli
 mute_nimi: 4392
 ken_ike:
 - utala sijelo
 - ijo tu li toki kepeken kalama ala kepeken lukin ala kepeken nasin nasa lawa
 - pakala seli
+ijo_toki: 'o kama sona e ma nasa sin lon poka pi jan Mupa. o lukin moli ala!'
+lukin_sin: pona
 ---
 
-# nasin nasa pi jan Mupa
 
-tan jan Telupiso tan jan Kiwisin
-
-**mute nimi**: suli, <abbr title="4392">MMTWAMMMMLLT</abbr>
-
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>utala sijelo</li>
-    <li>ijo tu li toki kepeken kalama ala kepeken lukin ala kepeken nasin nasa lawa</li>
-    <li>pakala seli</li>
-  </ul>
-</details>
-
-*** 
-
-# lipu open
+## lipu open
 
 lipu lili lon lipu ni li:
-
-[lipu open](#lipu-open)
-
-[lipu nanpa wan](#lipu-nanpa-wan): pakala!
-
-[lipu nanpa tu](#lipu-nanpa-tu): esun
-
-[lipu nanpa tu wan](#lipu-nanpa-tu-wan): toki
-
-[lipu nanpa tu tu](#lipu-nanpa-tu-tu): toki kiwen
-
-[lipu nanpa luka](#lipu-nanpa-luka): ma Jaletu
-
-[lipu nanpa luka wan](#lipu-nanpa-luka-wan): nasin mu
-
-[lipu nanpa luka tu](#lipu-nanpa-luka-tu): pini nasin
-
-[lipu nanpa luka tu wan](#lipu-nanpa-luka-tu-wan): tomo akesi
-
-[lipu nanpa luka tu tu](#lipu-nanpa-luka-tu-tu): tomo pona
-
-[lipu nanpa pini](#lipu-nanpa-pini): lupa lukin
+- [lipu open](#lipu-open)
+- [lipu nanpa wan](#lipu-nanpa-wan): pakala!
+- [lipu nanpa tu](#lipu-nanpa-tu): esun
+- [lipu nanpa tu wan](#lipu-nanpa-tu-wan): toki
+- [lipu nanpa tu tu](#lipu-nanpa-tu-tu): toki kiwen
+- [lipu nanpa luka](#lipu-nanpa-luka): ma Jaletu
+- [lipu nanpa luka wan](#lipu-nanpa-luka-wan): nasin mu
+- [lipu nanpa luka tu](#lipu-nanpa-luka-tu): pini nasin
+- [lipu nanpa luka tu wan](#lipu-nanpa-luka-tu-wan): tomo akesi
+- [lipu nanpa luka tu tu](#lipu-nanpa-luka-tu-tu): tomo pona
+- [lipu nanpa pini](#lipu-nanpa-pini): lupa lukin
 
 ***
 
-# lipu nanpa wan
+## lipu nanpa wan
 
-## pakala!
+### pakala!
 
 suno li tawa sewi. waso li mu. kasi li tawa musi. pipi li sike kalama suwi. ale li pona li awen pona.
 
@@ -116,9 +91,9 @@ jan Mupa li kon wawa tan ni: jan Kawe li pakala wawa e lupa lukin. ona Mupa li t
 
 ***
 
-# lipu nanpa tu
+## lipu nanpa tu
 
-## esun
+### esun
 
 jan Mupa li kama jo e moku lili e poki telo e ilo pi mute lili. ona li pana e ijo ni tawa poki. jan Mupa li kama jo e poki li pana e ona poki lon monsi pi ona Mupa.
 
@@ -164,9 +139,9 @@ jan Mupa li kama jo e kiwen kepeken luka ona li tawa weka pi tomo esun.
 
 ***
 
-# lipu nanpa tu wan
+## lipu nanpa tu wan
 
-## toki
+### toki
 
 jan Mupa li tawa tomo ona kepeken nasin. ona li kama lon tomo ona la, ona li kama lukin e ni: suno li tawa anpa la, mun li tawa sewi. ni la, ona o lape lon tenpo poka.
 
@@ -184,9 +159,9 @@ sitelen lape la, jan Mupa li awen pilin monsuta tan kiwen; taso, pilin ni li kam
 
 ***
 
-# lipu nanpa tu tu
+## lipu nanpa tu tu
 
-## toki kiwen
+### toki kiwen
 
 jan Mupa li pini lape. suno li suno e len pi supa lape ona. len pi supa lape ona li selo e ona.
 
@@ -238,9 +213,9 @@ jan Mupa li kama jo e kiwen kepeken luka ona. jan Mupa en kiwen li kama lon lupa
 
 ***
 
-# lipu nanpa luka
+## lipu nanpa luka
 
-## ma Jaletu
+### ma Jaletu
 
 lukin pi jan Mupa la, kule ale li tawa ale. ona li tawa lon lupa kule kepeken tenpo lili.
 
@@ -318,9 +293,9 @@ waso Lulu li mu musi a li open toki.
 
 ***
 
-# lipu nanpa luka wan
+## lipu nanpa luka wan
 
-## nasin mu
+### nasin mu
 
 jan Mupa en waso Lulu li tawa. kiwen li lon poki pi jan Mupa. kasi li len e suno la, lete lili li lon. ni la, jan Mupa li pilin pona. waso Lulu li mu suwi.
 
@@ -408,9 +383,9 @@ waso Lulu li kalama la, ona li kama lape lon luka pi jan Mupa. suno li tawa anpa
 
 ***
 
-# lipu nanpa luka tu
+## lipu nanpa luka tu
 
-## pini nasin
+### pini nasin
 
 suno li kama tawa sewi la, jan Mupa li pini lape. ona li lukin e luka ona li sona e ni: waso Lulu li lon ala. jan Mupa li tawa sewi li lukin e ni: waso Lulu li alasa moku e pipi linja ma.
 
@@ -460,9 +435,9 @@ waso Lulu li mu musi lili li tawa sewi weka.
 
 ***
 
-# lipu nanpa luka tu wan
+## lipu nanpa luka tu wan
 
-## tomo akesi
+### tomo akesi
 
 jan Mupa li kama jo e kiwen lon luka ona li toki tawa ona.
 
@@ -524,9 +499,9 @@ ona li lon insa lupa la, kule ale li len e lukin ona. jan Mupa li kama lape tan 
 
 ***
 
-# lipu nanpa luka tu tu
+## lipu nanpa luka tu tu
 
-## tomo pona
+### tomo pona
 
 toki li lon.
 
@@ -568,9 +543,9 @@ jan Mupa li kute e toki ni la, ona kin li open toki.
 
 ***
 
-# lipu nanpa pini
+## lipu nanpa pini
 
-## lupa lukin
+### lupa lukin
 
 jan Kawe li kama. jan Mupa li lukin e ona la, ona li open toki.
 

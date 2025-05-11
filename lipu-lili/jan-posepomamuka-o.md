@@ -1,6 +1,7 @@
 ---
 layout: lipu
 nimi_lipu: jan Posepomamuka#52208 o,
+jan_pali: jan Lakuse
 suli_lipu: suli lili
 mute_nimi: 1365
 ken_ike:
@@ -8,31 +9,18 @@ ken_ike:
 - insa sijelo
 - lawa kulupu li anpa e jan
 - nimi unpa lili
+ijo_toki: 'jan sona nasa li sitelen e lipu toki tawa jan ante pi kulupu sama. jan sona nasa li wile e seme?'
+lukin_sin: pona
 ---
 
-# jan Posepomamuka#52208 o,
-tan jan Lakuse
 
-**mute nimi**: suli lili, <abbr title="1365">LLTWAMMML</abbr>
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>pipi li ike tawa sijelo</li>
-    <li>insa sijelo</li>
-    <li>lawa kulupu li anpa e jan</li>
-    <li>nimi unpa lili</li>
-  </ul>
-</details>
-
----
 
 {:pokapini: style="text-align: right"}
 
 LIPU NI LI SONA LEN PI KULUPU_NASIN.   
 SINA WAWA ALA LON KULUPU_NASIN LA,  
 LIPU NI LI TAWA ALA LUKIN SINA. 
-{: style="color: red; text-align: center"}
+{: style="color: red; background-color: white; text-align: center"}
 
 tenpo sike #mute-wan-ale-mute-tu  
 lon tenpo mun Laso_Jelo  

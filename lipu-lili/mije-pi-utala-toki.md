@@ -3,24 +3,14 @@ layout: lipu
 nimi_lipu: mije pi utala toki
 jan_pali: jan Ke Tami
 suli_lipu: suli lili
-mute_nimi: 154
+mute_nimi: 1154
 ken_ike:
 - moku
+ijo_toki: 'mije li kama tawa mije ante la, ona tu li pilin ike. ona tu li utala kepeken toki ike. jan ante li kama, li lukin e utala ni.'
+lukin_sin: pona
 ---
 
-# mije pi utala toki
-tan jan Ke Tami
 
-**mute nimi:** suli lili, <abbr title="1154">LLWAMMLLTT</abbr>
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>moku</li>
-  </ul>
-</details>
-
-***
 
 tenpo wan la, mije li wile tawa esun. ona li kama jo e len lawa ona la, ona li tawa tan tomo ona. open la, ale li pona. kasi li suwi, li lon poka nasin. waso li mu pona. kon li seli pona. 
 

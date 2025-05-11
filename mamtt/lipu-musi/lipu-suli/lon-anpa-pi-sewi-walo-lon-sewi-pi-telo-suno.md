@@ -1,43 +1,28 @@
 ---
 layout: lipu
 nimi_lipu: lon anpa pi sewi walo lon sewi pi telo suno
+jan_pali: jan Ameki
+suli_lipu: suli
+mute_nimi: 10881
 ken_ike:
-- ''
+- toki pi ike pilin li ken lon. 
+- ijo li ken kama pakala li ken kama moli.
+ijo_toki: 'lon ma pi usawi mute la ijo ale lon li ken kama sona e nasin usawi. taso akesi loje suli wan li ken pakala e ale.'
+sona_namako: "<p>tan jan Ameki:</p><p> mi wile toki e nasin toki mi. sina sona ala e nasin toki ni la, ken la, sina ken ala sona e toki mi.</p> <ul> <li>nimi „lon“ anu nimi „tan“ anu nimi „tawa“ anu nimi sama la, mi kepeken nimi ni lon toki ale. mi ken kepeken nimi ni la, mi wile ni, li wile kepeken ala nimi „pi“. mi sitelen e nasin toki ni la, toki « telo lon poki li pona » li ken sama toki « telo li lon poki · telo ni li pona ». toki « mi moku e pan tan tomo » li ken sama toki « pan li lon tomo · mi kama jo e pan tan tomo · mi moku e pan ».</li> <li>lon lipu ni la, mi kepeken nimi „jan“ ala. mi kepeken nimi „ijo“. mi sitelen e nasin toki ni la, lon toki « ijo esun li pana e ijo tawa mi » la, toki « ijo esun » li ken sama toki « jan esun ».</li>
+  <li>mi kepeken nimisin. nasin nimi ni li sama nasin nimi lon lipu Linku. taso, nasin nimi wan li sama ala nasin nimi ni lon lipu Linku. nasin ni li nasin pi nimi „linluwi“. tan lipu Linku la, linja mute li lon; linja ni li kama lon e ijo wawa la, ni li toki « linluwi ». sitelen la, toki « linluwi » li sama sitelen ｢▦｣. tan mi la, linja tu li lon; linja tu ni li kama lon ma sama la, ni li toki « linluwi » kin. sitelen la, toki « linluwi » li ken sama sitelen ｢⊞｣ kin li ken sama sitelen ｢+｣ kin.</li>
+  <li>mi kepeken nimi wan lon tenpo tu la, toki ni li kama suli li kama mute. mi sitelen e nasin toki ni la, toki « kili li suwi suwi » li ken sama toki « kili li suwi mute ». toki « ijo wan wan » li ken sama toki « ijo wan taso »</li>
+  <li>mi kepeken nasin nanpa pona. nanpa LA li nanpa luka ale, li sama nanpa ale ale ale ale ale.</li></ul>"
+lukin_sin: pona
 ---
 
+
 <style>
-  p {
-    line-height: 1.3;
+  .content p {
+    line-height: 1.5em;
   }
 </style>
 
-
-# lon anpa pi sewi walo lon sewi pi telo suno
-
-tan jan Ameki
-
-**mute nimi**: suli, <abbr title="10881">WALTWAMMMMW
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li></li>
-  </ul>
-</details>
-
-***
-lon lipu ni la, toki ni li lon. toki ni li pona ala tawa sina la, sina wile ala lukin e lipu ni.  
-* toki pi ike pilin li ken lon. ijo li ken kama pakala li ken kama moli.  
-
-mi wile toki e nasin toki mi. sina sona ala e nasin toki ni la, ken la, sina ken ala sona e toki mi.  
-* nimi „lon“ anu nimi „tan“ anu nimi „tawa“ anu nimi sama la, mi kepeken nimi ni lon toki ale. mi ken kepeken nimi ni la, mi wile ni, li wile kepeken ala nimi „pi“. mi sitelen e nasin toki ni la, toki « telo lon poki li pona » li ken sama toki « telo li lon poki · telo ni li pona ». toki « mi moku e pan tan tomo » li ken sama toki « pan li lon tomo · mi kama jo e pan tan tomo · mi moku e pan ».  
-* lon lipu ni la, mi kepeken nimi „jan“ ala. mi kepeken nimi „ijo“. mi sitelen e nasin toki ni la, lon toki « ijo esun li pana e ijo tawa mi » la, toki « ijo esun » li ken sama toki « jan esun ».  
-* mi kepeken nimisin. nasin nimi ni li sama nasin nimi lon lipu Linku. taso, nasin nimi wan li sama ala nasin nimi ni lon lipu Linku. nasin ni li nasin pi nimi „linluwi“. tan lipu Linku la, linja mute li lon; linja ni li kama lon e ijo wawa la, ni li toki « linluwi ». sitelen la, toki « linluwi » li sama sitelen ｢▦｣. tan mi la, linja tu li lon; linja tu ni li kama lon ma sama la, ni li toki « linluwi » kin. sitelen la, toki « linluwi » li ken sama sitelen ｢⊞｣ kin li ken sama sitelen ｢+｣ kin.  
-* mi kepeken nimi wan lon tenpo tu la, toki ni li kama suli li kama mute. mi sitelen e nasin toki ni la, toki « kili li suwi suwi » li ken sama toki « kili li suwi mute ». toki « ijo wan wan » li ken sama toki « ijo wan taso »  
-* mi kepeken nasin nanpa pona. nanpa LA li nanpa luka ale, li sama nanpa ale ale ale ale ale.  
-
-*** 
-
-# lon anpa pi sewi walo lon sewi pi telo suno  
+ 
 
 ## toki wan: toki open  
 

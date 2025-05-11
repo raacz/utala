@@ -1,6 +1,7 @@
 ---
 layout: lipu
 nimi_lipu: AAA-mute
+jan_pali: ale sa
 suli_lipu: suli lili
 mute_nimi: 1049
 ken_ike:
@@ -8,24 +9,10 @@ ken_ike:
 - ijo monsuta
 - ijo li lawa e lawa jan
 - misikeke nasa en ike sijelo
+ijo_toki: jan sona li poki e ijo pi nasa mute li alasa e sona tan ona. ijo nasa ni li wawa seme li tan seme?
+lukin-sin: pona
 ---
 
-# AAA-mute
-tan jan Alesa
-
-**mute nimi**: suli lili, <abbr title="1049">LLAMMLTT</abbr>
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>ijo li ken ala weka tan poki</li>
-    <li>ijo monsuta</li>
-    <li>ijo li lawa e lawa jan</li>
-    <li>misikeke nasa en ike sijelo</li>
-  </ul>
-</details>
-
-***
 
 ## ni li lipu "AAA-mute" tan kulupu "awen, awen, awen".
 

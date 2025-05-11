@@ -1,25 +1,16 @@
 ---
 layout: lipu
 nimi_lipu: jan Eto li alasa e pipi
+jan_pali: lipamanka
 suli_lipu: lili
 mute_nimi: 644
 ken_ike:
 - toki sona pi nasin pipi
+ijo_toki: 'kepeken sitelen pona pi kule suwi, la o kama sona e ma pi jan Eto e pakala suli pi kulupu ona.'
+lukin_sin: pona
 ---
 
-# jan Eto li alasa e pipi
-**mute nimi**: lili, <abbr title="644">LWAMMTT</abbr> 
 
-tan lipamanka
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>toki sona pi nasin pipi</li>
-  </ul>
-</details>
-
-***
 
 [![](sitelen-Eto.svg){: style="width: 100%"}](sitelen-Eto.svg)
 

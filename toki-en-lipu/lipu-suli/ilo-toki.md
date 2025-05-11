@@ -1,10 +1,13 @@
 ---
 layout: lipu
 nimi_lipu: ilo toki
+jan_pali: jan Peton
 suli_lipu: lili
 mute_nimi: 522
 ken_ike:
 - ilo nanpa li sona wawa e toki
+ijo_toki: 'lon ma ni la nasin toki jan li nasa mute tan ilo toki. jan li toki kepeken sijelo ona ala kepeken ilo taso la ni li pakala ala pakala? o lukin o kama sona e pilin sina.'
+lukin_sin: pona
 ---
 
 <style>
@@ -17,29 +20,13 @@ ken_ike:
 .weka_suli_a{
   text-indent: 6em;
 }
-p{
+.content p{
   margin-bottom:1px;
   margin-top:1px;
 }
 </style>
 
 
-# ilo toki
-<br>
-tan jan Peton  
-
-<br>
-
-**mute nimi**: lili, <abbr title="522">LAMT</abbr> 
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>ilo nanpa li sona wawa e toki</li>
-  </ul>
-</details>
-
-***
 tenpo pini suli la, ilo ni li kama lon:
 
   jan li ken toki kepeken ona.

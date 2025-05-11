@@ -1,25 +1,16 @@
 ---
 layout: lipu
 nimi_lipu: mi wile e sona sin
+jan_pali: jan Sepulon
 suli_lipu: suli lili
 mute_nimi: 2661
 ken_ike:
-- ''
+- 'toki pi lon ala'
+- 'moli' 
+ijo_toki: 'lon ma nasa musi pi sona mute ala la jan Kasa li wile kama sona.'
+lukin_sin: pona
 ---
 
-# mi wile e sona sin
-**mute nimi**: suli lili, <abbr title="2661">MLWAMMMW</abbr> 
-
-tan jan Sepulon
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li></li>
-  </ul>
-</details>
-
-***
 
 ## mi moku
 

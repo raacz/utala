@@ -1,27 +1,16 @@
 ---
 layout: lipu
 nimi_lipu: jan pi sona mi en jan pona ona
+jan_pali: jan Ontoli
 suli_lipu: lili
 mute_nimi: 535
 ken_ike:
 - moku
 - jan li weka e jan pona ona
+ijo_toki: 'mi sona e jan. jan ni taso li lape lon tomo ona, taso jan pona ona wan li moku lon poka lon tenpo suno ale.'
+lukin_sin: pona
 ---
 
-# jan pi sona mi en jan pona ona
-tan jan Ontoli
-
-**mute nimi**: lili, <abbr title="535">LAMLLL</abbr>
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>moku</li>
-    <li>jan li weka e jan pona ona</li>
-  </ul>
-</details>
-
-***
 mi sona e jan. tomo ona la, jan ni taso li lape, li musi, li pali. jan ante ala li lon tomo ona. taso la, tenpo suno ale la, ona li pana moku tawa jan tu. tenpo suno ale la, jan pona li kama tawa tomo jan, li moku. jan pona li pona e jan. kin la, jan sona mi li pona tawa jan pona.
 
 jan pona li sona pona. tenpo moku ale la, jan sona mi en jan pona ona li toki. jan sona mi li toki pi wile kama sona. jan pona li pana e sona tawa ona.

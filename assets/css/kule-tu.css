@@ -93,7 +93,7 @@ h1, h2, h3, h4, h5, strong, .utala-musi{
     max-width: var(--main-max-width);
 
 }
-@media (max-width: 45em){ /*ASIDE breakpoint*/
+@media (max-width: 55em){ /*ASIDE breakpoint*/
   .layout{
     grid-template-columns: 1fr;
     
@@ -425,7 +425,7 @@ aside h2{
     font-weight: 500;
     color: var(--loje-laso);
 }
-@media (max-width: 45em){ 
+@media (max-width: 55em){ 
 
   .card-wrapper{
     display: flex;

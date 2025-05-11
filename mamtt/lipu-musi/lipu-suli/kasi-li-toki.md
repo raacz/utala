@@ -1,7 +1,8 @@
 ---
 layout: lipu
 nimi_lipu: kasi li toki
-suli_lipu: lili suli
+jan_pali: kapesi Pake
+suli_lipu: lili lili
 mute_nimi: 1542
 ken_ike:
 - kasi li moli
@@ -9,6 +10,8 @@ ken_ike:
 - pilin ike
 - ike pi nasin kulupu
 - nimi wan pi pu ala
+ijo_toki: 'kasi li toki, la kasi li toki e ijo sama? jan nasa wan li kute e toki kasi, li kama sona e ona sama.'
+lukin_sin: pona
 ---
 
 <style>
@@ -37,23 +40,6 @@ ken_ike:
   }
 </style>
 
-# kasi li toki
-**mute nimi**: lili suli, <abbr title="1542">LLLAMMTT</abbr> 
-
-tan kapesi Pake
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>kasi li moli</li>
-    <li>kasi li ken toki</li>
-    <li>pilin ike</li>
-    <li>ike pi nasin kulupu</li>
-    <li>nimi wan pi pu ala</li>
-  </ul>
-</details>
-
-***
 <div class="sitelen-pona" markdown="1">
 
 jan [_lawa _ala _nimi] li olin e nasin kasi  &nbsp;·&nbsp;   jan [_lawa _ala _nimi] li tawa lon ona  &nbsp;·&nbsp;  jan [_lawa _ala _nimi] li alasa lukin e soweli e waso lon nasin ni  &nbsp;·&nbsp;  suli la jan [_lawa _ala _nimi] li wile wan e kasi pi suwi lukin tawa poki ona  &nbsp;·&nbsp;  tomo pi jan [_lawa _ala _nimi] li ken ike  &nbsp;·&nbsp;  jan sama pi jan [_lawa _ala _nimi] li ken ike  &nbsp;·&nbsp;  taso ma kasi li pona li ike ala   &nbsp;·&nbsp;   kasi li pana ala e pilin jaki  &nbsp;·&nbsp;  kasi li wile ala e pali nasa anu pali toki anpa   &nbsp;·&nbsp;   kasi li toki ala e nimi pakala  &nbsp;·&nbsp;  

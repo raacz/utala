@@ -6,21 +6,10 @@ suli_lipu: lili
 mute_nimi: 620
 ken_ike:
 - moku li lon
+ijo_toki: 'soweli Lulu li soweli pona li olin mute. taso soweli ale li olin ala olin e ona?'
+lukin_sin: pona
 ---
 
-# lipu pi soweli Lulu
-tan jan Non
-
-**mute nimi:** lili, <abbr title="620">LWAM</abbr>
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>moku li lon</li>
-  </ul>
-</details>
-
-***
 
 tenpo pini la soweli lili Lulu li lon.  
 ona li pilin pona a li pilin wawa a!  

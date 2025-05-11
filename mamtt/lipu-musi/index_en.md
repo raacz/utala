@@ -1,8 +1,6 @@
 ---
-layout: lipu
+layout: main
 ---
-
-([sina wile toki pona la o kama lon ni](index.md))
 
 
 # Amusing document competition (2024-08-10)

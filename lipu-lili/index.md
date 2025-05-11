@@ -12,7 +12,7 @@ sina ken lukin e ale pi toki ona [lon ni](lawa_tok.md).
 
 ni la jan mute li kama sitelen e lipu sin. jan Tepo en jan Lakuse li pana e ona ale tawa lipu ni 'utala.pona.la' la kulupu li ken lukin e lipu. 
 
-sina wile sona e nasin pi pana pilin la o lukin [lon ni](pana-pilin-tok.md).
+sina wile sona e nasin pi pana pilin la o lukin [lon ni](pana-pilin_tok.md).
 
 ## lipu seme li pona nanpa wan tawa kulupu?
 

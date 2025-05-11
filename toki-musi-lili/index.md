@@ -1,5 +1,5 @@
 ---
-layout: lipu
+layout: lipu-main
 ---
 <section markdown="1" class="front-matter container-in-main">
 

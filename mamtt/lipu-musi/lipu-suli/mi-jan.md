@@ -1,6 +1,7 @@
 ---
 layout: lipu
 nimi_lipu: mi jan
+jan_pali: jan Seko
 suli_lipu: suli
 mute_nimi: 8861
 ken_ike:
@@ -10,6 +11,8 @@ ken_ike:
 - wan taso
 - utala
 - moli
+ijo_toki: 'soweli li kama jan li kama sona e nasin kulupu kepeken toki pona. taso ken la, toki pona li len e nasin ike.'
+lukin_sin: pona
 ---
 
 <style>
@@ -19,24 +22,6 @@ ken_ike:
 
 </style>
 
-# mi jan
-**mute nimi**: suli, <abbr title="8861">MMMMLTWAMMMW</abbr> 
-
-tan jan Seko
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>moku</li>
-    <li>ma li kama jaki moli tan pali jan</li>
-    <li>pilin ike tawa jan</li>
-    <li>wan taso</li>
-    <li>utala</li>
-    <li>moli</li>
-  </ul>
-</details>
-
-***
 mi soweli. 
 
 seme? mi soweli ala. mi jan. soweli li lon ala. jan li lon. seme? 

@@ -1,9 +1,8 @@
 ---
-layout: lipu
+layout: main
 ---
 
-# jan sitelen pi toki pona o!
-## tenpo pali li lon!
+# jan sitelen pi toki pona o! tenpo pali li lon!
 
 *pali seme li wile?*
 

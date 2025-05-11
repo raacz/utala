@@ -1,9 +1,8 @@
 ---
-layout: lipu
+layout: main
 ---
 
-# Hey, toki pona people who write!
-## It's that time again!
+# Hey, toki pona people who write! It's that time again!
 
 *What work is needed?*
 

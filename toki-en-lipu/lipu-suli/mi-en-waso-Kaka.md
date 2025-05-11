@@ -1,6 +1,7 @@
 ---
 layout: lipu
 nimi_lipu: mi en waso Kaka en monsuta pi ma kasi
+jan_pali: jan Pensa
 suli_lipu: suli mute
 mute_nimi: 8402
 ken_ike:
@@ -10,45 +11,20 @@ ken_ike:
 - moku li lon
 - utala sijelo
 - nimi ku li mute
+ijo_toki: 'ma kasi la kulupu pi waso Kaka li kama lukin e monsuta. jan Ensi kin li lukin e monsuta. monsuta ni li seme?'
+sona_namako: 'open la, lipu ni li kepeken nimi lanpan lon tenpo mute. kulupu li toki e ni: nimi lanpan li ike. ni la, jan pali li pali sin li weka e nimi lanpan ale tan lipu. sina wile lukin e lipu kepeken nimi lanpan la o tawa ni: <a href="mi-en-waso-Kaka-lanpan.html">mi en waso Kaka en monsuta pi ma kasi en nimi lanpan</a>'
+lukin_sin: pona
+
 ---
 
-# mi en waso Kaka en monsuta pi ma kasi
-
-tan jan Pensa
-
-**mute nimi**: suli mute, <abbr title="8402">MMMMTTAT</abbr>
-
-open la, lipu ni li kepeken nimi 'lanpan' lon tenpo mute. kulupu li toki e ni: nimi lanpan li ike. ni la, jan pali li pali sin li weka e nimi lanpan ale tan lipu. sina wile lukin e lipu kepeken nimi lanpan la o tawa ni: [mi en waso Kaka en monsuta pi ma kasi en nimi lanpan](mi-en-waso-Kaka-lanpan.md)
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>pakala sijelo</li>
-    <li>pilin ike pi ken moli</li>
-    <li>sijelo moli jaki</li>
-    <li>moku li lon</li>
-    <li>utala sijelo</li>
-    <li>nimi ku li mute</li>
-  </ul>
-</details>
-
-***
-
 ## kipisi lipu:
-
-[mi lon ma kasi](#mi-lon-ma-kasi)
-
-[jan Ensi li lon ma tomo](#jan-ensi-li-lon-ma-tomo)
-
-[mi lon tomo](#mi-lon-tomo)
-
-[jan Ensi li lon ma kasi](#jan-ensi-li-lon-ma-kasi)
-
-[mi lon monsuta](#mi-lon-monsuta)
-
-[jan Ensi li lon nasin](#jan-ensi-li-lon-nasin)
-
-[mi lon ma nasa](#mi-lon-ma-nasa)
+- [mi lon ma kasi](#mi-lon-ma-kasi)
+- [jan Ensi li lon ma tomo](#jan-ensi-li-lon-ma-tomo)
+- [mi lon tomo](#mi-lon-tomo)
+- [jan Ensi li lon ma kasi](#jan-ensi-li-lon-ma-kasi)
+- [mi lon monsuta](#mi-lon-monsuta)
+- [jan Ensi li lon nasin](#jan-ensi-li-lon-nasin)
+- [mi lon ma nasa](#mi-lon-ma-nasa)
 
 ***
 

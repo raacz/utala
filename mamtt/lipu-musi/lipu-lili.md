@@ -1,5 +1,5 @@
 ---
-layout: lipu
+layout: lipu-main
 ---
 
 
@@ -69,12 +69,20 @@ layout: lipu
     width: 100%;
     border-spacing: 2em 0;
   }
+  .tutu td{
+    vertical-align: top;
+  }
+  .tutu td {
+    padding-block: 1em;
+  }
   .comma {
     font-family: sans-serif;
   }
 
 
 </style>
+
+<section class="frontmatter container-in-main" markdown="1">
 
 # lipu musi lili
 
@@ -94,7 +102,8 @@ layout: lipu
 - [telo tu](#telo-tu), tan jan Pontu
 - [tomo lape pi Pocatello](#tomo-lape-pi-pocatello)
 
-***
+</section>
+<section class="content" markdown="1">
 
 ## ilo pi tenpo awen
 
@@ -1014,4 +1023,4 @@ jan toki: "o tawa weka. o tawa tomo lape suwi pi Pocatello. ma Italija la ona li
 tomo lape pi Pocatello la ale li pona la sina o tawa. o esun e lipu pi ken tawa la sina o pilin pona sin."
 
 [sina kute e kalama pi nena telo. kalama li kama wawa ala.]
-
+</section>

@@ -1,43 +1,26 @@
 ---
 layout: lipu
+jan_pali: jan Kiwisin tan jan Telupiso
 nimi_lipu: olin kijetesantakalu
 suli_lipu: suli lili
 mute_nimi: 1266
 ken_ike:
 - moku mute li lon
 - pakala lili sijelo
+ijo_toki: 'kijetesantakalu li kama sona e kijetesantakalu sin. pilin sin ni li olin, anu seme?'
+lukin_sin: pona
+
 ---
 
-# olin kijetesantakalu
-tan jan Kiwisin tan jan Telupiso
 
-**mute nimi**: suli lili, <abbr title="1266">LLTAMMMLW</abbr>
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>moku mute li lon</li>
-    <li>pakala lili sijelo</li>
-  </ul>
-</details>
-
-***
 ## lipu open:
 ### lipu lili pi lipu ni li:
 
-[lipu open](#lipu-open)
-
-[lipu nanpa wan:](#lipu-nanpa-wan)  
-tenpo open
-
-[lipu nanpa tu:](#lipu-nanpa-tu)  
-nasin sin
-
-[lipu nanpa tu wan:](#lipu-nanpa-tu-wan)  
-ma pi lon ala
-
-[lipu pini:](#lipu-pini)  
-tenpo ni
+- [lipu open](#lipu-open)
+- [lipu nanpa wan:](#lipu-nanpa-wan) tenpo open
+- [lipu nanpa tu:](#lipu-nanpa-tu) nasin sin
+- [lipu nanpa tu wan:](#lipu-nanpa-tu-wan) ma pi lon ala
+- [lipu pini:](#lipu-pini) tenpo ni
 
 ----
 ## lipu nanpa wan:

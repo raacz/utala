@@ -1,8 +1,8 @@
     <h2>ijo wawa kulupu</h2>
     <div class="card-wrapper">
-      
-      {% include winner.html nimiilo="" nimi="jan Sata" sitelen="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToMOPgJSEbCTX5MCogM7_k0EYFsWwnwcyFzQ&s" nanpawan="tenpo sike #MAMTT" nanpatu="lipu lili #W"%}
-
+      {%- for entry in site.data.ijo_wawa -%}
+        {% include winner.html nimiilo=entry.lipu nimi=entry.nimi sitelen=sitelen nanpawan=entry.tenpo.tok nanpatu=entry.nanpa.tok %}
+      {%- endfor -%}
       
     </div>
     

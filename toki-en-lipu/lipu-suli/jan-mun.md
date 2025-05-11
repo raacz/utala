@@ -7,8 +7,9 @@ mute_nimi: 932
 ken_ike:
 - moli
 - sona wawa pi nasin mun
-sona_namako: 'jan pali li wile e ni: sina lukin kepeken sitelen pona. taso, sina ken
-  ala lukin e sitelen pona la, o tawa [sitelen Lasina anpa](#sitelen-Lasina).'
+sona_namako: 'jan pali li wile e ni: sina lukin kepeken sitelen pona. taso, sina ken ala lukin e sitelen pona la, o tawa <a href="#sitelen-Lasina">sitelen Lasina lon anpa</a>.'
+ijo_toki: 'mun lili li olin li wile kama wawa! ona li wile pana e olin ona. taso jan mun li ni kepeken nasin nasa a.'
+lukin_sin: pona
 ---
 
 <style>
@@ -25,26 +26,9 @@ sona_namako: 'jan pali li wile e ni: sina lukin kepeken sitelen pona. taso, sina
     }
 </style>
 
-# jan mun
 
-mun Kekan San
-
-**mute nimi**: suli lili, <abbr title="932">LTTAMLLT</abbr>
-
-<details>
-  <summary>o sona e ken ike lon lipu ni</summary>
-  <ul>
-    <li>moli</li>
-    <li>sona wawa pi nasin mun</li>
-  </ul>
-</details>
-
-*jan pali li wile e ni: sina lukin kepeken sitelen pona. taso, sina ken ala lukin e sitelen pona la, o tawa [sitelen Lasina anpa](#sitelen-Lasina).*
-
-
-***
 <div class="sitelen-pona">
-<h2>jan mun</h2>
+<h2 class="sitelen-pona">jan mun</h2>
 <div class="kpn-weka">󱥫󱤡󱤑󱤺󱤧󱤬󱤧󱤨󱤀.
 
 󱥆󱤧󱤬󱤟󱥣󱥍󱤑󱤺.

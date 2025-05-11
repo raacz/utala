@@ -1,8 +1,6 @@
 ---
-layout: lipu
+layout: main
 ---
-
-([Click here to read in English](index_en.md))
 
 
 # utala musi lipu #MAMTT/#LTW/#LL

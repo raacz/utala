@@ -1,8 +1,8 @@
 ---
-layout: lipu
+layout: main
 ---
 
-([If you want to see this in English, click here.](pana-pilin_en.md))
+# utala musi pi toki lili pi lipu suli
 
 
 <mark><a href="https://docs.google.com/forms/d/e/1FAIpQLSdxnxTH5B7UWpn99X7Q91y21vXoGFCVunzkU_8GcaoVxldhcQ/viewform" target="blank">o pana e pilin sina lon lipu ni!</a></mark>
