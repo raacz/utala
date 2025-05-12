@@ -1,6 +1,7 @@
 ---
 layout: main
 toki: "tok"
+title: tenpo ni
 ---
 
 # utala pi pali musi li lon tenpo pini li lon tenpo kama

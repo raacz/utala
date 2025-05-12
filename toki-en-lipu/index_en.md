@@ -1,5 +1,6 @@
 ---
 layout: main
+title: "Big Documents and Small Communications Contest 2023"
 
 ---
 

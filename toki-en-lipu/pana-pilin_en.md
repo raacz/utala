@@ -1,5 +1,6 @@
 ---
 layout: main
+title: "Thought expression for 2023 Writing Competition"
 ---
 
 

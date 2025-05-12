@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: mi wile e sona sin
+title: mi wile e sona sin
 jan_pali: jan Sepulon
 suli_lipu: suli lili
 mute_nimi: 2661

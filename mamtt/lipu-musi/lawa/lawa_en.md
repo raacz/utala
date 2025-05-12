@@ -1,5 +1,6 @@
 ---
 layout: main
+title: "Rules for 2024 Writing Contest"
 ---
 
 # Toki Pona community!

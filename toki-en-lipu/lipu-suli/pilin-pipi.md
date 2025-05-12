@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: pilin pipi
+title: pilin pipi
 jan_pali: jan Ke Tami
 suli_lipu: suli lili
 mute_nimi: 2135

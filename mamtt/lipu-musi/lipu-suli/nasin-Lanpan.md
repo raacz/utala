@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: nasin Lanpan
+title: nasin Lanpan
 jan_pali: kapesi Pake
 suli_lipu: suli mute mute a
 mute_nimi: 66372

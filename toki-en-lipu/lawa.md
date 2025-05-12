@@ -1,5 +1,6 @@
 ---
 layout: main
+title: "lawa pi utala sitelen pi sike #MAMTW"
 ---
 
 # jan sitelen pi toki pona o! tenpo pali li lon!

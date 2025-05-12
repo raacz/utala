@@ -1,5 +1,6 @@
 ---
 layout: main
+title: Rules for 2023 Writing Contest
 ---
 
 # Hey, toki pona people who write! It's that time again!

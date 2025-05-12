@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: ali li ale
+title: ali li ale
 jan_pali: kapesi Pake
 suli_lipu: suli mute
 mute_nimi: 3504

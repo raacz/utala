@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: jan pi sona mi en jan pona ona
+title: jan pi sona mi en jan pona ona
 jan_pali: jan Ontoli
 suli_lipu: lili
 mute_nimi: 535

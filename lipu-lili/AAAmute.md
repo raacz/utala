@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: AAA-mute
+title: AAA-mute
 jan_pali: ale sa
 suli_lipu: suli lili
 mute_nimi: 1049

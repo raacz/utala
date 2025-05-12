@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: kili
+title: kili
 jan_pali: jan Simiman
 suli_lipu: lili
 mute_nimi: 656

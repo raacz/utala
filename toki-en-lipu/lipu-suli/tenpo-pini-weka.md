@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: tenpo pini weka
+title: tenpo pini weka
 jan_pali: jan Akeso
 suli_lipu: lili
 mute_nimi: 698

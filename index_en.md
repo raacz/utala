@@ -1,5 +1,6 @@
 ---
 layout: main
+title: Past Competitions
 ---
 ([sina wile e toki pona la o tawa ni](index.md))
 

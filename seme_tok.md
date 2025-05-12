@@ -1,5 +1,6 @@
 ---
 layout: main
+title: seme
 ---
 
 # lipu ni li seme a?

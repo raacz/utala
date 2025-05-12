@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: mi alasa e telo
+title: mi alasa e telo
 jan_pali: ijo Wen
 suli_lipu: lili
 mute_nimi: 790

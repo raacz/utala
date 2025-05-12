@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: ilo wawa pi ma Toli
+title: ilo wawa pi ma Toli
 jan_pali: jan Peli
 suli_lipu: suli lili
 mute_nimi: 1141

@@ -107,6 +107,60 @@
     en: Third Place
   lipu: index.md
 -
+  nimi: jan Sa
+  tenpo: 
+    tok: 'tenpo sike #MAMTW'
+    en: Amusement 2023
+  nanpa:
+    tok: "musi mu #W"
+    en: First Place
+  lipu: index.md
+-
+  nimi: jan punki
+  tenpo: 
+    tok: 'tenpo sike #MAMTW'
+    en: Amusement 2023
+  nanpa:
+    tok: "musi mu #T"
+    en: Second Place
+  lipu: index.md
+-
+  nimi: jan Tepo en mun Kekan San
+  tenpo: 
+    tok: 'tenpo sike #MAMTW'
+    en: Amusement 2023
+  nanpa:
+    tok: "musi mu #TW"
+    en: Third Place
+  lipu: index.md
+-
+  nimi: musi Kita
+  tenpo: 
+    tok: 'tenpo sike #MAMTW'
+    en: Amusement 2023
+  nanpa:
+    tok: "musi mu #TW"
+    en: Third Place
+  lipu: index.md
+-
+  nimi: kala pona Tonyu
+  tenpo: 
+    tok: 'tenpo sike #MAMT'
+    en: Place Picture 2023
+  nanpa:
+    tok: "sitelen ma #W"
+    en: First Place
+  lipu: index.md
+-
+  nimi: kala Luno
+  tenpo: 
+    tok: 'tenpo sike #MAMT'
+    en: Place Picture 2023
+  nanpa:
+    tok: "sitelen ma #T"
+    en: Second Place
+  lipu: index.md
+-
   nimi: jan Atelin
   tenpo: 
     tok: 'tenpo sike #MAMT'
@@ -133,5 +187,60 @@
     tok: "lipu #TW"
     en: Third Place
   lipu: index.md
+-
+  nimi: jan Melon
+  tenpo: 
+    tok: 'tenpo sike #MAMW'
+    en: Place Picture 2021
+  nanpa:
+    tok: "sitelen ma #W"
+    en: First Place
+  lipu: index.md
+-
+  nimi: mute to
+  tenpo: 
+    tok: 'tenpo sike #MAM'
+    en: Place Picture 2021
+  nanpa:
+    tok: "sitelen ma #T"
+    en: Second Place
+  lipu: index.md
+-
+  nimi: kule epiku Atawan en kala pona Tonyu
+  tenpo: 
+    tok: 'tenpo sike #MAMW'
+    en: Move/Sound 2021
+  nanpa:
+    tok: "lipu kalama tawa #W"
+    en: First Place
+  lipu: index.md
+-
+  nimi: jan Kapilu
+  tenpo: 
+    tok: 'tenpo sike #MAM'
+    en: Poetry 2020
+  nanpa:
+    tok: "toki musi #W"
+    en: First Place
+  lipu: index.md
+-
+  nimi: kule epiku Atawan en kala pona Tonyu
+  tenpo: 
+    tok: 'tenpo sike #MAM'
+    en: Poetry 2020
+  nanpa:
+    tok: "toki musi #T"
+    en: Second Place
+  lipu: index.md
+-
+  nimi: jan Ki
+  tenpo: 
+    tok: 'tenpo sike #MAM'
+    en: Poetry 2020
+  nanpa:
+    tok: "toki musi #TW"
+    en: Third Place
+  lipu: index.md
+
 
 

@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: tawa suli soweli
+title: tawa suli soweli
 jan_pali: jan pi nimi ala tan ilo Sasipisi
 suli_lipu: lili
 mute_nimi: 649

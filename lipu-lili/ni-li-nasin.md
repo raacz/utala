@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: ni li nasin
+title: ni li nasin
 jan_pali: palisa jelo Natan
 suli_lipu: suli mute mute a
 mute_nimi: 5017

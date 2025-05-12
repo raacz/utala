@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: likujo
+title: likujo
 jan_pali: jan Peton
 suli_lipu: lili
 mute_nimi: 774

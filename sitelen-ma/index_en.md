@@ -1,6 +1,7 @@
 ---
 
 layout: main
+title: Place Picture Contest 2021
 
 ---
 # Place picture contest 2021-07-01

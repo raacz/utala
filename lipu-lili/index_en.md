@@ -1,6 +1,6 @@
 ---
 layout: main
-
+title: "Short Documents Contest 2022"
 ---
 
 # Competition of short artistic documents #MAMT/#LTW/#LW

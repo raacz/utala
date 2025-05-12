@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: jan usawi
+title: jan usawi
 jan_pali: jan Kepe
 suli_lipu: suli lili
 mute_nimi: 1124

@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: waso Mumu li mu ala
+title: waso Mumu li mu ala
 jan_pali: jan Atelin
 suli_lipu: lili
 mute_nimi: 667

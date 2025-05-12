@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: 'toki pi ma kasi: utala pi jan ete'
+title: 'toki pi ma kasi: utala pi jan ete'
 jan_pali: ala Lojewalo
 suli_lipu: lili
 mute_nimi: 544

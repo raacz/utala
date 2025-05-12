@@ -1,5 +1,6 @@
 ---
 layout: main
+title: Document Competition 2024
 ---
 
 

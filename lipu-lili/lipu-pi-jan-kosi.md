@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: lipu pi jan Kosi
+title: lipu pi jan Kosi
 jan_pali: jan Temili
 suli_lipu: lili
 mute_nimi: 643

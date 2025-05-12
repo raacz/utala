@@ -1,6 +1,8 @@
 ---
 layout: main
 lukin_sin: pona
+title: "pana pilin pi utala lipu pi sike #MAMT"
+
 ---
 
 

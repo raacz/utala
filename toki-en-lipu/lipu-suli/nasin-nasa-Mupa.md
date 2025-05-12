@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: nasin nasa pi jan Mupa
+title: nasin nasa pi jan Mupa
 jan_pali: jan Telupison tan jan Kiwisin
 suli_lipu: suli
 mute_nimi: 4392

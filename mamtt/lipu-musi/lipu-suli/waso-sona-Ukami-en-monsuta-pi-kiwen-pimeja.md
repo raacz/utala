@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: waso sona Ukami en monsuta pi kiwen pimeja
+title: waso sona Ukami en monsuta pi kiwen pimeja
 jan_pali: jan Jowi
 suli_lipu: suli lili
 mute_nimi: 3831

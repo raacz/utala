@@ -1,5 +1,6 @@
 ---
 layout: main
+title:  "Thought expression for 2024 Document Competition"
 ---
 
 # Voting for the document competition is open

@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: ilo li wile e soweli
+title: ilo li wile e soweli
 jan_pali: jan Ke Tami
 suli_lipu: suli mute
 mute_nimi: 3700

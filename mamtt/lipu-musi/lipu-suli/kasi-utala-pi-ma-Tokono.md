@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: kasi utala pi ma Tokono
+title: kasi utala pi ma Tokono
 jan_pali: jan Wilo
 suli_lipu: suli lili
 mute_nimi: 2234

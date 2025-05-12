@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: lipu pi soweli Lulu
+title: lipu pi soweli Lulu
 jan_pali: jan Non
 suli_lipu: lili
 mute_nimi: 620

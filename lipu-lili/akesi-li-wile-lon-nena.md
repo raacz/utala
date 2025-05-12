@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: akesi li wile lon nena
+title: akesi li wile lon nena
 jan_pali: jan Kita
 suli_lipu: lili
 mute_nimi: 600

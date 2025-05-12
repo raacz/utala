@@ -428,6 +428,9 @@ aside h2{
     text-decoration: none;
     font-weight: 500;
     color: var(--loje-laso);
+    max-width: 8em;
+    white-space: wrap;
+    text-align: center;
 }
 @media (max-width: 55em){ 
 

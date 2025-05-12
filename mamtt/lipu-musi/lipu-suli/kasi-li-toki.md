@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: kasi li toki
+title: kasi li toki
 jan_pali: kapesi Pake
 suli_lipu: lili lili
 mute_nimi: 1542

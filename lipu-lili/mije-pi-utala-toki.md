@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: mije pi utala toki
+title: mije pi utala toki
 jan_pali: jan Ke Tami
 suli_lipu: suli lili
 mute_nimi: 1154

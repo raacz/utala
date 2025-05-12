@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: ilo toki
+title: ilo toki
 jan_pali: jan Peton
 suli_lipu: lili
 mute_nimi: 522

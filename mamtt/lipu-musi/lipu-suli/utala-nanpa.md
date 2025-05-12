@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: utala nanpa
+title: utala nanpa
 jan_pali: nasa utala
 suli_lipu: lili lili
 mute_nimi: 1149

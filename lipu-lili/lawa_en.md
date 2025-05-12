@@ -1,5 +1,6 @@
 ---
 layout: main
+title: "Rules 2022 Document Contest"
 
 ---
 

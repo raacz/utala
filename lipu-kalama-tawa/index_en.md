@@ -1,6 +1,6 @@
 ---
 layout: main
-
+title: 'Sound-Movement-Document Competition 2021'
 ---
 # Sound-Movement-Document Competition #MAMW/#T/#LTW
 

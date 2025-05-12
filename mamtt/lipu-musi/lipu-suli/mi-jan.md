@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: mi jan
+title: mi jan
 jan_pali: jan Seko
 suli_lipu: suli
 mute_nimi: 8861

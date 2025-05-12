@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: jan mun
+title: jan mun
 jan_pali: mun Kekan San
 suli_lipu: suli lili
 mute_nimi: 932

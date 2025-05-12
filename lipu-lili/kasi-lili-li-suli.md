@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: kasi lili li suli
+title: kasi lili li suli
 jan_pali: jan Ke Tami
 suli_lipu: lili
 mute_nimi: 816

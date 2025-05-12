@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: jan Posepomamuka#52208 o,
+title: jan Posepomamuka#52208 o,
 jan_pali: jan Lakuse
 suli_lipu: suli lili
 mute_nimi: 1365

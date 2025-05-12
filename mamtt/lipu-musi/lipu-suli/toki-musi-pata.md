@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: toki musi pata
+title: toki musi pata
 jan_pali: kapesi Pake
 suli_lipu: lili
 mute_nimi: 671

@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: mi en waso Kaka en monsuta pi ma kasi
+title: mi en waso Kaka en monsuta pi ma kasi
 jan_pali: jan Pensa
 suli_lipu: suli mute
 mute_nimi: 8402

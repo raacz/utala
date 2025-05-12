@@ -1,6 +1,11 @@
 ---
 layout: lipu-main
+title: "Poetry Contest 2020"
+
 ---
+
+<section class="frontmatter container-in-main" markdown="1">
+
 # Poetry contest (2020-11-11)
 
 ## Introduction
@@ -62,8 +67,8 @@ Your device can have the book using these words: [art fight](lipu_pi_toki_musi.p
 [alasa](#alasa) - jan Simu  
 [kulupu pona pi mun weka](#kulupu-pona-pi-mun-weka) - jan Sohuwa  
 [nasin pona](#nasin-pona) - jan Tumo
-
-***
+</section>
+<section class="content" markdown="1">
 
 ### lon ma tomo pi tenpo pini suli
 *jan Kapilu*
@@ -921,3 +926,5 @@ ante li awen
 lon tenpo ale.  
 ni li nasin  
 pi ijo ale.  
+
+</section>

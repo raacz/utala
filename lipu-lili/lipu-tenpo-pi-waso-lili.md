@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: lipu tenpo pi waso lili
+title: lipu tenpo pi waso lili
 jan_pali: jan Sepi (pi mute to)
 suli_lipu: suli lili
 ken_ike:

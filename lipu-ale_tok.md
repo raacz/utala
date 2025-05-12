@@ -1,5 +1,6 @@
 ---
 layout: main
+title: lipu ale
 ---
 
 # lipu suli ale 
@@ -15,7 +16,7 @@ lon lipu ni la sina ken lukin e lipu ale kepeken nasin mute.
     {% for page in site.pages %}
   {% if page.layout == "lipu" %}
     <li>
-    <a href="{{ page.url }}">{{ page.nimi_lipu }}</a> 
+    <a href="{{ page.url }}">{{ page.title }}</a> 
      <span>tan {{page.jan_pali}}</span>
      <span>{{ page.ijo_toki }}</span>
     </li>
@@ -29,7 +30,7 @@ lon lipu ni la sina ken lukin e lipu ale kepeken nasin mute.
   {% for page in sorted_pages %}
   {% if page.layout == "lipu" %}
     <li>
-      <a href="{{ page.url }}">{{ page.nimi_lipu }}</a>, tan {{ page.jan_pali }}. mute nimi: {{ page.mute_nimi }}
+      <a href="{{ page.url }}">{{ page.title }}</a>, tan {{ page.jan_pali }}. mute nimi: {{ page.mute_nimi }}
     </li>
   {% endif %}
 {% endfor %}

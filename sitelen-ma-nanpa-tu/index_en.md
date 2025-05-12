@@ -1,5 +1,7 @@
 ---
 layout: main
+title: Place Picture Contest 2023
+
 ---
 # Place Picture Contest 2023-02-01
 

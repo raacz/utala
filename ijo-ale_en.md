@@ -1,21 +1,66 @@
 ---
 layout: main
+title: Site Map
 ---
 
-# utala musi li seme?
 
-## pali musi
+# Site Map
 
-kulupu pi toki pona li pali e ijo musi mute a kepeken toki pona. lipu toki pi toki pona en sitelen pi toki pona li musi a. 
+{% assign english_pages = "" | split: "" %}
+{% assign other_pages = "" | split: "" %}
 
-## utala? utala li ike anu seme?
+{% for page in site.pages %}
+  {% if page.layout == "main" %}
+    {% if page.url contains '_en' %}
+      {% assign english_pages = english_pages | push: page %}
+    {% else %}
+      {% assign other_pages = other_pages | push: page %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
 
-utala moli ala! utala musi. kepeken nasin utala la mi ken nanpa e musi pi ijo pali li ken kama sona e ni: seme li wawa mute? kulupu li pali e musi la nasin seme musi li pona nanpa wan tawa kulupu?
+<h2>Pages in English</h2>
+<ul lang="en">
+  {% for page in english_pages %}
+    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>
 
-## utala li nasin seme?
 
-- lawa li toki e wile pali sama ni: 'o pali e lipu musi' 
-- kulupu li pali e ijo mute li pana tawa lawa 
-- lawa li pana e ijo pali ale tawa lukin
-- kulupu li lukin e ijo pali li toki e ni: ona seme li musi nanpa wan?
+
+<h2>General Pages in Toki Pona</h2>
+<ul lang="tok">
+  {% for page in other_pages %}
+    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>
+
+<h2>Small Amusing Documents</h2>
+<ul lang="tok">
+
+{% assign sorted_pages = site.pages  %}
+
+{% for page in sorted_pages %}
+  {% if page.layout == "lipu-main" %}
+    <li>
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+
+<h2>Big Amusing Documents</h2>
+<ul lang="tok">
+
+{% assign sorted_pages = site.pages  %}
+
+{% for page in sorted_pages %}
+  {% if page.layout == "lipu" %}
+    <li>
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
 

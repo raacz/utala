@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: kala pi alasa kala
+title: kala pi alasa kala
 jan_pali: jan Itan
 suli_lipu: lili
 mute_nimi: 665

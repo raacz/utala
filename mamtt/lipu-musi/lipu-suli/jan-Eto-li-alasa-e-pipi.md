@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: jan Eto li alasa e pipi
+title: jan Eto li alasa e pipi
 jan_pali: lipamanka
 suli_lipu: lili
 mute_nimi: 644

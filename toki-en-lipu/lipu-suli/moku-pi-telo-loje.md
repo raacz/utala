@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: moku pi telo loje
+title: moku pi telo loje
 jan_pali: jan Wilo
 suli_lipu: suli lili
 mute_nimi: 1063

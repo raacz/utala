@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: lon anpa pi sewi walo lon sewi pi telo suno
+title: lon anpa pi sewi walo lon sewi pi telo suno
 jan_pali: jan Ameki
 suli_lipu: suli
 mute_nimi: 10881

@@ -1,6 +1,8 @@
 ---
 layout: main
 lukin_sin: pona
+title: "Thought expression for 2022 Document Competition"
+
 
 ---
 

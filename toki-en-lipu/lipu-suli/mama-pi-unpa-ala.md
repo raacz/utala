@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: mama sewi pi unpa ala
+title: mama sewi pi unpa ala
 jan_pali: jan Lakuse
 suli_lipu: lili
 mute_nimi: 500

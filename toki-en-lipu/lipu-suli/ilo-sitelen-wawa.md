@@ -1,6 +1,6 @@
 ---
 layout: lipu
-nimi_lipu: ilo sitelen wawa
+title: ilo sitelen wawa
 jan_pali: nasa utala
 suli_lipu: lili
 mute_nimi: 566
