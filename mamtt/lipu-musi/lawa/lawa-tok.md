@@ -1,5 +1,5 @@
 ---
-layout: lipu
+layout: main
 ---
 
 # kulupu pi toki pona o!

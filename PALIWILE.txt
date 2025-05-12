@@ -1,11 +1,14 @@
 Issues
-- reading mode feature requires further segmenting of content
 - all settings tools still need work
 - page titles broken
--'ijo wawa kulupu' needs actual entries
+-'ijo wawa kulupu' needs IMAGES
 -better page strucutre
 - sitelen ale and lipu ale need to be thrown together
 - folder strucutre needs to be completely redone with proper redirects
+- all old image contests need documentation
+-fix skip navigation
+- skip button for ijo wawa kulupu
+- accessibility page and sitemap and licenses
 
 
 KINDS OF pages
@@ -13,3 +16,7 @@ KINDS OF pages
 'monolingual combined pages' that have front matter and content 
 'billingual combined pages' 
 'gallery pages'
+
+future things
+- search directory
+-ability to customize monsi

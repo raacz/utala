@@ -1,5 +1,5 @@
 ---
-layout: lipu
+layout: main
 ---
 
 # Voting for the document competition is open

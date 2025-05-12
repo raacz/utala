@@ -1,5 +1,5 @@
 ---
-layout: lipu
+layout: main
 ---
 
 # Toki Pona community!

@@ -1,21 +1,24 @@
 ---
 layout: main
 ---
+<ul>
+{% assign sorted_pages = site.pages  %}
 
-# utala musi li seme?
+{% for page in sorted_pages %}
+  {% if page.layout == "main" %}
+    <li>
+      <a href="{{ page.url }}">{{ page.data.title }}</a>
+    </li>
+  {% endif %}
+{% endfor %}
 
-## pali musi
+{% assign sorted_pages = site.pages  %}
 
-kulupu pi toki pona li pali e ijo musi mute a kepeken toki pona. lipu toki pi toki pona e sitelen pi toki pona li musi a. 
-
-## utala? utala li ike anu seme?
-
-utala moli ala! utala musi. kepeken nasin utala la mi ken nanpa e musi pi ijo pali li ken kama sona e ni: seme li wawa mute? kulupu li pali e musi la nasin seme musi li pona nanpa wan tawa kulupu?
-
-## utala li nasin seme?
-
-- lawa li toki e wile pali sama ni: 'o pali e lipu musi' 
-- kulupu li pali e ijo mute li pana tawa lawa 
-- lawa li pana e ijo pali ale tawa lukin
-- kulupu li lukin e ijo pali li toki e ni: ona seme li musi nanpa wan?
-
+{% for page in sorted_pages %}
+  {% if page.layout == "lipu" %}
+    <li>
+      <a href="{{ page.url }}">{{ page.nimi_lipu }}</a>
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>

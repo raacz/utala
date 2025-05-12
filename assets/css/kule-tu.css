@@ -103,7 +103,11 @@ h1, h2, h3, h4, h5, strong, .utala-musi{
     "main"
     "sidebar"
     "footer";
+    padding-inline: 1em;
+
   }
+
+
 }
 
 /*Accessibility*/
@@ -481,8 +485,20 @@ section h1{
   background-color: var(--lipu-monsi);
   color: var(--lipu-sinpin);
   padding-inline: 4em;
-  max-width: var(--reading-comfort-width)
+  max-width: var(--reading-comfort-width);
+  font-family: serif;
 }
+main:has(.content){
+  max-width: 100%;
+}
+/*CONTENT MAIN STYLES*/
+
+.content :is(h1,h2,h3,h4,h5, strong){
+  color: inherit;
+  font-family: serif;
+
+}
+
 @media (max-width: 40rem){
   .content {
     padding-inline: 1em;
@@ -498,6 +514,39 @@ section h1{
   margin-block: 2em;
 }
 
+
+/*STYLES FOR BROWSING ENTRIES*/
+
+.ijo-mute{
+  display: grid; 
+  grid-template-columns: repeat(auto-fill, minmax(12em, 1fr));
+  list-style: none;
+  row-gap: 1em;
+  column-gap: 0.5em;
+  padding: 0.5em;
+  max-width: 100%;
+}
+.ijo-mute li{
+  border: 0.1em dotted var(--loje-laso);
+  padding: 1em;
+  border-radius: var(--container-border-radius);
+  margin: 0;
+}
+.ijo-mute a{
+  color: var(--laso-pimeja);
+  word-break:break-word;
+}
+.ijo-mute span:first-of-type{
+  display: block;
+  text-align: right;
+  font-style: italic;
+  width: 100%;
+  border-bottom: 0.1em dotted var(--loje-laso);
+  margin-bottom: 1em;
+  
+}
+.container-in-main:has(.ijo-mute){
+}
 
 
 

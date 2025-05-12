@@ -1,5 +1,5 @@
 ---
-layout: lipu
+layout: main
 ---
 # utala musi la tenpo pi pana pilin li lon!
 
