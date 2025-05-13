@@ -12,7 +12,16 @@ layout: default
 
         </section>
     </main>
+
   <aside class="container-in-main">
+    <a class="skip-button" href="#skip-target-footer">
+      {% if page.toki == "tok" %}
+      o tawa noka lipu
+      {% else %}
+      Skip to Footer
+      {% endif %}
+    </a>
+
     {% if page.toki == "tok" %}
     {% include winner-container_tok.html %}
     {% elsif page.toki == "en" %}

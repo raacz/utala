@@ -9,7 +9,13 @@
     <meta property="og:site_name" content="utala musi pi ma pona">
   </head>
   <body>
-    <a class="skip-button" href="">Skip Navigation</a>
+    <a class="skip-button" href="#skip-target-main">
+      {% if page.toki == "tok" %}
+      o weka e sewi lipu
+      {% else %}
+      Skip Navigation
+      {% endif %}
+    </a>
     {{ content }}
   </body>
   <script src="/scripts/addSkipTarget.js"></script>

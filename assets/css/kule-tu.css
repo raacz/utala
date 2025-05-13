@@ -121,8 +121,9 @@ h1, h2, h3, h4, h5, strong, .utala-musi{
 .skip-button:link, .skip-button:visited {
   position: absolute;
   margin: auto;
-  display: block;
+  display: none;
   width: 100%;
+  height: 4em;
   text-align: center; 
   color: var(--laso-pimeja);
   background-color: var(--jelo);
@@ -130,11 +131,13 @@ h1, h2, h3, h4, h5, strong, .utala-musi{
   /* Ensure the Y position is set to zero and any movement on the transform property */
   transform: translateY(0);
   transition: transform 50ms ease-in;
+  inset-inline: 0;
+  inset-block-start: 0;
 }
 
 /* When it is not focused, transform its Y position by its total height, using a negative value, so it hides above the viewport */
 .skip-button:not(:focus) {
-  transform: translateY(-9rem);
+  transform: translateY(-90rem);
 }
 /*temani afif style*/
 html {
@@ -402,9 +405,11 @@ aside h2{
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
     white-space: nowrap;
     padding: 0.5em;
     border-top: 0.2em solid var(--jelo);
+    min-height: 8em;
 }
 
 
@@ -551,6 +556,9 @@ main:has(.content){
 .container-in-main:has(.ijo-mute){
 }
 
+
+
+/*Chatbox*/
 
 
 /*FOOTER*/
