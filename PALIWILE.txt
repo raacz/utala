@@ -3,7 +3,7 @@ Issues
 - folder strucutre needs to be completely redone with proper redirects
 -fix skip navigation
 - accessibility page and sitemap and licenses
-- lang tag needed on html element
+- print styles
 
 
 future things

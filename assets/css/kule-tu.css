@@ -55,21 +55,101 @@
       --jelo: rgb(78, 78, 2);
       --laso-pimeja: rgb(192, 198, 249);
       --jelo-walo: rgb(43, 43, 2);
-
       --lipu-monsi: rgb(15, 16, 13);
       --lipu-sinpin: rgb(202, 198, 198);
-  
-  
       --c1: rgb(2, 60, 91);
       --c2: rgb(73, 68, 38);
       --color-tint-opacity: 0.10;
     }
-
-   
     
-   
 
 }
+
+[data-selected-theme="walo"]{
+  --pimeja: rgb(40,0,3);
+  --walo: white;
+  --loje-laso: rgb(145, 65, 172);
+  --walo-laso:rgb(214, 238, 255);
+  --jelo: rgb(245, 245, 216);
+  --laso-pimeja: rgb(8, 18, 109);
+  --jelo-walo: rgb(249, 249, 235); /*focus indicator*/
+
+  --lipu-monsi: rgb(252, 253, 246);
+  --lipu-sinpin: black;
+
+  --c1: rgb(198, 231, 249);
+  --c2: rgb(245, 245, 216);
+  --color-tint-opacity: 0.26;
+}
+[data-selected-theme="pimeja"]{
+  --pimeja: white;
+  --walo: black;
+  --loje-laso: rgb(232, 189, 246);
+  --walo-laso:rgb(5, 34, 56);
+  --jelo: rgb(78, 78, 2);
+  --laso-pimeja: rgb(192, 198, 249);
+  --jelo-walo: rgb(43, 43, 2);
+  --lipu-monsi: rgb(15, 16, 13);
+  --lipu-sinpin: rgb(202, 198, 198);
+  --c1: rgb(2, 60, 91);
+  --c2: rgb(73, 68, 38);
+  --color-tint-opacity: 0.10;
+}
+
+[data-selected-theme="pimeja-walo-taso"]{
+  --pimeja: rgb(9, 6, 6);
+  --walo: rgb(233, 225, 225);
+  --loje-laso: rgb(243, 237, 245);
+  --walo-laso:rgb(7, 7, 7);
+  --jelo: rgb(247, 247, 237);
+  --laso-pimeja: rgb(236, 236, 241);
+  --jelo-walo: rgb(2, 2, 2);
+  --lipu-monsi: rgb(237, 240, 231);
+  --lipu-sinpin: rgb(14, 14, 14);
+  --c1: rgb(238, 240, 241);
+  --c2: rgb(249, 249, 248);
+  --color-tint-opacity: 0.10;
+  --kule-wawa-ala-ui-fix: black;
+}
+
+[data-selected-theme="tonsi"]{
+  --pimeja: rgb(9, 6, 9);
+  --walo: rgb(233, 225, 225);
+  --loje-laso: #ffb1c9;
+  --walo-laso: black;
+  --jelo:  #ffb1c9;
+  --laso-pimeja: #75d8ef;
+  --jelo-walo: #75d8ef;
+  --lipu-monsi: rgb(237, 240, 231);
+  --lipu-sinpin: rgb(14, 14, 14);
+  --c1: #75d8ef;
+  --c2: #ffb1c9;
+  --color-tint-opacity: 0.10;
+  --tonsi-ui-fix: black;
+  --kule-wawa-ala-ui-fix: black;
+  --tonsi-white: white;
+}
+
+/*suno-ala*/
+[data-selected-theme="pimeja-mute"]{
+  --pimeja: white;
+  --walo: black;
+  --loje-laso: rgb(126, 101, 134);
+  --walo-laso:rgb(6, 6, 6);
+  --jelo: rgb(36, 36, 3);
+  --laso-pimeja: rgb(96, 98, 113);
+  --jelo-walo: rgb(43, 43, 2);
+  --lipu-monsi: rgb(15, 16, 13);
+  --lipu-sinpin: rgb(202, 198, 198);
+  --c1: rgb(1, 27, 41);
+  --c2: rgb(40, 37, 21);
+  --color-tint-opacity: 0;
+}
+[data-selected-theme="pimeja-mute"] img{
+  opacity: 50%;
+}
+
+
 body{
     font-family: Teachers, sans-serif;
     color: var(--laso-pimeja);
@@ -118,7 +198,7 @@ h1, h2, h3, h4, h5, strong, .utala-musi{
 *:focus-visible {
 	/* inner indicator */
 	outline: 0.15em var(--laso-pimeja) solid;
-  background-color: var(--jelo-walo);
+  background-color: var(--tonsi-ui-fix, var(--jelo-walo));
 	outline-offset: 0;
 	/* outer indicator */
 }
@@ -129,7 +209,7 @@ h1, h2, h3, h4, h5, strong, .utala-musi{
   width: 100%;
   height: 4em;
   text-align: center; 
-  color: var(--laso-pimeja);
+  color: var(--kule-wawa-ala-ui-fix, var(--laso-pimeja));
   background-color: var(--jelo);
   padding-block: 0.5em;
   /* Ensure the Y position is set to zero and any movement on the transform property */
@@ -189,7 +269,7 @@ header{
 .utala-musi{
     font-size: clamp(1.8rem, -0.875rem + 9vw, 4rem);    
     font-weight: 800;
-    color: var(--loje-laso);
+    color: var(--tonsi-white, var(--loje-laso));
     grid-area: site-title;
     text-align: center;
     
@@ -222,7 +302,7 @@ nav a[aria-current="page"]{
 }
 .lang {
   border-radius: 3em;
-  background-color: var(--walo);
+  background-color: var(--kule-wawa-ala-ui-fix,var(--walo));
   margin-block-start: -2em;
   padding: 0.5em;
   place-self: end;
@@ -248,7 +328,6 @@ nav a[aria-current="page"]{
   height: 2em;
   width: 2em;
   object-fit: contain;
-  display: none;
 }
 .settings svg {
   fill: var(--loje-laso);
@@ -271,7 +350,8 @@ nav a[aria-current="page"]{
   top: calc((100vh - var(--modal-size-block)) / 2);
   left: calc((100vw - var(--modal-size-inline)) / 2);
   background-color: var(--walo);
-  color: var(--laso-pimeja);
+  color: var(--kule-wawa-ala-ui-fix,
+  var(--laso-pimeja));
   border-color: var(--walo);
   overflow: auto;
   padding-inline: 2em;
@@ -285,10 +365,7 @@ nav a[aria-current="page"]{
     opacity: 90%;
     top: 0;
     left: 0;
-    }
-
-
-
+  }
 }
 .container-in-modal{
   margin: auto;
@@ -302,19 +379,18 @@ dialog fieldset {
 }
 dialog h2{
   text-align: center;
+  color: inherit;
 }
 
-dialog button{
-  position: absolute;
-  inset-inline-end: 1em;
-  inset-block-start: 1em;
-}
 .close {
   background-color: inherit;
   color: inherit;
   border: 0.2em solid var(--loje-laso);
   padding: 0.2em; 
   border-radius: 1em;
+  position: absolute;
+  inset-inline-end: 1em;
+  inset-block-start: 1em;
 }
 
 dialog legend {
@@ -326,6 +402,9 @@ dialog legend {
 dialog label{
   display: block;
   background-color: var(--walo);
+}
+.kule-selo button[aria-pressed="true"] {
+  border-color: var(--laso-pimeja);
 }
 
 
