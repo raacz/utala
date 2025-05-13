@@ -32,25 +32,26 @@ tenpo ni la, ijo pona ni li lon lipu utala.pona.la li ken pona tawa kepeken sina
 - sina lawa e ilo sina kepeken ilo pi lukin ala la sina ken tawa sewi lipu tawa insa lipu tawa poka lipu tawa anpa lipu tan ni: ijo ale ni li poki.  
 - sina ken pimeja e selo li ken walo e selo
 
-## Barriers
+## ijo ike
 
-There are some pages known to be problematic on this site. 
+lon la pakala mute li lon lipu lon tenpo ni. mi wile pona e ni ale lon tenpo poka. 
 
-Currently, nearly all the entries in the image competition do not have appropriate alt tags. Media featured in the humour competition do not have subtitles or audio description. 
+tenpo ni la, sina ken ala lukin la sina ken ala sona e ni: sitelen kule li seme lon 'utala pi sitelen ma.' sina ken ala kute la ken suli la sina ken ala lukin e ni: kalama pi sitelen tawa li seme. sina ken ala lukin la sina ken ala sona e ni: sitelen tawa la sona seme li lon lukin taso.  
 
-These amusing documents are known to have issues:
-
+lipu suli ni la pakala suli li lon:
 - [Nasi](/toki-en-lipu/lipu-suli/nasi.html)
-  - Page is not entirely responsive
-  - Language tagging is not consistent
-  - Minimum contrast is not met
-  - Animations can not be paused
+  - sina wile lili mute e lipu ni la lipu ni li jo e sitelen ni: ona li suli li ken ala kama lili. sina wile lukin kepeken ilo lili kepeken suli lukin la ken suli la pakala li kama. 
+  - toki Inli li lon lipu ni, taso ilo li ken ala sona e ni: toki seme li toki Inli. 
+  - nimi pi kule pimeja li lon monsi pi kule pimeja la lukin li ken a pakala. 
+  - tenpo la sitelen li tawa lon lipu. sina wile pini e tawa ni la nasin li lon ala. 
 - [pilin pipi](/toki-en-lipu/lipu-suli/pilin-pipi.md)
-  - Page is not built responsively
+  - sina wile lili mute e lipu ni la lipu ni li jo e sitelen ni: ona li suli li ken ala kama lili. sina wile lukin kepeken ilo lili kepeken suli lukin la ken suli la pakala li kama. 
 - [kasi li toki](/mamtt/lipu-musi/lipu-suli/kasi-li-toki.md)
-  - Page relies on color to convey information. 
+  - lipu li kepeken kule loje li kepeken kule laso lon nasin ni: sina ken sona e ni tan kule nimi: seme li toki. pakala li ni: sina ken ala lukin wawa e laso e loje la pakala sona a li ken.  
 
-Additionally, there are some older adminstrative pages that text bolding to indicate headings. 
+nimi suli li lon sewi toki li toki e ni: toki mute li kama toki e seme. tenpo pini la mi'suli' e nimi kepeken nasin ni taso: mi pimeja wawa e ona. ilo li ken ala sona pona e ni: toki seme li nimi suli, toki seme li nimi suli ala. ni o kama pona. 
 
-This page will be updated as accessibility issues are fixed and new ones are found.
 
+pakala li weka la mi toki lon lipu ni. pakala sin li lon la mi toki lon lipu ni a. 
+
+sina lukin e pakala sin la o toki tawa mi pi kulupu pali (tokipona.sasalin@gmail.com).
