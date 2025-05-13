@@ -35,7 +35,7 @@ kin la, o musi. lipu sina o pona ala tawa [lipu Wikipesija](https://wikipesija.o
 
 **lipu sin o ijo sin pi toki pona o ante toki ala tan lipu pi toki mama ante**
 
-o lukin e utala ni pi tenpo pini: [utala pi lipu suli pi toki lili](../toki-en-lipu/). pali sina o sama. 
+o lukin e utala ni pi tenpo pini: [utala pi lipu suli pi toki lili](/mamtw/toki-en-lipu/). pali sina o sama. 
 
 ## tenpo seme la mi wile pana e pali?
 

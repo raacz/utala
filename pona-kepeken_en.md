@@ -31,12 +31,12 @@ Currently, nearly all the entries in the image competition do not have appropria
 
 These amusing documents are known to have issues:
 
-- [Nasi](/toki-en-lipu/lipu-suli/nasi.html)
+- [Nasi](/mamtw/toki-en-lipu/lipu-suli/nasi.html)
   - Page is not entirely responsive
   - Language tagging is not consistent
   - Minimum contrast is not met
   - Animations can not be paused
-- [pilin pipi](/toki-en-lipu/lipu-suli/pilin-pipi.md)
+- [pilin pipi](/mamtw/toki-en-lipu/lipu-suli/pilin-pipi.md)
   - Page is not built responsively
 - [kasi li toki](/mamtt/lipu-musi/lipu-suli/kasi-li-toki.md)
   - Page relies on color to convey information. 

@@ -7,7 +7,7 @@ title: "utala lipu pi sike#MAMTT"
 # utala musi lipu #MAMTT/#LTW/#LL
 
 
-jan Lakuse li toki wawa e ni tawa kulupu pi toki pona: o pana e lipu sulisina e lipu lili sina tawa mi a! lipu o toki pona e ijo musi pi lon ala. [sina ken lukin e ale pi toki wile ona lon ni](/lawa/lawa-tok.md).
+jan Lakuse li toki wawa e ni tawa kulupu pi toki pona: o pana e lipu sulisina e lipu lili sina tawa mi a! lipu o toki pona e ijo musi pi lon ala. [sina ken lukin e ale pi toki wile ona lon ni](lawa/lawa_tok.md).
 
 kulupu li pana e lipu lili  <abbr title="15">LLL</abbr>!
 
@@ -15,7 +15,7 @@ kulupu li pana e lipu suli <abbr title="14">LLTT</abbr>!
 
 jan Tepo en jan Lakuse li pana e ona ale tawa lipu ni 'utala.pona.la' la kulupu li ken lukin e lipu. 
 
-sina wile la o lukin [nasin pi pana pilin](/pana-pilin/pilin_tok.md).
+sina wile la o lukin [nasin pi pana pilin](pana-pilin/pilin_tok.md).
 
 ## lipu seme li pona nanpa wan tawa kulupu?
 

@@ -39,12 +39,12 @@ lon la pakala mute li lon lipu lon tenpo ni. mi wile pona e ni ale lon tenpo pok
 tenpo ni la, sina ken ala lukin la sina ken ala sona e ni: sitelen kule li seme lon 'utala pi sitelen ma.' sina ken ala kute la ken suli la sina ken ala lukin e ni: kalama pi sitelen tawa li seme. sina ken ala lukin la sina ken ala sona e ni: sitelen tawa la sona seme li lon lukin taso.  
 
 lipu suli ni la pakala suli li lon:
-- [Nasi](/toki-en-lipu/lipu-suli/nasi.html)
+- [Nasi](/mamtw/toki-en-lipu/lipu-suli/nasi.html)
   - sina wile lili mute e lipu ni la lipu ni li jo e sitelen ni: ona li suli li ken ala kama lili. sina wile lukin kepeken ilo lili kepeken suli lukin la ken suli la pakala li kama. 
   - toki Inli li lon lipu ni, taso ilo li ken ala sona e ni: toki seme li toki Inli. 
   - nimi pi kule pimeja li lon monsi pi kule pimeja la lukin li ken a pakala. 
   - tenpo la sitelen li tawa lon lipu. sina wile pini e tawa ni la nasin li lon ala. 
-- [pilin pipi](/toki-en-lipu/lipu-suli/pilin-pipi.md)
+- [pilin pipi](/mamtw/toki-en-lipu/lipu-suli/pilin-pipi.md)
   - sina wile lili mute e lipu ni la lipu ni li jo e sitelen ni: ona li suli li ken ala kama lili. sina wile lukin kepeken ilo lili kepeken suli lukin la ken suli la pakala li kama. 
 - [kasi li toki](/mamtt/lipu-musi/lipu-suli/kasi-li-toki.md)
   - lipu li kepeken kule loje li kepeken kule laso lon nasin ni: sina ken sona e ni tan kule nimi: seme li toki. pakala li ni: sina ken ala lukin wawa e laso e loje la pakala sona a li ken.  

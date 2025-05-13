@@ -6,7 +6,7 @@ title: Document Competition 2024
 
 # Amusing document competition (2024-08-10)
 
-jan Lakuse forcefully said this to the toki pona community: Give your small documents and big documents to me! The documents should describe amusing non-existant things in toki pona. [You can read everything they said at this link.](/lawa/lawa-en.md).
+jan Lakuse forcefully said this to the toki pona community: Give your small documents and big documents to me! The documents should describe amusing non-existant things in toki pona. [You can read everything they said at this link.](lawa/lawa_en.md).
 
 The group made 15 small documents!
 
@@ -14,7 +14,7 @@ The group made 14 big documents!
 
 jan Tepo and jan Lakuse put them all up on this website so the community could evaluate them. 
 
-If you wish, look at the [opinion expression method](/pana-pilin/pilin_tok.md).
+If you wish, look at the [opinion expression method](pana-pilin/pilin_tok.md).
 
 ## Which documents did the group find to be the best?
 
