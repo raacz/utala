@@ -19,27 +19,34 @@
             </button>
             <dialog aria-labelledby="dialog-name" tabindex="-1">
                 <div class="container-in-modal">
-                    <form method="dialog">
-                        <button class="close">o pini e ilo</button>
-                      </form>
-                    <h2>ilo</h2>
-                    <form>
+                        <form method="dialog">
+                            <button class="close">o pini e ilo</button>
+                        </form>
+                        <h2>ilo</h2>
+                        <form>
+
                         <fieldset>
                         <legend>nanpa la ilo o seme</legend>
-                        <div>
                         <label for="wile-nnp1">                        <input type="radio" id="wile-nnp1" name="nnp" value="wile" />
                             o kepeken nasin nanpa pona</label>
                         <label for="wile-nnp2">                        <input type="radio" id="wile-nnp2" name="nnp" value="ala" />
                             o kepeken sitelen Alapi</label>
                         </fieldset>
 
-                        <fieldset>
+                        <fieldset class="kule-selo">
                         <legend>selo la ilo o seme</legend>
-                        <div>
-                        <label for="wile-selo1">                        <input type="radio" id="wile-selo1" name="selo" value="wile" />
-                            selo o walo</label>
-                        <label for="wile-selo2">                        <input type="radio" id="wile-selo2" name="selo" value="ala" />
-                            selo o pimeja</label>
+
+                        <div class="theme-switcher">
+                            <button data-theme="walo" aria-pressed="true">walo</button>
+                            <button data-theme="pimeja" aria-pressed="false">pimeja</button>
+                            <button data-theme="pimeja-walo-taso" aria-pressed="false">loje en laso en jelo li weka</button>
+                            <button data-theme="tonsi" aria-pressed="false">tonsi</button>
+                            <button data-theme="pimeja-mute" aria-pressed="false">pimeja mute</button>
+
+
+
+                        </div>
+
                         </fieldset>
 
 
