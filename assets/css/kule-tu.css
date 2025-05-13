@@ -37,14 +37,16 @@
     --c2: rgb(245, 245, 216);
     --color-tint-opacity: 0.26;
 
-    
+     
     --main-max-width: 55em;
     --reading-max-width: 50em;
     --reading-comfort-width: 40em;
 
     --container-border-radius: 2em;
     --threedee-box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
-    
+    --reading-font: sans-serif;
+
+
     @media (prefers-color-scheme: dark){
       --pimeja: white;
       --walo: black;
@@ -61,9 +63,11 @@
       --c1: rgb(2, 60, 91);
       --c2: rgb(73, 68, 38);
       --color-tint-opacity: 0.10;
-
-  
     }
+
+   
+    
+   
 
 }
 body{
@@ -244,6 +248,7 @@ nav a[aria-current="page"]{
   height: 2em;
   width: 2em;
   object-fit: contain;
+  display: none;
 }
 .settings svg {
   fill: var(--loje-laso);
@@ -494,7 +499,7 @@ section h1{
   color: var(--lipu-sinpin);
   padding-inline: 4em;
   max-width: var(--reading-comfort-width);
-  font-family: serif;
+  font-family: var(--reading-font);
 }
 main:has(.content){
   max-width: 100%;
@@ -503,7 +508,7 @@ main:has(.content){
 
 .content :is(h1,h2,h3,h4,h5, strong){
   color: inherit;
-  font-family: serif;
+  font-family: var(--reading-font);
 
 }
 
@@ -553,12 +558,12 @@ main:has(.content){
   margin-bottom: 1em;
   
 }
-.container-in-main:has(.ijo-mute){
+.ijo-mute span:first-of-type span{
+  display: inline;
+  border-bottom: none;
 }
 
 
-
-/*Chatbox*/
 
 
 /*FOOTER*/

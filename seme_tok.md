@@ -19,7 +19,7 @@ tenpo mute la nasin li sama ni:
 - lawa li toki e wile pali sama ni: 'o pali e lipu musi' 
 - kulupu li pali e ijo mute li pana tawa lawa 
 - lawa li pana e ijo pali ale tawa lukin
-- kulupu li lukin e ijo pali li toki e ni: ona seme li musi nanpa wan?
+- kulupu li lukin e ijo pali li toki e ni: ona seme li musi nanpa wan
 
 ## utala.pona.la en 'ma pona pi toki pona' li wan ala wan?
 

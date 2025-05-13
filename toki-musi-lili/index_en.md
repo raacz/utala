@@ -68,7 +68,7 @@ Your device can have the book using these words: [art fight](lipu_pi_toki_musi.p
 [kulupu pona pi mun weka](#kulupu-pona-pi-mun-weka) - jan Sohuwa  
 [nasin pona](#nasin-pona) - jan Tumo
 </section>
-<section class="content" markdown="1">
+<section lang="tok" class="content" markdown="1">
 
 ### lon ma tomo pi tenpo pini suli
 *jan Kapilu*

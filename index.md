@@ -7,8 +7,6 @@ title: utala pini
 
 # utala pini
 
-## tenpo sike #MAML
-
 ## tenpo sike #MAMTT
 
 - mun #LTW: [utala musi lipu](/mamtt/lipu-musi/) la kulupu li pali e lipu musi sin mute a!
