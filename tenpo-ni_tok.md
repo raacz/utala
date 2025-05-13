@@ -81,6 +81,18 @@ utala pi lipu suli la sina ken pana e lipu mute! utala pi lipu musi lili la o pa
 
 o sona e ni: mi kama awen e lipu sina lon ilo ni la jan ale li ken lukin e ona. ni li ike tawa sina la o pana ala!
 
+## mi wile e ni: ilo sona toki li pali e lipu mi
+
+sina o pali e lipu sina. taso sina wile pona e pali sina kepeken ilo sona toki la mi wile sona e ni: tan seme la sina wile kepeken ilo sona toki? 
+
+ken la sina pilin e ni: ken sina pi toki pona li lili. ni la o toki tawa mi. mi ken alasa e pakala toki pi lipu sina. o kepeken ala ilo. ilo li sona pona ala e toki pona lon tenpo ni. 
+
+ken la sina pilin e ni: ken sina pi pali musi li lili. sina wile suli e ken musi sina kepeken ilo toki sona. o sona: sina ken a toki tawa mi. taso ken la sina wile ala ni. mi ken sona e pilin. ike a!
+
+**sina kepeken ilo sona toki lon pali sina la o toki a e ni.** o len ala e sona ni. jan mute li pilin nasa tan pali ilo ni li wile ala lukin e lipu pi pali ilo. ni la, o toki e ni: sina kepeken ilo. mi pana e lipu sina la mi pana e toki ni kin tawa jan lukin. 
+
+tenpo sike pini nanpa tu la jan wan li pali kepeken ilo Sasipisi e lipu [tawa suli soweli](/mamtw/toki-en-lipu/lipu-suli/tawa-suli-soweli.md). lipu li musi. 
+
 ## mi wile kepeken sitelen pi nimi ala lon pali mi
 
 o toki tawa mi e wile sina. mi ken ala e sitelen mute. wile mi la sitelen kule li namako. toki nimi o suli nanpa wan. 

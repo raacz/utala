@@ -59,7 +59,7 @@ Give this knowledge:
 
 When submissions are all done, everyone will look at the entries and say what they think. We’ll find out which aristic documents the community thinks are the best!
 
-cSo don’t send your entry to a lot of people or talk about what’s in your entry to a lot of people. When it’s time to look, no one should know who wrote which entry.
+So don’t send your entry to a lot of people or talk about what’s in your entry to a lot of people. **When it’s time to look, no one should know who wrote which entry.**
 
 ## What else do I need to know?
 
@@ -71,9 +71,24 @@ In the large document competition, you can submit multiple documents! In the lit
 
 Know that I will keep your work on this site so everyone can look at it. If you don’t like this, then don’t submit!
 
-## I want to non-word depictions in my work
+## I want this: a talking knowledge device makes my document
 
-Talk to me about your desire. I disallow lots of depictions. It is my desire that colourful images are adornment. The communication in words is most important. 
+You should make your own document. However, if you want to improve your work using a talking knowledge device I want to know this: *Why* do you want to use a talking knowledge device?
+
+Maybe you feel this: your toki pona ability is small. Therefore, talk to me. I can search for mistakes in your document. Do not use the device. The device doesn't know toki pona well right now. 
+
+Maybe you feel this: your art-making ability is small. You want to augment your art-making ability using the talking knowledge device. Understand: You absolutely can discuss things with me. Maybe you do not want this. I can understand this feeling. Damn!
+
+**If you use the talking knowledge device in your work, then say so.** Do not hide this fact. Many people feel strange because of this technology output and do not want to look at a document a tool has made. Therefore: say this: you used the tool. When I distribute your work I will also share this notice with the audience. 
+
+Two years ago, someone made [tawa suli soweli](/mamtw/toki-en-lipu/lipu-suli/tawa-suli-soweli.md) using ChatGPT. The document was entertaining. 
+
+
+
+
+## I want to use non-word depictions in my work
+
+Talk to me about your desire. I do not allow most depictions. It is my desire that colourful images are adornment. The communication in words is most important. 
 
 
 ## My working ability is not very strong. What support can you offer me?

@@ -490,7 +490,7 @@ aside h2{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    white-space: nowrap;
+    text-align: center;
     padding: 0.5em;
     border-top: 0.2em solid var(--jelo);
     min-height: 8em;
