@@ -31,12 +31,12 @@ title: Rules for 2023 Writing Contest
 > But nothing bad. Don't promote bad ideas. Don't talk too much about sex or violence.
 > Also, be artistic. Your thing should not be good for Wikipedia. Do not only teach. Don't present a new toki pona numbering system. 
 
-> Look at the competitions of the past: [utala pi lipu lili musi](../lipu-lili/) en [utala pi toki musi](../toki-musi-lili). Your work should be similar. 
+> Look at the competitions of the past: [utala pi lipu lili musi](/mamt/lipu-lili/) en [utala pi toki musi](/mam/toki-musi-lili). Your work should be similar. 
 
 *When do I submit my work?*
 
 > 2023-07-15
-
+../
 *Where do I submit my work?*
 
 > Give your thing to me (Lakuse) using Discord (Raacz106#5873) or using email (tokipona.sasalin@gmail.com).

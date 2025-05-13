@@ -32,7 +32,7 @@ title: "Rules for 2024 Writing Contest"
 > But nothing bad. Don't promote bad ideas. Don't talk too much about sex or violence.
 > Also, be artistic. Your thing should not be good for Wikipedia. Do not only teach. Don't present a new toki pona numbering system. 
 
-> Look at the competitions of the past: [utala pi lipu suli pi toki lili](../toki-en-lipu/). pali sina o sama.  Your work should be similar. 
+> Look at the competitions of the past: [utala pi lipu suli pi toki lili](/mamtw/toki-en-lipu/). pali sina o sama.  Your work should be similar. 
 
 *When do I submit my work?*
 

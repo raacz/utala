@@ -31,7 +31,7 @@ title: "lawa pi utala sitelen pi sike #MAMTW"
 > taso o ike ala. o sewi ala e nasin ike. o toki wawa ala e unpa e pakala sijelo.
 > kin la, o musi. ijo sina o pona ala tawa [lipu Wikipesija](https://wikipesija.org/wiki/lipu_open). o pana sona taso ala. o toki wawa ala e nasin nanpa sin pi toki pona. 
 
-> o lukin e utala ni pi tenpo pini: [utala pi lipu lili musi](../lipu-lili/) en [utala pi toki musi](../toki-musi-lili). pali sina o sama. 
+> o lukin e utala ni pi tenpo pini: [utala pi lipu lili musi](/mamt/lipu-lili/) en [utala pi toki musi](/mam/toki-musi-lili). pali sina o sama. 
 
 *tenpo seme la mi wile pana e pali?*
 
