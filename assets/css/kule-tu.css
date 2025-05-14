@@ -127,9 +127,7 @@
   --c1: rgb(238, 240, 241);
   --c2: rgb(249, 249, 248);
   --color-tint-opacity: 0.10;
-  --kule-wawa-ala-ui-fix: black;
-  --kule-wawa-ala-ui-walo: var(--walo);
-
+;
 }
 
 [data-selected-theme="tonsi"]{
@@ -145,37 +143,22 @@
   --c1: #75d8ef;
   --c2: #ffb1c9;
   --color-tint-opacity: 0.10;
-  --tonsi-ui-fix: black;
-  --kule-wawa-ala-ui-fix: black;
-  --tonsi-white: white;
-  --kule-wawa-ala-ui-walo: var(--walo);
 
 }
+[data-selected-theme="pimeja-walo-taso"], [data-selected-theme="tonsi"]{
+  --dark-correction-black: black;
+  --dark-correction-pale: var(--walo);
+  --dark-correction-hover: rgb(41, 41, 41);
+  --dark-correction-white: white;
+  /*pimeja-walo-taso and tonsi have a slightly different colour balance. these custom properties are used to override ui settings that would be otherwise blacked out (mostly within hover and focus styles) but also links.*/
+}
 
-/*suno-ala*/
-[data-selected-theme="pimeja-mute"]{
-  --pimeja: white;
-  --walo: black;
-  --loje-laso: rgb(126, 101, 134);
-  --walo-laso:rgb(6, 6, 6);
-  --jelo: rgb(36, 36, 3);
-  --laso-pimeja: rgb(96, 98, 113);
-  --jelo-walo: rgb(43, 43, 2);
-  --lipu-monsi: rgb(15, 16, 13);
-  --lipu-sinpin: rgb(130, 127, 127);
-  --c1: rgb(1, 27, 41);
-  --c2: rgb(40, 37, 21);
-  --color-tint-opacity: 0;
-}
-[data-selected-theme="pimeja-mute"] img{
-  opacity: 50%;
-}
 
 
 body{
     font-family: Teachers, sans-serif;
     color: var(--laso-pimeja);
-    font-size: 1.35em;
+    font-size: 1.20em;
 }
 
 
@@ -220,7 +203,7 @@ h1, h2, h3, h4, h5, strong, .utala-musi{
 *:focus-visible {
 	/* inner indicator */
 	outline: 0.15em var(--laso-pimeja) solid;
-  background-color: var(--tonsi-ui-fix, var(--jelo-walo));
+  background-color: var(--dark-correction-hover, var(--jelo-walo));
 	outline-offset: 0;
 	/* outer indicator */
 }
@@ -231,7 +214,7 @@ h1, h2, h3, h4, h5, strong, .utala-musi{
   width: 100%;
   height: 4em;
   text-align: center; 
-  color: var(--kule-wawa-ala-ui-fix, var(--laso-pimeja));
+  color: var(--dark-correction-black, var(--laso-pimeja));
   background-color: var(--jelo);
   padding-block: 0.5em;
   /* Ensure the Y position is set to zero and any movement on the transform property */
@@ -245,6 +228,27 @@ h1, h2, h3, h4, h5, strong, .utala-musi{
 .skip-button:not(:focus) {
   transform: translateY(-90rem);
 }
+
+/*suno-ala. This color theme is intentionally low contrast, aimed at people browsing at night or people who need softer colors due to attention or migraine issues.*/
+[data-selected-theme="pimeja-mute"]{
+  --pimeja: white;
+  --walo: black;
+  --loje-laso: rgb(126, 101, 134);
+  --walo-laso:rgb(6, 6, 6);
+  --jelo: rgb(36, 36, 3);
+  --laso-pimeja: rgb(96, 98, 113);
+  --jelo-walo: rgb(43, 43, 2);
+  --lipu-monsi: rgb(15, 16, 13);
+  --lipu-sinpin: rgb(130, 127, 127);
+  --c1: rgb(1, 27, 41);
+  --c2: rgb(40, 37, 21);
+  --color-tint-opacity: 0;
+} /*the theme also reduced the opacity of images to make them more soft.*/
+[data-selected-theme="pimeja-mute"] img{
+  opacity: 50%;
+}
+
+
 /*temani afif style*/
 html {
     --s: 40px; /* control the size*/
@@ -291,7 +295,7 @@ header{
 .utala-musi{
     font-size: clamp(1.8rem, -0.875rem + 9vw, 4rem);    
     font-weight: 800;
-    color: var(--tonsi-white, var(--loje-laso));
+    color: var(--dark-correction-white, var(--loje-laso));
     grid-area: site-title;
     text-align: center;
     
@@ -324,7 +328,7 @@ nav a[aria-current="page"]{
 }
 .lang {
   border-radius: 3em;
-  background-color: var(--kule-wawa-ala-ui-fix,var(--walo));
+  background-color: var(--dark-correction-black,var(--walo));
   margin-block-start: -2em;
   padding: 0.5em;
   place-self: end;
@@ -372,7 +376,7 @@ nav a[aria-current="page"]{
   top: calc((100vh - var(--modal-size-block)) / 2);
   left: calc((100vw - var(--modal-size-inline)) / 2);
   background-color: var(--walo);
-  color: var(--kule-wawa-ala-ui-fix,
+  color: var(--dark-correction-black,
   var(--laso-pimeja));
   border-color: var(--walo);
   overflow: auto;
@@ -493,7 +497,7 @@ main p, main ul, main h2{
 }
 main li {
   margin-inline-start: 1em;
-}
+} 
 a, a:visited {
   color: var(--loje-laso);
 }
@@ -645,12 +649,12 @@ main:has(.content){
   margin-block: 2em;
 }
 .content a, .content a:visited{
-  color: var(--kule-wawa-ala-ui-fix, var(--loje-laso));
+  color: var(--dark-correction-black, var(--loje-laso));
 
 }
 .content a:focus-visible, .content a:visited:focus-visible{
-  background-color: var(--kule-wawa-ala-ui-walo);
-  outline-color: var(--kule-wawa-ala-ui-fix);
+  background-color: var(--dark-correction-pale);
+  outline-color: var(--dark-correction-black);
 }
 
 
@@ -751,3 +755,9 @@ footer svg{
   width: 1px;
 }
 
+
+@media print{
+  .layout:has(.content) header{
+    display: none;
+  }
+}
