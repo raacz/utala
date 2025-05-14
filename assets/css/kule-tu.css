@@ -138,7 +138,7 @@
   --jelo:  #ffb1c9;
   --laso-pimeja: #75d8ef;
   --jelo-walo: #75d8ef;
-  --lipu-monsi: rgb(237, 240, 231);
+  --lipu-monsi: rgb(234, 231, 240);
   --lipu-sinpin: rgb(14, 14, 14);
   --c1: #75d8ef;
   --c2: #ffb1c9;
@@ -158,7 +158,7 @@
   --laso-pimeja: rgb(96, 98, 113);
   --jelo-walo: rgb(43, 43, 2);
   --lipu-monsi: rgb(15, 16, 13);
-  --lipu-sinpin: rgb(202, 198, 198);
+  --lipu-sinpin: rgb(130, 127, 127);
   --c1: rgb(1, 27, 41);
   --c2: rgb(40, 37, 21);
   --color-tint-opacity: 0;
@@ -439,6 +439,9 @@ form button{
   padding: 0.25em;
   font-size: 0.75em;
 }
+form button:focus{
+  background-color: inherit;
+}
 
 
 @media (max-width: 50rem){
@@ -637,6 +640,11 @@ main:has(.content){
 .content hr {
   margin-block: 2em;
 }
+.content a, .content a:visited{
+  color: var(--kule-wawa-ala-ui-fix, var(--loje-laso));
+
+}
+
 
 
 /*STYLES FOR BROWSING ENTRIES*/

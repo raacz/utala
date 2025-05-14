@@ -6,7 +6,7 @@
   nanpa:
     tok: "lipu lili #W"
     en: First Place
-  lipu: index.md
+  lipu: /mamtt/lipu-musi/lipu-lili.html#olin-mute
 -
   nimi: soweli Lapate
   tenpo: 
@@ -15,7 +15,7 @@
   nanpa:
     tok: "lipu lili #T"
     en: Second Place
-  lipu: index.md
+  lipu: /mamtt/lipu-musi/lipu-lili.html#ma-kon-telo-seli
 -
   nimi: kili potato
   tenpo: 
@@ -24,7 +24,7 @@
   nanpa:
     tok: "lipu lili #TW"
     en: Third Place
-  lipu: index.md
+  lipu: /mamtt/lipu-musi/lipu-lili.html#sina-seme
 -
   nimi: jan Seko
   tenpo: 
@@ -33,7 +33,7 @@
   nanpa:
     tok: "lipu suli #W"
     en: First Place
-  lipu: index.md
+  lipu: /mamtt/lipu-musi/lipu-suli/mi-jan.html
 -
   nimi: jan Sepulon
   tenpo: 
@@ -42,7 +42,7 @@
   nanpa:
     tok: "lipu suli #T"
     en: Second Place
-  lipu: index.md
+  lipu: /mamtt/lipu-musi/lipu-suli/mi-wile-e-sona-sin.html
 -
   nimi: lipamanka
   tenpo: 
@@ -51,7 +51,7 @@
   nanpa:
     tok: "lipu suli #TW"
     en: Third Place
-  lipu: index.md
+  lipu: /mamtt/lipu-musi/lipu-suli/jan-Eto-li-alasa-e-pipi.html
 -
   nimi: jan Jasun
   tenpo: 
@@ -60,7 +60,7 @@
   nanpa:
     tok: "toki lili #W"
     en: First Place
-  lipu: index.md
+  lipu: /mamtw/toki-en-lipu/toki-lili.html#tenpo-li-lili
 -
   nimi: kili potato
   tenpo: 
@@ -69,7 +69,7 @@
   nanpa:
     tok: "toki lili #T"
     en: Second Place
-  lipu: index.md
+  lipu: /mamtw/toki-en-lipu/toki-lili.html#pimeja
 -
   nimi: ijo tan anpa nanpa
   tenpo: 
@@ -78,7 +78,7 @@
   nanpa:
     tok: "toki lili #TW"
     en: Third Place
-  lipu: index.md
+  lipu: /mamtw/toki-en-lipu/toki-lili.html#mu-namako
 -
   nimi: jan Pensa
   tenpo: 
@@ -87,7 +87,7 @@
   nanpa:
     tok: "lipu suli #W"
     en: First Place
-  lipu: index.md
+  lipu: /mamtw/toki-en-lipu/lipu-suli/mi-en-waso-Kaka.html
 -
   nimi: jan Kepe
   tenpo: 
@@ -96,7 +96,7 @@
   nanpa:
     tok: "lipu suli #T"
     en: Second Place
-  lipu: index.md
+  lipu: /mamtw/toki-en-lipu/lipu-suli/nasi.html
 -
   nimi: jan Ke Tami
   tenpo: 
@@ -105,7 +105,7 @@
   nanpa:
     tok: "lipu suli #TW"
     en: Third Place
-  lipu: index.md
+  lipu: /mamtw/toki-en-lipu/lipu-suli/pilin-pipi.html
 -
   nimi: jan Sa
   tenpo: 
@@ -114,7 +114,7 @@
   nanpa:
     tok: "musi mu #W"
     en: First Place
-  lipu: index.md
+  lipu: /mamtw/musi-mu/index.html/#w-lape-pona---jan-kesi-en-jan-atumo-tan-jan-sa
 -
   nimi: jan punki
   tenpo: 
@@ -123,7 +123,7 @@
   nanpa:
     tok: "musi mu #T"
     en: Second Place
-  lipu: index.md
+  lipu: /mamtw/musi-mu/index.html/#t-hi-kijetesanta-tan-jan-punki
 -
   nimi: jan Tepo en mun Kekan San
   tenpo: 
@@ -132,7 +132,7 @@
   nanpa:
     tok: "musi mu #TW"
     en: Third Place
-  lipu: index.md
+  lipu: /mamtw/musi-mu/index.html/#tw-esun-pi-jan-suli-ike-pi-tan-mun-kekan-san-tan-jan-tepo
 -
   nimi: musi Kita
   tenpo: 
@@ -141,7 +141,7 @@
   nanpa:
     tok: "musi mu #TW"
     en: Third Place
-  lipu: index.md
+  lipu: /mamtw/musi-mu/index.html/#tw-ilo-pi-nanpa-tan-musi-kita
 -
   nimi: kala pona Tonyu
   tenpo: 
@@ -150,7 +150,7 @@
   nanpa:
     tok: "sitelen ma #W"
     en: First Place
-  lipu: index.md
+  lipu: /mamtw/sitelen-ma-nanpa-tu/index.html/#w-kala-pona-tonyu
 -
   nimi: kala Luno
   tenpo: 
@@ -159,7 +159,7 @@
   nanpa:
     tok: "sitelen ma #T"
     en: Second Place
-  lipu: index.md
+  lipu: /mamtw/sitelen-ma-nanpa-tu/index.html/#t-kala-luno
 -
   nimi: jan Atelin
   tenpo: 
@@ -168,7 +168,7 @@
   nanpa:
     tok: "lipu #W"
     en: First Place
-  lipu: index.md
+  lipu: /mamt/lipu-lili/waso-mumu-li-mu-ala.html
 -
   nimi: jan Ke Tami
   tenpo: 
@@ -177,7 +177,7 @@
   nanpa:
     tok: "lipu #T"
     en: Second Place
-  lipu: index.md
+  lipu: /mamt/lipu-lili/ilo-li-wile-e-soweli.html
 -
   nimi: jan Kita
   tenpo: 
@@ -186,7 +186,7 @@
   nanpa:
     tok: "lipu #TW"
     en: Third Place
-  lipu: index.md
+  lipu: /mamt/lipu-lili/akesi-li-wile-lon-nena.html
 -
   nimi: jan Melon
   tenpo: 
@@ -195,7 +195,7 @@
   nanpa:
     tok: "sitelen ma #W"
     en: First Place
-  lipu: index.md
+  lipu: /mamw/sitelen-ma/index.html
 -
   nimi: mute to
   tenpo: 
@@ -204,7 +204,7 @@
   nanpa:
     tok: "sitelen ma #T"
     en: Second Place
-  lipu: index.md
+  lipu: /mamw/sitelen-ma/index.html
 -
   nimi: kule epiku Atawan en kala pona Tonyu
   tenpo: 
@@ -213,7 +213,7 @@
   nanpa:
     tok: "lipu kalama tawa #W"
     en: First Place
-  lipu: index.md
+  lipu: /mamw/lipu-kalama-tawa/index.html
 -
   nimi: jan Kapilu
   tenpo: 
@@ -222,7 +222,7 @@
   nanpa:
     tok: "toki musi #W"
     en: First Place
-  lipu: index.md
+  lipu: /mam/toki-musi-lili/#lon-ma-tomo-pi-tenpo-pini-suli
 -
   nimi: kule epiku Atawan en kala pona Tonyu
   tenpo: 
@@ -231,7 +231,7 @@
   nanpa:
     tok: "toki musi #T"
     en: Second Place
-  lipu: index.md
+  lipu: /mam/toki-musi-lili/#ona-li-monsuta-e-jan
 -
   nimi: jan Ki
   tenpo: 
@@ -240,7 +240,7 @@
   nanpa:
     tok: "toki musi #TW"
     en: Third Place
-  lipu: index.md
+  lipu: /mam/toki-musi-lili/#kalama-waso
 
 
 
