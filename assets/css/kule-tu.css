@@ -128,6 +128,8 @@
   --c2: rgb(249, 249, 248);
   --color-tint-opacity: 0.10;
   --kule-wawa-ala-ui-fix: black;
+  --kule-wawa-ala-ui-walo: var(--walo);
+
 }
 
 [data-selected-theme="tonsi"]{
@@ -146,6 +148,8 @@
   --tonsi-ui-fix: black;
   --kule-wawa-ala-ui-fix: black;
   --tonsi-white: white;
+  --kule-wawa-ala-ui-walo: var(--walo);
+
 }
 
 /*suno-ala*/
@@ -644,6 +648,11 @@ main:has(.content){
   color: var(--kule-wawa-ala-ui-fix, var(--loje-laso));
 
 }
+.content a:focus-visible, .content a:visited:focus-visible{
+  background-color: var(--kule-wawa-ala-ui-walo);
+  outline-color: var(--kule-wawa-ala-ui-fix);
+}
+
 
 
 
