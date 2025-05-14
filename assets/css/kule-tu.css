@@ -12,6 +12,10 @@
   font-family: "Teachers-Bold";
   src: url(/assets/teachers/Teachers-Bold.ttf);
 }
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  src: url(/assets/Atkinson_Hyperlegible_Next/AtkinsonHyperlegibleNext-VariableFont_wght.ttf);
+}
 
 
 
@@ -64,6 +68,20 @@
     
 
 }
+
+[data-selected-font="sans"]{
+  --reading-font: sans-serif;
+}
+[data-selected-font="serif"]{
+  --reading-font: serif;
+}
+[data-selected-font="atkinson"]{
+  --reading-font: "Atkinson Hyperlegible Next";
+}
+[data-selected-font="teachers"]{
+  --reading-font: Teachers;
+}
+
 
 [data-selected-theme="walo"]{
   --pimeja: rgb(40,0,3);
@@ -362,7 +380,7 @@ nav a[aria-current="page"]{
     max-height: 100%;
     max-width: var(--modal-size-inline);
     position: fixed;
-    opacity: 90%;
+    opacity: 97%;
     top: 0;
     left: 0;
   }
@@ -405,8 +423,22 @@ dialog label{
 }
 .kule-selo button[aria-pressed="true"] {
   border-color: var(--laso-pimeja);
+  border-radius: 1em;
 }
 
+.nasin-sitelen button[aria-pressed="true"] {
+  border-color: var(--laso-pimeja);
+  border-radius: 1em;
+}
+.nasin-sitelen{
+  display: none;
+}
+form button{
+  background-color: var(--walo);
+  color: var(--pimeja);
+  padding: 0.25em;
+  font-size: 0.75em;
+}
 
 
 @media (max-width: 50rem){
