@@ -757,7 +757,28 @@ footer svg{
 
 
 @media print{
-  .layout:has(.content) header{
+  html:has(.content){
+    background: none;
+
+  }
+  .layout:has(.content) :is(header, footer){
+    display: none;
+  }
+
+  .layout:has(.content) :is(section), .layout:has(.content) .container-in-main, .front-matter h1{
+    padding: 0;
+    max-width: none;
+    margin: 0;
+    background-color: white;
+    box-shadow: none;
+    border-radius: 0;
+    color: black;
+    font-family: var(--reading-font);
+  }
+  .front-matter{
+    border-block-end: 0.2em solid black;
+  }
+  .do-not-print{
     display: none;
   }
 }
