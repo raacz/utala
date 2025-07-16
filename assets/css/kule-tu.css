@@ -5,6 +5,16 @@
     src: url(/assets/nasin-nanpa-2.5.1.otf);
 }
 @font-face {
+    font-family: "linja lipamanka";
+    src: url(/assets/linja-lipamanka.otf);
+}
+@font-face {
+    font-family: "sitelen seli kiwen mono asuki";
+    src: url(/assets/sitelenselikiwen/sitelenselikiwenmonoasuki.ttf);
+}
+
+
+@font-face {
   font-family: "Teachers";
   src: url(/assets/teachers/Teachers-Regular.ttf);
 }

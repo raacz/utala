@@ -1,6 +1,6 @@
 ---  
 layout: lipu
-title: pakala mani
+title: meli tu pi lawa ante
 suli_lipu: suli lili
 mute_nimi: 
 ken_ike:

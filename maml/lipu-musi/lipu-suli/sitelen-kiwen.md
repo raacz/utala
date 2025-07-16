@@ -1,7 +1,14 @@
----
+---  
+layout: lipu
 title: sitelen kiwen
+suli_lipu: suli lili
+mute_nimi: 
+ken_ike:
+ijo_toki: 
 ---
-![jan li sitelen e lipu ni kepeken luka ona.](lipu-suli/sitelen_kiwen.png)
+
+
+![jan li sitelen e lipu ni kepeken luka ona.](sitelen_kiwen.png)
 <details markdown="1">
 <summary>o lukin kepeken sitelen Lasina</summary>
 
