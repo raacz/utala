@@ -12,13 +12,13 @@ title: lipu lili ale pi sike#MAML
 - [kon en jan](lipu-suli/kon-en-jan.html)
 - [meli tu pi lawa ante](lipu-suli/meli-tu-pi-lawa-ante.html)
 - [nimi len](lipu-suli/nimi-len.html)
-- [pali](lipu-suli/pali.html)
 - [pakala mani](lipu-suli/pakala-mani.html)
 - [pipi lili](lipu-suli/pipi-lili.html)
 - [sitelen kiwen](lipu-suli/sitelen-kiwen.html)
 - [taso](lipu-suli/taso.html)
 - [tenpo o pona](lipu-suli/tenpo-o-pona.html)
 - [utala insa](lipu-suli/utala-insa.html)
+- [utala linja](lipu-suli/utala-linja.md)
 - [waso lili li lon insa pi tomo waso](lipu-suli/waso-lili-lon-insa-pi-tomo-waso.html)
 
 <!--
