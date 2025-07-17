@@ -18,7 +18,7 @@ title: lipu lili ale pi sike#MAML
 - [taso](lipu-suli/taso.html)
 - [tenpo o pona](lipu-suli/tenpo-o-pona.html)
 - [utala insa](lipu-suli/utala-insa.html)
-- [utala linja](lipu-suli/utala-linja.md)
+- [utala linja](lipu-suli/utala-linja.html)
 - [waso lili li lon insa pi tomo waso](lipu-suli/waso-lili-lon-insa-pi-tomo-waso.html)
 
 <!--
