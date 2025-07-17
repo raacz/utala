@@ -1,7 +1,6 @@
 ---
 title: olin li kalama
 ---
-olin li kalama  
 olin li sama kalama  
 kalama li sama olin  
 olin li kama pakala la  

@@ -2,39 +2,39 @@
 title: akesi linja li pilin ike
 ---
 <style>
-    .nasin-nanpa{
-        font-family: "nasin nanpa";
+    .akesi-linja-li-pilin-ike{
+        font-family: "nasin nanpa sin";
     }
 </style>
-<div class="nasin-nanpa" markdown="1">
+<div class="akesi-linja-li-pilin-ike" markdown="1">
 󱤁 󱤩 󱤧 󱥎 󱤍  
   
 󱤁 󱤩 󱤧 󱥎 󱤍  
-「󱤴 󱤓 󱤂 󱤉 󱤭 󱤉 󱥃  
-󱤁 󱤧 󱤓  
-󱤴 󱥷 󱤓」  
+te 󱤴 󱤓 󱤂 󱤉 󱤭 󱤉 󱥃  
+zz 󱤁 󱤧 󱤓  
+zz 󱤴 󱥷 󱤓to 
   
 󱤁 󱤩 󱤧 󱥬 󱥩 󱤁  
 󱤁 󱤧 󱥎 󱤍  
-「󱤴 󱤓 󱤉 󱤭 󱤉 󱥃  
-󱥨 󱤴 󱤓 󱤂 󱤉 󱤭 󱥴  
-󱤁 󱥣 󱤧 󱤓  
-󱤴 󱥷 󱤓」  
+te 󱤴 󱤓 󱤉 󱤭 󱤉 󱥃  
+zz 󱥨 󱤴 󱤓 󱤂 󱤉 󱤭 󱥴  
+zz 󱤁 󱥣 󱤧 󱤓  
+zz 󱤴 󱥷 󱤓to  
   
 󱤁 󱤩 󱤧 󱥬 󱥩 󱤁 󱥣  
 󱤁 󱥣 󱤧 󱥎 󱤍  
-「󱤴 󱤓 󱤉 󱤭 󱥴  
-󱥨 󱤴 󱤓 󱤂 󱤉 󱥫 󱤄  
-󱤺 󱤨 󱤧 󱤓  
-󱤴 󱥷 󱤓」  
+te󱤴 󱤓 󱤉 󱤭 󱥴  
+zz 󱥨 󱤴 󱤓 󱤂 󱤉 󱥫 󱤄  
+zz 󱤺 󱤨 󱤧 󱤓  
+zz 󱤴 󱥷 󱤓to  
   
 󱤁 󱤩 󱤧 󱥬 󱥩 󱤺 󱤨  
 󱤺 󱤨 󱤧 󱥎 󱤍  
-「󱤴 󱤓 󱤉 󱥫 󱤄  
-󱥨 󱤴 󱤓 󱤂 󱤉 󱥷  
-󱥞 󱤓  
-󱥞 󱤘 󱥷  
-󱥞 󱤘 󱤃 」
+te󱤴 󱤓 󱤉 󱥫 󱤄  
+zz 󱥨 󱤴 󱤓 󱤂 󱤉 󱥷  
+zz 󱥞 󱤓  
+zz 󱥞 󱤘 󱥷  
+zz 󱥞 󱤘 󱤃 to
 </div>
 
 <details markdown="1">

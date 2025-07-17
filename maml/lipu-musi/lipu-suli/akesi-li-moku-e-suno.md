@@ -77,12 +77,97 @@ jan Wanto li mu li toki ala. jan li musi.
 
 jan Kepen li toki e ale tawa jan Wanto.
 
-\- akesi sewi suli li akesi Sumeku. tenpo pini la, ona li weka. jan mute li pilin e ni : ona li moli. tenpo pini lili la, jan ala li sona e ona. taso, ona li moli ala. akesi ni li lape taso. tomo ona li nena Latala. nena ni li ken pakala e ma suli kepeken seli pi insa ma.
+\- akesi jan Lu li jan kalama wawa. kalama uta ona li suli. kalama pi ilo kalama ona li suli kin. jan San en ona li lon kulupu pi kalama musi. kalama ni la, ona li ken toki e pilin pona ona, e pilin ike ona, e pilin olin ona. jan li kute la, kalama li ijo suli tawa nasin jan.sewi suli li akesi Sumeku. tenpo pini la, ona li weka. jan mute li pilin e ni : ona li moli. tenpo pini lili la, jan ala li sona e ona. taso, ona li moli ala. akesi ni li lape taso. tomo ona li nena Latala. nena ni li ken pakala e ma suli kepeken seli pi insa ma.
 
 jan Wanto li telo e ilo utala sin. kin la, ona li toki e ni :
 
 \- taso, akesi ni li lon ma. jan mute li wile utala e ona.
-
+󱤥󱥏󱤧󱥶󱤉󱤣󱥚　󱥨󱥶󱥤󱤧󱤄󱤂󱤡󱤘󱤮󱤧󱤈󱤬
+󱤝󱤧󱥩󱤡󱤗󱤧󱥌󱤉󱤭󱥩󱤗󱥒　󱤗󱤄󱤧󱥳󱤬󱥩󱤻
+󱥩󱥵󱤡󱤗󱤄󱥒󱤧󱤖󱤜󱤬󱤮　󱤗󱥳󱤧󱤬󱤂　󱥟󱥮󱥍󱤞󱤗󱤼󱤧󱥨󱤬󱥒
+󱤏󱥍󱥟󱥮󱤡󱥊󱥣󱤿󱤧󱤃󱥎󱥩󱤰󱥶　󱥊󱤧󱥧󱤸󱥩󱥟　
+󱤿󱤡󱤞󱥠󱤧󱥑󱥩
+　　󱤒󱤒　󱥏　󱤒󱤒　󱥏
+󱤹󱥑󱤧󱤖󱥣　󱤗󱤧󱤖󱥚󱥧󱤰󱤬󱥃󱤧󱥜󱤉󱥛
+󱥆󱤧󱥡　　󱤗󱤻󱤧󱥬󱤥　󱥩󱥑󱥹󱤧󱥬󱤇󱥙　　󱥆󱤧󱥡
+󱥰󱤿󱤧󱥇󱤧󱥬
+　　　　󱤧󱤶󱤉󱤴
+　󱤡󱤹󱥣󱥍󱥌󱤝󱤡󱤴󱥶󱥧󱤢
+󱦜　　　　　　　　　　　　　　　　　　　　　　　　　　　　󱦜
+󱤯󱥤󱥭󱤡󱤴󱤮󱤉󱥚󱥍󱤒󱤫　󱤗󱤣󱥶󱤧󱤈󱤬󱤰󱥆
+󱤴󱤘󱥉󱤉󱥪󱥦󱥏󱤀
+󱤴󱥌󱤉󱤌󱤨󱥲󱤡󱥪󱥏󱤧󱥥󱤬󱤅󱥍󱥲󱤜
+󱤴󱥇󱤉󱤯󱥭󱤡󱤝󱤧󱤖󱥩󱥟󱤴　󱥪󱥗󱤊󱤝󱤦󱤡󱤴󱤈󱤬󱤮󱥍󱤖󱤞󱥚
+󱤴󱤖󱤉󱤥󱥦󱤫󱤩󱤬󱤅󱥍󱤤󱤴󱤬󱥜　󱥆󱥄󱤈󱤉󱤴󱥧󱤦
+󱤈󱥄󱥐󱤂
+󱦜　　　　　　　　　　　　　　　　　　　　　　　　　　　　󱦜
+󱤏󱥭󱤡󱤴󱤊󱤑󱤆󱤭󱤧󱤖󱤬󱥘󱥥
+󱤑󱥍󱤤󱥉󱤧󱥬　󱤬󱥆󱤧󱥬󱤀󱥍󱥐󱤂󱤬󱥫󱤄󱤡󱥁︂󱤧󱥸︀󱤂
+「󱤀　󱤑󱥳󱥨󱤧󱤬󱤂󱤡󱤼󱥔󱤧󱤬󱥩󱥇
+　󱥁︁󱤡　󱤄󱥄　󱥫󱥁󱤧󱥫󱥣　󱤋󱤊󱤌󱤧󱤼󱤡󱤄󱤧󱥵
+　󱥄󱤢󱤂󱤬󱥉　󱤴󱥄󱤖󱥬󱤉󱤌󱥉󱥍󱥫󱥤󱥁󱤭」
+󱤤󱤧󱤈󱥬
+󱤴󱤈󱤮󱤉󱥁
+　　　　󱥥󱤑󱥳󱤡󱤑󱤧󱤈󱤂
+󱥨󱥣󱤂　󱤬󱥍󱤑󱥁︁󱤧󱤐󱥩󱤮
+󱦜　　　　　　　　　　　　　　　　　　　　　　　　　　　　󱦜
+󱤴󱥷󱥉󱤉󱥋󱤡󱤴󱥩󱤋　󱤬󱤄󱤌󱤡󱤴󱥡󱤂󱤉󱤿
+󱥟󱥣󱥍󱥓󱤶󱤄󱤧󱤈󱤉󱤴󱤬󱥶󱥧󱤌󱥍󱥷󱤴　󱥱󱤼
+󱤴󱥈󱤉󱥆󱤡󱥙󱤍󱤀󱤧󱤘󱤖　󱥟󱤧󱤍󱤉󱤴󱤡󱤴󱤘󱥥󱤉󱥟　󱤋󱥔
+󱥈󱤧󱤘󱤨󱥨　󱤴󱤑󱥈󱤂　󱥈󱤧󱤨󱥨
+󱤴󱤮󱤉󱤑󱤫
+「󱥬　󱤴󱤍󱤧󱥡󱤂󱤉󱤬󱥍󱤌󱥋　󱥆󱤧󱤬󱥙」
+󱤑󱤫󱤧󱥬
+「󱤍󱤂󱤀　󱥆󱤧󱤬󱤿󱤶󱤽󱤭󱥮󱥮
+　󱥞󱤮󱤉󱥟󱥶󱥭󱥍󱥪󱤱󱥲󱤡󱥄󱥩󱤿󱤽󱥁︁󱤡󱥞󱤬」
+「󱥡󱥔　󱤴󱥁︁」
+「󱥄󱤃󱥔󱤀　󱥞󱥷󱤉󱤆󱤡󱥄󱥬」
+󱤴󱥈󱤉󱤂
+󱦜　　　　　　　　　　　　　　　　　　　　　　　　　　　　󱦜
+󱥭󱥍󱥵󱥛󱤡󱤴󱤃󱥶󱤉󱤾󱥛
+󱥃󱤊󱥃󱥝󱤡󱤴󱥩󱤼󱤬󱤎󱥍󱥥󱥜
+　󱤹　　󱤹　　󱤹　　󱤹　　󱤹　　󱤹
+󱥫󱥹󱤧󱥩󱤡󱤴󱤖󱥨󱤬󱤄󱥭　󱤴󱤮󱤉󱥒󱤡󱤂󱤧󱤬
+󱥃󱤊󱥃󱥝󱤡
+　󱤹　　󱤹　　󱤹　　󱤹　　󱤹　　󱤹
+󱤴󱤢󱤨󱤉󱥛󱤬󱥥　󱤴󱤮󱤡󱤂󱤧󱤬󱥒
+󱤸󱤧󱥟󱥭󱤡󱤴󱤈󱤧󱤮󱤬󱤂󱥁︁
+󱦜　　　　　　　　　　　　　　　　　　　　　　　　　　　　󱦜
+󱤏󱥍󱥭󱤶󱤡󱤃󱤶󱤧󱤖󱤂󱤉󱤌󱥷
+󱤿󱤧󱥙󱤀　󱤌󱥍󱤼󱥣󱤡󱤿󱤧󱤾　󱥩󱤧󱥜󱤧󱥜󱥝󱤧󱥜󱥝󱤽󱥮󱥳
+󱤑󱥳󱥍󱤩󱤤󱥲󱤧󱤮　󱥆󱤧󱤈󱤉󱥛󱤙󱥓󱤋󱥩　󱤂󱤆󱤧󱤬󱤏
+󱥩󱤾󱥜󱤡󱥆󱤧󱤈󱤬󱤰󱥖󱤬󱥜󱤄󱤧󱤮　󱥟󱥍󱥎󱤍󱤡󱥒󱥍󱥰󱥆󱤧󱤅
+󱥆󱤧󱤮󱤉󱤴　󱤴󱥎󱤉󱤮󱥆　「󱤑󱥁󱤧󱤾󱥈󱥙」
+　　　　　　　　　　　　　󱥁︁󱤧󱥎󱥆　󱤴󱤠
+󱤴󱤘󱤂　󱤴󱥜󱤽󱥮󱥮　󱥨󱤴󱥶󱤂
+󱥟󱥏󱥍󱤶󱤄󱤋󱤧󱥩󱤹　󱥰󱤑󱤧󱤈󱥩󱤅󱥩󱥃
+󱤴󱥑󱤬󱤏󱤡󱥟󱤧󱥩󱤅　󱥆󱤧󱥷󱥥󱤉󱤴󱥩󱤂
+󱤴󱤘󱤂󱥶　󱤴󱥄󱥱　󱥁󱤧󱤘󱥨󱥍󱥷󱤂
+󱤴󱤘󱤂󱥶
+󱦜　　　　　　　　　　　　　　　　　　　　　　　　　　　　󱦜
+󱥭󱥩󱤩󱤡󱤴󱤈󱤬󱥥　󱤑󱤼󱤧󱤬󱥒󱤧󱤈󱥊󱤧󱤮󱤉󱤎󱤭
+「󱤴󱤖󱤬　󱤿󱤁󱥍󱤗󱤫」
+󱥭󱤧󱥐󱥩󱤡󱤯󱤧󱥇　󱥃󱥩󱤼󱤡󱤑󱤏󱤊󱤑󱥶󱤧󱤋
+「󱤖󱤡　󱤿󱥢󱥍󱤛󱤫」
+󱤑󱤏󱥝󱥹󱤧󱤮󱤉󱤎󱤭　󱤤󱤊󱤮󱤧󱤅　󱤹󱥩󱤧󱤬󱥝󱥖
+󱥨󱥳󱤧󱤆　󱥳󱤧󱤮󱤉󱤴　󱤴󱤮󱤅󱤧󱤮󱥚󱥝
+󱤑󱥩󱤄󱤧󱤿󱥪󱤡󱥁︁󱥳󱤧󱤛󱤈󱥍󱥩󱤂
+󱤤󱥆󱤧󱥚󱤧󱥶󱥧󱥘󱥪
+　　󱤧󱤮
+󱤴󱤘󱥎󱤉󱥷󱥆󱥁︀　󱥱󱤊󱥐󱤊󱤷󱤊󱤂
+「󱤴󱤖󱤬　󱤿󱥢󱥍󱤛󱤫」
+󱥙󱤡󱤑󱤆󱤧󱤮󱤂󱤉󱥆󱤀　󱥆󱤧󱤬󱤧󱤖󱥩󱤴　󱤴󱤀
+󱥵󱤡󱤴󱤖󱤉󱤌󱤴󱤬󱤭　󱤯󱤧󱥇　󱤴󱥶　󱤴󱤘󱤈󱥩󱤬󱤿󱥃
+󱤴󱥶
+󱦜　　　　　　　　　　　　　　　　　　　　　　　　　　　　󱦜
+󱤬󱥃󱤡󱤴󱥩
+󱤰󱤧󱥲󱤧󱤛　　　　　󱤰󱤧󱥏󱤧󱤜
+󱥚󱤡󱥭󱤧󱥤　　　　　󱥚󱤡󱤗󱤧󱤥
+󱤝󱤧󱤦󱤉󱤴　　　　　󱥗󱤧󱥪󱤉󱤴
+󱤬󱤿󱤡󱤴󱥨　　　　　󱤴󱥮󱥍󱥨󱤂
+󱤈󱤡󱤴󱤈󱥩　　　　　󱤈󱤡󱤴󱤈󱥩
+󱥓󱤴󱤧󱤬󱤭　　　　　󱤎󱥊󱤧󱤬󱤭
+󱤒󱤊󱥏󱤬󱤿　　　　　󱤫󱤊󱤫󱤬󱤰
 \- tenpo ni la, akesi li lape ala. akesi ni li wile moku. tenpo pini la, ona li moku e wawa nasa ale. tenpo ni la, wawa nasa li lili. tan ni la, jan ala li ken kepeken e wawa nasa. wawa nasa li lon ala la, akesi li wile moku e ijo ante. ona li wile moku e suno.
 
 jan Wanto li pilin insa e lawa ona. ona li mu.

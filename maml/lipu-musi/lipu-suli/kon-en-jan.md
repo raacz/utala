@@ -1,7 +1,7 @@
 ---  
 layout: lipu
 title: kon en jan (lipu nanpa wan)
-suli_lipu: suli lili
+suli_lipu: 
 mute_nimi: 
 ken_ike:
 ijo_toki: 

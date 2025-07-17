@@ -9,60 +9,1712 @@ ijo_toki:
 
 <style>
     .content form {
-        display: grid;
-        grid-template-columns: 1fr 4em;
+
 
     }
+    .line {
+        display: grid;
+        grid-template-columns: 1fr min-content;
+        grid-auto-rows: auto;
+        width: 100%;
+
+    }
+
     .content label {
-        flex: 50%;
+        clip-path: inset(50%);
+        height: 1px;
+        overflow: hidden;
+        position: absolute;
+        white-space: nowrap;
+        width: 1px;
     }
-    .content input{
-        flex: 50%;
+    
+    .content input[type="number"]{
+        grid-column: 2;
+        grid-row: span 1;
     }
+    .content input[type="range"]{
+        grid-column: 1;
+        padding-inline: 1em;
+    }
+
+    .line-data-display-none{
+        display: none;
+    }
+    .line-data-display-block{
+        display:block;
+    }
+    .final, blockquote{
+      line-height: 0.25em;
+      padding-inline-start: 2em;
+    }
+
+
 </style>
 
+
+<h2> nasin
+</h2>
+
+<p>musi toki li suli mute tawa mi. tenpo ali la, mi wile pali e ona. tan wile ni la, mi alasa pali e musi toki sin kepeken nasin nasa pona. lipu ni li ona! ni li pali suli nasa pi toki pi nasin Soneto. toki pi nasin Soneto o jo e linja luka luka tu tu. toki pi nasin Soneto o kepeken lawa pi nasin Soneto pi nanpa kalama. lipu ni la, toki 10,000,000,000,000,000,000,000,000,000 pi nasin Soneto li lon. taso, lipu ni li ken ala jo e toki 10,000,000,000,000,000,000,000,000,000 a! ni la, sina wile lukin e ona la, sina o pali e toki ni! o pali e toki ni kepeken nasin ni:</p>
+
+<p>lipu li luka luka tu tu. lon ona ali la, o alasa e linja nimi wan. sina ni la, o kulupu e linja nimi ali sina. o pana e ona ali tawa toki pi nasin Soneto. sama ni la, ni li toki ken pi nasin Soneto:</p>
+
+<blockquote></em>
+<p>(22)<em> nasin la, tenpo la, mi utala.</em></p>
+<p>(53)<em> suno li tawa sewi. mi jo e</em></p>
+<p>(14)<em> jan lawa anu jan lili mute.</em></p>
+<p>(97)<em> kalama li jan pona taso la,</em></p>
+<p>(20)<em> soweli tu li lon. ni tu anu</em></p>
+<p>(41)<em> soweli Awesome li jan li</em></p>
+<p>(38)<em> pali e toki sin tawa kasi.</em></p>
+<p>(45)<em> uta sina li ken taso e mu.</em></p>
+<p>(38)<em> mute nanpa li sin la, nasin en</em></p>
+<p>(85)<em> len lawa li kama tan pali sin.</em></p>
+<p>(31)<em> sina moku e kala tan telo.</em></p>
+<p>(62)<em> lape ni li ken open, pali o?</em></p>
+<p>(47)<em> mi o ilo pi pana tenpo kin.</em></p>
+<p>(53)<em> ijo musi laso li tan kiwen..</em></p>
+</blockquote>
+
+<p>kulupu nimi 100 li lon linja ali la, toki 10,000,000,000,000,000,000,000,000,000 pi nasin Soneto li lon lipu ni! o pali pona e ona a!</p>
+
+<hr>
+
 <form>
-<label for="linja-nanpa-wan">sina ali e ante e anpa.</label>
-<input type="number" id="linja-nanpa-wan" name="linja-nanpa-wan" min="1" max="100" />
-
-<label for="linja-nanpa-tu">nimi li ante e kon e lon e</label>
-<input type="number" id="linja-nanpa-tu" name="linja-nanpa-tu" min="1" max="100" />
-
-<label for="linja-nanpa-tu-wan">kulupu sewi tan olin ike.</label>
-<input type="number" id="linja-nanpa-tu-wan" name="linja-nanpa-tu-wan" min="1" max="100" />
-
-<label for="linja-nanpa-tu-tu">tenpo pini anu mi o ni la,</label>
-<input type="number" id="linja-nanpa-tu-tu" name="linja-nanpa-tu-tu" min="1" max="100" />
-
-<label for="linja-nanpa-luka">mani ala li ken. ona anu</label>
-<input type="number" id="linja-nanpa-luka" name="linja-nanpa-luka" min="1" max="100" />
-
-<label for="linja-nanpa-luka-wan">sina alasa sona. sona li</label>
-<input type="number" id="linja-nanpa-luka-wan" name="linja-nanpa-luka-wan" min="1" max="100" />
-
-<label for="linja-nanpa-luka-tu-wan">nasin seme? ona o tawa mi!</label>
-<input type="number" id="linja-nanpa-luka-tu" name="linja-nanpa-luka-tu" min="1" max="100" />
-
-<label for="linja-nanpa-luka-tu-tu">nasin seme? ona o tawa mi!</label>
-<input type="number" id="linja-nanpa-luka-tu-wan" name="linja-nanpa-luka-tu-wan" min="1" max="100" />
-
-<label for="linja-nanpa-luka-tu-tu">nasin seme? ona o tawa mi!</label>
-<input type="number" id="linja-nanpa-luka-tu-tu" name="linja-nanpa-luka-tu-tu" min="1" max="100" />
 
 
-<label for="linja-nanpa-luka-luka">nasin seme? ona o tawa mi!</label>
-<input type="number" id="linja-nanpa-luka-luka" name="linja-nanpa-luka-luka" min="1" max="100" />
+<h2>ilo pali pi nasin Soneto</h2>
 
-<label for="linja-nanpa-luka-luka-wan">nasin seme? ona o tawa mi!</label>
-<input type="number" id="linja-nanpa-luka-luka-wan" name="linja-nanpa-luka-luka-wan" min="1" max="100" />
+<div class="line" id="line-a">
+    <div id="line-a-data" class="line-data">
+<p id="a1" class="line-data-display-none">supa lape mi li lape ala.</p>
+<p id="a2" class="line-data-display-none">selo sina monsi li pakala.</p>
+<p id="a3" class="line-data-display-none">weka soweli li lon anpa a!</p>
+<p id="a4" class="line-data-display-none">a, tan seme la, mi wan o sina?</p>
+<p id="a5" class="line-data-display-none">suwi moli li tawa kalama.</p>
+<p id="a6" class="line-data-display-none">jan jan o jan e jan kala insa.</p>
+<p id="a7" class="line-data-display-none">sina pali e kama tenpo la, </p>
+<p id="a8" class="line-data-display-none">mi o olin e wile kalama.</p>
+<p id="a9" class="line-data-display-none">ona o ma e utala ona.</p>
+<p id="a10" class="line-data-display-none">sina musi mute anu ala.</p>
+<p id="a11" class="line-data-display-none">suwi ona la, ona li kala. </p>
+<p id="a12" class="line-data-display-none">sina lon. mi kin li tan utala.</p>
+<p id="a13" class="line-data-display-none">pini pi pona ale o ona.</p>
+<p id="a14" class="line-data-display-none">olin ni li ken e tenpo kama. </p>
+<p id="a15" class="line-data-display-none">insa olin li pilin weka a.</p>
+<p id="a16" class="line-data-display-none">insa pimeja a li kalama.</p>
+<p id="a17" class="line-data-display-none">pali ona li ilo e lawa.</p>
+<p id="a18" class="line-data-display-none">lipu jan sin li toki e nanpa.</p>
+<p id="a19" class="line-data-display-none">sitelen pona ali li sama.</p>
+<p id="a20" class="line-data-display-none">sina ali e ante e anpa.</p>
+<p id="a21" class="line-data-display-none">mi kin li wile e wawa tawa.</p>
+<p id="a22" class="line-data-display-none">nasin la, tenpo la, mi utala.</p>
+<p id="a23" class="line-data-display-none">mi wile weka e tomo sina.</p>
+<p id="a24" class="line-data-display-none">o kama pona lon tenpo ala.</p>
+<p id="a25" class="line-data-display-none">sewi seli li ma pi jan pona.</p>
+<p id="a26" class="line-data-display-none">sina lukin e mun lon sewi a.</p>
+<p id="a27" class="line-data-display-none">sina alasa ken sona pana.</p>
+<p id="a28" class="line-data-display-none">mi ike. mi sewi e mani a!</p>
+<p id="a29" class="line-data-display-none">ma Mewika li olin utala.</p>
+<p id="a30" class="line-data-display-none">o suli e nasin toki pona.</p>
+<p id="a31" class="line-data-display-none">a kasi kule li tan ma nasa.</p>
+<p id="a32" class="line-data-display-none">olin wawa en ike li sama.</p>
+<p id="a33" class="line-data-display-none">pona insa o lon sona sina.</p>
+<p id="a34" class="line-data-display-none">kalama musi li utala a!</p>
+<p id="a35" class="line-data-display-none">olin ni li ken e tenpo kama. </p>
+<p id="a36" class="line-data-display-none">nasin ante li ken ala pona.</p>
+<p id="a37" class="line-data-display-none">pali pini pona li tan nasa.</p>
+<p id="a38" class="line-data-display-none">ali la, mi o olin e sina.</p>
+<p id="a39" class="line-data-display-none">tomo mi li sama lipu sona.</p>
+<p id="a40" class="line-data-display-none">ilo mute li tawa lon linja.</p>
+<p id="a41" class="line-data-display-none">luka li ala e pipi pona.</p>
+<p id="a42" class="line-data-display-none">tenpo la, ike la, o utala.</p>
+<p id="a43" class="line-data-display-none">sina ken kepken nimi "wawa."</p>
+<p id="a44" class="line-data-display-none">ni li lipu pi musi utala.</p>
+<p id="a45" class="line-data-display-none">musi Palato li lipu nanpa.</p>
+<p id="a46" class="line-data-display-none">kalama lape la, mu li wawa.</p>
+<p id="a47" class="line-data-display-none">kon li ken. a. mi wile e sina.</p>
+<p id="a48" class="line-data-display-none">sona kama la, o tawa nena.</p>
+<p id="a49" class="line-data-display-none">sina en mi o tan moku ala.</p>
+<p id="a50" class="line-data-display-block">telo soweli li telo nasa.</p>
+<p id="a51" class="line-data-display-none">lawa sin a li lon ilo nanpa.</p>
+<p id="a52" class="line-data-display-none">mama mi ali li tawa weka.</p>
+<p id="a53" class="line-data-display-none">pali li pini pi nimi linja. </p>
+<p id="a54" class="line-data-display-none">tawa sina la, ona li tawa.</p>
+<p id="a55" class="line-data-display-none">jelo li kule pi pilin sona.</p>
+<p id="a56" class="line-data-display-none">wile ala la, o tawa nena.</p>
+<p id="a57" class="line-data-display-none">pipi la, jan li pana e noka.</p>
+<p id="a58" class="line-data-display-none">jan lawa li suli e pakala.</p>
+<p id="a59" class="line-data-display-none">selo mi li loje tan palisa.</p>
+<p id="a60" class="line-data-display-none">ni li kalama pi toki ala.</p>
+<p id="a61" class="line-data-display-none">pali li kepeken ilo wawa.</p>
+<p id="a62" class="line-data-display-none">sitelen li tawa ala tawa?</p>
+<p id="a63" class="line-data-display-none">olin kin li awen lon alasa.</p>
+<p id="a64" class="line-data-display-none">ike ali li tan telo nasa.</p>
+<p id="a65" class="line-data-display-none">mute pi lape sina o pona!</p>
+<p id="a66" class="line-data-display-none">ilo pona li weka e lawa.</p>
+<p id="a67" class="line-data-display-none">utala ni li pana pakala.</p>
+<p id="a68" class="line-data-display-none">pilin ike ali li tan mama.</p>
+<p id="a69" class="line-data-display-none">ken la, nanpa ni li sama unpa. </p>
+<p id="a70" class="line-data-display-none">pona selo mi li ike insa.</p>
+<p id="a71" class="line-data-display-none">sina namako e kala supa.</p>
+<p id="a72" class="line-data-display-none">o pana e suno e telo la,</p>
+<p id="a73" class="line-data-display-none">open sitelen li tan jaki a.</p>
+<p id="a74" class="line-data-display-none">jan ike mi li awen lon poka.</p>
+<p id="a75" class="line-data-display-none">wile li ala. moli li ala.</p>
+<p id="a76" class="line-data-display-none">weka lape li lili e uta.</p>
+<p id="a77" class="line-data-display-none">ma Isale o pini utala.</p>
+<p id="a78" class="line-data-display-none">mun li pana e walo pimeja.</p>
+<p id="a79" class="line-data-display-none">sewi nasa la, o tawa insa.</p>
+<p id="a80" class="line-data-display-none">lape tomo li lon jan Monsuta.</p>
+<p id="a81" class="line-data-display-none">wile mi li olin e pakala.</p>
+<p id="a82" class="line-data-display-none">kon pi nimi ali li weka a.</p>
+<p id="a83" class="line-data-display-none">ilo Jutu li ken jo e pona.</p>
+<p id="a84" class="line-data-display-none">a wan pali li tan jan Apeja.</p>
+<p id="a85" class="line-data-display-none">pilin mi li lili tawa ona.</p>
+<p id="a86" class="line-data-display-none">tenpo li esun e mama mama.</p>
+<p id="a87" class="line-data-display-none">jan utala li ala e pona.</p>
+<p id="a88" class="line-data-display-none">sina o wile suli e kala.</p>
+<p id="a89" class="line-data-display-none">lipu loje li tan sike ala.</p>
+<p id="a90" class="line-data-display-none">musi ni li nasa suli anpa. </p>
+<p id="a91" class="line-data-display-none">ona o meli pi telo nasa.</p>
+<p id="a92" class="line-data-display-none">mi lukin e waso suli lon ma.</p>
+<p id="a93" class="line-data-display-none">soweli lili li tawa supa.</p>
+<p id="a94" class="line-data-display-none">mi moku e telo Koko Kola. </p>
+<p id="a95" class="line-data-display-none">monsi mi li kute e palisa.</p>
+<p id="a96" class="line-data-display-none">jan lili li awen lon tomo ma.</p>
+<p id="a97" class="line-data-display-none">kasi li wawa e kon e mama.</p>
+<p id="a98" class="line-data-display-none">"kasi li toki" li lipu pona.</p>
+<p id="a99" class="line-data-display-none">awen suwi li nasin pakala.</p>
+<p id="a100" class="line-data-display-none">nasin mi en wile ni li ken la,</p>
+        
+</div>
+<label for="linja-nanpa-wan">linja nanpa wan la o kepeken toki nanpa seme.</label>
+<input type="number" value="50" id="number-a" name="number-a" min="1" max="100" />
+<input aria-hidden="true" id="slider-a" name="slider-a" type="range" min="1" max="100"value="50">
 
-<label for="linja-nanpa-luka-luka-tu">nasin seme? ona o tawa mi!</label>
-<input type="number" id="linja-nanpa-luka-luka-tu" name="linja-nanpa-luka-luka-tu" min="1" max="100" />
 
-<label for="linja-nanpa-luka-luka-tu-wan">nasin seme? ona o tawa mi!</label>
-<input type="number" id="linja-nanpa-luka-luka-tu-wan" name="linja-nanpa-luka-luka-tu-wan" min="1" max="100" />
+</div>
+<div class="line" id="line-b">
 
-<label for="linja-nanpa-luka-luka-tu-tu">nasin seme? ona o tawa mi!</label>
-<input type="number" id="linja-nanpa-luka-luka-tu-tu" name="linja-nanpa-luka-luka-tu-tu" min="1" max="100" />
+  <div id="line-b-data" class="line-data">
+    <p id="b1" class="line-data-display-none">linja lawa loje li len kin e</p>
+    <p id="b2" class="line-data-display-none">o lili e mani nasin mi e</p>
+    <p id="b3" class="line-data-display-none">mi tawa. mi tawa e tomo e</p>
+    <p id="b4" class="line-data-display-none">pipi sin ni o jaki ala e</p>
+    <p id="b5" class="line-data-display-none">o palisa e ilo nanpa e</p>
+    <p id="b6" class="line-data-display-none">poki mani li suno pini e</p>
+    <p id="b7" class="line-data-display-none">ante sijelo o sama kin e</p>
+    <p id="b8" class="line-data-display-none">mi sitelen tawa. mi lukin e</p>
+    <p id="b9" class="line-data-display-none">nimi li ante e kon e lon e</p>
+    <p id="b10" class="line-data-display-none">sina sona utala e ni e</p>
+    <p id="b11" class="line-data-display-none">luka li mama e sijelo e</p>
+    <p id="b12" class="line-data-display-none">len pimeja la, mi o pali e</p>
+    <p id="b13" class="line-data-display-none">sewi laso o! sina musi e</p>
+    <p id="b14" class="line-data-display-none">ona lipu li ken e wile e</p>
+    <p id="b15" class="line-data-display-none">o pona e kepeken kiwen e</p>
+    <p id="b16" class="line-data-display-none">o alasa kama ken awen e</p>
+    <p id="b17" class="line-data-display-none">jan jaki la, sitelen li jo e</p>
+    <p id="b18" class="line-data-display-none">ko anu kule li pakala e</p>
+    <p id="b19" class="line-data-display-none">sina uta lili e kili e</p>
+    <p id="b20" class="line-data-display-none">weka mani o open oko e</p>
+    <p id="b21" class="line-data-display-none">sinpin en selo li wile wan e</p>
+    <p id="b22" class="line-data-display-none">akesi li seli e telo e</p>
+    <p id="b23" class="line-data-display-none">waso walo li awen moli e</p>
+    <p id="b24" class="line-data-display-none">moku kala li taso e mi e</p>
+    <p id="b25" class="line-data-display-none">jan Joke li mute e pilin e</p>
+    <p id="b26" class="line-data-display-none">mi wile soweli e waso e</p>
+    <p id="b27" class="line-data-display-none">telo nasa nanpa la, o tu e</p>
+    <p id="b28" class="line-data-display-none">ma tomo o pu o ku o su e</p>
+    <p id="b29" class="line-data-display-none">ona li sewi e pan suwi e</p>
+    <p id="b30" class="line-data-display-none">mi mu la, mi tu la, mi kute e</p>
+    <p id="b31" class="line-data-display-none">a kulupu sina o lape e</p>
+    <p id="b32" class="line-data-display-none">nasin monsi li moli olin e</p>
+    <p id="b33" class="line-data-display-none">soweli li mu e jan jaki e</p>
+    <p id="b34" class="line-data-display-none">sina pana e telo tawa e</p>
+    <p id="b35" class="line-data-display-none">lili kulupu o oko sin e</p>
+    <p id="b36" class="line-data-display-none">mi open la, sina o open e</p>
+    <p id="b37" class="line-data-display-none">a poki telo loje li jo e</p>
+    <p id="b38" class="line-data-display-none">ala la, o lukin e lipu e</p>
+    <p id="b39" class="line-data-display-none">pali pona li walo ala e</p>
+    <p id="b40" class="line-data-display-none">ilo li lape. ilo li mun e</p>
+    <p id="b41" class="line-data-display-none">mi luka utala e sinpin e</p>
+    <p id="b42" class="line-data-display-none">palisa sitelen o ante e</p>
+    <p id="b43" class="line-data-display-none">a! ma Mewika li utala e</p>
+    <p id="b44" class="line-data-display-none">sina pona oko. mi oko e</p>
+    <p id="b45" class="line-data-display-none">ko telo li mama e kasi e</p>
+    <p id="b46" class="line-data-display-none">o tawa kon. o tawa e kon e</p>
+    <p id="b47" class="line-data-display-none">insa pimeja la, mi moli e</p>
+    <p id="b48" class="line-data-display-none">o sama mi. sina o sama e</p>
+    <p id="b49" class="line-data-display-none">jan laso en ilo li weka e</p>
+    <p id="b50" class="line-data-display-none">pakala kiwen o soweli e</p>
+    <p id="b51" class="line-data-display-none">mi ona e kute kulupu e</p>
+    <p id="b52" class="line-data-display-none">pana seli la, jan li kule e</p>
+    <p id="b53" class="line-data-display-none">suno li tawa sewi. mi jo e</p>
+    <p id="b54" class="line-data-display-none">sijelo insa li ma mama e</p>
+    <p id="b55" class="line-data-display-none">jan lawa ni li sona ike e</p>
+    <p id="b56" class="line-data-display-none">nasin la, nasin esun li ni e</p>
+    <p id="b57" class="line-data-display-none">mani li kepeken mi. mi lon e</p>
+    <p id="b58" class="line-data-display-none">ilo nanpa mi li alasa e</p>
+    <p id="b59" class="line-data-display-none">pona mi o kule e insa e</p>
+    <p id="b60" class="line-data-display-none">ma Teja li olin e ike e</p>
+    <p id="b61" class="line-data-display-none">pipi ali li sona toki e</p>
+    <p id="b62" class="line-data-display-none">pilin o tawa jan. jan o jan e</p>
+    <p id="b63" class="line-data-display-none">sina ken musi e kalama e</p>
+    <p id="b64" class="line-data-display-none">lawa insa taso li pali e</p>
+    <p id="b65" class="line-data-display-none">o ken e pona e ike kin e</p>
+    <p id="b66" class="line-data-display-none">jelo en mi en kule li ko e</p>
+    <p id="b67" class="line-data-display-none">sina seli e moku waso e</p>
+    <p id="b68" class="line-data-display-none">kulupu Loje li pakala e</p>
+    <p id="b69" class="line-data-display-none">telo walo li anpa e tan e</p>
+    <p id="b70" class="line-data-display-none">a! jan Wan li mama e jan Tu e</p>
+    <p id="b71" class="line-data-display-none">lon en kon en pan en wan li jan e</p>
+    <p id="b72" class="line-data-display-none">soweli Mesi li su li tu e</p>
+    <p id="b73" class="line-data-display-none">sina o suli e mani mi e</p>
+    <p id="b74" class="line-data-display-none">tenpo la, wile la, o moli e</p>
+    <p id="b75" class="line-data-display-none">o lape seli! o lete kin e</p>
+    <p id="b76" class="line-data-display-none">sina lon poki mi e moku e</p>
+    <p id="b77" class="line-data-display-none">jan lawa Unu o ken weka e</p>
+    <p id="b78" class="line-data-display-none">ona li sina. ona li jo e</p>
+    <p id="b79" class="line-data-display-none">mi kama wile sona pini e</p>
+    <p id="b80" class="line-data-display-none">luka wawa o tawa pona e</p>
+    <p id="b81" class="line-data-display-none">olin sona anu ni li len e</p>
+    <p id="b82" class="line-data-display-none">ijo sin pi tenpo sin li pu e</p>
+    <p id="b83" class="line-data-display-none">poki tu o pini e tenpo e</p>
+    <p id="b84" class="line-data-display-none">selo li kama loje. o ni e</p>
+    <p id="b85" class="line-data-display-none">a namako taso li wawa e</p>
+    <p id="b86" class="line-data-display-none">o ala e len. len li ijo e</p>
+    <p id="b87" class="line-data-display-none">linja la, ona li ken pona e</p>
+    <p id="b88" class="line-data-display-none">mi sin anu seme? sin li tan e</p>
+    <p id="b89" class="line-data-display-none">jan Powe la, nasin o nasa e</p>
+    <p id="b90" class="line-data-display-none">mani lipu o sama e mi e</p>
+    <p id="b91" class="line-data-display-none">jan lawa Nalanja li lape e</p>
+    <p id="b92" class="line-data-display-none">ilo Supano li lukin wan e</p>
+    <p id="b93" class="line-data-display-none">ona li ijo e open jo e</p>
+    <p id="b94" class="line-data-display-none">telo suwi ni li awen lon e</p>
+    <p id="b95" class="line-data-display-none">ma Alisona li sitelen e</p>
+    <p id="b96" class="line-data-display-none">ma Kapesi li lete lili e</p>
+    <p id="b97" class="line-data-display-none">ma Peta en mi o akesi e</p>
+    <p id="b98" class="line-data-display-none">toki pona sina li ala e</p>
+    <p id="b99" class="line-data-display-none">tenpo pimeja la, o telo e</p>
+    <p id="b100" class="line-data-display-none">jan Tuli li lukin utala e</p>
+  </div>
+
+  <label for="number-b">linja nanpa b la o kepeken toki nanpa seme.</label>
+  <input type="number" value="50" id="number-b" name="number-b" min="1" max="100" />
+  <input aria-hidden="true" id="slider-b" name="slider-b" type="range" min="1" max="100" value="50" />
+
+</div>
+<div class="line" id="line-c">
+
+  <div id="line-c-data" class="line-data">
+    <p id="c1" class="line-data-display-none">ike insa tawa jan Jakike.</p>
+    <p id="c2" class="line-data-display-none">monsi suwi la, sin la, mi mute.</p>
+    <p id="c3" class="line-data-display-none">sona nanpa tan ma Elenete.</p>
+    <p id="c4" class="line-data-display-none">esun anu tomo pi kon mije.</p>
+    <p id="c5" class="line-data-display-none">tenpo sike pi olin wan ike.</p>
+    <p id="c6" class="line-data-display-none">kili tu. ona li kili lape.</p>
+    <p id="c7" class="line-data-display-none">toki pi nasin Soneto ale.</p>
+    <p id="c8" class="line-data-display-none">linja telo. ni la, mi ken ante.</p>
+    <p id="c9" class="line-data-display-none">musi Soweli e musi mute.</p>
+    <p id="c10" class="line-data-display-none">jan Sojopo e wile pi jan We.</p>
+    <p id="c11" class="line-data-display-none">suli pi ma Teja anu seme?</p>
+    <p id="c12" class="line-data-display-none">moku namako. pali li loje.</p>
+    <p id="c13" class="line-data-display-none">pilin insa tawa tomo lete.</p>
+    <p id="c14" class="line-data-display-none">jan lawa anu jan lili mute.</p>
+    <p id="c15" class="line-data-display-none">nasin mama pi utala kute.</p>
+    <p id="c16" class="line-data-display-none">wile mi e suno pini ante.</p>
+    <p id="c17" class="line-data-display-none">kulupu sewi tan olin ike.</p>
+    <p id="c18" class="line-data-display-none">noka mi lon poka pi mi seme?</p>
+    <p id="c19" class="line-data-display-none">oko e nasin To e jan lape.</p>
+    <p id="c20" class="line-data-display-none">utala kulupu anu seme?</p>
+    <p id="c21" class="line-data-display-none">ni: sina o alasa e ale.</p>
+    <p id="c22" class="line-data-display-none">lupa anpa sijelo tan sike.</p>
+    <p id="c23" class="line-data-display-none">kon tawa sitelen open wile.</p>
+    <p id="c24" class="line-data-display-none">jan lili ala e nasin kule.</p>
+    <p id="c25" class="line-data-display-none">sina la, mi anu ni o lete.</p>
+    <p id="c26" class="line-data-display-none">wile waso e wile e ale.</p>
+    <p id="c27" class="line-data-display-none">kiwen. ni kin li wawa li sike.</p>
+    <p id="c28" class="line-data-display-none">pilin pi esun esun. o ike!</p>
+    <p id="c29" class="line-data-display-none">ma kepeken pali ona lete.</p>
+    <p id="c30" class="line-data-display-none">kule sin taso pi loje loje.</p>
+    <p id="c31" class="line-data-display-none">kulupu jan. mi lon anu seme?</p>
+    <p id="c32" class="line-data-display-none">tenpo suno ni la, sina ante.</p>
+    <p id="c33" class="line-data-display-none">ike pilin pi oko mi sike.</p>
+    <p id="c34" class="line-data-display-none">kalama kepeken tenpo ale.</p>
+    <p id="c35" class="line-data-display-none">ma Wetu. o suno e jan kule!</p>
+    <p id="c36" class="line-data-display-none">ni: akesi li ma e kon mute.</p>
+    <p id="c37" class="line-data-display-none">mun sin la, telo li kama lete.</p>
+    <p id="c38" class="line-data-display-none">suno luka. ona li tan kule.</p>
+    <p id="c39" class="line-data-display-none">toki sina li mu taso ike.</p>
+    <p id="c40" class="line-data-display-none">wawa lukin e pilin jan mute.</p>
+    <p id="c41" class="line-data-display-none">pilin pi pakala insa mute.</p>
+    <p id="c42" class="line-data-display-none">anpa la, mi pona anu seme?</p>
+    <p id="c43" class="line-data-display-none">lipu mi wile pi nanpa ale.</p>
+    <p id="c44" class="line-data-display-none">pona lukin sina anu seme?</p>
+    <p id="c45" class="line-data-display-none">linja nimi o jo e nimi "e."</p>
+    <p id="c46" class="line-data-display-none">nasa olin e nasa jan wile.</p>
+    <p id="c47" class="line-data-display-none">ni: sina o kute tan mi mute.</p>
+    <p id="c48" class="line-data-display-none">tomo sona sewi pi kon ike.</p>
+    <p id="c49" class="line-data-display-none">moli pona tawa kasi loje.</p>
+    <p id="c50" class="line-data-display-none">tomo oko. tomo ni li seme?</p>
+    <p id="c51" class="line-data-display-none">olin ni pi pilin insa ike.</p>
+    <p id="c52" class="line-data-display-none">jaki jan e jaki tan mu wile.</p>
+    <p id="c53" class="line-data-display-none">pilin sina pi lipu tu seme?</p>
+    <p id="c54" class="line-data-display-none">mi la, sina la, ona li ike.</p>
+    <p id="c55" class="line-data-display-none">nasa pi jan sama e kon mute.</p>
+    <p id="c56" class="line-data-display-none">pakala lape. mi wile lape.</p>
+    <p id="c57" class="line-data-display-none">ni: ma alasa li kama lete.</p>
+    <p id="c58" class="line-data-display-none">loje sijelo lon telo ale.</p>
+    <p id="c59" class="line-data-display-none">sijelo meli e lawa mije.</p>
+    <p id="c60" class="line-data-display-none">ike tawa jan pona. o ante!</p>
+    <p id="c61" class="line-data-display-none">kalama e alasa e ale.</p>
+    <p id="c62" class="line-data-display-none">weka pi sinpin jan. sina wile!</p>
+    <p id="c63" class="line-data-display-none">lipu pi toki ma. ni o ante.</p>
+    <p id="c64" class="line-data-display-none">lawa jan. lawa ona li sike.</p>
+    <p id="c65" class="line-data-display-none">kala ken suli e kala wile.</p>
+    <p id="c66" class="line-data-display-none">kala lili kin e kala ale.</p>
+    <p id="c67" class="line-data-display-none">ko pana tu tu tan pana kule.</p>
+    <p id="c68" class="line-data-display-none">nasin ante ali e ken mute.</p>
+    <p id="c69" class="line-data-display-none">kama jo pi nasin pi jan Pake.</p>
+    <p id="c70" class="line-data-display-none">musi Utala. ona li ante.</p>
+    <p id="c71" class="line-data-display-none">nimi ni wan pi kalama mute.</p>
+    <p id="c72" class="line-data-display-none">ijo ala! ijo li lon seme?</p>
+    <p id="c73" class="line-data-display-none">ni: ali tenpo o sewi lape.</p>
+    <p id="c74" class="line-data-display-none">pipi pi olin pi telo loje.</p>
+    <p id="c75" class="line-data-display-none">pana. pana ni li pana seme?</p>
+    <p id="c76" class="line-data-display-none">ijo walo wan e ijo ante.</p>
+    <p id="c77" class="line-data-display-none">lawa suli e sona tan seme?</p>
+    <p id="c78" class="line-data-display-none">tenpo e pilin e kule ale.</p>
+    <p id="c79" class="line-data-display-none">mu musi taso. taso, mi wile.</p>
+    <p id="c80" class="line-data-display-none">ni: kalama li sike e kute.</p>
+    <p id="c81" class="line-data-display-none">len oko ona pi tenpo lape.</p>
+    <p id="c82" class="line-data-display-none">lape soweli kepeken kule.</p>
+    <p id="c83" class="line-data-display-none">toki e mu tan jan lipu mute.</p>
+    <p id="c84" class="line-data-display-none">wile la, nimi sina li seme?</p>
+    <p id="c85" class="line-data-display-none">sama pi len sinpin tan ma loje.</p>
+    <p id="c86" class="line-data-display-none">esun kulupu anu mu mute.</p>
+    <p id="c87" class="line-data-display-none">pilin ni: jaki li wile lape.</p>
+    <p id="c88" class="line-data-display-none">ike. ike li lon poki kule.</p>
+    <p id="c89" class="line-data-display-none">ale lon mi. insa mi li seme?</p>
+    <p id="c90" class="line-data-display-none">anpa luka. o jo e ko ike.</p>
+    <p id="c91" class="line-data-display-none">suno ni la, ma li tawa sike.</p>
+    <p id="c92" class="line-data-display-none">pona sona ona. ni o ante.</p>
+    <p id="c93" class="line-data-display-none">palisa utala anu seme?</p>
+    <p id="c94" class="line-data-display-none">musi kalama tan ona mute.</p>
+    <p id="c95" class="line-data-display-none">ni: wawa pi sona mi o ike!</p>
+    <p id="c96" class="line-data-display-none">telo sewi lon kulupu mute.</p>
+    <p id="c97" class="line-data-display-none">sitelen sitelen pi ma lete.</p>
+    <p id="c98" class="line-data-display-none">ale jan. olin ale li ike.</p>
+    <p id="c99" class="line-data-display-none">lipu tenpo pi jan lukin wile.</p>
+    <p id="c100" class="line-data-display-none">ali! tan seme la, ni o loje?</p>
+  </div>
+
+  <label for="number-c">linja nanpa c la o kepeken toki nanpa seme.</label>
+  <input type="number" value="50" id="number-c" name="number-c" min="1" max="100" />
+  <input aria-hidden="true" id="slider-c" name="slider-c" type="range" min="1" max="100" value="50" />
+
+</div>
+<div class="line" id="line-d">
+
+  <div id="line-d-data" class="line-data">
+    <p id="d1" class="line-data-display-none">moli li seli anu lete la,</p>
+    <p id="d2" class="line-data-display-none">sina o moli e toki kon la,</p>
+    <p id="d3" class="line-data-display-none">ike li jo e wawa ali la,</p>
+    <p id="d4" class="line-data-display-none">pona li wile ala pali la,</p>
+    <p id="d5" class="line-data-display-none">sina kiwen e lawa anpa la,</p>
+    <p id="d6" class="line-data-display-none">jan lili li musi e pipi la,</p>
+    <p id="d7" class="line-data-display-none">ken la, sina moku e lipu la,</p>
+    <p id="d8" class="line-data-display-none">suwi moli o pali poka la,</p>
+    <p id="d9" class="line-data-display-none">a utala li awen sama la,</p>
+    <p id="d10" class="line-data-display-none">tomo sona li suwi seli la,</p>
+    <p id="d11" class="line-data-display-none">soweli pi pana seli a la,</p>
+    <p id="d12" class="line-data-display-none">ko walo tu li lon len luka la,</p>
+    <p id="d13" class="line-data-display-none">jan Kipisi li tu e sina la,</p>
+    <p id="d14" class="line-data-display-none">o kute e kalama kala la,</p>
+    <p id="d15" class="line-data-display-none">ma li mun la, mun kin li suno la,</p>
+    <p id="d16" class="line-data-display-none">tomo suno li kon la, ike la,</p>
+    <p id="d17" class="line-data-display-none">mu li kalama li ante sin la,</p>
+    <p id="d18" class="line-data-display-none">kule jelo pi mani jelo la,</p>
+    <p id="d19" class="line-data-display-none">ona li wile uta e mi la,</p>
+    <p id="d20" class="line-data-display-none">ona o toki Epelanto la,</p>
+    <p id="d21" class="line-data-display-none">pakala palisa li lon ma la,</p>
+    <p id="d22" class="line-data-display-none">toki mama la, mi tawa mun la,</p>
+    <p id="d23" class="line-data-display-none">ali li lon olin wan taso la,</p>
+    <p id="d24" class="line-data-display-none">waso o awen toki ike la,</p>
+    <p id="d25" class="line-data-display-none">telo li kiwen tawa lete la,</p>
+    <p id="d26" class="line-data-display-none">luka jan li lon lupa la, ni la,</p>
+    <p id="d27" class="line-data-display-none">noka wan li awen. noka sin la,</p>
+    <p id="d28" class="line-data-display-none">tenpo ale la, ma Mewika la,</p>
+    <p id="d29" class="line-data-display-none">mama mute li lape nasa la,</p>
+    <p id="d30" class="line-data-display-none">len lawa o jo e namako la,</p>
+    <p id="d31" class="line-data-display-none">o sin e kasi toki taso la,</p>
+    <p id="d32" class="line-data-display-none">ma tomo mun o! sina suwi la,</p>
+    <p id="d33" class="line-data-display-none">o tenpo kin e ali pali la,</p>
+    <p id="d34" class="line-data-display-none">ni li lipu kalama tawa la,</p>
+    <p id="d35" class="line-data-display-none">soweli sin o jo e supa la,</p>
+    <p id="d36" class="line-data-display-none">jan Apeja li olin ala la,</p>
+    <p id="d37" class="line-data-display-none">ali li ale tawa tenpo la,</p>
+    <p id="d38" class="line-data-display-none">sina mute o lape seli la,</p>
+    <p id="d39" class="line-data-display-none">ona li kama lawa pona la,</p>
+    <p id="d40" class="line-data-display-none">akesi li uta e noka la,</p>
+    <p id="d41" class="line-data-display-none">ilo nanpa li pini sona la,</p>
+    <p id="d42" class="line-data-display-none">kulupu li sewi e mani la,</p>
+    <p id="d43" class="line-data-display-none">lupa uta mi o kepeken la,</p>
+    <p id="d44" class="line-data-display-none">mi weka wile pi wawa ni la,</p>
+    <p id="d45" class="line-data-display-none">tomo tawa telo li lon ma la,</p>
+    <p id="d46" class="line-data-display-none">mute pi jan moli li musi la,</p>
+    <p id="d47" class="line-data-display-none">kon Luna o len e jan lete la,</p>
+    <p id="d48" class="line-data-display-none">sina wan li alasa suno la,</p>
+    <p id="d49" class="line-data-display-none">tenpo mun pi nasin namako la,</p>
+    <p id="d50" class="line-data-display-none">nasa pilin li tan kon Sulo la,</p>
+    <p id="d51" class="line-data-display-none">tan seme la, tenpo la, ona la,</p>
+    <p id="d52" class="line-data-display-none">pan pi sike loje li moku la,</p>
+    <p id="d53" class="line-data-display-none">jan pali li ken ala lape la,</p>
+    <p id="d54" class="line-data-display-none">nasin toki lili li ilo la,</p>
+    <p id="d55" class="line-data-display-none">mi lon ma suli Amelika la,</p>
+    <p id="d56" class="line-data-display-none">sina tan ma suli Apika la,</p>
+    <p id="d57" class="line-data-display-none">akesi laso li ijo ni la,</p>
+    <p id="d58" class="line-data-display-none">mi kin en sina kin li sama la,</p>
+    <p id="d59" class="line-data-display-none">oko laso li oko jaki la,</p>
+    <p id="d60" class="line-data-display-none">pona ali li pini pali la,</p>
+    <p id="d61" class="line-data-display-none">ilo lukin li lukin sina la,</p>
+    <p id="d62" class="line-data-display-none">kasi kule pi telo weka la,</p>
+    <p id="d63" class="line-data-display-none">tenpo ali la, ali tenpo la,</p>
+    <p id="d64" class="line-data-display-none">kulupu kalama o ona la,</p>
+    <p id="d65" class="line-data-display-none">kala wawa li weka mute la,</p>
+    <p id="d66" class="line-data-display-none">pali musi mi li lon lipu la,</p>
+    <p id="d67" class="line-data-display-none">pilin la, poki pan li pini la,</p>
+    <p id="d68" class="line-data-display-none">jan Powe la, tomo mani kin la,</p>
+    <p id="d69" class="line-data-display-none">lipu sina li "nasin Lanpan" la,</p>
+    <p id="d70" class="line-data-display-none">kon en sewi li sama seli la,</p>
+    <p id="d71" class="line-data-display-none">lipu suli la, pali musi la,</p>
+    <p id="d72" class="line-data-display-none">ma tomo telo pi jan Lijan la,</p>
+    <p id="d73" class="line-data-display-none">ni o kepeken jan Pijana la,</p>
+    <p id="d74" class="line-data-display-none">wawa pi kulupu lawa ni la,</p>
+    <p id="d75" class="line-data-display-none">mi mije. mi meli. mi tonsi la,</p>
+    <p id="d76" class="line-data-display-none">o toki kepeken nimi mi la,</p>
+    <p id="d77" class="line-data-display-none">kulupu pali en ko kala la,</p>
+    <p id="d78" class="line-data-display-none">loje moli en sitelen kon la,</p>
+    <p id="d79" class="line-data-display-none">utala mute pi ma Losi la,</p>
+    <p id="d80" class="line-data-display-none">a jan li esun lon esun jan la,</p>
+    <p id="d81" class="line-data-display-none">o kiwen. o sinpin. o tawa la,</p>
+    <p id="d82" class="line-data-display-none">selo anu nena li open la,</p>
+    <p id="d83" class="line-data-display-none">mi pana e pan. lipu pu wan la,</p>
+    <p id="d84" class="line-data-display-none">lili li wawa li suli a la,</p>
+    <p id="d85" class="line-data-display-none">poka o wan la, ona o jan la,</p>
+    <p id="d86" class="line-data-display-none">supa jan li sike li selo la,</p>
+    <p id="d87" class="line-data-display-none">ni en mi li lon e pakala la,</p>
+    <p id="d88" class="line-data-display-none">jan pi nasin Nasi o moli la,</p>
+    <p id="d89" class="line-data-display-none">o olin e sin e ilo kin la,</p>
+    <p id="d90" class="line-data-display-none">tenpo pini anu mi o ni la,</p>
+    <p id="d91" class="line-data-display-none">alasa sona o wile mi la,</p>
+    <p id="d92" class="line-data-display-none">sina nanpa e nasin kule la,</p>
+    <p id="d93" class="line-data-display-none">monsi kala li laso jelo la,</p>
+    <p id="d94" class="line-data-display-none">ko li tan kasi kulupu tu la,</p>
+    <p id="d95" class="line-data-display-none">o ilo e sona anu mu la,</p>
+    <p id="d96" class="line-data-display-none">mama suli li awen sina la,</p>
+    <p id="d97" class="line-data-display-none">kalama li jan pona taso la,</p>
+    <p id="d98" class="line-data-display-none">sina mi. mi o sama sina la,</p>
+    <p id="d99" class="line-data-display-none">esun Liso li tan toki ma la,</p>
+    <p id="d100" class="line-data-display-none">jaki li tomo sina tawa la,</p>
+  </div>
+
+  <label for="number-d">linja nanpa d la o kepeken toki nanpa seme.</label>
+  <input type="number" value="50" id="number-d" name="number-d" min="1" max="100" />
+  <input aria-hidden="true" id="slider-d" name="slider-d" type="range" min="1" max="100" value="50" />
+
+</div>
+<div class="line" id="line-e">
+
+  <div id="line-e-data" class="line-data">
+    <p id="e1" class="line-data-display-none">kalama kulupu kute anu</p>
+    <p id="e2" class="line-data-display-none">sina wawa anu ona anu</p>
+    <p id="e3" class="line-data-display-none">pakala anu utala anu</p>
+    <p id="e4" class="line-data-display-none">sina moli e mi la, ni anu</p>
+    <p id="e5" class="line-data-display-none">pona anu ike sike anu</p>
+    <p id="e6" class="line-data-display-none">sijelo sina namako anu</p>
+    <p id="e7" class="line-data-display-none">alasa pi toki ona anu</p>
+    <p id="e8" class="line-data-display-none">len li lon lawa. len walo anu</p>
+    <p id="e9" class="line-data-display-none">suno sin en mi li lon. ni anu</p>
+    <p id="e10" class="line-data-display-none">mute mi anu jelo jo anu</p>
+    <p id="e11" class="line-data-display-none">mun utala anu mama anu</p>
+    <p id="e12" class="line-data-display-none">kulupu anu mu sina anu</p>
+    <p id="e13" class="line-data-display-none">pilin o awen. pilin mi anu</p>
+    <p id="e14" class="line-data-display-none">ma sinpin anu sike kin anu</p>
+    <p id="e15" class="line-data-display-none">moli anu mi namako anu</p>
+    <p id="e16" class="line-data-display-none">lon anu pimeja ijo anu</p>
+    <p id="e17" class="line-data-display-none">ante en sin o lon. ante anu</p>
+    <p id="e18" class="line-data-display-none">soweli tu li lon. ni tu anu</p>
+    <p id="e19" class="line-data-display-none">kili anu pan anu ma anu</p>
+    <p id="e20" class="line-data-display-none">jan pi wile ala nimi anu</p>
+    <p id="e21" class="line-data-display-none">wile nimi anu kiwen anu</p>
+    <p id="e22" class="line-data-display-none">mu pu anu ante oko anu</p>
+    <p id="e23" class="line-data-display-none">sitelen lape la, pilin anu</p>
+    <p id="e24" class="line-data-display-none">sitelen anu ma mani anu</p>
+    <p id="e25" class="line-data-display-none">toki mu pi jaki sina anu</p>
+    <p id="e26" class="line-data-display-none">akesi sitelen ale anu</p>
+    <p id="e27" class="line-data-display-none">luka sama anu insa anu</p>
+    <p id="e28" class="line-data-display-none">namako anu kulupu anu</p>
+    <p id="e29" class="line-data-display-none">nena luka en nena ma anu</p>
+    <p id="e30" class="line-data-display-none">mije anu pali nasin anu</p>
+    <p id="e31" class="line-data-display-none">soweli weka kepeken anu</p>
+    <p id="e32" class="line-data-display-none">tenpo pi utala poki anu</p>
+    <p id="e33" class="line-data-display-none">moli li moli! lon ona anu</p>
+    <p id="e34" class="line-data-display-none">toki insa sin la, awen anu</p>
+    <p id="e35" class="line-data-display-none">nimi jan anu kili sin anu</p>
+    <p id="e36" class="line-data-display-none">jan akesi anu nasin anu</p>
+    <p id="e37" class="line-data-display-none">sijelo anu jan taso anu</p>
+    <p id="e38" class="line-data-display-none">kiwen uta kin la, tawa anu</p>
+    <p id="e39" class="line-data-display-none">tu pilin anu nasin tan anu</p>
+    <p id="e40" class="line-data-display-none">sona anu ni sitelen anu</p>
+    <p id="e41" class="line-data-display-none">ma anu alasa ilo anu</p>
+    <p id="e42" class="line-data-display-none">jan Majuna kin la, ona anu</p>
+    <p id="e43" class="line-data-display-none">pakala nena la, luka anu</p>
+    <p id="e44" class="line-data-display-none">lupa anu mu anu mun anu</p>
+    <p id="e45" class="line-data-display-none">o ala e walo! lipu anu</p>
+    <p id="e46" class="line-data-display-none">kute poka anu nena anu</p>
+    <p id="e47" class="line-data-display-none">pu kin anu tomo open anu</p>
+    <p id="e48" class="line-data-display-none">nasin ona la, nasa kin anu</p>
+    <p id="e49" class="line-data-display-none">kin la, kulupu jan tenpo anu</p>
+    <p id="e50" class="line-data-display-none">mama sewi li tan. mama anu</p>
+    <p id="e51" class="line-data-display-none">kepeken pakala jelo anu</p>
+    <p id="e52" class="line-data-display-none">poki kala anu lili anu</p>
+    <p id="e53" class="line-data-display-none">akesi anu namako anu</p>
+    <p id="e54" class="line-data-display-none">tomo mi la, wawa ala anu</p>
+    <p id="e55" class="line-data-display-none">poki anu sewi tawa anu</p>
+    <p id="e56" class="line-data-display-none">kulupu kute utala anu</p>
+    <p id="e57" class="line-data-display-none">jaki wawa anu anpa anu</p>
+    <p id="e58" class="line-data-display-none">sina weka e lape. ni anu</p>
+    <p id="e59" class="line-data-display-none">luka li musi la, ona anu</p>
+    <p id="e60" class="line-data-display-none">tenpo ni anu lape ken anu</p>
+    <p id="e61" class="line-data-display-none">kon utala anu ilo anu</p>
+    <p id="e62" class="line-data-display-none">soweli anu len kasi anu</p>
+    <p id="e63" class="line-data-display-none">a! jan Apeja Akesi anu</p>
+    <p id="e64" class="line-data-display-none">mun selo anu kiwen tu anu</p>
+    <p id="e65" class="line-data-display-none">nasin anu ken sijelo anu</p>
+    <p id="e66" class="line-data-display-none">jo anu alasa nena anu</p>
+    <p id="e67" class="line-data-display-none">toki Ito la, sona sin anu</p>
+    <p id="e68" class="line-data-display-none">ijo sin o lon. ona sin anu</p>
+    <p id="e69" class="line-data-display-none">kasi anu tan anu ni anu</p>
+    <p id="e70" class="line-data-display-none">sina o olin ala. mi anu</p>
+    <p id="e71" class="line-data-display-none">nena awen anu supa anu</p>
+    <p id="e72" class="line-data-display-none">wan ni anu lete esun anu</p>
+    <p id="e73" class="line-data-display-none">waso seli pi jan Sisi anu</p>
+    <p id="e74" class="line-data-display-none">utala anu wan sinpin anu</p>
+    <p id="e75" class="line-data-display-none">ante sijelo la, lawa anu</p>
+    <p id="e76" class="line-data-display-none">alasa namako uta anu</p>
+    <p id="e77" class="line-data-display-none">lupa sona anu nimi anu</p>
+    <p id="e78" class="line-data-display-none">soweli anu pakala anu</p>
+    <p id="e79" class="line-data-display-none">pona ike la, moli sin anu</p>
+    <p id="e80" class="line-data-display-none">nanpa anu seli lili anu</p>
+    <p id="e81" class="line-data-display-none">palisa kala pimeja anu</p>
+    <p id="e82" class="line-data-display-none">tawa lawa anu pali anu</p>
+    <p id="e83" class="line-data-display-none">nasin pi nimi "pi" ala anu</p>
+    <p id="e84" class="line-data-display-none">pan li lon. luka pakala anu</p>
+    <p id="e85" class="line-data-display-none">nasa kin anu pana sin anu</p>
+    <p id="e86" class="line-data-display-none">jan kalama anu kili anu</p>
+    <p id="e87" class="line-data-display-none">kepeken anu pan sinpin anu</p>
+    <p id="e88" class="line-data-display-none">sina anu mi o lon. ni anu</p>
+    <p id="e89" class="line-data-display-none">len pona anu selo wan anu</p>
+    <p id="e90" class="line-data-display-none">meli anu kon sijelo anu</p>
+    <p id="e91" class="line-data-display-none">ken anu akesi lawa anu</p>
+    <p id="e92" class="line-data-display-none">ike pilin ona wawa anu</p>
+    <p id="e93" class="line-data-display-none">pini ali pi pali mi anu</p>
+    <p id="e94" class="line-data-display-none">ike anu sin anu ko anu</p>
+    <p id="e95" class="line-data-display-none">mani ala li ken. ona anu</p>
+    <p id="e96" class="line-data-display-none">kule tonsi anu noka anu</p>
+    <p id="e97" class="line-data-display-none">kon pu anu pali suli anu</p>
+    <p id="e98" class="line-data-display-none">sina tu e mi. nanpa tu anu</p>
+    <p id="e99" class="line-data-display-none">alasa kasi namako anu</p>
+    <p id="e100" class="line-data-display-none">mi kama anpa. mi la, mi anu</p>
+  </div>
+
+  <label for="number-e">linja nanpa e la o kepeken toki nanpa seme.</label>
+  <input type="number" value="50" id="number-e" name="number-e" min="1" max="100" />
+  <input aria-hidden="true" id="slider-e" name="slider-e" type="range" min="1" max="100" value="50" />
+
+</div>
+<div class="line" id="line-f">
+
+  <div id="line-f-data" class="line-data">
+    <p id="f1" class="line-data-display-none">poki kalama li musi kin li</p>
+    <p id="f2" class="line-data-display-none">jan Owe li sitelen ike li</p>
+    <p id="f3" class="line-data-display-none">pali musi o, pini! luka li</p>
+    <p id="f4" class="line-data-display-none">ma Kenala li ma mi moli li</p>
+    <p id="f5" class="line-data-display-none">o open. open li pona kin li</p>
+    <p id="f6" class="line-data-display-none">jan Wan en jan Tu en jan Tuli li</p>
+    <p id="f7" class="line-data-display-none">sina pan e kasi. pan sina li</p>
+    <p id="f8" class="line-data-display-none">o nasin e ken. a! ken nasin li</p>
+    <p id="f9" class="line-data-display-none">pipi pona ali li nasa li</p>
+    <p id="f10" class="line-data-display-none">kiwen suwi pi utala sin li</p>
+    <p id="f11" class="line-data-display-none">ilo nanpa taso li wawa li</p>
+    <p id="f12" class="line-data-display-none">esun jan pi esun esun tu li</p>
+    <p id="f13" class="line-data-display-none">jan lili anu jan kili kin li</p>
+    <p id="f14" class="line-data-display-none">kili li moku. kili suwi li</p>
+    <p id="f15" class="line-data-display-none">soweli Sowe li mu. jan mu li</p>
+    <p id="f16" class="line-data-display-none">mi moli e kala tan ni: ni li</p>
+    <p id="f17" class="line-data-display-none">mije palisa li suli a li</p>
+    <p id="f18" class="line-data-display-none">jan Sete o! sina wan li len li</p>
+    <p id="f19" class="line-data-display-none">toki mi li mu. mu li lape li</p>
+    <p id="f20" class="line-data-display-none">kulupu lawa li lon pini li</p>
+    <p id="f21" class="line-data-display-none">mi soweli. sina jan. ona li</p>
+    <p id="f22" class="line-data-display-none">jan musi ike pi jan lawa li</p>
+    <p id="f23" class="line-data-display-none">o ijo e ike toki. ni li</p>
+    <p id="f24" class="line-data-display-none">mi ala li ma pona la, ma li</p>
+    <p id="f25" class="line-data-display-none">pakala tenpo li lon. tenpo li</p>
+    <p id="f26" class="line-data-display-none">jan Pijana li jan Apeja li</p>
+    <p id="f27" class="line-data-display-none">ni li ni e ni ni. nasin ni li</p>
+    <p id="f28" class="line-data-display-none">mi sina! mi sin a. sin mi ni li</p>
+    <p id="f29" class="line-data-display-none">jan Si li ike lukin. ona li</p>
+    <p id="f30" class="line-data-display-none">ante pali li lawa kama li</p>
+    <p id="f31" class="line-data-display-none">nasin sina li ike tawa li</p>
+    <p id="f32" class="line-data-display-none">moku insa li sike laso li</p>
+    <p id="f33" class="line-data-display-none">ma Pilisin li pona. moli li</p>
+    <p id="f34" class="line-data-display-none">kulupu tenpo anu jan ku li</p>
+    <p id="f35" class="line-data-display-none">supa walo li akesi ko li</p>
+    <p id="f36" class="line-data-display-none">jan Powe kin li seli kasi li</p>
+    <p id="f37" class="line-data-display-none">o uta e meli lupa. ni li</p>
+    <p id="f38" class="line-data-display-none">sike li tawa sewi kule li</p>
+    <p id="f39" class="line-data-display-none">tomo sona pi tomo suno li</p>
+    <p id="f40" class="line-data-display-none">oko li kili. oko wile li</p>
+    <p id="f41" class="line-data-display-none">soweli Awesome li jan li</p>
+    <p id="f42" class="line-data-display-none">mi wile loje e mi. kule li</p>
+    <p id="f43" class="line-data-display-none">sina seme lon pini? lon ni li</p>
+    <p id="f44" class="line-data-display-none">o lon e ike wawa. wawa li</p>
+    <p id="f45" class="line-data-display-none">tenpo o ni. ilo li lape li</p>
+    <p id="f46" class="line-data-display-none">insa pilin pi kulupu kon li</p>
+    <p id="f47" class="line-data-display-none">tomo seli li seli laso li</p>
+    <p id="f48" class="line-data-display-none">oko loje li olin ala li</p>
+    <p id="f49" class="line-data-display-none">o lukin e mun. mun suno ni li</p>
+    <p id="f50" class="line-data-display-none">lipu o nimi. namako ni li</p>
+    <p id="f51" class="line-data-display-none">mi ike anu seme? ike li</p>
+    <p id="f52" class="line-data-display-none">lon sina li tenpo pimeja li</p>
+    <p id="f53" class="line-data-display-none">telo nasa o, mi len. nasa li</p>
+    <p id="f54" class="line-data-display-none">tomo tawa kiwen pi ma mu li</p>
+    <p id="f55" class="line-data-display-none">sina alasa sona. sona li</p>
+    <p id="f56" class="line-data-display-none">olin li jaki. olin ali li</p>
+    <p id="f57" class="line-data-display-none">sitelen li awen sitelen li</p>
+    <p id="f58" class="line-data-display-none">telo suwi o tan ni: poki li</p>
+    <p id="f59" class="line-data-display-none">jan mute li ma lete ale li</p>
+    <p id="f60" class="line-data-display-none">o anpa. o pilin. ijo tu li</p>
+    <p id="f61" class="line-data-display-none">ilo li pali e len. ilo li</p>
+    <p id="f62" class="line-data-display-none">luka mi li moku li telo li</p>
+    <p id="f63" class="line-data-display-none">lape li weka. weka li sin li</p>
+    <p id="f64" class="line-data-display-none">o musi e telo. kepeken li</p>
+    <p id="f65" class="line-data-display-none">ona li esun e kon. kon jan li</p>
+    <p id="f66" class="line-data-display-none">mi ijo ala ijo? ona li</p>
+    <p id="f67" class="line-data-display-none">kiwen o poka ala la, kon li</p>
+    <p id="f68" class="line-data-display-none">ma Elopa o pakala. lon li</p>
+    <p id="f69" class="line-data-display-none">ni li nasin li nasin mi kin li</p>
+    <p id="f70" class="line-data-display-none">poki kasi o jo. poki jo li</p>
+    <p id="f71" class="line-data-display-none">utala toki li musi mi li</p>
+    <p id="f72" class="line-data-display-none">pipi loje pi sike selo li</p>
+    <p id="f73" class="line-data-display-none">tenpo seli li tomo lape li</p>
+    <p id="f74" class="line-data-display-none">o jelo e oko. kule ni li</p>
+    <p id="f75" class="line-data-display-none">lon li nasa li ale tenpo li</p>
+    <p id="f76" class="line-data-display-none">ilo kalama suli sina li</p>
+    <p id="f77" class="line-data-display-none">o weka e noka tan ma. ma li</p>
+    <p id="f78" class="line-data-display-none">palisa utala pimeja li</p>
+    <p id="f79" class="line-data-display-none">sitelen pi alasa pilin li</p>
+    <p id="f80" class="line-data-display-none">wile ala li ona li mu li</p>
+    <p id="f81" class="line-data-display-none">insa ona li pona pilin li</p>
+    <p id="f82" class="line-data-display-none">seli ni li sama sewi mi li</p>
+    <p id="f83" class="line-data-display-none">nimi moli li pali moli li</p>
+    <p id="f84" class="line-data-display-none">sewi mani li jaki ali li</p>
+    <p id="f85" class="line-data-display-none">tomo ona tawa li kama li</p>
+    <p id="f86" class="line-data-display-none">ilo Jasima li sitelen li</p>
+    <p id="f87" class="line-data-display-none">moli li pona anu jaki li</p>
+    <p id="f88" class="line-data-display-none">lawa sina li awen la, ken li</p>
+    <p id="f89" class="line-data-display-none">o luka e monsi. nasin ni li</p>
+    <p id="f90" class="line-data-display-none">suwi moli o seme? suwi li</p>
+    <p id="f91" class="line-data-display-none">o pini e utala! ni kin li</p>
+    <p id="f92" class="line-data-display-none">ona li mi ala a. ona li</p>
+    <p id="f93" class="line-data-display-none">jan Jona li lon insa kala li</p>
+    <p id="f94" class="line-data-display-none">toki wan pi nasin Limili li</p>
+    <p id="f95" class="line-data-display-none">sina sona lukin. a ona li</p>
+    <p id="f96" class="line-data-display-none">mi moli e waso. kon waso li</p>
+    <p id="f97" class="line-data-display-none">ilo toki li suno lipu li</p>
+    <p id="f98" class="line-data-display-none">ilo li toki lipu suno li</p>
+    <p id="f99" class="line-data-display-none">nimi li kepeken kon ala li</p>
+    <p id="f100" class="line-data-display-none">pona tonsi li lon. a! pilin li</p>
+  </div>
+
+  <label for="number-f">linja nanpa f la o kepeken toki nanpa seme.</label>
+  <input type="number" value="50" id="number-f" name="number-f" min="1" max="100" />
+  <input aria-hidden="true" id="slider-f" name="slider-f" type="range" min="1" max="100" value="50" />
+
+</div>
+<div class="line" id="line-g">
+
+  <div id="line-g-data" class="line-data">
+    <p id="g1" class="line-data-display-none">wile alasa luka e kasi.</p>
+    <p id="g2" class="line-data-display-none">musi e kulupu mani Soni.</p>
+    <p id="g3" class="line-data-display-none">sitelen tawa pini ni pali.</p>
+    <p id="g4" class="line-data-display-none">kepeken seli pi lipu nimi.</p>
+    <p id="g5" class="line-data-display-none">pini taso e jaki insa ni:</p>
+    <p id="g6" class="line-data-display-none">taso e pilin sina tan toki.</p>
+    <p id="g7" class="line-data-display-none">sewi sina ala pi jan pali.</p>
+    <p id="g8" class="line-data-display-none">nena loje sin tan uta pipi.</p>
+    <p id="g9" class="line-data-display-none">kute e kalama pi jan lili.</p>
+    <p id="g10" class="line-data-display-none">pakala e sijelo pi jan ni.</p>
+    <p id="g11" class="line-data-display-none">luka olin e selo soweli.</p>
+    <p id="g12" class="line-data-display-none">ni: wile taso ona li mani.</p>
+    <p id="g13" class="line-data-display-none">pilin pakala insa li ali!</p>
+    <p id="g14" class="line-data-display-none">nimi pi nanpa seme lon toki?</p>
+    <p id="g15" class="line-data-display-none">ma pi akesi pi tenpo pini.</p>
+    <p id="g16" class="line-data-display-none">lape lili pi weka ken ali.</p>
+    <p id="g17" class="line-data-display-none">mute. nanpa kin li wile suli.</p>
+    <p id="g18" class="line-data-display-none">jan pi kiwen uta. ona o ni:</p>
+    <p id="g19" class="line-data-display-none">awen pakala e mama ali.</p>
+    <p id="g20" class="line-data-display-none">kulupu e jan kepeken moli.</p>
+    <p id="g21" class="line-data-display-none">sitelen kin e palisa pini.</p>
+    <p id="g22" class="line-data-display-none">wile ni: sina ken jo e mani.</p>
+    <p id="g23" class="line-data-display-none">toki utala tan sona pali.</p>
+    <p id="g24" class="line-data-display-none">lon la, jan Misikeke li moli.</p>
+    <p id="g25" class="line-data-display-none">moli a. ona li pakala ni:</p>
+    <p id="g26" class="line-data-display-none">open e nasin ni: sina mani.</p>
+    <p id="g27" class="line-data-display-none">suwi e ijo ala e mani.</p>
+    <p id="g28" class="line-data-display-none">moku e selo sina e seli.</p>
+    <p id="g29" class="line-data-display-none">alasa nasa. o lupa e mi.</p>
+    <p id="g30" class="line-data-display-none">noka e ma ni pi tawa pipi.</p>
+    <p id="g31" class="line-data-display-none">lili e pilin ni tawa mani.</p>
+    <p id="g32" class="line-data-display-none">kute mute tawa mu soweli.</p>
+    <p id="g33" class="line-data-display-none">walo jaki li utala toki.</p>
+    <p id="g34" class="line-data-display-none">pana suli e utala seli.</p>
+    <p id="g35" class="line-data-display-none">musi! o musi. o musi e mi.</p>
+    <p id="g36" class="line-data-display-none">sewi e sewi ala. o suli.</p>
+    <p id="g37" class="line-data-display-none">sewi ni: sina olin e mani.</p>
+    <p id="g38" class="line-data-display-none">pali e toki sin tawa kasi.</p>
+    <p id="g39" class="line-data-display-none">nanpa e tenpo e poki kasi.</p>
+    <p id="g40" class="line-data-display-none">alasa weka e nimi moli.</p>
+    <p id="g41" class="line-data-display-none">ante ala ante? o sama ni:</p>
+    <p id="g42" class="line-data-display-none">ona kin li pimeja li suwi.</p>
+    <p id="g43" class="line-data-display-none">pini e moli pi tenpo poki.</p>
+    <p id="g44" class="line-data-display-none">ni. kepeken seme la, mi poki?</p>
+    <p id="g45" class="line-data-display-none">kasi mani tawa jaki ali.</p>
+    <p id="g46" class="line-data-display-none">pana e telo taso tan nimi.</p>
+    <p id="g47" class="line-data-display-none">lon musi Katan. sina o musi.</p>
+    <p id="g48" class="line-data-display-none">sona ni: ijo ala li musi.</p>
+    <p id="g49" class="line-data-display-none">tomo sina. o lili e sewi.</p>
+    <p id="g50" class="line-data-display-none">ante e sewi kepeken jaki.</p>
+    <p id="g51" class="line-data-display-none">olin ala e sina kin e mi.</p>
+    <p id="g52" class="line-data-display-none">lete e open pi tenpo kasi.</p>
+    <p id="g53" class="line-data-display-none">ilo olin. ilo ni li jaki.</p>
+    <p id="g54" class="line-data-display-none">tan nasin ni: ona li ko musi.</p>
+    <p id="g55" class="line-data-display-none">pali pi nasin nanpa li kasi.</p>
+    <p id="g56" class="line-data-display-none">alasa ante e moli nimi.</p>
+    <p id="g57" class="line-data-display-none">lupa walo tan pakala ali.</p>
+    <p id="g58" class="line-data-display-none">tawa lon moli pi oko seli.</p>
+    <p id="g59" class="line-data-display-none">mani pi wawa pi nasin mani.</p>
+    <p id="g60" class="line-data-display-none">pakala pona e wile e mi!</p>
+    <p id="g61" class="line-data-display-none">nasin seme? ona o tawa mi!</p>
+    <p id="g62" class="line-data-display-none">nasin e toki pi nimi ali.</p>
+    <p id="g63" class="line-data-display-none">kule e insa pi tomo mani.</p>
+    <p id="g64" class="line-data-display-none">wile pali e sitelen jaki!</p>
+    <p id="g65" class="line-data-display-none">toki e tomo. ona li jaki.</p>
+    <p id="g66" class="line-data-display-none">pana mani pi pilin wawa mi.</p>
+    <p id="g67" class="line-data-display-none">sona ala e mi. o sona ni.</p>
+    <p id="g68" class="line-data-display-none">lape e nasin awen e pali.</p>
+    <p id="g69" class="line-data-display-none">sama. moku namako li sewi.</p>
+    <p id="g70" class="line-data-display-none">jo ala e moku la, o toki!</p>
+    <p id="g71" class="line-data-display-none">sitelen kalama pi ma suli.</p>
+    <p id="g72" class="line-data-display-none">alasa pana e nimi seli.</p>
+    <p id="g73" class="line-data-display-none">pona anu ilo. o sama ni!</p>
+    <p id="g74" class="line-data-display-none">ijo seme? ona la, o monsi.</p>
+    <p id="g75" class="line-data-display-none">jan alasa pi tenpo akesi.</p>
+    <p id="g76" class="line-data-display-none">kepeken seme? sina o toki!</p>
+    <p id="g77" class="line-data-display-none">open kama sona olin e mi.</p>
+    <p id="g78" class="line-data-display-none">tenpo e tomo pi tawa ali.</p>
+    <p id="g79" class="line-data-display-none">sin li ante li musi li jaki.</p>
+    <p id="g80" class="line-data-display-none">lon. olin pi ma ali li lili.</p>
+    <p id="g81" class="line-data-display-none">wile suli e kulupu pipi.</p>
+    <p id="g82" class="line-data-display-none">kama e ken pi kulupu sewi.</p>
+    <p id="g83" class="line-data-display-none">ona! a. ona o sama lili.</p>
+    <p id="g84" class="line-data-display-none">sama jan kama pi pilin moli.</p>
+    <p id="g85" class="line-data-display-none">ijo sin li tawa linja nimi.</p>
+    <p id="g86" class="line-data-display-none">sama ni: sina kon e soweli.</p>
+    <p id="g87" class="line-data-display-none">nasin awen anu nasin moli.</p>
+    <p id="g88" class="line-data-display-none">nasin taso pi ken ala nimi.</p>
+    <p id="g89" class="line-data-display-none">musi Siko Elisijan li ni:</p>
+    <p id="g90" class="line-data-display-none">alasa kili e pilin ali.</p>
+    <p id="g91" class="line-data-display-none">tawa sike e sike tawa mi.</p>
+    <p id="g92" class="line-data-display-none">ala. ijo li ala la, o ni:</p>
+    <p id="g93" class="line-data-display-none">ken pi mama palisa li lili.</p>
+    <p id="g94" class="line-data-display-none">ala li lipu pi lape seli.</p>
+    <p id="g95" class="line-data-display-none">jan pi pana sona li jan pini.</p>
+    <p id="g96" class="line-data-display-none">ken pana e sona pi nimi "pi."</p>
+    <p id="g97" class="line-data-display-none">ale e nasin pi tenpo ali.</p>
+    <p id="g98" class="line-data-display-none">open ante e kepeken musi.</p>
+    <p id="g99" class="line-data-display-none">pakala taso e olin ali.</p>
+    <p id="g100" class="line-data-display-none">pini e lawa pi nasin jan ni.</p>
+  </div>
+
+  <label for="number-g">linja nanpa g la o kepeken toki nanpa seme.</label>
+  <input type="number" value="50" id="number-g" name="number-g" min="1" max="100" />
+  <input aria-hidden="true" id="slider-g" name="slider-g" type="range" min="1" max="100" value="50" />
+
+</div>
+<div class="line" id="line-h">
+
+  <div id="line-h-data" class="line-data">
+    <p id="h1" class="line-data-display-none">lipu suli li pu li ku li su.</p>
+    <p id="h2" class="line-data-display-none">suwi sike lupa li tan moku.</p>
+    <p id="h3" class="line-data-display-none">kala kin li wile pana e mu!</p>
+    <p id="h4" class="line-data-display-none">mi en sina li wan e kulupu!</p>
+    <p id="h5" class="line-data-display-none">kulupu mi li kute e lipu.</p>
+    <p id="h6" class="line-data-display-none">kalama mu li weka e tu tu.</p>
+    <p id="h7" class="line-data-display-none">pali mi li ike e kulupu.</p>
+    <p id="h8" class="line-data-display-none">jan seme li olin e nanpa tu?</p>
+    <p id="h9" class="line-data-display-none">toki Epelanto li lon lipu.</p>
+    <p id="h10" class="line-data-display-none">sina kute ala kute e mu?</p>
+    <p id="h11" class="line-data-display-none">kute la, o telo e kasi tu.</p>
+    <p id="h12" class="line-data-display-none">kasi Soko li ken ala ken ku?</p>
+    <p id="h13" class="line-data-display-none">kalama pini ni o sama tu.</p>
+    <p id="h14" class="line-data-display-none">sona pakala li tawa jan pu.</p>
+    <p id="h15" class="line-data-display-none">sewi li wan. jan la, o kulupu.</p>
+    <p id="h16" class="line-data-display-none">sina toki tawa mi la, mi mu.</p>
+    <p id="h17" class="line-data-display-none">ona o sona oko e lipu!</p>
+    <p id="h18" class="line-data-display-none">jan ala o lukin e lipu pu.</p>
+    <p id="h19" class="line-data-display-none">lupa ali li wile sama tu.</p>
+    <p id="h20" class="line-data-display-none">sona o kepeken nimi "anu."</p>
+    <p id="h21" class="line-data-display-none">mama kin li mije e kulupu.</p>
+    <p id="h22" class="line-data-display-none">nanpa wan en nanpa wan li ken tu.</p>
+    <p id="h23" class="line-data-display-none">lipu suli ni li pu anu ku.</p>
+    <p id="h24" class="line-data-display-none">sitelen o lipu ala lipu?</p>
+    <p id="h25" class="line-data-display-none">poki kala li lili e moku.</p>
+    <p id="h26" class="line-data-display-none">tan seme la, sina o wile pu?</p>
+    <p id="h27" class="line-data-display-none">ilo Epi li wile awen mu.</p>
+    <p id="h28" class="line-data-display-none">len laso mute o lon kulupu.</p>
+    <p id="h29" class="line-data-display-none">tenpo Jami kin li seli e mu.</p>
+    <p id="h30" class="line-data-display-none">tenpo sike ni la, lipu li tu.</p>
+    <p id="h31" class="line-data-display-none">sike suwi ala o tan moku.</p>
+    <p id="h32" class="line-data-display-none">sina open e kasi tan lipu.</p>
+    <p id="h33" class="line-data-display-none">mi tawa e mi tawa kulupu.</p>
+    <p id="h34" class="line-data-display-none">o sitelen e linja lon lipu.</p>
+    <p id="h35" class="line-data-display-none">mi la, nimi musi ala li pu.</p>
+    <p id="h36" class="line-data-display-none">tenpo la, lipu pu li sama ku.</p>
+    <p id="h37" class="line-data-display-none">jan anu len mi o tawa moku.</p>
+    <p id="h38" class="line-data-display-none">o sijelo e ike kulupu.</p>
+    <p id="h39" class="line-data-display-none">jan o jaki e nimi Epiku.</p>
+    <p id="h40" class="line-data-display-none">ijo seme li sona kulupu?</p>
+    <p id="h41" class="line-data-display-none">suno sina o sama seli mu.</p>
+    <p id="h42" class="line-data-display-none">kala moli li wile e moku.</p>
+    <p id="h43" class="line-data-display-none">telo Pepesi la, suwi li tu.</p>
+    <p id="h44" class="line-data-display-none">o sona oko e ilo Linku.</p>
+    <p id="h45" class="line-data-display-none">uta sina li ken taso e mu.</p>
+    <p id="h46" class="line-data-display-none">mi la, nimi "tonsi" li nimi pu.</p>
+    <p id="h47" class="line-data-display-none">toki Pata o weka tan lipu.</p>
+    <p id="h48" class="line-data-display-none">ma Sonko la, mi jo e kulupu.</p>
+    <p id="h49" class="line-data-display-none">waso ma li wile tawa ma tu.</p>
+    <p id="h50" class="line-data-display-none">nanpa li nasa la, seme li tu?</p>
+    <p id="h51" class="line-data-display-none">pilin Apikolaki li kon su.</p>
+    <p id="h52" class="line-data-display-none">tenpo ale la, kasi o moku.</p>
+    <p id="h53" class="line-data-display-none">toki pali sina li kulupu.</p>
+    <p id="h54" class="line-data-display-none">o toki ala! sina o ken mu!</p>
+    <p id="h55" class="line-data-display-none">weka pilin la, o tawa lipu.</p>
+    <p id="h56" class="line-data-display-none">kon moli ale o mun kulupu.</p>
+    <p id="h57" class="line-data-display-none">waso Sasali en kala li mu.</p>
+    <p id="h58" class="line-data-display-none">uta suwi li pini e moku.</p>
+    <p id="h59" class="line-data-display-none">taso, walo jaki li lon lipu.</p>
+    <p id="h60" class="line-data-display-none">utala li pali e pilin mu.</p>
+    <p id="h61" class="line-data-display-none">mute pi tenpo lon li ale tu.</p>
+    <p id="h62" class="line-data-display-none">mani sina li tu e kulupu.</p>
+    <p id="h63" class="line-data-display-none">ona li nasin pi mani lipu.</p>
+    <p id="h64" class="line-data-display-none">soweli ona li akesi tu.</p>
+    <p id="h65" class="line-data-display-none">pona ali li weka kulupu.</p>
+    <p id="h66" class="line-data-display-none">kala ala li ken pana e mu.</p>
+    <p id="h67" class="line-data-display-none">sina jo e lipu su nanpa tu.</p>
+    <p id="h68" class="line-data-display-none">ali li lon olin taso. o pu.</p>
+    <p id="h69" class="line-data-display-none">lipu pi mute seme o lon su?</p>
+    <p id="h70" class="line-data-display-none">sina wile. wile ni li lipu.</p>
+    <p id="h71" class="line-data-display-none">o kepeken ala nimi "anu."</p>
+    <p id="h72" class="line-data-display-none">waso ali o tawa luka tu.</p>
+    <p id="h73" class="line-data-display-none">mi jo ala jo e nanpa Jaku?</p>
+    <p id="h74" class="line-data-display-none">telo lete suwi ni li moku.</p>
+    <p id="h75" class="line-data-display-none">tenpo li kalama ala li mu.</p>
+    <p id="h76" class="line-data-display-none">pipi ni li uta e selo tu.</p>
+    <p id="h77" class="line-data-display-none">pona taso ala li kulupu.</p>
+    <p id="h78" class="line-data-display-none">pali suli mi li nasin lipu.</p>
+    <p id="h79" class="line-data-display-none">sina o! mi kama wawa e mu!</p>
+    <p id="h80" class="line-data-display-none">jan seme li sona e kulupu?</p>
+    <p id="h81" class="line-data-display-none">soweli kin li lukin e lipu.</p>
+    <p id="h82" class="line-data-display-none">ona o wile tawa ma Kuku.</p>
+    <p id="h83" class="line-data-display-none">sina sona tawa nasin Natu.</p>
+    <p id="h84" class="line-data-display-none">ona en ale o olin e mu.</p>
+    <p id="h85" class="line-data-display-none">mu tu taso o ni tawa lipu.</p>
+    <p id="h86" class="line-data-display-none">sina ken ala jaki e moku!</p>
+    <p id="h87" class="line-data-display-none">nimi seme li tawa lipu su?</p>
+    <p id="h88" class="line-data-display-none">musi o wan taso e kulupu.</p>
+    <p id="h89" class="line-data-display-none">tenpo o awen ante o ken mu.</p>
+    <p id="h90" class="line-data-display-none">jan lawa sina la, o open tu.</p>
+    <p id="h91" class="line-data-display-none">telo sijelo li len e lipu.</p>
+    <p id="h92" class="line-data-display-none">lawa weka li kepeken jan pu.</p>
+    <p id="h93" class="line-data-display-none">o musi ala tawa kulupu.</p>
+    <p id="h94" class="line-data-display-none">loje kin li moku ala moku?</p>
+    <p id="h95" class="line-data-display-none">nasin seme o wile e lipu?</p>
+    <p id="h96" class="line-data-display-none">sina pali la, sina kulupu.</p>
+    <p id="h97" class="line-data-display-none">selo la, noka en luka li tu.</p>
+    <p id="h98" class="line-data-display-none">soweli li moku ala moku?</p>
+    <p id="h99" class="line-data-display-none">sina olin ala e lipu ku!</p>
+    <p id="h100" class="line-data-display-none">jan mute jaki li ken awen mu.</p>
+  </div>
+
+  <label for="number-h">linja nanpa h la o kepeken toki nanpa seme.</label>
+  <input type="number" value="50" id="number-h" name="number-h" min="1" max="100" />
+  <input aria-hidden="true" id="slider-h" name="slider-h" type="range" min="1" max="100" value="50" />
+
+</div>
+<div class="line" id="line-i">
+
+  <div id="line-i-data" class="line-data">
+    <p id="i1" class="line-data-display-none">lipu suli li pu li ku li su.</p>
+    <p id="i2" class="line-data-display-none">suwi sike lupa li tan moku.</p>
+    <p id="i3" class="line-data-display-none">kala kin li wile pana e mu!</p>
+    <p id="i4" class="line-data-display-none">mi en sina li wan e kulupu!</p>
+    <p id="i5" class="line-data-display-none">kulupu mi li kute e lipu.</p>
+    <p id="i6" class="line-data-display-none">kalama mu li weka e tu tu.</p>
+    <p id="i7" class="line-data-display-none">pali mi li ike e kulupu.</p>
+    <p id="i8" class="line-data-display-none">jan seme li olin e nanpa tu?</p>
+    <p id="i9" class="line-data-display-none">toki Epelanto li lon lipu.</p>
+    <p id="i10" class="line-data-display-none">sina kute ala kute e mu?</p>
+    <p id="i11" class="line-data-display-none">kute la, o telo e kasi tu.</p>
+    <p id="i12" class="line-data-display-none">kasi Soko li ken ala ken ku?</p>
+    <p id="i13" class="line-data-display-none">kalama pini ni o sama tu.</p>
+    <p id="i14" class="line-data-display-none">sona pakala li tawa jan pu.</p>
+    <p id="i15" class="line-data-display-none">sewi li wan. jan la, o kulupu.</p>
+    <p id="i16" class="line-data-display-none">sina toki tawa mi la, mi mu.</p>
+    <p id="i17" class="line-data-display-none">ona o sona oko e lipu!</p>
+    <p id="i18" class="line-data-display-none">jan ala o lukin e lipu pu.</p>
+    <p id="i19" class="line-data-display-none">lupa ali li wile sama tu.</p>
+    <p id="i20" class="line-data-display-none">sona o kepeken nimi "anu."</p>
+    <p id="i21" class="line-data-display-none">mama kin li mije e kulupu.</p>
+    <p id="i22" class="line-data-display-none">nanpa wan en nanpa wan li ken tu.</p>
+    <p id="i23" class="line-data-display-none">lipu suli ni li pu anu ku.</p>
+    <p id="i24" class="line-data-display-none">sitelen o lipu ala lipu?</p>
+    <p id="i25" class="line-data-display-none">poki kala li lili e moku.</p>
+    <p id="i26" class="line-data-display-none">tan seme la, sina o wile pu?</p>
+    <p id="i27" class="line-data-display-none">ilo Epi li wile awen mu.</p>
+    <p id="i28" class="line-data-display-none">len laso mute o lon kulupu.</p>
+    <p id="i29" class="line-data-display-none">tenpo Jami kin li seli e mu.</p>
+    <p id="i30" class="line-data-display-none">tenpo sike ni la, lipu li tu.</p>
+    <p id="i31" class="line-data-display-none">sike suwi ala o tan moku.</p>
+    <p id="i32" class="line-data-display-none">sina open e kasi tan lipu.</p>
+    <p id="i33" class="line-data-display-none">mi tawa e mi tawa kulupu.</p>
+    <p id="i34" class="line-data-display-none">o sitelen e linja lon lipu.</p>
+    <p id="i35" class="line-data-display-none">mi la, nimi musi ala li pu.</p>
+    <p id="i36" class="line-data-display-none">tenpo la, lipu pu li sama ku.</p>
+    <p id="i37" class="line-data-display-none">jan anu len mi o tawa moku.</p>
+    <p id="i38" class="line-data-display-none">o sijelo e ike kulupu.</p>
+    <p id="i39" class="line-data-display-none">jan o jaki e nimi Epiku.</p>
+    <p id="i40" class="line-data-display-none">ijo seme li sona kulupu?</p>
+    <p id="i41" class="line-data-display-none">suno sina o sama seli mu.</p>
+    <p id="i42" class="line-data-display-none">kala moli li wile e moku.</p>
+    <p id="i43" class="line-data-display-none">telo Pepesi la, suwi li tu.</p>
+    <p id="i44" class="line-data-display-none">o sona oko e ilo Linku.</p>
+    <p id="i45" class="line-data-display-none">uta sina li ken taso e mu.</p>
+    <p id="i46" class="line-data-display-none">mi la, nimi "tonsi" li nimi pu.</p>
+    <p id="i47" class="line-data-display-none">toki Pata o weka tan lipu.</p>
+    <p id="i48" class="line-data-display-none">ma Sonko la, mi jo e kulupu.</p>
+    <p id="i49" class="line-data-display-none">waso ma li wile tawa ma tu.</p>
+    <p id="i50" class="line-data-display-none">nanpa li nasa la, seme li tu?</p>
+    <p id="i51" class="line-data-display-none">pilin Apikolaki li kon su.</p>
+    <p id="i52" class="line-data-display-none">tenpo ale la, kasi o moku.</p>
+    <p id="i53" class="line-data-display-none">toki pali sina li kulupu.</p>
+    <p id="i54" class="line-data-display-none">o toki ala! sina o ken mu!</p>
+    <p id="i55" class="line-data-display-none">weka pilin la, o tawa lipu.</p>
+    <p id="i56" class="line-data-display-none">kon moli ale o mun kulupu.</p>
+    <p id="i57" class="line-data-display-none">waso Sasali en kala li mu.</p>
+    <p id="i58" class="line-data-display-none">uta suwi li pini e moku.</p>
+    <p id="i59" class="line-data-display-none">taso, walo jaki li lon lipu.</p>
+    <p id="i60" class="line-data-display-none">utala li pali e pilin mu.</p>
+    <p id="i61" class="line-data-display-none">mute pi tenpo lon li ale tu.</p>
+    <p id="i62" class="line-data-display-none">mani sina li tu e kulupu.</p>
+    <p id="i63" class="line-data-display-none">ona li nasin pi mani lipu.</p>
+    <p id="i64" class="line-data-display-none">soweli ona li akesi tu.</p>
+    <p id="i65" class="line-data-display-none">pona ali li weka kulupu.</p>
+    <p id="i66" class="line-data-display-none">kala ala li ken pana e mu.</p>
+    <p id="i67" class="line-data-display-none">sina jo e lipu su nanpa tu.</p>
+    <p id="i68" class="line-data-display-none">ali li lon olin taso. o pu.</p>
+    <p id="i69" class="line-data-display-none">lipu pi mute seme o lon su?</p>
+    <p id="i70" class="line-data-display-none">sina wile. wile ni li lipu.</p>
+    <p id="i71" class="line-data-display-none">o kepeken ala nimi "anu."</p>
+    <p id="i72" class="line-data-display-none">waso ali o tawa luka tu.</p>
+    <p id="i73" class="line-data-display-none">mi jo ala jo e nanpa Jaku?</p>
+    <p id="i74" class="line-data-display-none">telo lete suwi ni li moku.</p>
+    <p id="i75" class="line-data-display-none">tenpo li kalama ala li mu.</p>
+    <p id="i76" class="line-data-display-none">pipi ni li uta e selo tu.</p>
+    <p id="i77" class="line-data-display-none">pona taso ala li kulupu.</p>
+    <p id="i78" class="line-data-display-none">pali suli mi li nasin lipu.</p>
+    <p id="i79" class="line-data-display-none">sina o! mi kama wawa e mu!</p>
+    <p id="i80" class="line-data-display-none">jan seme li sona e kulupu?</p>
+    <p id="i81" class="line-data-display-none">soweli kin li lukin e lipu.</p>
+    <p id="i82" class="line-data-display-none">ona o wile tawa ma Kuku.</p>
+    <p id="i83" class="line-data-display-none">sina sona tawa nasin Natu.</p>
+    <p id="i84" class="line-data-display-none">ona en ale o olin e mu.</p>
+    <p id="i85" class="line-data-display-none">mu tu taso o ni tawa lipu.</p>
+    <p id="i86" class="line-data-display-none">sina ken ala jaki e moku!</p>
+    <p id="i87" class="line-data-display-none">nimi seme li tawa lipu su?</p>
+    <p id="i88" class="line-data-display-none">musi o wan taso e kulupu.</p>
+    <p id="i89" class="line-data-display-none">tenpo o awen ante o ken mu.</p>
+    <p id="i90" class="line-data-display-none">jan lawa sina la, o open tu.</p>
+    <p id="i91" class="line-data-display-none">telo sijelo li len e lipu.</p>
+    <p id="i92" class="line-data-display-none">lawa weka li kepeken jan pu.</p>
+    <p id="i93" class="line-data-display-none">o musi ala tawa kulupu.</p>
+    <p id="i94" class="line-data-display-none">loje kin li moku ala moku?</p>
+    <p id="i95" class="line-data-display-none">nasin seme o wile e lipu?</p>
+    <p id="i96" class="line-data-display-none">sina pali la, sina kulupu.</p>
+    <p id="i97" class="line-data-display-none">selo la, noka en luka li tu.</p>
+    <p id="i98" class="line-data-display-none">soweli li moku ala moku?</p>
+    <p id="i99" class="line-data-display-none">sina olin ala e lipu ku!</p>
+    <p id="i100" class="line-data-display-none">jan mute jaki li ken awen mu.</p>
+  </div>
+
+  <label for="number-i">linja nanpa i la o kepeken toki nanpa seme.</label>
+  <input type="number" value="50" id="number-i" name="number-i" min="1" max="100" />
+  <input aria-hidden="true" id="slider-i" name="slider-i" type="range" min="1" max="100" value="50" />
+
+</div>
+<div class="line" id="line-j">
+
+  <div id="line-j-data" class="line-data">
+    <p id="j1" class="line-data-display-none">jan suwi li wile e sona sin.</p>
+    <p id="j2" class="line-data-display-none">ona li ken pali e ilo kin.</p>
+    <p id="j3" class="line-data-display-none">soweli lili li mama olin.</p>
+    <p id="j4" class="line-data-display-none">sina lon la, sina o wan sinpin.</p>
+    <p id="j5" class="line-data-display-none">o kama e kalama e pilin.</p>
+    <p id="j6" class="line-data-display-none">kulupu utala li lukin kin.</p>
+    <p id="j7" class="line-data-display-none">sijelo li ken lili e olin.</p>
+    <p id="j8" class="line-data-display-none">ale laso li sona e nasin.</p>
+    <p id="j9" class="line-data-display-none">sijelo ale li sona lukin.</p>
+    <p id="j10" class="line-data-display-none">sina o anpa. ni li lili kin.</p>
+    <p id="j11" class="line-data-display-none">a moli o nasin ala nasin?</p>
+    <p id="j12" class="line-data-display-none">pali kon ali li len e nasin.</p>
+    <p id="j13" class="line-data-display-none">tenpo pali li suwi tawa sin.</p>
+    <p id="j14" class="line-data-display-none">kala Kala en jan Jan li ko kin.</p>
+    <p id="j15" class="line-data-display-none">sina mute ala o sama sin.</p>
+    <p id="j16" class="line-data-display-none">pipi moli li tan utala kin.</p>
+    <p id="j17" class="line-data-display-none">ma wawa li pakala tan olin.</p>
+    <p id="j18" class="line-data-display-none">utala li pilin loje sinpin.</p>
+    <p id="j19" class="line-data-display-none">sijelo li sona lili e sin.</p>
+    <p id="j20" class="line-data-display-none">pipi ali li tawa sewi kin.</p>
+    <p id="j21" class="line-data-display-none">ilo pimeja nasa o lukin.</p>
+    <p id="j22" class="line-data-display-none">wawa mama li kepeken nasin.</p>
+    <p id="j23" class="line-data-display-none">linja wan li seli tawa olin.</p>
+    <p id="j24" class="line-data-display-none">tenpo seli li weka e pilin.</p>
+    <p id="j25" class="line-data-display-none">ona wan li pilin ala pilin?</p>
+    <p id="j26" class="line-data-display-none">nena sijelo loje li sinpin.</p>
+    <p id="j27" class="line-data-display-none">ilo lape o mama e jan sin.</p>
+    <p id="j28" class="line-data-display-none">oko pi sinpin ala li lukin.</p>
+    <p id="j29" class="line-data-display-none">monsi sijelo li wile olin.</p>
+    <p id="j30" class="line-data-display-none">noka Jalan o tawa pan pilin.</p>
+    <p id="j31" class="line-data-display-none">kepeken pi sona kon li nasin.</p>
+    <p id="j32" class="line-data-display-none">ilo toki ali kin li pilin.</p>
+    <p id="j33" class="line-data-display-none">telo li lete la, moku li sin.</p>
+    <p id="j34" class="line-data-display-none">mi li nimi pi pakala sinpin.</p>
+    <p id="j35" class="line-data-display-none">tomo suwi li sitelen olin.</p>
+    <p id="j36" class="line-data-display-none">wawa ma a en kiwen li wan kin.</p>
+    <p id="j37" class="line-data-display-none">musi Pokemon li lipu tu kin.</p>
+    <p id="j38" class="line-data-display-none">poki ko mama li jo e pilin.</p>
+    <p id="j39" class="line-data-display-none">sina o wile ala wile sin?</p>
+    <p id="j40" class="line-data-display-none">insa sike kin o tan awen sin.</p>
+    <p id="j41" class="line-data-display-none">uta palisa mi li ken lukin.</p>
+    <p id="j42" class="line-data-display-none">sona sama li alasa olin.</p>
+    <p id="j43" class="line-data-display-none">lupa li wile e sike ni kin.</p>
+    <p id="j44" class="line-data-display-none">open kili li kiwen e nasin.</p>
+    <p id="j45" class="line-data-display-none">o utala luka e ma sinpin.</p>
+    <p id="j46" class="line-data-display-none">musi Monopoli li ike kin.</p>
+    <p id="j47" class="line-data-display-none">o wile sona utala e sin.</p>
+    <p id="j48" class="line-data-display-none">lawa sina li anpa e pilin.</p>
+    <p id="j49" class="line-data-display-none">nasin Sin li pakala kin e sin.</p>
+    <p id="j50" class="line-data-display-none">kon Alo San o wan e ma olin.</p>
+    <p id="j51" class="line-data-display-none">musi Nintento li pakala kin.</p>
+    <p id="j52" class="line-data-display-none">supa o sona e anpa lukin.</p>
+    <p id="j53" class="line-data-display-none">ilo Siko li nasa e pilin.</p>
+    <p id="j54" class="line-data-display-none">pali kin li tawa mama nasin.</p>
+    <p id="j55" class="line-data-display-none">nasa tenpo o pali e olin.</p>
+    <p id="j56" class="line-data-display-none">weka sona ante li tan nasin.</p>
+    <p id="j57" class="line-data-display-none">poki telo laso li ijo sin.</p>
+    <p id="j58" class="line-data-display-none">jan kili sina o lon ala kin!</p>
+    <p id="j59" class="line-data-display-none">mani li tawa utala olin.</p>
+    <p id="j60" class="line-data-display-none">tenpo o mani ala e olin!</p>
+    <p id="j61" class="line-data-display-none">alasa mun li lili e pilin.</p>
+    <p id="j62" class="line-data-display-none">lawa soweli li lon nena sin.</p>
+    <p id="j63" class="line-data-display-none">pipi loje li ni: kon li lon kin.</p>
+    <p id="j64" class="line-data-display-none">ilo kin li pilin ala pilin?</p>
+    <p id="j65" class="line-data-display-none">selo pi luka ona o sinpin.</p>
+    <p id="j66" class="line-data-display-none">alasa esun o awen lukin.</p>
+    <p id="j67" class="line-data-display-none">o sitelen tawa pi jan Nasin.</p>
+    <p id="j68" class="line-data-display-none">sijelo anpa o lon noka kin.</p>
+    <p id="j69" class="line-data-display-none">soweli seme li nanpa nasin?</p>
+    <p id="j70" class="line-data-display-none">kule pi jan Leko li kon olin.</p>
+    <p id="j71" class="line-data-display-none">utala sewi li lon e ma sin.</p>
+    <p id="j72" class="line-data-display-none">suno poki o sama tomo kin.</p>
+    <p id="j73" class="line-data-display-none">tomo Wasinsan li tomo olin.</p>
+    <p id="j74" class="line-data-display-none">musi Tominon li lon supa sin.</p>
+    <p id="j75" class="line-data-display-none">ona en kon Iki li lon sinpin.</p>
+    <p id="j76" class="line-data-display-none">sina li pali e lipu e sin!</p>
+    <p id="j77" class="line-data-display-none">nanpa moli o lon e ma lukin.</p>
+    <p id="j78" class="line-data-display-none">ma ken li pini e pona nasin.</p>
+    <p id="j79" class="line-data-display-none">kon o nimi e palisa lukin.</p>
+    <p id="j80" class="line-data-display-none">wile lape ona li awen kin.</p>
+    <p id="j81" class="line-data-display-none">olin soweli o lon kon olin.</p>
+    <p id="j82" class="line-data-display-none">mi o lon. tan seme la, sina sin?</p>
+    <p id="j83" class="line-data-display-none">lape seme o tawa lon sinpin?</p>
+    <p id="j84" class="line-data-display-none">awen wawa mani li lon nasin.</p>
+    <p id="j85" class="line-data-display-none">len lawa li kama tan pali sin.</p>
+    <p id="j86" class="line-data-display-none">sitelen ali o musi pilin.</p>
+    <p id="j87" class="line-data-display-none">mute pi ma suli li kama kin.</p>
+    <p id="j88" class="line-data-display-none">kala li tawa lon telo nasin.</p>
+    <p id="j89" class="line-data-display-none">olin mi li sama weka olin.</p>
+    <p id="j90" class="line-data-display-none">kule ala o sama kon pilin.</p>
+    <p id="j91" class="line-data-display-none">o lon ala e toki Toki Sin.</p>
+    <p id="j92" class="line-data-display-none">mi en sina en ona li lon kin.</p>
+    <p id="j93" class="line-data-display-none">jan ala li mi ala li lukin.</p>
+    <p id="j94" class="line-data-display-none">len li sona e lon anu olin.</p>
+    <p id="j95" class="line-data-display-none">pali sitelen o kepeken kin.</p>
+    <p id="j96" class="line-data-display-none">wile mi li open taso e sin.</p>
+    <p id="j97" class="line-data-display-none">jan Kowi o wile ala ni kin:</p>
+    <p id="j98" class="line-data-display-none">ilo wawa li utala pilin.</p>
+    <p id="j99" class="line-data-display-none">ona ala li ante e nasin.</p>
+    <p id="j100" class="line-data-display-none">ona o olin mute e lukin.</p>
+  </div>
+
+  <label for="number-j">linja nanpa j la o kepeken toki nanpa seme.</label>
+  <input type="number" value="50" id="number-j" name="number-j" min="1" max="100" />
+  <input aria-hidden="true" id="slider-j" name="slider-j" type="range" min="1" max="100" value="50" />
+
+</div>
+<div class="line" id="line-k">
+
+  <div id="line-k-data" class="line-data">
+    <p id="k1" class="line-data-display-none">telo suli li seli tan suno.</p>
+    <p id="k2" class="line-data-display-none">uta soweli li telo selo.</p>
+    <p id="k3" class="line-data-display-none">pona insa wawa la, mi oko.</p>
+    <p id="k4" class="line-data-display-none">kule ma li ken pimeja jelo.</p>
+    <p id="k5" class="line-data-display-none">uta li telo e moku laso.</p>
+    <p id="k6" class="line-data-display-none">utala seme li pona taso?</p>
+    <p id="k7" class="line-data-display-none">sinpin pi tomo ona li walo.</p>
+    <p id="k8" class="line-data-display-none">sina tawa sama moku taso.</p>
+    <p id="k9" class="line-data-display-none">ona li ken ala pona e jo.</p>
+    <p id="k10" class="line-data-display-none">toki ale ona li namako.</p>
+    <p id="k11" class="line-data-display-none">toki len anu esun len li ko.</p>
+    <p id="k12" class="line-data-display-none">mama o suno e kasi laso.</p>
+    <p id="k13" class="line-data-display-none">mi o anpa e utala oko.</p>
+    <p id="k14" class="line-data-display-none">walo seli li sitelen telo.</p>
+    <p id="k15" class="line-data-display-none">linja sitelen pona li ilo.</p>
+    <p id="k16" class="line-data-display-none">pali pi sina mute li ijo.</p>
+    <p id="k17" class="line-data-display-none">kepeken supa la, ni o waso.</p>
+    <p id="k18" class="line-data-display-none">kepeken uta la, sina laso.</p>
+    <p id="k19" class="line-data-display-none">pona li wawa li weka taso.</p>
+    <p id="k20" class="line-data-display-none">moku suwi sina li ken oko.</p>
+    <p id="k21" class="line-data-display-none">nasin lape kin li pona ijo.</p>
+    <p id="k22" class="line-data-display-none">tan seme la, sewi ni o laso?</p>
+    <p id="k23" class="line-data-display-none">kon li lon ala lon e namako?</p>
+    <p id="k24" class="line-data-display-none">tenpo la, moku li sama telo.</p>
+    <p id="k25" class="line-data-display-none">mi musi ala musi e tomo?</p>
+    <p id="k26" class="line-data-display-none">musi Katan li utala taso.</p>
+    <p id="k27" class="line-data-display-none">ilo waso li loje e oko.</p>
+    <p id="k28" class="line-data-display-none">insa ike li weka e suno.</p>
+    <p id="k29" class="line-data-display-none">akesi li ken weka e selo.</p>
+    <p id="k30" class="line-data-display-none">tenpo lete li taso e suno.</p>
+    <p id="k31" class="line-data-display-none">sina moku e kala tan telo.</p>
+    <p id="k32" class="line-data-display-none">waso li awen moku e oko.</p>
+    <p id="k33" class="line-data-display-none">sitelen lape nasa o ijo.</p>
+    <p id="k34" class="line-data-display-none">pan pi ma sin tenpo li namako.</p>
+    <p id="k35" class="line-data-display-none">sona pi jan Tewi li tan ilo.</p>
+    <p id="k36" class="line-data-display-none">esun kon li alasa kama jo.</p>
+    <p id="k37" class="line-data-display-none">ike insa o len kin e oko.</p>
+    <p id="k38" class="line-data-display-none">o lape e ma e moli e ko.</p>
+    <p id="k39" class="line-data-display-none">olin li ala. ni la, mi laso.</p>
+    <p id="k40" class="line-data-display-none">sina sitelen pi pona oko.</p>
+    <p id="k41" class="line-data-display-none">mi ante e sitelen namako.</p>
+    <p id="k42" class="line-data-display-none">o sona e wawa lon sijelo.</p>
+    <p id="k43" class="line-data-display-none">kama la, sina o kama laso.</p>
+    <p id="k44" class="line-data-display-none">sewi li kama ken jo e suno.</p>
+    <p id="k45" class="line-data-display-none">sike suwi ni li lon e tenpo.</p>
+    <p id="k46" class="line-data-display-none">tenpo ala la, mi jo e tomo.</p>
+    <p id="k47" class="line-data-display-none">sina awen wile sona taso.</p>
+    <p id="k48" class="line-data-display-none">sewi li sona seli e tomo.</p>
+    <p id="k49" class="line-data-display-none">weka tawa li tawa namako.</p>
+    <p id="k50" class="line-data-display-none">pipi kin li waso ala waso?</p>
+    <p id="k51" class="line-data-display-none">utala li mi e pali selo.</p>
+    <p id="k52" class="line-data-display-none">ona li wile tawa ma Sonko.</p>
+    <p id="k53" class="line-data-display-none">jan li anpa kepeken kon telo.</p>
+    <p id="k54" class="line-data-display-none">telo la, poki li len e oko.</p>
+    <p id="k55" class="line-data-display-none">o lukin ala e lipu suno!</p>
+    <p id="k56" class="line-data-display-none">kasi li wile e laso jelo.</p>
+    <p id="k57" class="line-data-display-none">linja nimi li lili, nasin o.</p>
+    <p id="k58" class="line-data-display-none">ona ali o kepeken ilo!</p>
+    <p id="k59" class="line-data-display-none">seli li tawa li len e tomo.</p>
+    <p id="k60" class="line-data-display-none">a. ona li ni: pilin o ijo.</p>
+    <p id="k61" class="line-data-display-none">mani en musi o anpa taso.</p>
+    <p id="k62" class="line-data-display-none">kala li anpa tan ilo Laso.</p>
+    <p id="k63" class="line-data-display-none">o anpa e akesi e waso.</p>
+    <p id="k64" class="line-data-display-none">a. moku li suli e sijelo.</p>
+    <p id="k65" class="line-data-display-none">ilo toki la, jaki li oko.</p>
+    <p id="k66" class="line-data-display-none">lawa li alasa e kon suno.</p>
+    <p id="k67" class="line-data-display-none">pali ona luka o lon tenpo.</p>
+    <p id="k68" class="line-data-display-none">sijelo li taso ala taso?</p>
+    <p id="k69" class="line-data-display-none">sinpin anu ko li mama tomo.</p>
+    <p id="k70" class="line-data-display-none">pilin nanpa la, o oko telo.</p>
+    <p id="k71" class="line-data-display-none">ilo li sona weka e selo!</p>
+    <p id="k72" class="line-data-display-none">suno Sun li lon insa li ilo.</p>
+    <p id="k73" class="line-data-display-none">olin en moli li sama taso.</p>
+    <p id="k74" class="line-data-display-none">ma Ukawina li wile suno.</p>
+    <p id="k75" class="line-data-display-none">soweli mi li lape lon selo.</p>
+    <p id="k76" class="line-data-display-none">monsi mi li awen e jaki ko.</p>
+    <p id="k77" class="line-data-display-none">utala ona li jo ala jo?</p>
+    <p id="k78" class="line-data-display-none">lape mi ala li tawa tomo.</p>
+    <p id="k79" class="line-data-display-none">kule ike ale li tan laso.</p>
+    <p id="k80" class="line-data-display-none">wawa ale li open tan suno.</p>
+    <p id="k81" class="line-data-display-none">kon mani la, sina jo ala jo?</p>
+    <p id="k82" class="line-data-display-none">nanpa o len e pali e selo.</p>
+    <p id="k83" class="line-data-display-none">open o ni: kasi li namako.</p>
+    <p id="k84" class="line-data-display-none">pini li ni: jan li mani taso.</p>
+    <p id="k85" class="line-data-display-none">lawa o musi tan lape taso.</p>
+    <p id="k86" class="line-data-display-none">mi la, pan li ike e sijelo.</p>
+    <p id="k87" class="line-data-display-none">mun sin li mi ala mi e oko?</p>
+    <p id="k88" class="line-data-display-none">ni li lon ala lon pini tenpo?</p>
+    <p id="k89" class="line-data-display-none">ma lete seli li lon e telo.</p>
+    <p id="k90" class="line-data-display-none">lape luka li lukin e selo.</p>
+    <p id="k91" class="line-data-display-none">luka pali li weka e oko.</p>
+    <p id="k92" class="line-data-display-none">toki pi lon ala li sama jo.</p>
+    <p id="k93" class="line-data-display-none">kule jelo li wile lon oko.</p>
+    <p id="k94" class="line-data-display-none">mi anu jan seme li lon taso?</p>
+    <p id="k95" class="line-data-display-none">kiwen suwi utala li ijo.</p>
+    <p id="k96" class="line-data-display-none">ona li moku e pan namako.</p>
+    <p id="k97" class="line-data-display-none">ona o uta telo e selo.</p>
+    <p id="k98" class="line-data-display-none">mi o len e sinpin kepeken ko.</p>
+    <p id="k99" class="line-data-display-none">poki wan li wile jo e telo.</p>
+    <p id="k100" class="line-data-display-none">sitelen sina li pona oko.</p>
+  </div>
+
+  <label for="number-k">linja nanpa k la o kepeken toki nanpa seme.</label>
+  <input type="number" value="50" id="number-k" name="number-k" min="1" max="100" />
+  <input aria-hidden="true" id="slider-k" name="slider-k" type="range" min="1" max="100" value="50" />
+
+</div>
+<div class="line" id="line-l">
+
+  <div id="line-l-data" class="line-data">
+    <p id="l1" class="line-data-display-none">ona li insa, linja nimi o.</p>
+    <p id="l2" class="line-data-display-none">sina ken utala ala, jan o.</p>
+    <p id="l3" class="line-data-display-none">o awen kin, soweli Atan o.</p>
+    <p id="l4" class="line-data-display-none">wile ona li sama, toki o.</p>
+    <p id="l5" class="line-data-display-none">sina tan musi ala, walo o.</p>
+    <p id="l6" class="line-data-display-none">sitelen tawa li nasa, jan o!</p>
+    <p id="l7" class="line-data-display-none">telo suli li lon anpa, mun o.</p>
+    <p id="l8" class="line-data-display-none">ona o lukin, ante toki o.</p>
+    <p id="l9" class="line-data-display-none">sina wan o ante, nasin jan o.</p>
+    <p id="l10" class="line-data-display-none">mi kama, pilin weka olin o!</p>
+    <p id="l11" class="line-data-display-none">sina sama toki ma, uta o.</p>
+    <p id="l12" class="line-data-display-none">sin li pini, sitelen tawa o.</p>
+    <p id="l13" class="line-data-display-none">sina moku e ale, moli o.</p>
+    <p id="l14" class="line-data-display-none">sina seme lon pini, kala o?</p>
+    <p id="l15" class="line-data-display-none">mi lon, jan Apeja Akesi o.</p>
+    <p id="l16" class="line-data-display-none">kili li kama, nasin esun o.</p>
+    <p id="l17" class="line-data-display-none">wawa sina li weka, lawa o.</p>
+    <p id="l18" class="line-data-display-none">jaki kon li nasa, jan pona o.</p>
+    <p id="l19" class="line-data-display-none">o palisa e monsi, pilin o.</p>
+    <p id="l20" class="line-data-display-none">lete li len seli, wawa sin o.</p>
+    <p id="l21" class="line-data-display-none">kulupu li mu, esun lipu o.</p>
+    <p id="l22" class="line-data-display-none">kala li kama moli, tomo o.</p>
+    <p id="l23" class="line-data-display-none">sinpin li sama, lupa lupa o.</p>
+    <p id="l24" class="line-data-display-none">ilo tawa li seme, tomo o?</p>
+    <p id="l25" class="line-data-display-none">pona li anpa, nasin kiwen o.</p>
+    <p id="l26" class="line-data-display-none">pona tawa sina, soweli o.</p>
+    <p id="l27" class="line-data-display-none">suwi li sin, pakala pona o.</p>
+    <p id="l28" class="line-data-display-none">jaki li tawa linja, mama o.</p>
+    <p id="l29" class="line-data-display-none">utala li mi, tomo sona o.</p>
+    <p id="l30" class="line-data-display-none">sina lape, soweli Mesi o.</p>
+    <p id="l31" class="line-data-display-none">mi pona ala pona, sina o?</p>
+    <p id="l32" class="line-data-display-none">mama mute li moli, insa o.</p>
+    <p id="l33" class="line-data-display-none">musi sitelen li sewi, jan o.</p>
+    <p id="l34" class="line-data-display-none">toki, pilin pi ike ale o!</p>
+    <p id="l35" class="line-data-display-none">ni li nasa, sitelen lili o.</p>
+    <p id="l36" class="line-data-display-none">pini li pali, tenpo lape o.</p>
+    <p id="l37" class="line-data-display-none">pana kin o kasi, namako o.</p>
+    <p id="l38" class="line-data-display-none">o lon, pakala pi oko mi o.</p>
+    <p id="l39" class="line-data-display-none">laso taso li pona, kule o.</p>
+    <p id="l40" class="line-data-display-none">supa taso li awen, monsi o.</p>
+    <p id="l41" class="line-data-display-none">poki li supa, esun kili o.</p>
+    <p id="l42" class="line-data-display-none">o pini kin, utala nasa o!</p>
+    <p id="l43" class="line-data-display-none">ni li tan utala, ike kon o.</p>
+    <p id="l44" class="line-data-display-none">mi suwi anu seme, mama o?</p>
+    <p id="l45" class="line-data-display-none">o sama selo ona, olin o.</p>
+    <p id="l46" class="line-data-display-none">sitelen li musi, jan pali o.</p>
+    <p id="l47" class="line-data-display-none">o palisa e oko, jan Men o.</p>
+    <p id="l48" class="line-data-display-none">o moli. sina ike, wile o.</p>
+    <p id="l49" class="line-data-display-none">nasin anu ni li ken, sina o.</p>
+    <p id="l50" class="line-data-display-none">pilin pi ma mun li lon, suno o.</p>
+    <p id="l51" class="line-data-display-none">poki nasa li tawa, nasin o.</p>
+    <p id="l52" class="line-data-display-none">toki, lape pi moku ala o.</p>
+    <p id="l53" class="line-data-display-none">jan li tawa sina, kili sin o.</p>
+    <p id="l54" class="line-data-display-none">selo li nasa, musi Leko o!</p>
+    <p id="l55" class="line-data-display-none">ona li nasin telo, suwi o.</p>
+    <p id="l56" class="line-data-display-none">sina awen toki, kon kasi o.</p>
+    <p id="l57" class="line-data-display-none">suno li lon, akesi Pika o.</p>
+    <p id="l58" class="line-data-display-none">uta la, sina lon. utala o!</p>
+    <p id="l59" class="line-data-display-none">pona li awen wawa, ike o.</p>
+    <p id="l60" class="line-data-display-none">sina o tawa anpa, suno o.</p>
+    <p id="l61" class="line-data-display-none">sona li pan, sijelo jaki o.</p>
+    <p id="l62" class="line-data-display-none">lape ni li ken open, pali o?</p>
+    <p id="l63" class="line-data-display-none">ona li wile, luka sike o.</p>
+    <p id="l64" class="line-data-display-none">sina lon ala, mani pona o.</p>
+    <p id="l65" class="line-data-display-none">selo li tawa sina, pipi o.</p>
+    <p id="l66" class="line-data-display-none">sina o wawa ala, mani o!</p>
+    <p id="l67" class="line-data-display-none">sina lon lili, lipu sewi o.</p>
+    <p id="l68" class="line-data-display-none">o nasa, kulupu jan tenpo o.</p>
+    <p id="l69" class="line-data-display-none">o nasa e mi, tomo moku o.</p>
+    <p id="l70" class="line-data-display-none">jan Isa li seme, sina wan o?</p>
+    <p id="l71" class="line-data-display-none">sina kepeken ali, ijo o.</p>
+    <p id="l72" class="line-data-display-none">a! sina suli ala, lape o.</p>
+    <p id="l73" class="line-data-display-none">mi o weka, kulupu mama o.</p>
+    <p id="l74" class="line-data-display-none">telo li suwi taso, moku o!</p>
+    <p id="l75" class="line-data-display-none">nasin sitelen li nasa, mi o.</p>
+    <p id="l76" class="line-data-display-none">sewi li tawa, waso lete o.</p>
+    <p id="l77" class="line-data-display-none">ona li lon poka, mu mani o.</p>
+    <p id="l78" class="line-data-display-none">ike sina li suli, mama o.</p>
+    <p id="l79" class="line-data-display-none">o pona, toki Epelanto o.</p>
+    <p id="l80" class="line-data-display-none">jan li wile esun, lipu pu o.</p>
+    <p id="l81" class="line-data-display-none">mi ni, lipu pi nasa wawa o.</p>
+    <p id="l82" class="line-data-display-none">o open e tenpo lape, mi o!</p>
+    <p id="l83" class="line-data-display-none">ona li tan ma pona, suwi o.</p>
+    <p id="l84" class="line-data-display-none">kule ale li jaki, laso o.</p>
+    <p id="l85" class="line-data-display-none">mi moku e sina, noka mi o.</p>
+    <p id="l86" class="line-data-display-none">o jan, nasin pi awen nasa o!</p>
+    <p id="l87" class="line-data-display-none">o pana e insa pilin, jan o!</p>
+    <p id="l88" class="line-data-display-none">sina ken, palisa pi len ma o.</p>
+    <p id="l89" class="line-data-display-none">pilin tu wan li lon, lawa mi o.</p>
+    <p id="l90" class="line-data-display-none">sina o tawa, ma Pasila o.</p>
+    <p id="l91" class="line-data-display-none">mi lon poka, tenpo pimeja o.</p>
+    <p id="l92" class="line-data-display-none">sina o pali mute, jan sin o.</p>
+    <p id="l93" class="line-data-display-none">o kama lete, tenpo seli o.</p>
+    <p id="l94" class="line-data-display-none">o lawa e nasin pali, jan o!</p>
+    <p id="l95" class="line-data-display-none">o pini ike, ma Mewika o.</p>
+    <p id="l96" class="line-data-display-none">kiwen kin li palisa, sina o.</p>
+    <p id="l97" class="line-data-display-none">toki, nasin lape alasa o!</p>
+    <p id="l98" class="line-data-display-none">sewi sina li mani, jan sin o.</p>
+    <p id="l99" class="line-data-display-none">ma Ilan li pona, jan lawa o!</p>
+    <p id="l100" class="line-data-display-none">pona ala li lon, soweli o.</p>
+  </div>
+
+  <label for="number-l">linja nanpa l la o kepeken toki nanpa seme.</label>
+  <input type="number" value="50" id="number-l" name="number-l" min="1" max="100" />
+  <input aria-hidden="true" id="slider-l" name="slider-l" type="range" min="1" max="100" value="50" />
+
+</div>
+<div class="line" id="line-m">
+
+  <div id="line-m-data" class="line-data">
+    <p id="m1" class="line-data-display-none">ona li ken sona e nasin kin.</p>
+    <p id="m2" class="line-data-display-none">kala kili li wawa mute kin.</p>
+    <p id="m3" class="line-data-display-none">jan ku ni li tawa ma ante kin.</p>
+    <p id="m4" class="line-data-display-none">o olin e soweli suli kin.</p>
+    <p id="m5" class="line-data-display-none">sinpin sina li sama laso kin.</p>
+    <p id="m6" class="line-data-display-none">o open pi utala sina kin!</p>
+    <p id="m7" class="line-data-display-none">palisa lete li ken ilo kin.</p>
+    <p id="m8" class="line-data-display-none">mi monsi e kili pimeja kin.</p>
+    <p id="m9" class="line-data-display-none">kasi o ken moku e suno kin.</p>
+    <p id="m10" class="line-data-display-none">ona o pini e utala kin.</p>
+    <p id="m11" class="line-data-display-none">pona ala li wile awen kin.</p>
+    <p id="m12" class="line-data-display-none">palisa li ken telo e len kin.</p>
+    <p id="m13" class="line-data-display-none">pali li lili e lape mi kin.</p>
+    <p id="m14" class="line-data-display-none">ma Juke la, o suwi ala kin.</p>
+    <p id="m15" class="line-data-display-none">nimi namako li ken nasa kin.</p>
+    <p id="m16" class="line-data-display-none">nimi sin ali li ken jaki kin.</p>
+    <p id="m17" class="line-data-display-none">o utala ala! o awen kin!</p>
+    <p id="m18" class="line-data-display-none">o sitelen. o musi. o mu kin.</p>
+    <p id="m19" class="line-data-display-none">mi namako e moku lete kin.</p>
+    <p id="m20" class="line-data-display-none">kule taso li suli sina kin.</p>
+    <p id="m21" class="line-data-display-none">wawa ko li poki e telo kin.</p>
+    <p id="m22" class="line-data-display-none">moli li nasin ale li mi kin.</p>
+    <p id="m23" class="line-data-display-none">seli pi tawa sewi o ni kin.</p>
+    <p id="m24" class="line-data-display-none">monsi kala li ike lukin kin.</p>
+    <p id="m25" class="line-data-display-none">pali ala li sama sona kin.</p>
+    <p id="m26" class="line-data-display-none">lipu Tenpo li sama wawa kin.</p>
+    <p id="m27" class="line-data-display-none">nasin pali o kama ante kin.</p>
+    <p id="m28" class="line-data-display-none">o tawa ilo pi ko kasi kin!</p>
+    <p id="m29" class="line-data-display-none">ijo ala o ante o sin kin.</p>
+    <p id="m30" class="line-data-display-none">tan olin la, o kepeken mi kin.</p>
+    <p id="m31" class="line-data-display-none">a. kute li kalama musi kin.</p>
+    <p id="m32" class="line-data-display-none">o kute lon ilo Sotopi kin.</p>
+    <p id="m33" class="line-data-display-none">pakala taso li lon lawa kin.</p>
+    <p id="m34" class="line-data-display-none">oko ike li kama loje kin.</p>
+    <p id="m35" class="line-data-display-none">pali pi ma Pasila li lon kin.</p>
+    <p id="m36" class="line-data-display-none">sina o wile ala lukin kin.</p>
+    <p id="m37" class="line-data-display-none">pini en open li tan ike kin.</p>
+    <p id="m38" class="line-data-display-none">toki ike li kama mute kin.</p>
+    <p id="m39" class="line-data-display-none">kule insa ona li tonsi kin.</p>
+    <p id="m40" class="line-data-display-none">lupa walo tu li kepeken kin.</p>
+    <p id="m41" class="line-data-display-none">ijo luka taso o kama kin.</p>
+    <p id="m42" class="line-data-display-none">akesi li wile tawa pan kin.</p>
+    <p id="m43" class="line-data-display-none">monsi pipi li pona lukin kin.</p>
+    <p id="m44" class="line-data-display-none">lukin pi lipu sewi li musi kin.</p>
+    <p id="m45" class="line-data-display-none">telo li anpa e tomo ni kin.</p>
+    <p id="m46" class="line-data-display-none">moli ona en sina o ken kin.</p>
+    <p id="m47" class="line-data-display-none">mi o ilo pi pana tenpo kin.</p>
+    <p id="m48" class="line-data-display-none">pona li ken jaki e luka kin.</p>
+    <p id="m49" class="line-data-display-none">akesi mi li tomo telo kin.</p>
+    <p id="m50" class="line-data-display-none">sina tawa ma Italija kin.</p>
+    <p id="m51" class="line-data-display-none">open li sitelen e ona kin.</p>
+    <p id="m52" class="line-data-display-none">a. lape li loje e lawa kin.</p>
+    <p id="m53" class="line-data-display-none">olin ken awen nasa li ni kin:</p>
+    <p id="m54" class="line-data-display-none">sama la, kalama li kala kin.</p>
+    <p id="m55" class="line-data-display-none">ilo Epi taso li pona kin.</p>
+    <p id="m56" class="line-data-display-none">pali ali o pini ala kin!</p>
+    <p id="m57" class="line-data-display-none">o lawa ala e ma ante kin.</p>
+    <p id="m58" class="line-data-display-none">open moli en jan li sama kin.</p>
+    <p id="m59" class="line-data-display-none">olin pakala li ken pini kin.</p>
+    <p id="m60" class="line-data-display-none">lawa kulupu ni li lukin kin.</p>
+    <p id="m61" class="line-data-display-none">kiwen o wile tawa lawa kin.</p>
+    <p id="m62" class="line-data-display-none">kalama kiwen li lon musi kin.</p>
+    <p id="m63" class="line-data-display-none">nimi li kepeken uta len kin.</p>
+    <p id="m64" class="line-data-display-none">sijelo li jelo tan telo kin.</p>
+    <p id="m65" class="line-data-display-none">mani wawa sewi o jaki kin.</p>
+    <p id="m66" class="line-data-display-none">mani taso li awen wawa kin.</p>
+    <p id="m67" class="line-data-display-none">anpa sewi o lupa e ni kin:</p>
+    <p id="m68" class="line-data-display-none">tan wile la, ona o lape kin.</p>
+    <p id="m69" class="line-data-display-none">o awen moku e jan sona kin.</p>
+    <p id="m70" class="line-data-display-none">kiwen linja li len e tomo kin.</p>
+    <p id="m71" class="line-data-display-none">palisa ko li tawa e mi kin.</p>
+    <p id="m72" class="line-data-display-none">sinpin li suwi la, sina ken kin.</p>
+    <p id="m73" class="line-data-display-none">kulupu esun li wile wan kin.</p>
+    <p id="m74" class="line-data-display-none">oko poki li luka e mi kin.</p>
+    <p id="m75" class="line-data-display-none">tenpo li olin e pakala kin.</p>
+    <p id="m76" class="line-data-display-none">jan Wino li lon pona suli kin.</p>
+    <p id="m77" class="line-data-display-none">ona kin li alasa sona kin.</p>
+    <p id="m78" class="line-data-display-none">nanpa li nasa li ken musi kin.</p>
+    <p id="m79" class="line-data-display-none">linja kiwen o tawa oko kin.</p>
+    <p id="m80" class="line-data-display-none">utala nanpa li alasa kin.</p>
+    <p id="m81" class="line-data-display-none">o pona ala e kulupu kin.</p>
+    <p id="m82" class="line-data-display-none">ma mute mi li kama seli kin.</p>
+    <p id="m83" class="line-data-display-none">pini pali li pini e jan kin.</p>
+    <p id="m84" class="line-data-display-none">suli en lili a li sama kin.</p>
+    <p id="m85" class="line-data-display-none">nimi Nalanja li tan musi kin.</p>
+    <p id="m86" class="line-data-display-none">telo walo sewi li ken kon kin.</p>
+    <p id="m87" class="line-data-display-none">sijelo ma li ona mute kin.</p>
+    <p id="m88" class="line-data-display-none">nimi Isipin li pakala kin!</p>
+    <p id="m89" class="line-data-display-none">ken la, suno li tawa oko kin.</p>
+    <p id="m90" class="line-data-display-none">pali mani en sina li lon kin.</p>
+    <p id="m91" class="line-data-display-none">mu jaki sina la, mi toki kin.</p>
+    <p id="m92" class="line-data-display-none">lawa li jo e ijo ala kin.</p>
+    <p id="m93" class="line-data-display-none">o kama lawa e pali ni kin!</p>
+    <p id="m94" class="line-data-display-none">jan Apeja Akesi li ken kin.</p>
+    <p id="m95" class="line-data-display-none">supa ni o olin e lape kin.</p>
+    <p id="m96" class="line-data-display-none">nimi Lanpan li tan nimi "jo" kin.</p>
+    <p id="m97" class="line-data-display-none">ilo tomo li awen anpa kin.</p>
+    <p id="m98" class="line-data-display-none">akesi pi ken toki li lon kin.</p>
+    <p id="m99" class="line-data-display-none">o seli e sina, jan Elon o.</p>
+    <p id="m100" class="line-data-display-none">mama lawa li anpa ona kin.</p>
+  </div>
+
+  <label for="number-m">linja nanpa m la o kepeken toki nanpa seme.</label>
+  <input type="number" value="50" id="number-m" name="number-m" min="1" max="100" />
+  <input aria-hidden="true" id="slider-m" name="slider-m" type="range" min="1" max="100" value="50" />
+
+</div>
+<div class="line" id="line-n">
+
+  <div id="line-n-data" class="line-data">
+    <p id="n1" class="line-data-display-none">kute mute li tawa sitelen.</p>
+    <p id="n2" class="line-data-display-none">ante anpa ali o tan open.</p>
+    <p id="n3" class="line-data-display-none">nasin kulupu la, mi kepeken.</p>
+    <p id="n4" class="line-data-display-none">sina pini e olin e awen.</p>
+    <p id="n5" class="line-data-display-none">sewi lipu li ni: kule o ken.</p>
+    <p id="n6" class="line-data-display-none">tawa jan olin la, mi pali len.</p>
+    <p id="n7" class="line-data-display-none">mi nanpa e pilin anpa open.</p>
+    <p id="n8" class="line-data-display-none">ona o moku e luka kiwen.</p>
+    <p id="n9" class="line-data-display-none">soweli lape li wile awen.</p>
+    <p id="n10" class="line-data-display-none">toki telo li sama noka len.</p>
+    <p id="n11" class="line-data-display-none">o toki e toki Palepelen.</p>
+    <p id="n12" class="line-data-display-none">mani li moli kepeken kiwen.</p>
+    <p id="n13" class="line-data-display-none">nena noka pipi li sama ken.</p>
+    <p id="n14" class="line-data-display-none">ilo wawa li nasa kin e len.</p>
+    <p id="n15" class="line-data-display-none">jan lili li moli tan sitelen.</p>
+    <p id="n16" class="line-data-display-none">pana en weka li sona e ken.</p>
+    <p id="n17" class="line-data-display-none">pini la, o mi. mi la, o open.</p>
+    <p id="n18" class="line-data-display-none">soweli sina li moku e len.</p>
+    <p id="n19" class="line-data-display-none">lape pi mama mama li open.</p>
+    <p id="n20" class="line-data-display-none">jan ala o ante e sitelen!</p>
+    <p id="n21" class="line-data-display-none">ko jaki li tan monsi li awen.</p>
+    <p id="n22" class="line-data-display-none">ilo li moli tan pana kiwen.</p>
+    <p id="n23" class="line-data-display-none">olin pi moli jan li tan jan Men.</p>
+    <p id="n24" class="line-data-display-none">kon li weka. insa jan li open.</p>
+    <p id="n25" class="line-data-display-none">tomo tawa awen li sitelen.</p>
+    <p id="n26" class="line-data-display-none">sina pana e laso tawa len.</p>
+    <p id="n27" class="line-data-display-none">ilo wawa li sijelo kiwen.</p>
+    <p id="n28" class="line-data-display-none">pini mi li ken. open o open.</p>
+    <p id="n29" class="line-data-display-none">soweli li olin e sitelen.</p>
+    <p id="n30" class="line-data-display-none">o tenpo e mun. utala o len.</p>
+    <p id="n31" class="line-data-display-none">ona li esun e mi. o open!</p>
+    <p id="n32" class="line-data-display-none">uta pipi li wile e kiwen.</p>
+    <p id="n33" class="line-data-display-none">jan lawa la, pona ala li ken.</p>
+    <p id="n34" class="line-data-display-none">tomo sona la, pali li kiwen.</p>
+    <p id="n35" class="line-data-display-none">jan ali li wile lawa e ken.</p>
+    <p id="n36" class="line-data-display-none">mi tawa ala tawa ma Pelen?</p>
+    <p id="n37" class="line-data-display-none">nasin kiwen la, kasi ni li len.</p>
+    <p id="n38" class="line-data-display-none">toki ali ala li sitelen.</p>
+    <p id="n39" class="line-data-display-none">ona li olin e pali kiwen.</p>
+    <p id="n40" class="line-data-display-none">nasin pona kin li ike open.</p>
+    <p id="n41" class="line-data-display-none">ona o jo e nasin kepeken.</p>
+    <p id="n42" class="line-data-display-none">jan Ikasuninapeli li ken.</p>
+    <p id="n43" class="line-data-display-none">mi awen oko e nasin open.</p>
+    <p id="n44" class="line-data-display-none">ali la, jaki wile li awen.</p>
+    <p id="n45" class="line-data-display-none">nimi ni li ike! ona li ken.</p>
+    <p id="n46" class="line-data-display-none">kulupu lawa li anpa e len.</p>
+    <p id="n47" class="line-data-display-none">tenpo li alasa e jan Amen.</p>
+    <p id="n48" class="line-data-display-none">sina sike e oko e awen.</p>
+    <p id="n49" class="line-data-display-none">tomo lipu kon li kama open.</p>
+    <p id="n50" class="line-data-display-none">lawa sina li wile e kiwen!</p>
+    <p id="n51" class="line-data-display-none">tan ni la, ona li pali e len.</p>
+    <p id="n52" class="line-data-display-none">sina lili e ala sitelen.</p>
+    <p id="n53" class="line-data-display-none">ijo musi laso li tan kiwen.</p>
+    <p id="n54" class="line-data-display-none">mi open ala open lon e ken?</p>
+    <p id="n55" class="line-data-display-none">jan Pijana li olin sitelen.</p>
+    <p id="n56" class="line-data-display-none">mani la, nasin ike li awen.</p>
+    <p id="n57" class="line-data-display-none">pakala li sama mama open.</p>
+    <p id="n58" class="line-data-display-none">o lukin e toki luka Piten.</p>
+    <p id="n59" class="line-data-display-none">mute ilo ni li suli lon ken.</p>
+    <p id="n60" class="line-data-display-none">lon ala li pini tan sitelen.</p>
+    <p id="n61" class="line-data-display-none">ona en ijo ala li awen.</p>
+    <p id="n62" class="line-data-display-none">kulupu lawa sama li open.</p>
+    <p id="n63" class="line-data-display-none">luka en noka ona o tan ken.</p>
+    <p id="n64" class="line-data-display-none">moli mute la, jan o kepeken.</p>
+    <p id="n65" class="line-data-display-none">supa monsi li nanpa e ko len.</p>
+    <p id="n66" class="line-data-display-none">ni la, toki pali mute li ken!</p>
+    <p id="n67" class="line-data-display-none">sina sitelen ala sitelen?</p>
+    <p id="n68" class="line-data-display-none">ona li musi ilo sitelen.</p>
+    <p id="n69" class="line-data-display-none">jan Selen li lon e toki Selen!</p>
+    <p id="n70" class="line-data-display-none">mute nimi li lili lon open.</p>
+    <p id="n71" class="line-data-display-none">ona o ken e nasin la, mi ken.</p>
+    <p id="n72" class="line-data-display-none">suwi li ala e uta open.</p>
+    <p id="n73" class="line-data-display-none">sina sona ala sona e len?</p>
+    <p id="n74" class="line-data-display-none">ma lili Lino li sin sitelen.</p>
+    <p id="n75" class="line-data-display-none">ona tu anu mi tu o awen.</p>
+    <p id="n76" class="line-data-display-none">utala ona li ken ala ken?</p>
+    <p id="n77" class="line-data-display-none">sina o pilin pi tenpo open.</p>
+    <p id="n78" class="line-data-display-none">soweli ali li olin e len.</p>
+    <p id="n79" class="line-data-display-none">waso li lon e pipi kepeken.</p>
+    <p id="n80" class="line-data-display-none">pini ni li kepeken jan Omen.</p>
+    <p id="n81" class="line-data-display-none">akesi utala la, o awen.</p>
+    <p id="n82" class="line-data-display-none">o pakala kin e ilo Tenten!</p>
+    <p id="n83" class="line-data-display-none">lawa ona li loje tan kiwen.</p>
+    <p id="n84" class="line-data-display-none">a! wile pali ala li awen.</p>
+    <p id="n85" class="line-data-display-none">jan Kijetesantakalu o len.</p>
+    <p id="n86" class="line-data-display-none">mi o kepeken ala nimi "en."</p>
+    <p id="n87" class="line-data-display-none">suwi namako li ken ala ken?</p>
+    <p id="n88" class="line-data-display-none">o sona e sitelen sitelen.</p>
+    <p id="n89" class="line-data-display-none">jan Mike en jan Lisa li awen.</p>
+    <p id="n90" class="line-data-display-none">tawa ma li kepeken ma Penen.</p>
+    <p id="n91" class="line-data-display-none">tenpo la, mi ken ala kepeken.</p>
+    <p id="n92" class="line-data-display-none">sama la, noka len li luka len.</p>
+    <p id="n93" class="line-data-display-none">soweli pimeja pona li ken.</p>
+    <p id="n94" class="line-data-display-none">olin ona o tan pilin awen.</p>
+    <p id="n95" class="line-data-display-none">alasa nanpa wan li sitelen.</p>
+    <p id="n96" class="line-data-display-none">namako monsi li pilin open.</p>
+    <p id="n97" class="line-data-display-none">sitelen pi supa ilo li ken.</p>
+    <p id="n98" class="line-data-display-none">akesi Asan o insa e len.</p>
+    <p id="n99" class="line-data-display-none">pini ali o ante e awen.</p>
+    <p id="n100" class="line-data-display-none">esun moli la, sina kepeken.</p>
+  </div>
+
+  <label for="number-n">linja nanpa n la o kepeken toki nanpa seme.</label>
+  <input type="number" value="50" id="number-n" name="number-n" min="1" max="100" />
+  <input aria-hidden="true" id="slider-n" name="slider-n" type="range" min="1" max="100" value="50" />
+
+</div>
+
+
+<hr>
+    <h2>lipu sina pi nasin Soneto:</h2>
+
+<div class="final" id="final-poem">
+</div>
+
+
+
+
+
+<script>
+  // Define all component keys you're using (can go up to 'n')
+  const componentKeys = [...'abcdefghijklmn'];
+
+  componentKeys.forEach(key => {
+    const numberInput = document.getElementById(`number-${key}`);
+    const sliderInput = document.getElementById(`slider-${key}`);
+    const linesContainer = document.getElementById(`line-${key}-data`);
+    if (!numberInput || !sliderInput || !linesContainer) return; // skip if any element is missing
+
+    const allLines = linesContainer.querySelectorAll("p");
+
+    function getValidValue(value) {
+      if (!value || isNaN(value)) {
+        return Math.floor(Math.random() * 100) + 1;
+      }
+      return Math.min(100, Math.max(1, parseInt(value, 10)));
+    }
+
+    function updateLineDisplay(value) {
+      const n = getValidValue(value);
+
+      // Sync both inputs
+      numberInput.value = n;
+      sliderInput.value = n;
+
+      // Hide all lines
+      allLines.forEach(p => {
+        p.className = "line-data-display-none";
+      });
+
+      // Show selected line
+      const target = document.getElementById(`${key}${n}`);
+      if (target) {
+        target.className = "line-data-display";
+      }
+    }
+
+    numberInput.addEventListener("input", () => {
+      updateLineDisplay(numberInput.value);
+    });
+
+    sliderInput.addEventListener("input", () => {
+      updateLineDisplay(sliderInput.value);
+    });
+
+    // Initial render
+    updateLineDisplay(numberInput.value);
+  });
+</script>
+<script>
+  const finalPoemDiv = document.getElementById("final-poem");
+
+  function updateFinalPoem() {
+    const visibleLines = document.querySelectorAll("p.line-data-display");
+    finalPoemDiv.innerHTML = ""; // clear old lines
+
+    visibleLines.forEach(p => {
+      const clone = p.cloneNode(true); // copy the <p>
+      clone.removeAttribute("id"); // avoid duplicate IDs
+      clone.className = ""; // strip visibility class
+      finalPoemDiv.appendChild(clone);
+    });
+  }
+
+  // Hook into all relevant inputs (sliders + numbers)
+  const allInputs = document.querySelectorAll('input[type="range"], input[type="number"]');
+
+  allInputs.forEach(input => {
+    input.addEventListener("input", () => {
+      updateFinalPoem();
+    });
+  });
+
+  // Optional: run once on page load
+  updateFinalPoem();
+</script>
+
 
 </form>
