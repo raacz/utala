@@ -1,12 +1,10 @@
 ---  
-
 layout: lipu
 title: "nimi len: jan sama tu tu en soweli monsuta"
 suli_lipu: 
 mute_nimi: 
 ken_ike:
 ijo_toki: 
-
 ---
 
 <style>
