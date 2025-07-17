@@ -11,6 +11,7 @@ title: lipu lili ale pi sike#MAML
 - [akesi li moku e suno](lipu-suli/akesi-li-moku-e-suno.html)
 - [kon en jan](lipu-suli/kon-en-jan.html)
 - [meli tu pi lawa ante](lipu-suli/meli-tu-pi-lawa-ante.html)
+- [nimi len](lipu-suli/nimi-len.html)
 - [pakala mani](lipu-suli/pakala-mani.html)
 - [sitelen kiwen](lipu-suli/sitelen-kiwen.html)
 - [tenpo o pona](lipu-suli/tenpo-o-pona.html)
