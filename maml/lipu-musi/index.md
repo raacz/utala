@@ -12,6 +12,7 @@ title: lipu lili ale pi sike#MAML
 - [kon en jan](lipu-suli/kon-en-jan.html)
 - [meli tu pi lawa ante](lipu-suli/meli-tu-pi-lawa-ante.html)
 - [nimi len](lipu-suli/nimi-len.html)
+- [pali](lipu-suli/pali.html)
 - [pakala mani](lipu-suli/pakala-mani.html)
 - [pipi lili](lipu-suli/pipi-lili.html)
 - [sitelen kiwen](lipu-suli/sitelen-kiwen.html)
