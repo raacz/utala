@@ -22,7 +22,7 @@ title: lipu lili ale pi sike#MAML
 - [taso](lipu-suli/taso.html)
 - [tenpo o pona](lipu-suli/tenpo-o-pona.html)
 - [TLT (tonsi li tonsi)](lipu-suli/tlt.md)
-- [toki 10 pi nasin Soneto](lipu-suli/lipu-pi-suli-ale.html)
+- [toki 10<sup>28</sup> pi nasin Soneto](lipu-suli/lipu-pi-suli-ale.html)
 - [utala insa](lipu-suli/utala-insa.html)
 - [utala linja](lipu-suli/utala-linja.html)
 - [waso lili li lon insa pi tomo waso](lipu-suli/waso-lili-lon-insa-pi-tomo-waso.html)

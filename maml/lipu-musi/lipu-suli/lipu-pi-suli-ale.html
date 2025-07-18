@@ -28,6 +28,7 @@ ijo_toki:
         white-space: nowrap;
         width: 1px;
     }
+
     
     .content input[type="number"]{
         grid-column: 2;
@@ -1693,28 +1694,37 @@ ijo_toki:
 
   function updateFinalPoem() {
     const visibleLines = document.querySelectorAll("p.line-data-display");
+    const newContents = Array.from(visibleLines).map(p => p.textContent);
+
+    // Compare with current #final-poem children
+    const oldParagraphs = finalPoemDiv.querySelectorAll("p");
+    const oldContents = Array.from(oldParagraphs).map(p => p.textContent);
+
     finalPoemDiv.innerHTML = ""; // clear old lines
 
-    visibleLines.forEach(p => {
-      const clone = p.cloneNode(true); // copy the <p>
-      clone.removeAttribute("id"); // avoid duplicate IDs
-      clone.className = ""; // strip visibility class
-      finalPoemDiv.appendChild(clone);
+    newContents.forEach((text, index) => {
+      const p = document.createElement("p");
+      p.textContent = text;
+
+      // If line was changed (or new), apply flash
+      if (text !== oldContents[index]) {
+        p.classList.add("poem-flash");
+      }
+
+      finalPoemDiv.appendChild(p);
     });
   }
 
-  // Hook into all relevant inputs (sliders + numbers)
+  // Watch all range/number inputs
   const allInputs = document.querySelectorAll('input[type="range"], input[type="number"]');
-
   allInputs.forEach(input => {
-    input.addEventListener("input", () => {
-      updateFinalPoem();
-    });
+    input.addEventListener("input", updateFinalPoem);
   });
 
-  // Optional: run once on page load
+  // Run once at load
   updateFinalPoem();
 </script>
+
 
 
 </form>
