@@ -2,9 +2,10 @@
 layout: lipu
 title: waso lili li lon insa pi tomo waso
 suli_lipu: 
-mute_nimi: 
-ken_ike:
-ijo_toki: 
+mute_nimi: 842  
+ken_ike: 
+- ijo li poki
+ijo_toki: "waso lili li ken ala weka tan poki ona lon insa pi tomo jan. taso awen la, waso lili li wile sona e ijo mute pi poka ona!"
 ---
  
 tenpo wan la waso lili li lon insa pi tomo waso. tomo li lili li lon insa pi tomo jan. sinpin pi tomo waso li palisa kiwen mute. taso kon li lon insa pi palisa kiwen. ni la waso lili li ken lukin e tomo jan tan tomo waso.

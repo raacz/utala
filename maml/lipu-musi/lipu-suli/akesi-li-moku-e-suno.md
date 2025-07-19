@@ -2,14 +2,28 @@
 layout: lipu
 title: akesi li moku e suno
 suli_lipu: 
-mute_nimi: 
+nasin: akesi-li-moku-e-suno.html
+mute_nimi: 1920
 ken_ike:
-ijo_toki: 
+- utala
+- pakala sijelo
+ijo_toki: "jan ala li wile moli e akesi suli tan ni: jan ale pi wile ni li alasa e akesi suli la ona li moli. taso jan nasa wan pi wile nasa li pilin e ni: ona li sama ala jan ale pi tenpo pini."
 ---
 
-jan Kepen li lukin e sewi. akesi linja suli li lon. akesi li lukin e suno. jan Kepen li sona e ni: akesi ni li ken moku e suno.
+## nasin lipu
 
-## lipu wan : jan pali
+- [lipu wan: jan pali](#wan)
+- [lipu tu: sona pi jan Kepen](#tu)
+- [lipu wan tu: tawa suli](#wan-tu)
+- [lipu tu tu: tawa suliutala pi akesi sewi](#tu-tu)
+- [lipu luka: pini](#luka)
+
+<hr>
+
+jan Kepen li lukin e sewi. akesi linja suli li lon. akesi li lukin e suno. jan Kepen li sona e ni: akesi ni li ken moku e suno.
+<hr>
+
+<h2 id="wan">lipu wan : jan pali</h2>
 
 jan Wanto li pali e ilo utala kepeken kiwen. ona li pakala e kiwen seli. tomo ona li seli.
 
@@ -73,7 +87,8 @@ jan Wanto li mu li toki ala. jan li musi.
 
 \- mi jan Kepen.
 
-## lipu tu : sona pi jan Kepen
+<hr>
+<h2 id="tu">lipu tu : sona pi jan Kepen</h2>
 
 jan Kepen li toki e ale tawa jan Wanto.
 
@@ -82,92 +97,7 @@ jan Kepen li toki e ale tawa jan Wanto.
 jan Wanto li telo e ilo utala sin. kin la, ona li toki e ni :
 
 \- taso, akesi ni li lon ma. jan mute li wile utala e ona.
-󱤥󱥏󱤧󱥶󱤉󱤣󱥚　󱥨󱥶󱥤󱤧󱤄󱤂󱤡󱤘󱤮󱤧󱤈󱤬
-󱤝󱤧󱥩󱤡󱤗󱤧󱥌󱤉󱤭󱥩󱤗󱥒　󱤗󱤄󱤧󱥳󱤬󱥩󱤻
-󱥩󱥵󱤡󱤗󱤄󱥒󱤧󱤖󱤜󱤬󱤮　󱤗󱥳󱤧󱤬󱤂　󱥟󱥮󱥍󱤞󱤗󱤼󱤧󱥨󱤬󱥒
-󱤏󱥍󱥟󱥮󱤡󱥊󱥣󱤿󱤧󱤃󱥎󱥩󱤰󱥶　󱥊󱤧󱥧󱤸󱥩󱥟　
-󱤿󱤡󱤞󱥠󱤧󱥑󱥩
-　　󱤒󱤒　󱥏　󱤒󱤒　󱥏
-󱤹󱥑󱤧󱤖󱥣　󱤗󱤧󱤖󱥚󱥧󱤰󱤬󱥃󱤧󱥜󱤉󱥛
-󱥆󱤧󱥡　　󱤗󱤻󱤧󱥬󱤥　󱥩󱥑󱥹󱤧󱥬󱤇󱥙　　󱥆󱤧󱥡
-󱥰󱤿󱤧󱥇󱤧󱥬
-　　　　󱤧󱤶󱤉󱤴
-　󱤡󱤹󱥣󱥍󱥌󱤝󱤡󱤴󱥶󱥧󱤢
-󱦜　　　　　　　　　　　　　　　　　　　　　　　　　　　　󱦜
-󱤯󱥤󱥭󱤡󱤴󱤮󱤉󱥚󱥍󱤒󱤫　󱤗󱤣󱥶󱤧󱤈󱤬󱤰󱥆
-󱤴󱤘󱥉󱤉󱥪󱥦󱥏󱤀
-󱤴󱥌󱤉󱤌󱤨󱥲󱤡󱥪󱥏󱤧󱥥󱤬󱤅󱥍󱥲󱤜
-󱤴󱥇󱤉󱤯󱥭󱤡󱤝󱤧󱤖󱥩󱥟󱤴　󱥪󱥗󱤊󱤝󱤦󱤡󱤴󱤈󱤬󱤮󱥍󱤖󱤞󱥚
-󱤴󱤖󱤉󱤥󱥦󱤫󱤩󱤬󱤅󱥍󱤤󱤴󱤬󱥜　󱥆󱥄󱤈󱤉󱤴󱥧󱤦
-󱤈󱥄󱥐󱤂
-󱦜　　　　　　　　　　　　　　　　　　　　　　　　　　　　󱦜
-󱤏󱥭󱤡󱤴󱤊󱤑󱤆󱤭󱤧󱤖󱤬󱥘󱥥
-󱤑󱥍󱤤󱥉󱤧󱥬　󱤬󱥆󱤧󱥬󱤀󱥍󱥐󱤂󱤬󱥫󱤄󱤡󱥁︂󱤧󱥸︀󱤂
-「󱤀　󱤑󱥳󱥨󱤧󱤬󱤂󱤡󱤼󱥔󱤧󱤬󱥩󱥇
-　󱥁︁󱤡　󱤄󱥄　󱥫󱥁󱤧󱥫󱥣　󱤋󱤊󱤌󱤧󱤼󱤡󱤄󱤧󱥵
-　󱥄󱤢󱤂󱤬󱥉　󱤴󱥄󱤖󱥬󱤉󱤌󱥉󱥍󱥫󱥤󱥁󱤭」
-󱤤󱤧󱤈󱥬
-󱤴󱤈󱤮󱤉󱥁
-　　　　󱥥󱤑󱥳󱤡󱤑󱤧󱤈󱤂
-󱥨󱥣󱤂　󱤬󱥍󱤑󱥁︁󱤧󱤐󱥩󱤮
-󱦜　　　　　　　　　　　　　　　　　　　　　　　　　　　　󱦜
-󱤴󱥷󱥉󱤉󱥋󱤡󱤴󱥩󱤋　󱤬󱤄󱤌󱤡󱤴󱥡󱤂󱤉󱤿
-󱥟󱥣󱥍󱥓󱤶󱤄󱤧󱤈󱤉󱤴󱤬󱥶󱥧󱤌󱥍󱥷󱤴　󱥱󱤼
-󱤴󱥈󱤉󱥆󱤡󱥙󱤍󱤀󱤧󱤘󱤖　󱥟󱤧󱤍󱤉󱤴󱤡󱤴󱤘󱥥󱤉󱥟　󱤋󱥔
-󱥈󱤧󱤘󱤨󱥨　󱤴󱤑󱥈󱤂　󱥈󱤧󱤨󱥨
-󱤴󱤮󱤉󱤑󱤫
-「󱥬　󱤴󱤍󱤧󱥡󱤂󱤉󱤬󱥍󱤌󱥋　󱥆󱤧󱤬󱥙」
-󱤑󱤫󱤧󱥬
-「󱤍󱤂󱤀　󱥆󱤧󱤬󱤿󱤶󱤽󱤭󱥮󱥮
-　󱥞󱤮󱤉󱥟󱥶󱥭󱥍󱥪󱤱󱥲󱤡󱥄󱥩󱤿󱤽󱥁︁󱤡󱥞󱤬」
-「󱥡󱥔　󱤴󱥁︁」
-「󱥄󱤃󱥔󱤀　󱥞󱥷󱤉󱤆󱤡󱥄󱥬」
-󱤴󱥈󱤉󱤂
-󱦜　　　　　　　　　　　　　　　　　　　　　　　　　　　　󱦜
-󱥭󱥍󱥵󱥛󱤡󱤴󱤃󱥶󱤉󱤾󱥛
-󱥃󱤊󱥃󱥝󱤡󱤴󱥩󱤼󱤬󱤎󱥍󱥥󱥜
-　󱤹　　󱤹　　󱤹　　󱤹　　󱤹　　󱤹
-󱥫󱥹󱤧󱥩󱤡󱤴󱤖󱥨󱤬󱤄󱥭　󱤴󱤮󱤉󱥒󱤡󱤂󱤧󱤬
-󱥃󱤊󱥃󱥝󱤡
-　󱤹　　󱤹　　󱤹　　󱤹　　󱤹　　󱤹
-󱤴󱤢󱤨󱤉󱥛󱤬󱥥　󱤴󱤮󱤡󱤂󱤧󱤬󱥒
-󱤸󱤧󱥟󱥭󱤡󱤴󱤈󱤧󱤮󱤬󱤂󱥁︁
-󱦜　　　　　　　　　　　　　　　　　　　　　　　　　　　　󱦜
-󱤏󱥍󱥭󱤶󱤡󱤃󱤶󱤧󱤖󱤂󱤉󱤌󱥷
-󱤿󱤧󱥙󱤀　󱤌󱥍󱤼󱥣󱤡󱤿󱤧󱤾　󱥩󱤧󱥜󱤧󱥜󱥝󱤧󱥜󱥝󱤽󱥮󱥳
-󱤑󱥳󱥍󱤩󱤤󱥲󱤧󱤮　󱥆󱤧󱤈󱤉󱥛󱤙󱥓󱤋󱥩　󱤂󱤆󱤧󱤬󱤏
-󱥩󱤾󱥜󱤡󱥆󱤧󱤈󱤬󱤰󱥖󱤬󱥜󱤄󱤧󱤮　󱥟󱥍󱥎󱤍󱤡󱥒󱥍󱥰󱥆󱤧󱤅
-󱥆󱤧󱤮󱤉󱤴　󱤴󱥎󱤉󱤮󱥆　「󱤑󱥁󱤧󱤾󱥈󱥙」
-　　　　　　　　　　　　　󱥁︁󱤧󱥎󱥆　󱤴󱤠
-󱤴󱤘󱤂　󱤴󱥜󱤽󱥮󱥮　󱥨󱤴󱥶󱤂
-󱥟󱥏󱥍󱤶󱤄󱤋󱤧󱥩󱤹　󱥰󱤑󱤧󱤈󱥩󱤅󱥩󱥃
-󱤴󱥑󱤬󱤏󱤡󱥟󱤧󱥩󱤅　󱥆󱤧󱥷󱥥󱤉󱤴󱥩󱤂
-󱤴󱤘󱤂󱥶　󱤴󱥄󱥱　󱥁󱤧󱤘󱥨󱥍󱥷󱤂
-󱤴󱤘󱤂󱥶
-󱦜　　　　　　　　　　　　　　　　　　　　　　　　　　　　󱦜
-󱥭󱥩󱤩󱤡󱤴󱤈󱤬󱥥　󱤑󱤼󱤧󱤬󱥒󱤧󱤈󱥊󱤧󱤮󱤉󱤎󱤭
-「󱤴󱤖󱤬　󱤿󱤁󱥍󱤗󱤫」
-󱥭󱤧󱥐󱥩󱤡󱤯󱤧󱥇　󱥃󱥩󱤼󱤡󱤑󱤏󱤊󱤑󱥶󱤧󱤋
-「󱤖󱤡　󱤿󱥢󱥍󱤛󱤫」
-󱤑󱤏󱥝󱥹󱤧󱤮󱤉󱤎󱤭　󱤤󱤊󱤮󱤧󱤅　󱤹󱥩󱤧󱤬󱥝󱥖
-󱥨󱥳󱤧󱤆　󱥳󱤧󱤮󱤉󱤴　󱤴󱤮󱤅󱤧󱤮󱥚󱥝
-󱤑󱥩󱤄󱤧󱤿󱥪󱤡󱥁︁󱥳󱤧󱤛󱤈󱥍󱥩󱤂
-󱤤󱥆󱤧󱥚󱤧󱥶󱥧󱥘󱥪
-　　󱤧󱤮
-󱤴󱤘󱥎󱤉󱥷󱥆󱥁︀　󱥱󱤊󱥐󱤊󱤷󱤊󱤂
-「󱤴󱤖󱤬　󱤿󱥢󱥍󱤛󱤫」
-󱥙󱤡󱤑󱤆󱤧󱤮󱤂󱤉󱥆󱤀　󱥆󱤧󱤬󱤧󱤖󱥩󱤴　󱤴󱤀
-󱥵󱤡󱤴󱤖󱤉󱤌󱤴󱤬󱤭　󱤯󱤧󱥇　󱤴󱥶　󱤴󱤘󱤈󱥩󱤬󱤿󱥃
-󱤴󱥶
-󱦜　　　　　　　　　　　　　　　　　　　　　　　　　　　　󱦜
-󱤬󱥃󱤡󱤴󱥩
-󱤰󱤧󱥲󱤧󱤛　　　　　󱤰󱤧󱥏󱤧󱤜
-󱥚󱤡󱥭󱤧󱥤　　　　　󱥚󱤡󱤗󱤧󱤥
-󱤝󱤧󱤦󱤉󱤴　　　　　󱥗󱤧󱥪󱤉󱤴
-󱤬󱤿󱤡󱤴󱥨　　　　　󱤴󱥮󱥍󱥨󱤂
-󱤈󱤡󱤴󱤈󱥩　　　　　󱤈󱤡󱤴󱤈󱥩
-󱥓󱤴󱤧󱤬󱤭　　　　　󱤎󱥊󱤧󱤬󱤭
-󱤒󱤊󱥏󱤬󱤿　　　　　󱤫󱤊󱤫󱤬󱤰
+
 \- tenpo ni la, akesi li lape ala. akesi ni li wile moku. tenpo pini la, ona li moku e wawa nasa ale. tenpo ni la, wawa nasa li lili. tan ni la, jan ala li ken kepeken e wawa nasa. wawa nasa li lon ala la, akesi li wile moku e ijo ante. ona li wile moku e suno.
 
 jan Wanto li pilin insa e lawa ona. ona li mu.
@@ -200,7 +130,8 @@ lipu li sin ala. ona li suli, kin. lipu ni li « toki pi tenpo pini ». jan Want
 
 jan Wanto li toki insa pi lawa ona. ona li lukin e ilo. ni li palisa utala. ona li pona suli. ilo ni li kepeken wawa nasa. jan pali li sona ala e ni : ona li ken ala ken pali e ilo sama ?
 
-## lipu wan tu : tawa suli
+<hr>
+<h2 id="wan-tu">lipu wan tu : tawa suli</h2>
 
 tenpo li tawa la, jan Wanto li pini e palisa utala. ona li pona. jan Wanto en jan Kepen li pilin sama. taso, jan Wanto li sona e ni : palisa utala ni li ken ala kepeken wawa nasa. ni la, jan Kepen li ken ala moli e akesi Sumeku.
 
@@ -248,7 +179,8 @@ jan Kepen li toki ala. ona li supa. jan Wanto li lukin.
 
 jan Wanto li supa. jan tu li lape.
 
-## lipu tu tu : utala pi akesi sewi 
+<hr>
+<h2 id="tu-tu">lipu tu tu : utala pi akesi sewi </h2>
 
 ma la, kon li lete. taso, kon li seli lon poka nena. jan Kepen en jan Wanto li tawa lon nena. jan Kepen li weka e len ona tan seli.
 
@@ -306,7 +238,8 @@ jan Kepen li lukin e palisa utala.
 
 \- kalama li wawa nasa. mi ken kepeken e wawa nasa lili kepeken palisa utala taso.
 
-## lipu luka : pini
+<hr>
+<h2 id="luka">lipu luka : pini</h2>
 
 jan Kepen en jan Wanto li tawa lon tomo pi jan Wanto. jan Kepen li toki e moli pi akesi sewi tawa jan ale. taso, jan ala li kute e toki ona. jan lili taso li pilin pona tawa toki ni. jan Kepen li sitelen e lipu. jan lili ale li pilin pona tawa ona. palisa utala li lon sinpin esun pi jan Wanto. jan mute li wile e ilo utala sin tan ni.
 

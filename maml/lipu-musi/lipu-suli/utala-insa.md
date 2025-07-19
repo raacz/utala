@@ -4,7 +4,10 @@ title: utala insa
 suli_lipu: 
 mute_nimi: 
 ken_ike:
-ijo_toki: 
+- toki pi pilin ike suli
+- moli pi ona sama
+- pilin anpa pi wile moli
+ijo_toki: "pona en ike. olin en pakala. wile awen en wile moli. pilin mute li utala tu lon mama pi jan pali. o kama sona e mama ni e utala ona kepeken nasin pi toki tu."
 ---
 
 

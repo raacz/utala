@@ -3,8 +3,12 @@ layout: lipu
 title: utala linja
 suli_lipu: 
 mute_nimi: 
-ken_ike:
-ijo_toki: 
+ken_ike: 
+- jan li wile moli
+- ma li pakala mute
+- toki lili pi unpa ike pakala
+- toki lili pi nasin sewi
+ijo_toki: "lon ma pi tenpo kama la jan pi mani mute li pakala e ma e kulupu, la jan nasa Pensamin Panana li lukin utala sewi kepeken linja."
 ---
 
 kon pi ma Sewiton li ike.

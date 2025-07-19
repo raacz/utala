@@ -2,9 +2,12 @@
 layout: lipu
 title: kon tu li toki
 suli_lipu: 
-mute_nimi: 
+mute_nimi: 1419
 ken_ike:
-ijo_toki: 
+- jan olin tu li lon weka pi ona sama lon tenpo suli
+- toki pi nasin sewi
+
+ijo_toki: "meli olin li tawa weka tawa tomo pi nasin sewi. taso mije en meli li awen toki kepeken lipu kasi. mije li pana e sona pi toki pona tawa meli. ona tu li pali e kulupu ni pi toki musi li toki e olin e nasin e lon e ma."
 ---
 <style>
     .content h2{

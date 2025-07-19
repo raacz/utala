@@ -2,9 +2,12 @@
 layout: lipu
 title: kon en jan (lipu nanpa wan)
 suli_lipu: 
-mute_nimi: 
-ken_ike:
-ijo_toki: 
+mute_nimi: 922
+ken_ike: "- pilin ni: ijo li ken ala moku e kon
+- pilin nasa sijelo
+- pilin poki pi ken ala weka
+- kon moli"
+ijo_toki: 'mi kon. mi o lon ala. taso mi lon. jan li kama e mi tan ala. mi sona ala e ni: jan pi kama mi li wile e seme.'
 ---
 
 mi o lon ala. ni li pakala. mi lon tan seme?
@@ -83,6 +86,7 @@ mi open e uta mi. tenpo lili la, kon mute li kama lon insa sijelo. insa mi li ka
 seme la mi ken ... a! mi sona! mi open e uta mi. kon li weka! mi moku e kon sin. mi awen ni lon tenpo suli. mi ni lon tempo mute la, mi kama ni tan ala wile. ona li kama pilin tenpo. mi pilin pona.
 
 "pona a! tenpo ni la, o tawa e luka mi"  
+
 seme la mi ken ni ... nn
 
 "o wile e tawa luka"

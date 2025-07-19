@@ -2,9 +2,9 @@
 layout: lipu
 title: lipu pi kulupu Winx
 suli_lipu: 
-mute_nimi: 
+mute_nimi: 506
 ken_ike:
-ijo_toki: 
+ijo_toki: "kulupu Winsu Ku li jo e jan pona mute!"
 ---
 
 sina lon ma pona. sina lukin e jan meli. jan meli ni li lon kulupu Winsu Ku. nimi pi ona nanpa wan li jan Pu. jan Pu li ni: ona li jo e linja loje. ona li jan kon. ma ona li ma Tomino. ona li pali e kulupu Winsu Ku. jan pona ona li jan Sitela li jan Teku li jan Pola li jan Musa. sina lukin e sitelen ni: "o kama pona tawa ma tomo Katenija."
