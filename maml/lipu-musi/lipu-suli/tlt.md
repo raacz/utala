@@ -2,9 +2,9 @@
 layout: lipu
 title: TLT (tonsi li tonsi)
 suli_lipu: 
-mute_nimi: 
+mute_nimi: 1425
 ken_ike:
-ijo_toki: 
+ijo_toki: "nimi 'tonsi' li wawa. tonsi li ken nasin ante mute. o kama sona e kulupu lili pi jan tonsi mute e ni: kule pi tonsi ona li ante mute a. sina sama ala sama ona?"
 ---
 
 <strong>jan Ka</strong> li jan musi pi pana sitelen. ona li pana e sitelen tawa ilo pi jan mute. sitelen la, ijo mute li ken kama. jan Ka li pana e sona pi pali moku. ona li pali e pan suwi kepeken kili pi ma kili ona. pan suwi ni li tawa jan pona ona: jan Lu en jan Ki. moku li pali e kulupu pona.

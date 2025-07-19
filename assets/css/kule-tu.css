@@ -16,6 +16,10 @@
     font-family: "sitelen seli kiwen mono asuki";
     src: url(/assets/sitelenselikiwen/sitelenselikiwenmonoasuki.ttf);
 }
+@font-face {
+  font-family: "fairfax";
+  src: url(/assets/FairfaxPonaHD.ttf);
+}
 
 
 @font-face {

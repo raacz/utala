@@ -1,7 +1,7 @@
 ---  
 layout: lipu
 title: pakala mani
-suli_lipu: suli lili
+suli_lipu: 
 mute_nimi: 
 ken_ike:
 ijo_toki: 

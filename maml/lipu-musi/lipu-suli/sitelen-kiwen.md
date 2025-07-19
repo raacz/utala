@@ -2,9 +2,10 @@
 layout: lipu
 title: sitelen kiwen
 suli_lipu: suli lili
-mute_nimi: 
-ken_ike:
-ijo_toki: 
+mute_nimi: 638
+ken_ike: 
+- toki pi nasin sewi
+ijo_toki: "jan anpa li wile e pona li toki tawa sewi kepeken sitelen pona. taso, ona li ken ala ken sitelen pona kepeken sitelen pona?"
 ---
 
 

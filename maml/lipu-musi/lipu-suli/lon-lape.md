@@ -2,7 +2,7 @@
 layout: lipu
 title: lon lape
 suli_lipu: 
-mute_nimi: 
+mute_nimi: 1019
 ken_ike:
 ijo_toki: 
 ---
@@ -160,7 +160,8 @@ mi o kama toki e ijo pali pi tenpo suno ni luka
 
 lawa li awen toki
 
-mi awen lukin e ni supa jan wan la jan li awen ala
+mi awen lukin e ni  
+supa jan wan la jan li awen ala
 
 taso suli ala. lon pi jan ni li jaki tawa lukin
 

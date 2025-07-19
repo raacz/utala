@@ -1,10 +1,13 @@
 ---  
 layout: lipu
 title: meli tu pi lawa ante
-suli_lipu: suli lili
-mute_nimi: 
+suli_lipu: 
+mute_nimi: 1141
 ken_ike:
-ijo_toki: 
+- moli mama
+- utala suli ma
+- pilin ike jan
+ijo_toki: "jan lawa moli la meli lili ona tu li kama jan lawa tu sin pi ma sin tu li kepeken nasin lawa ante a. utala li ken ala ken lon ala?"
 ---
 
 tenpo pi weka mute la mije wan li lawa e ma. ona en meli ona li sin e meli lili tu.
@@ -31,13 +34,13 @@ jan lon poka Majuna li ｢ike a｣ li ｢seme a?!｣ li ｢o ala a!｣: lawa ona
 
 meli Sin li pona tawa jan ona. ona li sin e tomo suli pi jan pi tomo ala. ona li pana e mani mute ona tawa ma. tomo sona en sona jan li kama suli. jan li lukin ike la ona li toki tawa ona.
 
-melo Majuna li ike tawa jan ona. ona li sin e tomo suli pi jan pi pakala lawa. ona li lanpan e mani mute tan ma ona. tomo sona en sona jan li kama lili.
+meli Majuna li ike tawa jan ona. ona li sin e tomo suli pi jan pi pakala lawa. ona li lanpan e mani mute tan ma ona. tomo sona en sona jan li kama lili.
 
-suno wan la meli Majuna li lukin e ma Sin li lukin e olin jan tawa lawa ona. ona li wile e ni li jo ala e ni. tan seme a?! ken la jan ona li pakala: ona o lanpan e nan tan meli Sin a! la ona li open e utala suli.
+suno wan la meli Majuna li lukin e ma Sin li lukin e olin jan tawa lawa ona. ona li wile e ni li jo ala e ni. tan seme a?! ken la jan ona li pakala: ona o lanpan e jan tan meli Sin a! la ona li open e utala suli.
 
 meli Sin li toki e ni: ｢jan o: meli Majuna li open utala e mi. sina ken li wile la o kama tawa mi. sina ken kama tawa kulupu utala mi la mi mute li ken awen e ma. sina ken ala anu sina wile ala la mi mute li lukin sin e poki jan pi awen mute.｣
 
-meli Majuna li toki e ni: ｢jan o: mi utala e meli Majuna. mije li jo e ken utala suli: mije ali o kama lon kulupu utala mi. meli li ken lukin e jan kili sina.｣
+meli Majuna li toki e ni: ｢jan o: mi utala e meli Sin. mije li jo e ken utala suli: mije ali o kama lon kulupu utala mi. meli li ken lukin e jan kili sina.｣
 
 utala li open. tenpo ale la jan pi poka Sin li sona e ike pi poka Majuna. taso tenpo ni taso la jan pi poka Majuna li ken sona e pona pi poka Sin. jan Sin li wile awen e ma ona la jan Majuna li wile ala utala e ona.
 

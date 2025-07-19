@@ -1,14 +1,13 @@
 --- 
- 
 layout: lipu
 title: pipi lili
 suli_lipu:
- 
-mute_nimi:
- 
+mute_nimi: 808
 ken_ike:
-ijo_toki:
- 
+- wan taso
+- toki pi lon ala
+- moli
+ijo_toki: "pipi lili li kama weka tan kulupu pipi li pilin ike. ona li alasa e kulupu la pona li kama ala. ona li ken ala alasa lon ona taso, la ona o toki tawa ijo ante pi ma kasi..."
 ---
 
 <style>
@@ -33,7 +32,7 @@ pipi ale pi kulupu ni li kama weka.
 tenpo ni la pipi lili li taso.
  
 
-<br>
+<hr>
 
 pipi lili li wile lon kulupu li alasa e ona.
  
@@ -68,7 +67,7 @@ soweli li toki: 'pipi mute ike li lon a! ona li pakala e selo mi li wile moku e 
 pipi li sona e ni: soweli suli li toki lon. ni la, ona li tawa weka.
  
 
-<br>
+<hr>
 
 pipi lili li lukin e akesi laso. akesi ni li tawa lon telo li mu pona. ona li sama ala pipi.
  
@@ -86,21 +85,11 @@ waso lili en soweli en akesi li toki ike tawa pipi lili. ona o seme lon tenpo ni
 
 pipi lili li pilin ike suli li toki pilin: 'kulupu mi li weka a! mi taso. mi ken ala ante e ni. mi o seme?'
  
-waso pimeja suli li kute e ona li kama sin li toki: 'pipi lili o! seme 
+waso pimeja suli li kute e ona li kama sin li toki: 'pipi lili o! seme li kama e pilin ike sina?'
  
-li kama e pilin ike sina?'
+pipi li toki: 'tenpo suli a la mi alasa e kulupu pipi mi, taso mi sona ala e ni: ona li lon seme? tenpo ni la mi lukin e pipi wan la mi pilin pona. taso pipi ala a li lon!'
  
-pipi li toki: 'tenpo suli a la mi alasa e kulupu pipi mi, taso mi sona 
- 
-ala e ni: ona li lon seme? tenpo ni la mi lukin e pipi wan la mi 
- 
-pilin pona. taso pipi ala a li lon!'
- 
-waso li toki: 'n... mi kin li lukin ala e pipi ante lon tenpo ni, taso 
- 
-mi sona e ni: tenpo kama poka la pipi wan li lon ma wan. mi ken 
- 
-pana e sona ni tawa sina: ona li lon ma seme?'
+waso li toki: 'n... mi kin li lukin ala e pipi ante lon tenpo ni, taso mi sona e ni: tenpo kama poka la pipi wan li lon ma wan. mi ken pana e sona ni tawa sina: ona li lon ma seme?'
  
 pipi li pilin pona wawa li toki: 'o pana! mi wile sona!'
  

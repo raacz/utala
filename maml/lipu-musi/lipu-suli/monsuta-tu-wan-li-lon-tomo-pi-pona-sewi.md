@@ -2,9 +2,15 @@
 layout: lipu  
 title: monsuta tu wan li lon tomo pi pona sewi  
 suli_lipu:   
-mute_nimi:   
+mute_nimi: 1312   
 ken_ike:  
-ijo_toki:   
+- moli en utala
+- monsuta
+- pana pi telo loje sijelo
+- jan li nasa pakala tan telo
+- nasin sewi
+- jan li ken ala tawa tan poki pi linja kiwen
+ijo_toki: "kulupu pona li alasa e monsuta pi moli jan la ona li kama lukin e kasi suli e tomo moli e lupa sike e meli pakala..."
 ---  
 
 <style>
