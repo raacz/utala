@@ -34,7 +34,7 @@ title: lipu lili ale pi sike#MAML
 {% for page in lipu_pages %}
     <li>
     <a href="{{ page.url }}">{{ page.title }}</a> 
-     <span></span>
+     <span>mute nimi: {{ page.mute_nimi}}</span>
      <span>{{ page.ijo_toki }}</span>
     </li>
 {% endfor %}

@@ -19,6 +19,9 @@ ijo_toki:
 
    
 </style>
+
+[o lukin kepeken sitelen Lasina](#Lasina)
+
 <div class="nasin-nanpa" markdown="1">
 󱤥󱥏󱤧󱥶󱤉󱤣󱥚　󱥨󱥶󱥤󱤧󱤄󱤂󱤡󱤘󱤮󱤧󱤈󱤬  
 󱤝󱤧󱥩󱤡󱤗󱤧󱥌󱤉󱤭󱥩󱤗󱥒　󱤗󱤄󱤧󱥳󱤬󱥩󱤻  
@@ -102,17 +105,14 @@ ijo_toki:
 </div>  
 
 <div class="lasina" markdown="1">
+
+<h2 id="Lasina">sitelen Lasina</h2>
+
 len pimeja li weka e laso sewi. taso weka suno li ale ala la ken lukin li awen lon
 
-kon li tawa la kasi li pana e luka tawa kasi poka. kasi ale li wan lon tawa musi.
+kon li tawa la kasi li pana e luka tawa kasi poka. kasi ale li wan lon tawa musi. tawa wawa la kasi ale poka li kama ko lon lukin. kasi wan li lon ala. sinpin tu pi kule kasi mute li taso lon poka
 
-tawa wawa la kasi ale poka li kama ko lon lukin. kasi wan li lon ala. sinpin tu pi
-
-kule kasi mute li taso lon poka
-
-insa pi sinpin tu la palisa suli nasin li alasa piln tawa ma weka. palisa li tan monsi
-
-tawa sinpin. nasin la kule sitelen li pipi tawa
+insa pi sinpin tu la palisa suli nasin li alasa piln tawa ma weka. palisa li tan monsi tawa sinpin. nasin la kule sitelen li pipi tawa
 
 jelo jelo. pimeja. jelo jelo. pimeja
 
@@ -126,7 +126,7 @@ uta nasin li open li toki li moku e mi
 
 la mu suli pi pana kon la mi weka tan lape
 
-<hr>
+—                                                                                                                               —
 
 lupa suno tomo la mi lukin e sewi pi laso loje. kasi laso weka li awen lon ma ona
 
@@ -134,46 +134,33 @@ mi ken pali e telo suwi pimeja a
 
 mi pana e ijo lili walo la telo pimeja li supa lon anpa pi walo ko
 
-mi open e lupa tomo la kon li kama tawa sinpin mi. telo seli en kon lete la mi
+mi open e lupa tomo la kon li kama tawa sinpin mi. telo seli en kon lete la mi awen lon lukin pi kama kule sewi
 
-awen lon lukin pi kama kule sewi
-
-mi kama e len suwi loje linja lon anpa pi lawa mi lon sike. ona o awen e mi tan
-
-lete
+mi kama e len suwi loje linja lon anpa pi lawa mi lon sike. ona o awen e mi tan lete
 
 awen o pini ala
 
-<hr>
+—                                                                                                                               —
 
 insa tomo la mi en jan ante luka li kama lon selo supa
 
-jan pi lawa pali li toki. lon ona li toki a pi pini ala lon tenpo ale la ni li namako
+jan pi lawa pali li toki. lon ona li toki a pi pini ala lon tenpo ale la ni li namako ala.
 
-ala.
-
-a, jan ante wan taso li lon ala la mute pona li lon tawa open. ni la, ale o,
-
-tenpo ni li tenpo suli. esun en ijo li mute la ale li wawa. o lape ala lon pali.
-
-mi o kama toki e ijo pali pi tenpo suno ni luka
+a, jan ante wan taso li lon ala la mute pona li lon tawa open. ni la, ale o, tenpo ni li tenpo suli. esun en ijo li mute la ale li wawa. o lape ala lon pali. mi o kama toki e ijo pali pi tenpo suno ni luka
 
 lawa li awen toki
 
-mi awen lukin e ni  
-supa jan wan la jan li awen ala
+mi awen lukin e ni   supa jan wan la jan li awen ala
 
 taso suli ala. lon pi jan ni li jaki tawa lukin
 
-<hr>
+—                                                                                                                               —
 
 mi wile pali e pan la mi tawa esun. lon ale ijo la mi sona ala e nasin
 
 sinpin suli pi poki moku ale li awen e mi lon weka tan ijo pi wile mi. utala mute
 
-mi pakala e ona la seme ike a li ken kama. sinpin li ike e mi la mi ken supa e
-
-sinpin. esun pona
+mi pakala e ona la seme ike a li ken kama. sinpin li ike e mi la mi ken supa e sinpin. esun pona
 
 pakala li ken lili taso. mi jan pakala ala. pakala li lili taso
 
@@ -183,9 +170,7 @@ toki. mi ike li sona ala e lon pi ijo pan. ona li lon seme
 
 jan loje li toki
 
-ike ala a. ona li lon nasin moku nanpa luka tu tu. sina lukin e sinpin weka
-
-tomo pi telo mama walo la o tawa nasin nanpa ni la sina lon
+ike ala a. ona li lon nasin moku nanpa luka tu tu. sina lukin e sinpin weka tomo pi telo mama walo la o tawa nasin nanpa ni la sina lon
 
 sona pona. mi ni
 
@@ -193,39 +178,31 @@ o alasa pona a. sina wile e ante la o toki
 
 mi pakala e ala
 
-<hr>
+—                                                                                                                               —                                                                                                                               
 
-tomo pi wawa sijelo la mi alasa weka e nasa sijelo. noka en noka sin la mi tawa
+tomo pi wawa sijelo la mi alasa weka e nasa sijelo. noka en noka sin la mi tawa mute lon ilo pi supa sike
 
-mute lon ilo pi supa sike
-
-mu mu mu mu mu mu
+mu   mu   mu   mu   mu   mu   
 
 tenpo kin li tawa la mi kama taso lon ale tomo. mi lukin e poka la ala li lon
 
 noka en noka sin la
 
-mu mu mu mu mu mu
+mu   mu   mu   mu   mu   mu   
 
 mi lape lili e sijelo lon supa. mi lukin la ala li lon poka
 
 monsi li sinpin tomo la mi awen li lukin lon ala ni
 
-<hr>
+—                                                                                                                               —
 
 insa pi tomo moku la alasa moli li kama ala e ijo wile
 
-nasin li seme a. ijo pi mute suli la nasin li nasa. tawa li sike li sike sin li sike sin
-
-nanpa tu wan
+nasin li seme a. ijo pi mute suli la nasin li nasa. tawa li sike li sike sin li sike sin nanpa tu wan
 
 jan wan pi linja lawa walo li lukin
 
-ona li awen e sijelo kepeken poki esun tawa. ala ante li lon insa. tawa nasa sike la
-
-ona li awen lon ma sama lon sike ale li lukin. sinpin pi pilin ike la poka pi uta
-
-ona li anpa
+ona li awen e sijelo kepeken poki esun tawa. ala ante li lon insa. tawa nasa sike la ona li awen lon ma sama lon sike ale li lukin. sinpin pi pilin ike la poka pi uta ona li anpa
 
 ona li lukin e mi. mi pilin e lukin ona.
 
@@ -243,37 +220,32 @@ mi ken ala weka. mi o utala. ni li ken taso pi wile ala
 
 mi ken ala weka
 
-<hr>
+—                                                                                                                               —
 
-tomo tawa linja la mi awen lon supa. jan mute li lon poka li awen palisa li lukin e
+tomo tawa linja la mi awen lon supa. jan mute li lon poka li awen palisa li lukin e ilo luka
 
-ilo luka
-
-mi kama lon nasin akesi pi kasi loje
+mi kama lon   nasin akesi pi kasi loje
 
 tomo li pini tawa la lupa li open. noka mute la jan insa en jan weka li esun
 
-kama la nasin soweli pi kiwen loje
+kama la   nasin soweli pi kiwen loje
 
 jan insa sin kin li lukin e ilo luka. lawa en lukin li anpa. mu tawa li lon sin sama
 
 taso wan li ante. wan li lukin e mi. mi lukin anpa li lukin sewi sin
 
-jan tawa ale li nasin telo la ni wan li kiwen awen pi tawa ala. lawa ona li sewi li
-
-weka tan selo telo, li lukin.
+jan tawa ale li nasin telo la ni wan li kiwen awen pi tawa ala. lawa ona li sewi li weka tan selo telo, li lukin.
 
 mi ken pilin e wile ona. utala en pini en moli en ala
 
-mi kama lon nasin soweli pi kiwen loj
+mi kama lon   nasin soweli pi kiwen loj
 
 seme la jan ante li lukin ala e ona a. ona li lon li kama tawa mi. mi a
 
-wawa la mi kama e ijo mi lon luka. lupa li open. mi weka. mi ken awen tawa lon
-
-nasin noka
+wawa la mi kama e ijo mi lon luka. lupa li open. mi weka. mi ken awen tawa lon nasin noka
 
 mi weka
+
 
 <hr>
 

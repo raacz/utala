@@ -9,7 +9,7 @@ ken_ike:
 - moku pi kili nasa
 - pilin ike sijelo
 - toki pi ken moli
-ijo_toki: "lon ma pi jan ala la jan li kama sona lon ona taso li lukin moli ala. 
+ijo_toki: "lon ma pi jan ala la jan li kama sona lon ona taso li lukin moli ala." 
 ---
 
 taso.

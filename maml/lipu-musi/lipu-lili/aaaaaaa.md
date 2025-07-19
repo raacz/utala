@@ -2,38 +2,30 @@
 title: aaaaaaa  
 ---  
 
-aaaaaaaaaa  
+&nbsp; aaaaaaaaaa  
 kalama wawa  
 kalama suli  
-  
-aaaaaaaa  
+&nbsp; aaaaaaaa  
 kalama laso  
-pi tenpo kasi  
-  
-aaaaaaaaa  
+&nbsp; pi tenpo kasi  
+&nbsp; aaaaaaaaa  
 kalama nasa  
 kalama pilin  
-  
-aaaaaaa  
+&nbsp; aaaaaaa  
 kalama loje  
-pi pakala mi  
-  
-aaaaaa  
+&nbsp; pi pakala mi  
+&nbsp; aaaaaa  
 kalama musi  
 kalama pona  
-  
-aaaaaaaaaaaa  
+&nbsp; aaaaaaaaaaaa  
 kalama jelo  
-pi suno sin  
-  
-aaaaaaaa  
+&nbsp; pi suno sin  
+&nbsp; aaaaaaaa  
 kalama uta  
 kalama sewi  
-  
-aaaaaaaaaa  
+&nbsp; aaaaaaaaaa  
 kalama wile  
-pi olin kin  
-  
+&nbsp; pi olin kin  
 o tawa, o noka  
 o kama, o poka  
 o kute e ken pi kalama ni  
