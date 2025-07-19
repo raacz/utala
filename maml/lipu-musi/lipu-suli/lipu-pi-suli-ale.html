@@ -44,7 +44,7 @@ ijo_toki: "toki wan pi nasin Soneto li jo e linja toki luka luka tu tu. ken wan 
         display: flex;
         flex-direction: row;
         width: 100%;
-        overflow: scroll;
+        overflow: auto;
         overscroll-behavior: contain;
         scroll-snap-type: x mandatory;
         scroll-behavior: smooth;
@@ -93,8 +93,6 @@ ijo_toki: "toki wan pi nasin Soneto li jo e linja toki luka luka tu tu. ken wan 
 
 
 <h2>ilo pali pi nasin Soneto</h2>
-
-<input type="checkbox" id="tawaAlaTawaWawa">o pini e tawa wawa</input>
 
 <div class="line">
     <div class="line-data">
@@ -1659,7 +1657,7 @@ ijo_toki: "toki wan pi nasin Soneto li jo e linja toki luka luka tu tu. ken wan 
       sliderInput.value = n;
 
       if (tan != 'poki') {
-        line.scrollIntoView({block: 'nearest', behavior: tawaAlaTawaWawa.checked ? 'instant' : 'smooth'});
+        line.scrollIntoView({block: 'nearest'});
       }
       updateFinalPoem();
     }
