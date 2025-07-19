@@ -2,7 +2,7 @@
 layout: lipu
 title: utala insa
 suli_lipu: 
-mute_nimi: 
+mute_nimi: 788
 ken_ike:
 - toki pi pilin ike suli
 - moli pi ona sama
@@ -112,7 +112,7 @@ o len a
 
 <h2>tawa wawa nasa</h2>
 
-alasa e olin la mi tawa wawa a  
+mi alasa e olin la mi tawa wawa a  
 tawa wawa mi li nasa  
 open tawa la mi wan  
 pini tawa la mi sona e jan mute  
@@ -135,7 +135,7 @@ ken la jan wan la mi suwi
 
 ## tawa wawa nasa
 
-alasa e olin la mi tawa wawa a  
+mi alasa e olin la mi tawa wawa a  
 taso tawa wawa mi li nasa  
 open tawa la mi wan  
 pini tawa la jan ale li weka  
@@ -213,7 +213,7 @@ jan li majuna la pakala li lon
 jan li moli la pakala li lon  
   
 pakala li lon pi tenpo ale  
-pakala li lon la ike li lon ala  
+pakala li lon la ale ala li ike  
   
   </div></div>
   
@@ -241,7 +241,7 @@ jan li majuna la pakala li lon
 jan li moli la pakala li lon  
   
 pakala li lon pi tenpo ale  
-pakala li lon la ike li lon a  
+pakala li lon la ale a li ike  
 
   </div></div>
 
@@ -252,18 +252,18 @@ pakala li lon la ike li lon a
 
 
 ## monsuta insa  
-monsuta li lon insa e pilin mi  
+monsuta li lon insa pi pilin mi  
 monsuta ni li pana e pilin anpa tawa mi  
 lawa mi li pana e pilin pona  
 monsuta li mu  
-ona li wile moku e lawa mi li wile suli  
+ona li wile moku e lawa mi li wile kama suli  
 lawa mi li mu  
-ona li wile moku kin li wile moli e monsuta  
-mi monsuta e monsuta  
+ona kin li wile moku li wile moli e monsuta  
+monsuta la mi monsuta  
 mi moku e ona  
 ona li suli ala  
 ona li moku ala e pilin pona mi  
-mi ken lili kute e monsuta  
+mi ken kute lili e monsuta  
 taso ona li awen lon insa mi  
 mi wile ala pana e moku tawa monsuta  
 
@@ -273,14 +273,14 @@ mi wile ala pana e moku tawa monsuta
 
 
 ## monsuta insa
-monsuta li lon insa e pilin mi   
+monsuta li lon insa pi pilin mi   
 monsuta ni li pana e pilin anpa tawa mi  
 lawa mi li pana e pilin pona  
 monsuta li mu  
-ona li wile moku e lawa mi li wile suli  
+ona li wile moku e lawa mi li wile kama suli  
 lawa mi li mu  
-ona li wile moku kin li wile moli e monsuta  
-mi monsuta e monsuta  
+ona kin li wile moku li wile moli e monsuta  
+monsuta la mi monsuta  
 mi moku e ona  
 ona li suli a  
 ona li moku e pilin pona mi  
@@ -423,7 +423,7 @@ o len a
 
 <h2>tawa wawa nasa</h2>
 
-alasa e olin la mi tawa wawa a  
+mi alasa e olin la mi tawa wawa a  
 tawa wawa mi li nasa  
 open tawa la mi wan  
 pini tawa la mi sona e jan mute  
@@ -446,7 +446,7 @@ ken la jan wan la mi suwi
 
 ## tawa wawa nasa
 
-alasa e olin la mi tawa wawa a  
+mi alasa e olin la mi tawa wawa a  
 taso tawa wawa mi li nasa  
 open tawa la mi wan  
 pini tawa la jan ale li weka  
@@ -563,14 +563,14 @@ pakala li lon la ike li lon a
 
 
 ## monsuta insa  
-monsuta li lon insa e pilin mi  
+monsuta li lon insa pi pilin mi  
 monsuta ni li pana e pilin anpa tawa mi  
 lawa mi li pana e pilin pona  
 monsuta li mu  
-ona li wile moku e lawa mi li wile suli  
+ona li wile moku e lawa mi li wile kama suli  
 lawa mi li mu  
-ona li wile moku kin li wile moli e monsuta  
-mi monsuta e monsuta  
+ona kin li wile moku li wile moli e monsuta  
+monsuta la mi monsuta  
 mi moku e ona  
 ona li suli ala  
 ona li moku ala e pilin pona mi  
@@ -584,14 +584,14 @@ mi wile ala pana e moku tawa monsuta
 
 
 ## monsuta insa
-monsuta li lon insa e pilin mi   
+monsuta li lon insa pi pilin mi   
 monsuta ni li pana e pilin anpa tawa mi  
 lawa mi li pana e pilin pona  
 monsuta li mu  
-ona li wile moku e lawa mi li wile suli  
+ona li wile moku e lawa mi li wile kama suli  
 lawa mi li mu  
-ona li wile moku kin li wile moli e monsuta  
-mi monsuta e monsuta  
+ona kin li wile moku li wile moli e monsuta  
+monsuta la mi monsuta  
 mi moku e ona  
 ona li suli a  
 ona li moku e pilin pona mi  
