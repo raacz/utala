@@ -8,7 +8,7 @@ title: tenpo ni
 
 ## utala pi lipu lili la lipu MLLW li lon
 
-[o kama lukin e ![alt text](image.png)lipu lili ale](/maml/lipu-musi/lipu-lili/index.md)
+[o kama lukin e lipu lili ale](/maml/lipu-musi/lipu-lili/index.md)
 
 ## utala pi lipu suli la lipu M li lon
 
