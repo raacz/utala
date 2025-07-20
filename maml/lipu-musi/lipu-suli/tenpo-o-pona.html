@@ -12,7 +12,7 @@ ijo_toki: "mi jo e ilo tenpo sin. a, ilo tenpo mi li pakala. la tenpo li pakala 
 ---
 
 <div id="seloLtokini">
-<label>nasin Lasina <input type="checkbox" onclick="document.getElementById('seloLtokini').classList.toggle('sp');"></label><input id="palisatenpo" type="range" list="openLsiketenpo" oninput="oni(this.value);"><datalist id="openLsiketenpo"></datalist>
+<label>nasin Lasina <input type="checkbox" onclick="document.getElementById('seloLtokini').classList.toggle('sp');"></label><input id="palisatenpo" type="range" list="openLsiketenpo" oninput="oni(this.value,true)" onchange="oni(this.value)"><datalist id="openLsiketenpo"></datalist>
 <div id="lasinaLtokini">
 <p>
 mi wile sona e tenpo. mi lukin e ilo mi pi sona tenpo.<br>
@@ -94,7 +94,7 @@ ona li tawa weka lon ilo ona kepeken wawa. jan esun pi mani ala li kama lon poka
 "tenpo nasa a."<br>
 "a. sina jo ala e mani. ni li ike."<br>
 "jan ante li kama li esun la mani li kama. ona li kama ala la ni taso li ike."<br>
-"a suno pona e seli pona li lon. ona li kama."<br>
+"a suno pona en seli pona li lon. ona li kama."<br>
 "pona."
 </p><p>
 mi open sin e tawa. ijo li awen wile ala e mi la mi wile tawa seme? a ma kasi li ken suwi.<br>mi awen tawa la kasi li kama mute. kasi li mute pona la mi kama kute e kalama suli a. kalama li tan weka. ona li seme? ijo li pakala ala pakala? taso kalama li weka la ijo li pakala la ijo pakala li suli a.<br>mi ken ala sona. mi lon ma kasi pona taso.<br>ijo nasa mute li lon tenpo. mi ken ala ante e ona.<br>mi lukin e kasi suli wawa. anpa kasi la ma li laso pona li ko pona. mi pana e mi lon noka kasi li lukin e sewi.<br>mi len e oko.<br>mi kama lape.
@@ -157,7 +157,7 @@ a. mi sona e kalama pi jan ni. jan ni li weka e mani tan tomo esun a.
 </p><p>
 jan ante wan li jo e len mani li pilin ala e pilin ike pi jan ante.
 </p><p>
-"toki. kute la sina pakala e tomo. ko mute li lon ko tan ni anu seme?"<br>
+"toki. kute la sina pakala e tomo. ko mute li lon kon tan ni anu seme?"<br>
 "a ken. sina wile sona tan seme?"<br>
 "ko li lon nasin tawa la ilo nasin li ken ala tawa."<br>
 "ni la o awen. ko li kama anpa la ona li weka tan kon."<br>
@@ -648,6 +648,7 @@ height:100%;
 #seloLtokini.sp{
 _min-width:800px;
 min-height:100vh;
+display:table;
 }
 #seloLtokini #iloLtokini{
 container-type: inline-size;
@@ -668,10 +669,11 @@ padding-top:2cqmin;
 accent-color:black;
 }
 #seloLtokini.sp #iloLtokini{
-display:contents;
+display:table-row;
 }
 .pokitenpoLtokini{
-	display:none;
+	display:table;
+	visibility:hidden;
 	transform:translate(-50%,-50%) rotateZ(180deg) translateY(25cqmin) rotateZ(-180deg);
 	position:absolute;
 	padding-top:0;
@@ -681,7 +683,7 @@ display:contents;
 	text-align: center;
 }
 .pokitenpoLtokini#niLtokini{
-	display:table;
+	visibility:visible;
 	margin:auto;
 }
 @font-face {
@@ -803,11 +805,15 @@ function pokitenpo(){
 }
 pokitenpo();
 nanpatenpo=0;
-if(window.location.hash){
-nanpatenpo=window.location.hash.replace("#","");
-}
-oni(nanpatenpo);
-function oni(nanpa){
+onhashchange = function(){
+	if(window.location.hash){
+	nanpatenpo=window.location.hash.replace("#","");
+	}
+	oni(nanpatenpo);
+};
+onhashchange();
+function oni(nanpa,oantealaenimilipu){
+	var sama=nanpatenpo==nanpa;
 nanpatenpo=nanpa;
 	var pokiale=document.getElementsByClassName("pokitenpoLtokini");
 	if(nanpatenpo<0){
@@ -816,14 +822,13 @@ nanpatenpo=nanpa;
 	if(nanpatenpo>=pokiale.length){
 		nanpatenpo=pokiale.length-1;
 	}
-	try{document.getElementById("niLtokini").removeAttribute("id");}catch(e){}
+	try{document.getElementById("niLtokini").removeAttribute("id");}catch(e){console.error(e)}
 	pokiale[nanpatenpo].id="niLtokini";
-	window.location.hash="#"+nanpatenpo;
-	window.location.hash="#"+nanpatenpo;
+	if(!oantealaenimilipu){try{window.location.hash="#"+nanpatenpo;}catch(e){console.error(e)}}
 	document.getElementById("palisatenpo").value=nanpatenpo;
-	if(mutenpo.includes(parseInt(nanpatenpo))){mu();}
+	if(mutenpo.includes(parseInt(nanpatenpo))&&!sama){mu();}
 }
-document.getElementById("seloLtokini").addEventListener("click",function(){if(document.getElementById("seloLtokini").classList.contains("sp")){oni(parseInt(nanpatenpo)+1);}});
+document.getElementById("iloLtokini").addEventListener("click",function(){if(document.getElementById("seloLtokini").classList.contains("sp")){oni(parseInt(nanpatenpo)+1);}});
 /*var scrollBefore = 0;
 window.addEventListener('scroll',function(e){
     const scrolled = window.scrollY;
