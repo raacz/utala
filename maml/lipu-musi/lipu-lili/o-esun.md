@@ -4,7 +4,7 @@ title: "o esun!"
 
 lon tomo sina la sina pilin ike suli a! taso, sina esun la, ale li kama pona. sina pakala. taso, esun li ken pona e sina. ni li nasin taso. sina wile kama pona la o esun!
 
-len sina li majjuna. ilo sina li pakala. sina pilin ike nasa. lon sina li kama anpa. sina wile e ni: ike ale li weka. sina kute la mi ken pana e ni tawa sina. 
+len sina li majuna. ilo sina li pakala. sina pilin ike nasa. lon sina li kama anpa. sina wile e ni: ike ale li weka. sina kute la mi ken pana e ni tawa sina. 
 
 o lukin! ijo sin! ijo ante kin! esun li jan pona sina. ona li pana e pona tawa sina. sina wile esun e ijo sin, anu seme? mi sona: sina wile.  
 o esun! o esun e len e suwi e moku e supa e ijo e mute e ale!
