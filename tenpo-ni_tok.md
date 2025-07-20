@@ -8,11 +8,11 @@ title: tenpo ni
 
 ## utala pi lipu lili la lipu MLLW li lon
 
-[o kama lukin e lipu lili ale](/maml/lipu-musi/lipu-lili/index.md)
+[o kama lukin e lipu lili ale](/maml/lipu-musi/lipu-lili/index.html)
 
 ## utala pi lipu suli la lipu M li lon
 
-[o kama lukin e lipu suli ale](/maml/lipu-musi/lipu-suli/index.md)
+[o kama lukin e lipu suli ale](/maml/lipu-musi/lipu-suli/index.html)
 
 
 ## ijo pi lipu musi li ken ike e pilin mi la mi o seme?   
