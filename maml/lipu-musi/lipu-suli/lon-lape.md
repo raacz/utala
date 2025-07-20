@@ -4,7 +4,10 @@ title: lon lape
 suli_lipu: lili
 mute_nimi: 1019
 ken_ike:
-ijo_toki: 
+- pilin ike jan
+- pilin ike tan lukin jan
+- pilin ike tawa sijelo pi ona sama
+ijo_toki: "ma lape, anu ma jan. lon ona seme la jan pi pilin ike suli li ken pilin pi ike suli ala? "
 ---
 <style>
     .nasin-nanpa{
@@ -17,7 +20,7 @@ ijo_toki:
         padding-left: 2.5em;
     }
     .weka {
-        text-indent: 2em;
+        margin-inline-start: 2em;
     }
 
    
@@ -154,7 +157,9 @@ a, jan ante wan taso li lon ala la mute pona li lon tawa open. ni la, ale o, ten
 
 lawa li awen toki
 
-mi awen lukin e ni   supa jan wan la jan li awen ala
+mi awen lukin e ni   
+
+supa jan wan la jan li awen ala
 
 taso suli ala. lon pi jan ni li jaki tawa lukin
 
@@ -185,7 +190,7 @@ o alasa pona a. sina wile e ante la o toki
 
 mi pakala e ala
 
-—                                                                                                                               —                                                                                                                               
+<hr>
 
 tomo pi wawa sijelo la mi alasa weka e nasa sijelo. noka en noka sin la mi tawa mute lon ilo pi supa sike
 
@@ -202,7 +207,7 @@ mi lape lili e sijelo lon supa. mi lukin la ala li lon poka
 monsi li sinpin tomo la mi awen li lukin lon ala ni
 
 <hr>
-insa pi tomo moku la alasa moli li kama ala e ijo wile
+insa pi tomo moku la alasa moku li kama ala e ijo wile
 
 nasin li seme a. ijo pi mute suli la nasin li nasa. tawa li sike li sike sin li sike sin nanpa tu wan
 
@@ -256,7 +261,6 @@ wawa la mi kama e ijo mi lon luka. lupa li open. mi weka. mi ken awen tawa lon n
 mi weka
 
 
-<hr>
 
 <table role="presentation" class="tu-poki" markdown="1">
 <tbody>

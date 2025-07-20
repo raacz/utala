@@ -32,3 +32,7 @@ o awen. nasin li kama lon tenpo kama poka.
 
 ## sina pana ike e lipu mi a!
 ni li lon la o toki e pakala mi tawa mi (ilo Siko la @raacz106, nasin ante la tokipona(sike lili)sasalin(sitelen a)gmail(sike lili)com).
+
+## lawa pi utala musi li seme?
+
+o kama lukin e [lawa ale](/maml/lipu-musi/lawa/lawa_tok.md) pi utala musi lipu.
