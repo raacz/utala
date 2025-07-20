@@ -11,7 +11,10 @@ title: {{ page.title }}
       <section class="front-matter container-in-main">
         <h1>{{ page.title }}</h1>
       
+
+        {% if page.jan_pali %} 
         <p><em>tan {{ page.jan_pali }}</em></p>
+        {% endif %}
       
         <p><strong>mute nimi</strong>: {{ page.suli_lipu }}, {{ page.mute_nimi }}</p>
       

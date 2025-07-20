@@ -5,6 +5,24 @@
     src: url(/assets/nasin-nanpa-2.5.1.otf);
 }
 @font-face {
+    font-family: "nasin nanpa sin";
+    src: url(/assets/nasin-nanpa-4.0.2.otf);
+}
+@font-face {
+    font-family: "linja lipamanka";
+    src: url(/assets/linja-lipamanka.otf);
+}
+@font-face {
+    font-family: "sitelen seli kiwen mono asuki";
+    src: url(/assets/sitelenselikiwen/sitelenselikiwenmonoasuki.ttf);
+}
+@font-face {
+  font-family: "fairfax";
+  src: url(/assets/FairfaxPonaHD.ttf);
+}
+
+
+@font-face {
   font-family: "Teachers";
   src: url(/assets/teachers/Teachers-Regular.ttf);
 }
@@ -676,6 +694,9 @@ main:has(.content){
   padding: 1em;
   border-radius: var(--container-border-radius);
   margin: 0;
+}
+.ijo-mute li:hover, .ijo-mute li:focus-within{
+  border-width: 0.2em;
 }
 .ijo-mute a{
   color: var(--laso-pimeja);
