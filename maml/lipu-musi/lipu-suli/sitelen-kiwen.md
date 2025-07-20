@@ -1,7 +1,7 @@
 ---  
 layout: lipu
 title: sitelen kiwen
-suli_lipu: suli lili
+suli_lipu: lili lili
 mute_nimi: 638
 ken_ike: 
 - toki pi nasin sewi

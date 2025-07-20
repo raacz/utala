@@ -2,31 +2,90 @@
 title: aaaaaaa  
 ---  
 
-&nbsp; aaaaaaaaaa  
+<style>
+    .aaaaaaa {
+        text-indent: 2em;
+    }
+    .aaaaaaa-linja{
+        line-height: 0.1em;
+    }
+</style>
+<div class="aaaaaaa-linja" markdown="1">
+
+aaaaaaaaaa  
+
 kalama wawa  
+{:.aaaaaaa}
+
 kalama suli  
-&nbsp; aaaaaaaa  
+{:.aaaaaaa}
+
+aaaaaaaa  
+
 kalama laso  
-&nbsp; pi tenpo kasi  
-&nbsp; aaaaaaaaa  
+{:.aaaaaaa}
+
+pi tenpo kasi
+{:.aaaaaaa}
+
+
+aaaaaaaaa  
+
 kalama nasa  
+{:.aaaaaaa}
+
 kalama pilin  
-&nbsp; aaaaaaa  
+{:.aaaaaaa}
+
+aaaaaaa  
+
 kalama loje  
-&nbsp; pi pakala mi  
-&nbsp; aaaaaa  
+{:.aaaaaaa}
+
+pi pakala mi
+{:.aaaaaaa}
+
+
+aaaaaa  
+
 kalama musi  
+{:.aaaaaaa}
+
 kalama pona  
-&nbsp; aaaaaaaaaaaa  
+{:.aaaaaaa}
+
+aaaaaaaaaaaa  
+
 kalama jelo  
-&nbsp; pi suno sin  
-&nbsp; aaaaaaaa  
+{:.aaaaaaa}
+
+pi suno sin
+{:.aaaaaaa}
+
+
+aaaaaaaa  
+
 kalama uta  
+{:.aaaaaaa}
+
 kalama sewi  
-&nbsp; aaaaaaaaaa  
+{:.aaaaaaa}
+
+aaaaaaaaaa  
+
 kalama wile  
-&nbsp; pi olin kin  
+{:.aaaaaaa}
+
+pi olin kin
+{:.aaaaaaa}
+
+
 o tawa, o noka  
+
 o kama, o poka  
+
 o kute e ken pi kalama ni  
+
 o kute e kalama ale mi  
+
+</div>

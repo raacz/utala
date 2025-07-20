@@ -695,6 +695,9 @@ main:has(.content){
   border-radius: var(--container-border-radius);
   margin: 0;
 }
+.ijo-mute li:hover, .ijo-mute li:focus-within{
+  border-width: 0.2em;
+}
 .ijo-mute a{
   color: var(--laso-pimeja);
   word-break:break-word;

@@ -1,7 +1,7 @@
 --- 
 layout: lipu
 title: pipi lili
-suli_lipu:
+suli_lipu: lili
 mute_nimi: 808
 ken_ike:
 - wan taso

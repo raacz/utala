@@ -1,7 +1,7 @@
 ---  
 layout: lipu
 title: utala insa
-suli_lipu: 
+suli_lipu: lili
 mute_nimi: 788
 ken_ike:
 - toki pi pilin ike suli

@@ -1,7 +1,7 @@
 ---
 title: o
 ---
-![](lipu-lili/o-leko.png)
+![](o-leko.png)
 
 *jan pali li sitelen kepeken [nasin pi 'leko pona'](https://sona.pona.la/wiki/leko_pona
 ).*

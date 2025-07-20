@@ -34,9 +34,19 @@ title: lipu lili ale pi sike#MAML
 {% for page in lipu_pages %}
     <li>
     <a href="{{ page.url }}">{{ page.title }}</a> 
-     <span>mute nimi: {{ page.mute_nimi}}</span>
+     <span>{{ page.suli_lipu}}</span>
      <span>{{ page.ijo_toki }}</span>
     </li>
+{% endfor %}
+</ul>
+
+
+{% assign lipu_pages = site.pages | where_exp: "page", "page.path contains 'maml/lipu-musi/lipu-suli/'" | sort: "mute_nimi" %}
+
+<ul>
+{% for page in lipu_pages %}
+    <li>
+    <a href="{{ page.url }}">{{ page.suli_lipu }}, <span>{{ page.mute_nimi}}</span>, {{ page.title }}</a>    </li>
 {% endfor %}
 </ul>
 

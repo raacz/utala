@@ -1,10 +1,14 @@
 ---  
 layout: lipu
 title: pakala mani
-suli_lipu: 
-mute_nimi: 
+suli_lipu: lili
+mute_nimi: 954
 ken_ike:
-ijo_toki: 
+- monsuta
+- jan li ken moli tan anpa telo
+- toki moli
+- pakala ma
+ijo_toki: "jan li jo ala  / e mani mute la / kiwen mani li ken wawa. / taso alasa / pi mani sin ni la / ma li ken wile utala!"
 ---
 
 <style>

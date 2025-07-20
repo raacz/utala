@@ -1,7 +1,7 @@
 ---  
 layout: lipu
 title: waso lili li lon insa pi tomo waso
-suli_lipu: 
+suli_lipu: lili
 mute_nimi: 842  
 ken_ike: 
 - ijo li poki

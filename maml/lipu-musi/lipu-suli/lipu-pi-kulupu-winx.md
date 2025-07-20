@@ -1,7 +1,7 @@
 ---  
 layout: lipu
 title: lipu pi kulupu Winx
-suli_lipu: 
+suli_lipu: lili lili
 mute_nimi: 506
 ken_ike:
 ijo_toki: "kulupu Winsu Ku li jo e jan pona mute!"

@@ -1,7 +1,7 @@
 ---  
 layout: lipu
 title: TLT (tonsi li tonsi)
-suli_lipu: 
+suli_lipu: suli lili
 mute_nimi: 1425
 ken_ike:
 ijo_toki: "nimi 'tonsi' li wawa. tonsi li ken nasin ante mute. o kama sona e kulupu lili pi jan tonsi mute e ni: kule pi tonsi ona li ante mute a. sina sama ala sama ona?"

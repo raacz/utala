@@ -1,7 +1,7 @@
 ---  
 layout: lipu
 title: meli tu pi lawa ante
-suli_lipu: 
+suli_lipu: lili
 mute_nimi: 1141
 ken_ike:
 - moli mama

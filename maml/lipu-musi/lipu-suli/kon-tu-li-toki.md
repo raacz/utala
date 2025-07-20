@@ -1,7 +1,7 @@
 ---  
 layout: lipu
 title: kon tu li toki
-suli_lipu: 
+suli_lipu: suli lili
 mute_nimi: 1419
 ken_ike:
 - jan olin tu li lon weka pi ona sama lon tenpo suli

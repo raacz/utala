@@ -1,7 +1,7 @@
 ---    
 layout: lipu  
 title: monsuta tu wan li lon tomo pi pona sewi  
-suli_lipu:   
+suli_lipu: suli lili  
 mute_nimi: 1312   
 ken_ike:  
 - moli en utala

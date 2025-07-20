@@ -1,7 +1,7 @@
 ---  
 layout: lipu
 title: taso
-suli_lipu: 
+suli_lipu: suli
 mute_nimi: 3441
 ken_ike:
 - wan taso
@@ -9,7 +9,7 @@ ken_ike:
 - moku pi kili nasa
 - pilin ike sijelo
 - toki pi ken moli
-ijo_toki: "lon ma pi jan ala la jan li kama sona lon ona taso li lukin moli ala." 
+ijo_toki: "tomo pi telo suli li pakala. lon ma sin pi jan ala la jan wan li kama sona lon ona taso li lukin moli ala." 
 ---
 
 taso.

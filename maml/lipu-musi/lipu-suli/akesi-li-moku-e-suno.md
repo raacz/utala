@@ -1,7 +1,7 @@
 ---
 layout: lipu
 title: akesi li moku e suno
-suli_lipu: 
+suli_lipu: suli lili
 nasin: akesi-li-moku-e-suno.html
 mute_nimi: 1920
 ken_ike:
