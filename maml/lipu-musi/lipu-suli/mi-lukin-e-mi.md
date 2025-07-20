@@ -1,5 +1,9 @@
 ---
+layout: lipu
 title: mi lukin e mi insa oko ona
+ijo_toki: "tenpo la, jan li jo ala e olin la, jan li lon e olin."
+ken_ike:
+- jan li olin pi wawa nasa e poki kasi
 ---
 
 -- tenpo la jan li olin e ijo sama jan olin /
