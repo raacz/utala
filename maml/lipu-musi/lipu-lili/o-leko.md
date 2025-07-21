@@ -1,12 +1,17 @@
 ---
 title: o
 ---
-![](o-leko.png)
+![sina wile lukin la o open e sitelen Lasina](o-leko.png)
+
+
+<details markdown="1">
+
+<summary>o lukin kepeken sitelen Lasina</summary>
 
 *jan pali li sitelen kepeken [nasin pi 'leko pona'](https://sona.pona.la/wiki/leko_pona
 ).*
 
-sitelen Lasina la (sina lukin tan sewi lon nasin pi ilo tenpo la)
+(sina lukin tan sewi lon nasin pi ilo tenpo la)
 
 (*leko pona* la)  
 o pali e pona  
@@ -18,3 +23,4 @@ o pana e sona
 
 (*sitelen pona* la)  
 o ale, o ale, o ale
+</details>
