@@ -314,7 +314,7 @@ utala li kama ike suli
 nasin nanpa tu li kama wawa  
 mama mi li moli  
 peto  
-lipu ni li toki o utala ona  
+lipu ni li toki e utala ona  
 
 
 </div></div>
@@ -625,7 +625,7 @@ utala li kama ike suli
 nasin nanpa tu li kama wawa  
 mama mi li moli  
 peto  
-lipu ni li toki o utala ona  
+lipu ni li toki e utala ona  
 
 
 </div></div>
