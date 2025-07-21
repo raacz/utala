@@ -15,7 +15,7 @@ ijo_toki: "jan ala li wile moli e akesi suli tan ni: jan ale pi wile ni li alasa
 - [lipu wan: jan pali](#wan)
 - [lipu tu: sona pi jan Kepen](#tu)
 - [lipu wan tu: tawa suli](#wan-tu)
-- [lipu tu tu: tawa suliutala pi akesi sewi](#tu-tu)
+- [lipu tu tu: utala pi akesi sewi](#tu-tu)
 - [lipu luka: pini](#luka)
 
 <hr>
@@ -92,7 +92,7 @@ jan Wanto li mu li toki ala. jan li musi.
 
 jan Kepen li toki e ale tawa jan Wanto.
 
-\- akesi jan Lu li jan kalama wawa. kalama uta ona li suli. kalama pi ilo kalama ona li suli kin. jan San en ona li lon kulupu pi kalama musi. kalama ni la, ona li ken toki e pilin pona ona, e pilin ike ona, e pilin olin ona. jan li kute la, kalama li ijo suli tawa nasin jan.sewi suli li akesi Sumeku. tenpo pini la, ona li weka. jan mute li pilin e ni : ona li moli. tenpo pini lili la, jan ala li sona e ona. taso, ona li moli ala. akesi ni li lape taso. tomo ona li nena Latala. nena ni li ken pakala e ma suli kepeken seli pi insa ma.
+\- akesi jan Lu li jan kalama wawa. kalama uta ona li suli. kalama pi ilo kalama ona li suli kin. jan San en ona li lon kulupu pi kalama musi. kalama ni la, ona li ken toki e pilin pona ona, e pilin ike ona, e pilin olin ona. jan li kute la, kalama li ijo suli tawa nasin suli li akesi Sumeku. tenpo pini la, ona li weka. jan mute li pilin e ni : ona li moli. tenpo pini lili la, jan ala li sona e ona. taso, ona li moli ala. akesi ni li lape taso. tomo ona li nena Latala. nena ni li ken pakala e ma suli kepeken seli pi insa ma.
 
 jan Wanto li telo e ilo utala sin. kin la, ona li toki e ni :
 
