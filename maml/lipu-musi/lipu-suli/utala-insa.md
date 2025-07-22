@@ -8,6 +8,8 @@ ken_ike:
 - moli pi ona sama
 - pilin anpa pi wile moli
 ijo_toki: "pona en ike. olin en pakala. wile awen en wile moli. pilin mute li utala tu lon mama pi jan pali. o kama sona e mama ni e utala ona kepeken nasin pi toki tu."
+sona_namako: 'sina wile jo e lipu ni lon luka sina li wile pana e ni tawa lipu kasi kepeken ilo sitelen pana pi telo pimeja, la o kama kepeken <a href="utala-insa-lipu-kasi.pdf">utala insa pi lipu kasi</a>.'
+
 ---
 
 
