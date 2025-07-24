@@ -159,7 +159,7 @@ lawa li awen toki
 
 mi awen lukin e ni   
 
-supa jan wan la jan li awen ala
+supa jan wan la awen la jan li ala
 
 taso suli ala. lon pi jan ni li jaki tawa lukin
 
