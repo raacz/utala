@@ -28,7 +28,9 @@ sina wile lukin e sona la o luka e sitelen. sina wile ala lukin la o luka ala e 
 
 ## mi lukin e lipu. mi o pana e pilin mi lon seme?
 
-o awen. nasin li kama lon tenpo kama poka.
+ o kepeken [lipu ni pi pana pilin](https://docs.google.com/forms/d/e/1FAIpQLSfIfL0OgZ6lLHDv4sabXXYdQg3Lmln8Qg0saygi0d3aJtHUvA/viewform).
+
+ken pi pana pilin li pini lon tenpo ni: [suno pi toki pona](https://suno.pona.la/2025/) li open.
 
 ## sina pana ike e lipu mi a!
 ni li lon la o toki e pakala mi tawa mi (ilo Siko la @raacz106, nasin ante la tokipona(sike lili)sasalin(sitelen a)gmail(sike lili)com).

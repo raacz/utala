@@ -6,6 +6,9 @@ title: Now
 
 # The Document Contest's Reading Time is Here!
 
+[Voting form](https://docs.google.com/forms/d/e/1FAIpQLSfIfL0OgZ6lLHDv4sabXXYdQg3Lmln8Qg0saygi0d3aJtHUvA/viewform
+)
+
 ## 31 Small Documents are here
 
 Come read [the small documents](/maml/lipu-musi/lipu-lili/index.md)
@@ -29,7 +32,10 @@ If you do not wish to see them, do not press the text.
 
 ## I have read them. Where do I express my opinions?
 
-Wait. The opinion-expression method will soon come. 
+Here is the [voting form](https://docs.google.com/forms/d/e/1FAIpQLSfIfL0OgZ6lLHDv4sabXXYdQg3Lmln8Qg0saygi0d3aJtHUvA/viewform).
+
+Voting will close when [toki pona day 2025](https://suno.pona.la/2025/) starts.
+
 
 ## You distributed my document poorly!
 If this is the case, talk to me about it using Discord @raacz106 or the other method at tokipona(small circle)sasalin(at)gmail(small circle)com.
