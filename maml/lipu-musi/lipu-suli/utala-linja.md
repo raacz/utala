@@ -69,7 +69,7 @@ luka li kama lon anpa li alasa e ilo pi sike wan. **"mi ken ala ken lon poka sin
 
 **"o kama lon poka mi. supa li lon. mi ken lukin e tawa anpa suno lon poka."**
 
-monsi li kama lon supa monsi pi ilo tawa. noka li kama lon supa noka pi ilo tawa. jan Pensamin li awen ala li open e tawa li tawa sinpin tawa jan Malowi, tawa tomo Akuson.
+monsi li kama lon supa monsi pi ilo tawa. noka li kama lon supa noka pi ilo tawa. jan Pensamin li awen ala li open e tawa li tawa sinpin tawa jan Malowi, tan tomo Akuson.
 
 **"o toki tawa mi. sina pilin ike tan seme?"**
 
@@ -148,7 +148,7 @@ li tawa sinpin
 li tawa sinpin  
 li tawa sewi. 
 
-jan Malowi li mu musi. **"o pilin a! sitelen li sama lon anu seme?"
+jan Malowi li mu musi. **"o pilin a! sitelen li sama lon anu seme?"**
 
 noka pi jan Pensamin li kama sin lon tomo suli Akuson. monsi ona li kama supa lon supa poka pi jan Malowi. 
 
