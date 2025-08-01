@@ -37,4 +37,4 @@ ni li lon la o toki e pakala mi tawa mi (ilo Siko la @raacz106, nasin ante la to
 
 ## lawa pi utala musi li seme?
 
-o kama lukin e [lawa ale](/maml/lipu-musi/lawa/lawa_tok.md) pi utala musi lipu.alt text
+o kama lukin e [lawa ale](/maml/lipu-musi/lawa/lawa_tok.md) pi utala musi lipu.
