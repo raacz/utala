@@ -46,7 +46,7 @@ jan mu2 mi wile sona e ijo tan sina　ijo li lon la o weka e seli　ijo li lon a
 
 mi o seme　mi sona ala e nasin ante la mi ken lon wile jan　mi moli e seli
 
-jan mu2 pona　sina sona ala sona e nimi sina
+jan mu2 pona　sina sona ala sona e nimi sina  
 ona li seli e ilo
 
 nimi mi li seme　mi o sona　　　taso tenpo weka la mi lon　la sona li weka　mi weka ala e seli
@@ -338,7 +338,7 @@ kepeken wawa ale mi la mi toki.
 
 "sina toki!"
 
-<kalama sina li nasa... suli ala. mi weka. o lape pona.>
+\<kalama sina li nasa... suli ala. mi weka. o lape pona.\>
 
 "a a, sina toki! sina wawa! sina ken a lawa e sijelo!"
 
