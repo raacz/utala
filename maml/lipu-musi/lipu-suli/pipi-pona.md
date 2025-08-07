@@ -110,7 +110,7 @@ ni li ante wile ken:
     <ol type="a"><li><em>mi wile e ni: sina kepeken e nimi “olin.”</em></li></ol>
 </li>
 <li><strong>o kepeken ala e nimi “ale.”</strong> nimi “ale” li ike tawa mi. ante la, o kepeken e nimi “ali” taso. </li>
-<li><strong>nasa la, sina kepeken e sitelen Lasina e sitelen pona kin</strong>. o ni ala. nasin sitelen wan o tawa lipu musi! nasin sitelen o wan taso! kepeken pi nasin sitelen tu li pana e pilin jaki. kin la, jan ala li sona lukin e sitelen pona. lipu sina o nasa ala. tawa ni la, o kepeken taso e sitelen Lasina. </li>
+<li><strong>nasa la, sina kepeken e sitelen Lasina e sitelen pona kin</strong>. o ni ala. nasin sitelen wan o tawa lipu musi! nasin sitelen o wan taso! kepeken pi nasin sitelen tu li pana e pilin jaki. kin la, jan ali ala li sona lukin e sitelen pona. lipu sina o nasa ala. tawa ni la, o kepeken taso e sitelen Lasina. </li>
 <li><strong>mi sona ala e kon pi pali sina.</strong> lukin mi nanpa wan la, pali sina li toki e wile moku. wile moku ni li moku pipi. taso, jan ala li wile moku e pipi. jan ala li moku e ni! ni la, pali sina li toki e ijo ante. ante ni li seme? lukin mi nanpa tu la, mi alasa e kon ni. ike la, mi ken ala alasa e kon wile. ken la, kon pi lipu sina li lon. awen la, mi sona ala e ona. mi jan pi sona mute. mi sona ala la, jan ala li ken sona. ni li ike tawa sina! taso, ni li ken ante. mi pana e ante pi mute lili tawa pali sina. ante ni li pona e nasa namako e ike pi wile ala. mi sitelen e pali sina sin lon anpa lipu. mi sitelen e ijo sin mi <ins>sama ni</ins>. ijo pi sin ala li li sama. mi weka e sitelen sina la, ona li <del>sama ni</del>. </li>
 </ol>
 
