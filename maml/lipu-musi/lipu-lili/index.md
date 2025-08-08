@@ -8,7 +8,7 @@ title: lipu lili | lipu musi pi sike#MAML
 
 # lipu lili | utala lipu pi sike#MAML
 
-[o tawa utala](/tenpo-ni_tok.html)
+[o tawa utala](/index.html)
 
 
 <hr>

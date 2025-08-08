@@ -5,7 +5,7 @@ title: lipu suli | lipu musi pi sike#MAML
 
 # lipu suli | utala lipu pi sike #MAML
 
-[o tawa utala](/tenpo-ni_tok.html)
+[o tawa utala](/index.html)
 
 lipu suli mute li lon. 
 

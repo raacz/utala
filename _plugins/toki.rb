@@ -49,10 +49,17 @@ module NimiWawa
     def render(poka)
       @context = poka
       nimi_lipu = Liquid::Template.parse(@nimi_lipu).render(poka)
+      nimi_lipu, kipisi = nimi_lipu.split('#')
       lipu = self.o_alasa_e_lipu(poka, nimi_lipu)
-      return relative_url(lipu) if lipu
-      Jekyll.logger.warn "ilo tawa_lipu_pi_toki_sama li alasa la lipu '#{nimi_lipu}' li lon ala"
-      nil
+      unless lipu
+        Jekyll.logger.warn "ilo tawa_lipu_pi_toki_sama li alasa la lipu '#{nimi_lipu}' li lon ala"
+        return nil
+      end
+      lipu = relative_url(lipu)
+      if kipisi
+        lipu = "#{lipu}##{kipisi}"
+      end
+      lipu
     end
     def o_alasa_e_lipu(poka, nimi_lipu)
       ma_lipu = poka.registers[:site]

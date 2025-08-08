@@ -2,12 +2,12 @@
   nimi:
     tok: utala pini
     en: Past Competitions
-  lipu: index.md
+  lipu: index.md#utala-pini
 -
   nimi:
     tok: tenpo ni
     en: Now
-  lipu: tenpo-ni.md
+  lipu: index.md#tenpo-ni
 -
   nimi:
     tok: lipu ale
