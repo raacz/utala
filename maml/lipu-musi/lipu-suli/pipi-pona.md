@@ -3,6 +3,7 @@ layout: lipu
 title: pipi pona
 suli_lipu: suli mute
 mute_nimi: 6936
+jan_pali: kapesi Pake
 ken_ike:
 - moli
 - kulupu mama ike

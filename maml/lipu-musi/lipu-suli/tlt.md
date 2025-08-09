@@ -1,6 +1,7 @@
 ---  
 layout: lipu
 title: TLT (tonsi li tonsi)
+jan_pali: waso Seko
 suli_lipu: suli lili
 mute_nimi: 1425
 ken_ike:

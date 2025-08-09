@@ -3,6 +3,7 @@ layout: lipu
 title: kon en jan (lipu nanpa wan)
 suli_lipu: lili
 mute_nimi: 922
+jan_pali: kon Okisen
 ken_ike: 
 - "pilin ni: ijo li ken ala moku e kon"
 - "pilin nasa sijelo"

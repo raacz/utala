@@ -2,6 +2,7 @@
 layout: lipu
 title: "jan sama tu tu en soweli monsuta"
 suli_lipu: lili
+jan_pali: jan Kepeliju
 nasin: jan-sama-tu-tu-en-soweli-monsuta.html
 mute_nimi: 1133
 ken_ike:

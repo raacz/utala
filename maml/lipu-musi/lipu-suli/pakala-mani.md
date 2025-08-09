@@ -3,6 +3,7 @@ layout: lipu
 title: pakala mani
 suli_lipu: lili
 mute_nimi: 954
+jan_pali: jan Tumu
 ken_ike:
 - monsuta
 - jan li ken moli tan anpa telo

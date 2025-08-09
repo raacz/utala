@@ -3,6 +3,7 @@ layout: lipu
 title: utala linja
 suli_lipu: suli lili
 mute_nimi: 1966
+jan_pali: jan Lakuse
 ken_ike: 
 - jan li wile moli
 - ma li pakala mute

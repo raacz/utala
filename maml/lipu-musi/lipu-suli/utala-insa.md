@@ -3,6 +3,7 @@ layout: lipu
 title: utala insa
 suli_lipu: lili
 mute_nimi: 788
+jan_pali: jan Petakota
 ken_ike:
 - toki pi pilin ike suli
 - moli pi ona sama

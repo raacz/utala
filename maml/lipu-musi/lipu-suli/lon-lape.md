@@ -3,6 +3,7 @@ layout: lipu
 title: lon lape
 suli_lipu: lili
 mute_nimi: 1019
+jan_pali: palisa jelo Natan
 ken_ike:
 - pilin ike jan
 - pilin ike tan lukin jan

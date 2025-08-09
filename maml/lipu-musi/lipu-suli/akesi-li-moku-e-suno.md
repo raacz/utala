@@ -1,6 +1,7 @@
 ---
 layout: lipu
 title: akesi li moku e suno
+jan_pali: jan Peli
 suli_lipu: suli lili
 nasin: akesi-li-moku-e-suno.html
 mute_nimi: 1920

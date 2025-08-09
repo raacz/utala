@@ -3,6 +3,7 @@ layout: lipu
 title: waso lili li lon insa pi tomo waso
 suli_lipu: lili
 mute_nimi: 842  
+jan_pali: jan Pasijan
 ken_ike: 
 - ijo li poki
 ijo_toki: "waso lili li ken ala weka tan poki ona lon insa pi tomo jan. taso awen la, waso lili li wile sona e ijo mute pi poka ona!"

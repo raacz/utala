@@ -2,6 +2,7 @@
 layout: lipu
 title: sitelen kiwen
 suli_lipu: lili lili
+jan_pali: jan Popo
 mute_nimi: 638
 ken_ike: 
 - toki pi nasin sewi

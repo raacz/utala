@@ -3,6 +3,7 @@ layout: lipu
 title: pipi lili
 suli_lipu: lili
 mute_nimi: 808
+jan_pali: jan Iwi
 ken_ike:
 - wan taso
 - toki pi lon ala

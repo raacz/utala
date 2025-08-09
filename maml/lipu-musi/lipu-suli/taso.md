@@ -2,6 +2,7 @@
 layout: lipu
 title: taso
 suli_lipu: suli
+jan_pali: soko Sijeni
 mute_nimi: 3441
 ken_ike:
 - wan taso

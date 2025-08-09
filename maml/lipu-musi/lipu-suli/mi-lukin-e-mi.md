@@ -2,6 +2,7 @@
 layout: lipu
 mute_nimi: 1761
 suli_lipu: suli lili
+jan_pali: jan Uli
 title: mi lukin e mi lon insa oko ona
 ijo_toki: "tenpo la, jan pi insa lawa ante li jo ala e olin la, jan li lon e olin kepeken ijo pi olin... ala?."
 ken_ike:
