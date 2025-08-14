@@ -11,6 +11,7 @@ ken_ike:
 - jan li nasa pakala tan telo
 - nasin sewi
 - jan li ken ala tawa tan poki pi linja kiwen
+sona_namako: '<p>lipu ni li jo e sitelen pi pona lukin. lon tenpo utala la, kulupu li ken ala lukin e sitelen pi pona lukin. pini utala la sitelen pi pona lukin li kama lon lipu utala.pona.la.</p><p>akesi Tala li wile e ni: sina lukin kepeken sitelen pona. taso, sina ken ala lukin e sitelen pona la, o tawa <a href="#sitelen-Lasina">sitelen Lasina lon anpa</a>.'
 ijo_toki: "kulupu pona li alasa e monsuta pi moli jan la ona li kama lukin e kasi suli e tomo moli e lupa sike e meli pakala..."
 ---  
 
@@ -24,11 +25,93 @@ ijo_toki: "kulupu pona li alasa e monsuta pi moli jan la ona li kama lukin e kas
         border-block-end: 0.05em solid var(--lipu-sinpin);
 
     }
+    .tomo-sewi {
+        width: 15em;
+        margin: 0 auto;
+        display: block;
+    }
+
+.halves {
+  display: flex;
+  flex-wrap: wrap;     
+  gap: 1rem;
+  align-items: center;
+
+}
+
+
+.first-half {
+  flex: 0 0 auto;      
+  min-width: max-content; 
+
+}
+
+.second-half {
+  flex: 1 1 15em;      
+  min-width: 15em;     
+}
+
+img.soweli-monsuta {
+  display: block;
+  margin-left: auto;
+}
+.lupa{
+    width: 100%;
+    max-width: 20em;
+    margin: 0 auto;
+    display: block;
+}
+.sitelen-soweli{
+    width: 100%;
+    max-width: 15em;
+    margin: 0 auto;
+    display: block;
+}
+.telo-nasa{
+    width: 100%;
+    max-width: 25em;
+    margin: 0 auto;
+    display: block;
+}
+.halves:has(.mu-lupa) .first-half{
+    max-width: 15em;
+    min-width: 0;
+}
+.overflow-please{
+    white-space: nowrap;
+}
+.mu-lupa {
+    max-width: 20em;
+    margin: 0 auto;
+    display: block;
+
+}
+.weka-lupa{
+    max-width: 25em;
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+
+}
+
+
+
+
+
+
+    
 </style>
 
 <div class="nasin-nanpa" markdown="1">
 
+<img class="tomo-sewi" alt="tomo suli pi lupa mute" src="monsuta-tu-wan-li-lon-tomo-pi-pona-sewi/tomo-sewi.png">
 ## monsuta li lon  
+
+
+<div class="halves" markdown="1">
+
+<div class="first-half" markdown="1">
+
   
 jan alasa li toki e ni  
 te tomo pi(ponasewi) li lon insa pi (makasisuli)  
@@ -46,6 +129,13 @@ tenpo ale la soweli li lon insa pi (ma kasi suli)
 taso tenpo ni la kulupu pona li kute ala e soweli e ijo e ale  
 kalama li lon ala  
 te ni^ li nasa to 
+</div>
+<div class="second-half">
+<img class="soweli-monsuta" alt="jan soweli monsuta li jo e sijelo soweli e len noka jan. ona li lon noka tu taso li mu tawa sewi." src="monsuta-tu-wan-li-lon-tomo-pi-pona-sewi/monsuta-soweli.png">
+</div>
+
+
+</div>
   
 ## lupa sike  
 tenpo kama lili la kulupu pona li lukin e kasi suli walo  
@@ -67,6 +157,9 @@ tenpo pimeja li kama la mun li suno tawa ma kasi suli
 suno mun li lon lupa sike  
 ni^ la lupa sike li open kepeken wawa nasa  
 kulupu pona li kama lon insa tomo  
+
+<img class="lupa" alt="kiwen suli sike la lupa suli pimeja li lon. sitelen ni li lon lupa jan: jan li pana e luka ona lon ni lon tenpo pini." src="monsuta-tu-wan-li-lon-tomo-pi-pona-sewi/lupa.png">
+
   
 ## meli pakala[loje utala nasa anpa]
 kulupu pona li lon tomo pi (pona sewi) li ken ala lukin e ale tan ni  
@@ -87,6 +180,9 @@ zz tenpo pini la mi en jan olin mi [ken anu nena] li alasa e moku lon insa pi (m
 zz jan soweli monsuta li kama li pakala e mi  
 zz jan [ken] li lon tomo ante to   
 kulupu pona en meli [loje] li tawa  
+
+<img class="sitelen-soweli" alt="lon leko suli kiwen la sitelen suli ni: soweli li mu.  linja pi sike kiwen mute li wan e noka wan pi soweli sitelen e luka pi jan ni: ona li jo e lawa sama sitelen pona pi nimi 'meli' li pilin ike." src="monsuta-tu-wan-li-lon-tomo-pi-pona-sewi/sitelen-soweli.png">
+
   
 ## poki sike telo  
 kulupu pona li kama tawa tomo pi (poki sike telo)  
@@ -96,8 +192,16 @@ kulupu pona li pilin e kon moli
 jan wan pi kulupu pona li wile sona e telo ni^ li moku e ona li pilin ike  
 tomo ni li nasa  
 kulupu pona li tawa  
+
+<img class="telo-nasa" alt="poki lili sike pi nimi 'pakala li awen e ale' li jo e telo li pana e kon nasa. jan wan pi len lawa pimeja en jan wan pi pilin nasa li lon poka poki." src="monsuta-tu-wan-li-lon-tomo-pi-pona-sewi/pakala-li-awen-e-ale.png">
+
   
 ## lupa en kasi kule  
+
+<div class="halves" markdown="1">
+
+<div class="first-half" markdown="1">
+
 kulupu pona li kama lon insa pi (tomo ante)  
 tomo ni^ li jo e kasi kule mute e lupa lon insa  
 mun li ken suno tan ni  
@@ -123,9 +227,20 @@ zz jan tu wan li wile jo e telo wawa nasa pi (pona awen)
 zz taso jan tu wan li wile ala pana e pakala  
 zz kon soweli li pilin e ike tan jan tu wan ni^\<  
 zz tenpo suno kama la jan tu wan o weka to  
-  
+
+<div class="overflow-please" markdown="1">
 kulupu pona li kama jo e linja  
-sin la kulupu pona li kute e kalama nasa tan tomo wan pi (lupa sike) li tawa ona  
+sin la kulupu pona li kute e kalama nasa tan tomo wan pi (lupa sike) li tawa ona
+</div>
+
+  
+</div>
+<div class="second-half">
+<img class="mu-lupa" alt="mu li kama tan lupa suli sike lon insa tomo. kasi kule li lon poka lupa. poki leko kiwen li li lon poka pi lupa open tomo." src="monsuta-tu-wan-li-lon-tomo-pi-pona-sewi/mu-lupa.png">
+</div>
+</div>
+
+
   
 ## jan sin nasa  
 kulupu li kama tawa tomo pi (lupa sike) li lukin e ni  
@@ -144,6 +259,9 @@ ona mute li tawa
   
 tomo pi jan [ken anu nena] la kulupu pona li kepeken palisa lon lupa suli  
 ni^> la ona mute li ken tawa lupa tawa jan [ken]  
+
+<img class="weka-lupa" alt="tan lupa sike suli pi kasi kule poka la jan pi len lawa pimeja li pana e linja awen tawa insa lupa. jan tu li jo e linja li weka tan lupa pimeja li pilin pona." src="monsuta-tu-wan-li-lon-tomo-pi-pona-sewi/weka-lupa.png">
+
   
 ## toki tan jan tu wan  
 kulupu pona li lon tomo anpa  
@@ -202,8 +320,13 @@ ale li pona
 </div>
 
 <hr>
+
+<img tabindex="-1" id="sitelen-Lasina" class="tomo-sewi" alt="tomo suli pi lupa mute" src="monsuta-tu-wan-li-lon-tomo-pi-pona-sewi/tomo-sewi.png">
+
   
-## monsuta li lon  
+<h2>monsuta li lon</h2> 
+
+
   
 jan alasa li toki e ni  
 "tomo pi pona sewi li lon insa pi ma kasi suli  
@@ -221,6 +344,11 @@ tenpo ale la soweli li lon insa pi ma kasi suli
 taso tenpo ni la kulupu pona li kute ala e soweli e ijo e ale  
 kalama li lon ala  
 "ni li nasa"  
+
+
+<img class="soweli-monsuta" alt="jan soweli monsuta li jo e sijelo soweli e len noka jan. ona li lon noka tu taso li mu tawa sewi." src="monsuta-tu-wan-li-lon-tomo-pi-pona-sewi/monsuta-soweli.png">
+
+
   
 ## lupa sike  
 tenpo kama lili la kulupu pona li lukin e kasi suli walo  
@@ -242,6 +370,9 @@ tenpo pimeja li kama la mun li suno tawa ma kasi suli
 suno mun li lon lupa sike  
 ni la lupa sike li open kepeken wawa nasa  
 kulupu pona li kama lon insa tomo  
+
+<img class="lupa" alt="kiwen suli sike la lupa suli pimeja li lon. sitelen ni li lon lupa jan: jan li pana e luka ona lon ni lon tenpo pini." src="monsuta-tu-wan-li-lon-tomo-pi-pona-sewi/lupa.png">
+
   
 ## meli pakala Luna  
 kulupu pona li lon tomo pi pona sewi li ken ala lukin e ale tan ni  
@@ -262,6 +393,9 @@ tenpo pini la mi en jan olin mi Kan li alasa e moku lon insa pi ma kasi suli
 jan soweli monsuta li kama li pakala e mi  
 jan Kan li lon tomo ante"  
 kulupu pona en meli Luna li tawa  
+
+<img class="sitelen-soweli" alt="lon leko suli kiwen la sitelen suli ni: soweli li mu.  linja pi sike kiwen mute li wan e noka wan pi soweli sitelen e luka pi jan ni: ona li jo e lawa sama sitelen pona pi nimi 'meli' li pilin ike." src="monsuta-tu-wan-li-lon-tomo-pi-pona-sewi/sitelen-soweli.png">
+
   
 ## poki sike telo  
 kulupu pona li kama tawa tomo pi poki sike telo  
@@ -271,8 +405,14 @@ kulupu pona li pilin e kon moli
 jan wan pi kulupu pona li wile sona e telo ni li moku e ona li pilin ike  
 tomo ni li nasa  
 kulupu pona li tawa  
+
+<img class="telo-nasa" alt="poki lili sike pi nimi 'pakala li awen e ale' li jo e telo li pana e kon nasa. jan wan pi len lawa pimeja en jan wan pi pilin nasa li lon poka poki." src="monsuta-tu-wan-li-lon-tomo-pi-pona-sewi/pakala-li-awen-e-ale.png">
+
   
 ## lupa en kasi kule  
+
+
+
 kulupu pona li kama lon insa pi tomo ante  
 tomo ni li jo e kasi kule mute e lupa lon insa  
 mun li ken suno tan ni  
@@ -301,6 +441,11 @@ tenpo suno kama la jan tu wan o weka"
   
 kulupu pona li kama jo e linja  
 sin la kulupu pona li kute e kalama nasa tan tomo wan pi lupa sike li tawa ona  
+
+
+<img class="mu-lupa" alt="mu li kama tan lupa suli sike lon insa tomo. kasi kule li lon poka lupa. poki leko kiwen li li lon poka pi lupa open tomo." src="monsuta-tu-wan-li-lon-tomo-pi-pona-sewi/mu-lupa.png">
+
+
   
 ## jan sin nasa  
 kulupu li kama tawa tomo pi lupa sike li lukin e ni  
@@ -319,6 +464,11 @@ ona mute li tawa
   
 tomo pi jan Kan la kulupu pona li kepeken palisa lon lupa suli  
 ni la ona mute li ken tawa lupa tawa jan Kan  
+
+<img class="weka-lupa" alt="tan lupa sike suli pi kasi kule poka la jan pi len lawa pimeja li pana e linja awen tawa insa lupa. jan tu li jo e linja li weka tan lupa pimeja li pilin pona." src="monsuta-tu-wan-li-lon-tomo-pi-pona-sewi/weka-lupa.png">
+
+
+
   
 ## toki tan jan tu wan  
 kulupu pona li lon tomo anpa  
