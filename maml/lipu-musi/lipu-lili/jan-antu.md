@@ -1,5 +1,6 @@
 ---  
 title: jan Antu  
+jan_pali: jan Masa
 ---  
 jan pona mi o  
 jan pakala sin o,  

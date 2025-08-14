@@ -1,5 +1,6 @@
 ---  
 title: toki lili pi tenpo mute
+jan_pali: ijo tan anpa nanpa
 ---
 <style>
 

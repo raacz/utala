@@ -1,5 +1,6 @@
 ---
 title: o
+jan_pali: waso Seko
 ---
 ![sina wile lukin la o open e sitelen Lasina](o-leko.png)
 

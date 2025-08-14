@@ -1,5 +1,6 @@
 ---
 title: nasin
+jan_pali: jan Kiso
 ---
 
 nasin li pimeja sina  

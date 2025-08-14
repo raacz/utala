@@ -1,5 +1,6 @@
 ---
 title: ante
+jan_pali: jan Alolan
 ---
 mi tawa telo  
 tan ma awen  

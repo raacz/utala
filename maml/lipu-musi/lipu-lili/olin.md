@@ -1,5 +1,6 @@
 ---
 title: olin
+jan_pali: lipamanka
 ---
 
 <style>

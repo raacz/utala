@@ -1,5 +1,6 @@
 ---  
 title: akesi linja li pilin ike
+jan_pali: akesi Tala
 ---
 <style>
     .akesi-linja-li-pilin-ike{

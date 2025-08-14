@@ -1,5 +1,6 @@
 ---
 title: mun en kon en tenpo
+jan_pali: jan Peton
 ---
 
 <style>

@@ -1,5 +1,6 @@
 ---
 title: jan Petani en kalama musi ona
+jan_pali: jan Makosu
 ---
 jan Petani li jan kalama musi. ona li meli. ona li tan ma tomo Potulan. tenpo ni la ona li lon ma tomo Nuyoka. ona li musi e ilo kalama musi linja ona.
 

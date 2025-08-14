@@ -1,5 +1,6 @@
 ---
 title: kasi lili
+jan_pali: palisa jelo Natan
 ---
 <style>
     .kasi-lili-sp {

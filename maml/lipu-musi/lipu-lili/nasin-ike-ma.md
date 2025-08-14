@@ -1,5 +1,6 @@
 ---  
 title: nasin ike ma
+jan_pali: kili potato
 ---
 <style>
 

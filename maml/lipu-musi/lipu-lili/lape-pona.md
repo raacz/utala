@@ -1,5 +1,6 @@
 ---  
 title: lape pona
+jan_pali: jan Memeli
 ---
 
 jan lili o, lape pona.  

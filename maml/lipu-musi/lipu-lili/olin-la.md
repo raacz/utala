@@ -1,5 +1,6 @@
 ---
 title: "olin la"
+jan_pali: jan Luwiso
 ---
 mi wile sona.   
 mi wile sona e sina.   

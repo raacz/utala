@@ -1,5 +1,6 @@
 ---
 title: pipi lili
+jan_pali: ijo pali
 ---
 
 pipi lili li kama tan sewi  

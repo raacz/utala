@@ -1,5 +1,6 @@
 ---
 title: tawa sina
+jan_pali: jan Lasuku
 ---
 toki. tenpo suli la mi toki ala tawa sina. sina pona ala pona?
 

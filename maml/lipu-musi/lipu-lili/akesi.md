@@ -1,5 +1,6 @@
 ---  
 title: akesi
+jan_pali: kule epiku Atawan
 ---
 <style>
     .akesi{

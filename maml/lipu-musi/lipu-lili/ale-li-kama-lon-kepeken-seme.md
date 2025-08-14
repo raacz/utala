@@ -1,5 +1,6 @@
 ---
 title: "ale li kama lon kepeken seme?"
+jan_pali: jan Alan
 ---
 
 ale li kama lon kepeken seme?

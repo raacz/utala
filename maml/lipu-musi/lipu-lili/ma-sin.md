@@ -1,5 +1,6 @@
 ---
 title: ma sin
+jan_pali: jan Ali
 ---
 mi tawa. mi pi jan poka ala li tawa. nasin li ike. kon li ike. pimeja li lon ale. mi ken ala lukin e ijo. mi tawa kepeken noka lon tenpo mute. mi pilin monsuta,
 taso mi tawa kin! 

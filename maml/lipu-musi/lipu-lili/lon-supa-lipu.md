@@ -1,5 +1,6 @@
 ---
 title: lon supa lipu
+jan_pali: jan Lakuse
 ---
 
 o kama lukin e supa lipu mi. ona la lipu mute a li lon. 

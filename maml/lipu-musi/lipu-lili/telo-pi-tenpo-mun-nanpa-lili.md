@@ -1,6 +1,6 @@
 ---  
 title: telo pi tenpo mun nanpa lili
-
+jan_pali: jan Samele
 ---
 
 telo lili sin li kama tan sewi  

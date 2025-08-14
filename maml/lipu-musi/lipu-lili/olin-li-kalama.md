@@ -1,5 +1,6 @@
 ---
 title: olin li kalama
+jan_pali: jan Elijan
 ---
 olin li sama kalama  
 kalama li sama olin  
