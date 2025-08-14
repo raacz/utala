@@ -21,7 +21,7 @@ ni la pali seme la lawa kepeken pi pali musi li tawa ale? pali seme la lawa kepe
 
 ale la 'utala pi sitelen ma' en 'utala pi musi mu' la jan pali li kama ala ken e ni: ale li ken kepeken pali ona. 
 
-'utala pi toki musi' pi tenpo sike #MAM li sama. jan pali li kama ala ken e ni: ale li ken kepeken pali ona. 
+'utala pi toki musi' pi tenpo sike #MAM en 'utala pi lipu kalama tawa' pi tenpo sike #MAMW en 'utala pi lipu musi lili' pi tenpo sike #MAMT li sama. jan pali li kama ala ken e ni: ale li ken kepeken pali ona. 
 
 ken la sina pali e ijo lon 'utala pi sitelen ma' lon 'utala pi musi mu' lon 'utala pi toki musi' pi tenpo sike #MAM. ken la sina wile e ni: lipu utala.pona.la li pana ala e pali sina. ni li lon la o toki e ni tawa mi. mi weka e pana pi pali sina kepeken tenpo lili. 
 
@@ -31,7 +31,7 @@ sina wile ken ala e pana pi pali sina la o toki kepeken nasin ni:
 
 ## ken kulupu kepeken
 
-lon sike #MAMT la nasin sin li kama lon: sina pana e lipu sina tawa utala lipu, la nasin pana kulupu [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) li lawa e pana pi pali sina. 
+lon sike #MAMTW la nasin sin li kama lon: sina pana e lipu sina tawa utala lipu, la nasin pana kulupu [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) li lawa e pana pi pali sina. 
 
 nasin ni la ale li ken pana e lipu lon ale li ken kepeken lipu lon ale li ken ante e lipu lon wile. 
 
@@ -44,7 +44,6 @@ taso jan li kepeken lipu sina la ona o toki e ni:
 
 lipu ale ni la nasin pana CC-BY-SA 4.0 li lawa:
 - [utala musi lipu](/mamtt/lipu-musi/)
-- [utala musi pi lipu suli pi toki lili](/mamtw/toki-en-lipu/index.md)
-- [utala pi lipu musi lili](/mamt/lipu-lili/)
+- [utala musi pi lipu suli pi toki lili](/mamtw/toki-en-lipu/index.html)
 
 
