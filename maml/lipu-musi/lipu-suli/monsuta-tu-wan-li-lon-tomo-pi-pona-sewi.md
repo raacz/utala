@@ -94,6 +94,9 @@ img.soweli-monsuta {
 
 }
 
+[data-selected-theme="pimeja-mute"] img, [data-selected-theme="pimeja"] img{
+    filter: invert(100%);
+}
 
 
 
