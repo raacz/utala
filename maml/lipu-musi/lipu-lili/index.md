@@ -18,20 +18,24 @@ title: lipu lili | lipu musi pi sike#MAML
 
 <style>
     .nimi-pi-lipu-lili{
-        display: flex;
-        flex-wrap: wrap;
         gap: 1em;
         list-style: circle;
-
-
     }
+    main h2{
+      padding-block-end: 0;
+    }
+    .nimi-jan{
+      margin-block-end: 0.5em;
+      font-size: 0.9em;
+    }
+    
 </style>
 
 <ul role="list" class="nimi-pi-lipu-lili">
 {% for page in lipu_pages %}
     {% assign stripped_title = page.title | replace: " ", "-" %}
 
-  <li><a href="#{{ stripped_title }}">{{ page.title }}</a></li>
+  <li><a href="#{{ stripped_title }}">{{ page.title }}</a>, tan {{ page.jan_pali }}</li>
 {% endfor %}
 </ul>
 
@@ -46,6 +50,8 @@ title: lipu lili | lipu musi pi sike#MAML
 {% for page in lipu_pages %}
     {% assign stripped_title = page.title | replace: " ", "-" %}
   <h2 tabindex="-1" id="{{ stripped_title }}">{{ page.title }}</h2>
+  <em class="nimi-jan">tan {{ page.jan_pali }}</em>
+
   {{ page.content }}
   <hr>
 {% endfor %}
