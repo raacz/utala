@@ -17,6 +17,11 @@
     src: url(/assets/sitelenselikiwen/sitelenselikiwenmonoasuki.ttf);
 }
 @font-face {
+    font-family: "sitelen seli kiwen juniko";
+    src: url(/assets/sitelenselikiwen/sitelenselikiwenjuniko.ttf);
+}
+
+@font-face {
   font-family: "fairfax";
   src: url(/assets/FairfaxPonaHD.ttf);
 }
