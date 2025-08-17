@@ -9,6 +9,7 @@ ken_ike:
 - toki pi lon ala
 - moli
 ijo_toki: "pipi lili li kama weka tan kulupu pipi li pilin ike. ona li alasa e kulupu la pona li kama ala. ona li ken ala alasa lon ona taso, la ona o toki tawa ijo ante pi ma kasi..."
+sona_namako: "lipu ni li jo e sitelen pi pona lukin. lon tenpo utala la, kulupu li ken ala lukin e sitelen pi pona lukin. pini utala la sitelen pi pona lukin li kama lon lipu utala.pona.la."
 ---
 
 <style>
@@ -17,12 +18,44 @@ ijo_toki: "pipi lili li kama weka tan kulupu pipi li pilin ike. ona li alasa e k
     font-weight: 800;
     text-align: center;
 }
+.halves {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  justify-content: center;
+  align-items: center;
+}
+.pipi-telo, .waso {
+    border-radius: 50%;
+    min-width: 9em;
+    max-width: 18em;
+    margin: 0 auto;
+    width: 100%;
+    display: block;
+}
+.first-half, .right-side{
+    flex: 1;
+}
+.second-half, .left-side{
+    flex: 2;
+    min-width: 17em;
+}
+
+
+
 
 </style>
 
 
 mi wile toki tawa sina. mi wile toki e pipi lili wan. o lukin:
 {:.toki-pimeja}
+
+<div class="halves">
+<div class="first-half">
+<img class="pipi-telo" src="pipi-lili/pipi-en-telo.png" alt="pipi li tawa lon nasin telo. selo pipi li sama nimi 'pipi' pi sitelen pona.">
+</div>
+
+<div class="second-half" markdown="1">
 
 pipi lili li lon kulupu suli pipi.
  
@@ -31,6 +64,8 @@ telo li kama li tawa wawa li weka e tomo pipi.
 pipi ale pi kulupu ni li kama weka.
  
 tenpo ni la pipi lili li taso.
+</div>
+</div>
  
 
 <hr>
@@ -85,16 +120,25 @@ waso lili en soweli en akesi li toki ike tawa pipi lili. ona o seme lon tenpo ni
 {:.toki-pimeja}
 
 pipi lili li pilin ike suli li toki pilin: 'kulupu mi li weka a! mi taso. mi ken ala ante e ni. mi o seme?'
- 
+
 waso pimeja suli li kute e ona li kama sin li toki: 'pipi lili o! seme li kama e pilin ike sina?'
  
 pipi li toki: 'tenpo suli a la mi alasa e kulupu pipi mi, taso mi sona ala e ni: ona li lon seme? tenpo ni la mi lukin e pipi wan la mi pilin pona. taso pipi ala a li lon!'
- 
+
+
+<div class="halves">
+<div class="left-side" markdown="1">
 waso li toki: 'n... mi kin li lukin ala e pipi ante lon tenpo ni, taso mi sona e ni: tenpo kama poka la pipi wan li lon ma wan. mi ken pana e sona ni tawa sina: ona li lon ma seme?'
  
 pipi li pilin pona wawa li toki: 'o pana! mi wile sona!'
  
+</div>
+<div class="right-side">
+<img class="waso" src="pipi-lili/pipi_en_waso2.png" alt="waso li lon sewi li toki tawa pipi lon anpa. sinpin pi sijelo waso li sama nimi 'waso' pi sitelen pona.">
+</div>
+</div>
 waso li toki: 'o kama lon insa pi uta mi! sina kama ala la mi ken ala pana e sina tawa ma pipi.' 
+
  
 pilin pipi li wawa a la ona li toki insa ala. ona li tawa li kama lon insa pi uta waso.
 
