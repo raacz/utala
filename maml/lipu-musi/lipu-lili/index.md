@@ -51,6 +51,11 @@ title: lipu lili | lipu musi pi sike#MAML
     {% assign stripped_title = page.title | replace: " ", "-" %}
   <h2 tabindex="-1" id="{{ stripped_title }}">{{ page.title }}</h2>
   <em class="nimi-jan">tan {{ page.jan_pali }}</em>
+  {%- if page.nasin_kalama %}
+<audio tabindex="0" aria-label="o kute e lipu" controls="controls">
+  <source type="audio/mp3" src="{{ page.nasin_kalama }}"></source>
+</audio>
+{%- endif %}
 
   {{ page.content }}
   <hr>

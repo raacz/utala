@@ -156,4 +156,4 @@ ona li toki: 'pipi lili o, mi toki lon! mi sona e ma pipi! pipi li sina! ma pipi
  
 
 waso ike a!
-{:toki-pimeja}
+{:.toki-pimeja}
