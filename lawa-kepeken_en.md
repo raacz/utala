@@ -19,8 +19,8 @@ Creators of content produced in contests hosted before 2023 retain copyright ove
 If you are a creator and want your content removed from this page, please notify us and we will remove it as soon as possible. 
 
 Contact:
-- Discord (@raacz106)
-- Email: tokipona.sasalin@gmail.com
+- Discord: `@raacz106`
+- Email: `tokipona.sasalin@gmail.com`
 
 ## Creative Commons
 
