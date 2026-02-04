@@ -26,8 +26,8 @@ ale la 'utala pi sitelen ma' en 'utala pi musi mu' la jan pali li kama ala ken e
 ken la sina pali e ijo lon 'utala pi sitelen ma' lon 'utala pi musi mu' lon 'utala pi toki musi' pi tenpo sike #MAM. ken la sina wile e ni: lipu utala.pona.la li pana ala e pali sina. ni li lon la o toki e ni tawa mi. mi weka e pana pi pali sina kepeken tenpo lili. 
 
 sina wile ken ala e pana pi pali sina la o toki kepeken nasin ni:
-- ilo Siko (kepeken nimi @raacz)
-- ilo toki lipu (kepeken nimi tokipona.sasalin@gmail.com)
+- ilo Siko (kepeken nimi `@raacz106`)
+- ilo toki lipu (kepeken nimi `tokipona.sasalin@gmail.com`)
 
 ## ken kulupu kepeken
 
