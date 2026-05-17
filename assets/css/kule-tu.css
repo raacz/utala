@@ -51,7 +51,7 @@
     /*main colors*/
     --pimeja: rgb(40,0,3);
     --walo: white;
-    --loje-laso: rgb(145, 65, 172);
+    --loje-laso: rgb(81, 10, 105);
     --walo-laso:rgb(214, 238, 255);
     --jelo: rgb(245, 245, 216);
     --laso-pimeja: rgb(8, 18, 109);
@@ -109,7 +109,7 @@
 [data-selected-theme="walo"]{
   --pimeja: rgb(40,0,3);
   --walo: white;
-  --loje-laso: rgb(145, 65, 172);
+  --loje-laso: rgb(81, 10, 105);
   --walo-laso:rgb(214, 238, 255);
   --jelo: rgb(245, 245, 216);
   --laso-pimeja: rgb(8, 18, 109);
@@ -274,15 +274,16 @@ h1, h2, h3, h4, h5, strong, .utala-musi{
 
 /*temani afif style*/
 html {
-    --s: 40px; /* control the size*/
+     /* control the size*/
 
-    background:
+
+    /*background:
       repeating-conic-gradient(var(--c1) 0 25%,#0000 0 50%)
        0 0/calc(4*var(--s)) calc(2*var(--s)),
       conic-gradient(#0000 50%,var(--c2) 0)
        calc(var(--s)/2) 0/calc(2*var(--s)) 1%,
       radial-gradient(var(--c2) 70%,var(--c1) 72%)
-       0 0/var(--s) var(--s);
+       0 0/var(--s) var(--s);*/
   }
 
 /*container style applies to everything
@@ -321,6 +322,7 @@ header{
     color: var(--dark-correction-white, var(--loje-laso));
     grid-area: site-title;
     text-align: center;
+    text-decoration: none !important;
     
 }
 nav{
@@ -331,12 +333,17 @@ nav ul {
   flex-direction: row;
   flex-wrap: wrap;
   max-width: 40em;
-  justify-content: space-evenly;
+  justify-content: center;
+
   margin: auto;
   gap: 0.75em;
 }
 nav li {
     list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
 }
 nav a, nav a:link, nav a:visited {
     text-underline-offset: 0.5em;
@@ -344,6 +351,11 @@ nav a, nav a:link, nav a:visited {
     text-decoration-thickness: 0.03em;
     display: block;
     color: var(--loje-laso);
+}
+nav svg{
+  max-width: 2em;
+  max-height: 2em;
+  margin: auto 0;
 }
 nav a[aria-current="page"]{
   text-decoration-thickness: 0.08em;
@@ -500,11 +512,12 @@ main{
     align-self: start;
 
 }
-main section {
+main .container-in-main {
   padding: 2em;
   line-height: 1.5em;
-
-
+}
+main div.container-in-main:nth-of-type(2){
+  margin-top: 2em;
 }
 h1{
     color: var(--laso-pimeja);

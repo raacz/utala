@@ -1,3 +1,23 @@
+  {% include  icons/award-success-win-winner.svg %}
+
+  <style>
+  aside:has(.card-wrapper) svg {
+    width: 200px;
+    height: 200px;
+    margin-inline: auto;
+    margin-block: 1em 0;
+  }
+  @media (max-width: 55em){
+      aside:has(.card-wrapper) svg {
+    width: 2em;
+    height: 2em;
+
+    
+  }
+}
+</style>
+
+
     <h2>ijo wawa kulupu</h2>
     <div class="card-wrapper">
       {%- for entry in site.data.ijo_wawa -%}

@@ -1,3 +1,25 @@
+{% include  icons/award-success-win-winner.svg %}
+
+<style>
+  aside:has(.card-wrapper) svg {
+    width: 2em;
+    height: 2em;
+
+  
+    margin-inline: auto;
+    overflow: visible;
+    margin-block: 1em 0;
+  }
+  @media (max-width: 55em){
+      aside:has(.card-wrapper) svg {
+    width: 2em;
+    height: 2em;
+
+    
+  }
+}
+</style>
+
 <h2>Past Winners</h2>
 <div class="card-wrapper">
   {%- for entry in site.data.ijo_wawa -%}

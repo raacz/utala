@@ -53,6 +53,9 @@
             <ul>
                 {% for nasin in site.data.sewi_lipu_la_nasin %}
                 <li>
+                    {% assign logo_name = "icons/" | append: nasin.sitelen |  append: ".svg" %}
+                    {% include {{ logo_name }} %}
+
                     <a href="{% tawa_lipu_pi_toki_sama {{ nasin.lipu }} %}"{% if page.nimi_pi_toki_ala == nasin.lipu %} aria-current="page"{% endif %}>{{ nasin.nimi[page.toki] }}</a>
                 </li>
                 {% endfor %}

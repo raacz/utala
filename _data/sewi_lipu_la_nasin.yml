@@ -1,18 +1,15 @@
 -
   nimi:
-    tok: utala pini
-    en: Past Competitions
-  lipu: index.md#utala-pini
--
-  nimi:
-    tok: tenpo ni
-    en: Now
-  lipu: index.md#tenpo-ni
+    tok: utala musi
+    en: Competitions
+  lipu: index.md
+  sitelen: home-page-on-laptop-house-home-screen-open-home-page-svgrepo-com
 -
   nimi:
     tok: lipu ale
-    en: All Documents
+    en: Documents
   lipu: lipu-ale.md
+  sitelen: books-overlapping-arrangement-svgrepo-com
 #-
 #  nimi:
 #    tok: sitelen ale
@@ -21,5 +18,7 @@
 -
   nimi:
     tok: seme
-    en: What?
+    en: About
   lipu: seme.md
+  sitelen: question-and-asnwer-ask-question-qa-question-and-asnwer-session-svgrepo-com
+  
