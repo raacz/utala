@@ -227,7 +227,7 @@ kulupu o, tenpo sin la utala musi pi pali lipu li open a. o lukin e sona ale. te
 - **suli lipu**: mute nimi o suli tawa LA. sitelen namako li ken sitelen e ijo  kepeken walo kepeken pimeja kepeken kule. mute pi sitelen namako o suli tawa T. 
 - **nasin sitelen**: sina wile kepeken sitelen pona, la sina o pana kepeken sitelen Lasina kin. sina wile kepeken sitelen Lasina la sina ken pana e ona pi sitelen pona kin, lon wile. 
 - **nasin pi sitelen namako**:  sitelen namako ni o namako taso. weka pi sitelen namako o pakala ala e ken sona pi lipu sina. sitelen namako o sitelen ala e nimi ni: ona li lon ala lipu pi sitelen namako ala. 
-- **Submission format**:  Illustrations may be sent in JPG, PNG, or SVG. You must submit the submission's text in Markdown, plain text, or HTML file. You may additionally submit a PDF/Word document/JPG if your entry requires specific formatting. 
+- **Submission format**:  o pana e sitelen namako tawa mi kepeken nasin JPG anu nasin PNG anu nasin SVG. o pana e toki nimi pi lipu sina tawa mi kepeken nasin wan pi nasin tu wan ni: [nasin Matan](#nasin-matan-li-seme) anu nasin HTML, anu nasin .txt. sina ni la sina ken pana e lipu sama kin kepeken nasin ni, lon wile sina: nasin lipu pi [kulupu Makoso](https://tok.wikipedia.org/wiki/kulupu_Makoso) (en nasin lipu ni pi kulupu Makoso ala) en nasin PDF en nasin JPG.  
 - **pana mute**: jan wan li ken pana e lipu nimi suli mute pi sitelen namako. 
 
 </div>
