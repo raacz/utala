@@ -17,6 +17,13 @@ title: {{ page.title }}
         {% endif %}
       
         <p><strong>mute nimi</strong>: {{ page.suli_lipu }}, {{ page.mute_nimi }}</p>
+
+          {%- if page.nasin_kalama %}
+          <audio tabindex="0" aria-label="o kute e lipu" controls="controls">
+            <source type="audio/mp3" src="{{ page.nasin_kalama }}"></source>
+          </audio>
+          {%- endif %}
+
       
         <details>
           <summary>o sona e ken ike lon lipu ni</summary>

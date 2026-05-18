@@ -10,6 +10,7 @@ ken_ike:
 - ijo sewi li pana sewi pi esun nasa
 ijo_toki: "jan sama tu tu pi mani mute ala li kama sona e ni: akesi wawa li lon lupa poka li ken pana e pona. taso akesi wawa li wile ala pana taso-- esun li wile..."
 sitelen_pona: "true"
+prize: tw
 ---
 
 <style>

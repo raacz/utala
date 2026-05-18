@@ -10,6 +10,7 @@ ken_ike:
 - "pilin poki pi ken ala weka"
 - "kon moli"
 ijo_toki: 'mi kon. mi o lon ala. taso mi lon. jan li kama e mi tan ala. mi sona ala e ni: jan pi kama mi li wile e seme.'
+nasin_kalama: 'kon-en-jan.mp3'
 ---
 
 <style>
@@ -19,7 +20,7 @@ ijo_toki: 'mi kon. mi o lon ala. taso mi lon. jan li kama e mi tan ala. mi sona 
     }
 </style>
 
-[o lukin e kepeken Lasina](#Lasina)
+[o lukin kepeken sitelen Lasina](#Lasina)
 
 <div markdown="1" class="fairfax">
 

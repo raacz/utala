@@ -284,6 +284,7 @@ html {
        calc(var(--s)/2) 0/calc(2*var(--s)) 1%,
       radial-gradient(var(--c2) 70%,var(--c1) 72%)
        0 0/var(--s) var(--s);*/
+       background-color: var(--walo);
   }
 
 /*container style applies to everything
@@ -334,11 +335,11 @@ nav ul {
   flex-wrap: wrap;
   max-width: 40em;
   justify-content: center;
-
+  list-style: none;
   margin: auto;
   gap: 0.75em;
 }
-nav li {
+nav a {
     list-style: none;
     display: flex;
     flex-direction: column;
@@ -349,7 +350,6 @@ nav a, nav a:link, nav a:visited {
     text-underline-offset: 0.5em;
     text-decoration-style: solid;
     text-decoration-thickness: 0.03em;
-    display: block;
     color: var(--loje-laso);
 }
 nav svg{

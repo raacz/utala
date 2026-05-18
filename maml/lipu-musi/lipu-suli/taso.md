@@ -11,6 +11,7 @@ ken_ike:
 - pilin ike sijelo
 - toki pi ken moli
 ijo_toki: "tomo pi telo suli li pakala. lon ma sin pi jan ala la jan wan li kama sona lon ona taso li lukin moli ala." 
+prize: t
 ---
 
 taso.

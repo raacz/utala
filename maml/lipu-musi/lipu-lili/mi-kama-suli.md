@@ -1,6 +1,7 @@
 ---
 title: mi kama suli
 jan_pali: jan Jasun
+nasin_kalama: 'mi-kama-suli.mp3'
 ---
 
 

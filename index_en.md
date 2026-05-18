@@ -373,6 +373,9 @@ Note: the English translation page does not have all of the competitions that ha
 <div  class="timeline-container" markdown="1">
 
 
+## 2025
+- August: [artistic document competition](/maml/lipu-musi/), where big documents and little documents came from the artistic labour of this amazing group.
+
 ## 2024
 - August: [amusing document competition](/mamtt/lipu-musi/), where the group made lots of documents!
 

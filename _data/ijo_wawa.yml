@@ -1,4 +1,59 @@
 -
+  nimi: jan keteson
+  tenpo: 
+    tok: 'tenpo sike #MAML'
+    en: Small Document 2025
+  nanpa:
+    tok: "lipu lili #W"
+    en: First Place
+  lipu: /maml/lipu-musi/lipu-lili/#o-esun!
+-
+  nimi: akesi Tala
+  tenpo: 
+    tok: 'tenpo sike #MAML'
+    en: Small Document 2025
+  nanpa:
+    tok: "lipu lili #T"
+    en: Second Place
+  lipu: /maml/lipu-musi/lipu-lili/#akesi-linja-li-pilin-ike
+-
+  nimi: ijo pali
+  tenpo: 
+    tok: 'tenpo sike #MAML'
+    en: Small Document 2025
+  nanpa:
+    tok: "lipu lili #TW"
+    en: Third Place
+  lipu: /maml/lipu-musi/lipu-lili/#pipi-lili
+
+-
+  nimi: jan Ke Tami
+  tenpo: 
+    tok: 'tenpo sike #MAML'
+    en: Big Document 2025
+  nanpa:
+    tok: "lipu suli #W"
+    en: First Place
+  lipu: /maml/lipu-musi/lipu-suli/tenpo-o-pona.html
+-
+  nimi: soko Sijeni
+  tenpo: 
+    tok: 'tenpo sike #MAML'
+    en: Big Document 2025
+  nanpa:
+    tok: "lipu suli #T"
+    en: Second Place
+  lipu: /maml/lipu-musi/lipu-suli/taso.html
+-
+  nimi: jan Kepeliju
+  tenpo: 
+    tok: 'tenpo sike #MAML'
+    en: Big Document 2025
+  nanpa:
+    tok: "lipu suli #TW"
+    en: Third Place
+  lipu: /maml/lipu-musi/lipu-suli/jan-sama-tu-tu-en-soweli-monsuta.html
+-
   nimi: jan Jasun
   tenpo: 
     tok: 'tenpo sike #MAMTT'

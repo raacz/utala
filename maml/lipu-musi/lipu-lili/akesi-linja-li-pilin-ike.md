@@ -1,6 +1,7 @@
 ---  
 title: akesi linja li pilin ike
 jan_pali: akesi Tala
+prize: t
 ---
 <style>
     .akesi-linja-li-pilin-ike{

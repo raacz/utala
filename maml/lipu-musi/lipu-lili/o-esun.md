@@ -1,6 +1,7 @@
 ---
 title: "o esun!"
 jan_pali: jan keteso
+prize: w
 ---
 
 lon tomo sina la sina pilin ike suli a! taso, sina esun la, ale li kama pona. sina pakala. taso, esun li ken pona e sina. ni li nasin taso. sina wile kama pona la o esun!

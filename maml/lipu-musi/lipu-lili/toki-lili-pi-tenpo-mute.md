@@ -1,6 +1,8 @@
 ---  
 title: toki lili pi tenpo mute
 jan_pali: ijo tan anpa nanpa
+nasin_kalama: 'toki-lili-pi-tenpo-mute.mp3'
+
 ---
 <style>
 
