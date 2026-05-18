@@ -7,6 +7,25 @@
     <title>{% if page.title %}{{ page.title }} | utala musi{% else %}utala musi pi toki pona{% endif %}</title>
     <meta property="og:description" content="ma pona pi toki pona la utala musi li lon! o utala o lukin e musi pi tenpo pini!">
     <meta property="og:site_name" content="utala musi pi ma pona">
+    {% if page.layout == "lipu" %}
+    <meta property="og:type" content="article" />
+    {% else %}
+    <meta property="og:type" content="website" />
+    {% endif %}
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} | utala musi{% else %}utala musi pi toki pona{% endif %}" />
+    <meta property="og:url" content="https://utala.pona.la{{page.url}}" />
+    <meta name="description" content="toki pona la utala pi pali musi li lon! o pali e musi o lukin e musi pi tenpo pini!">
+    <meta property="og:description"
+        content="toki pona la utala pi pali musi li lon! o pali e musi o lukin e musi pi tenpo pini" />
+    <meta property="og:site_name" content="utala musi pi toki pona" />
+    <meta property="og:image"
+        content="https://utala.pona.la/embed.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="" />
+    <meta property="twitter:card" content="summary_large_image" />
+
   </head>
   <body>
     <a class="skip-button" href="#skip-target-main">
