@@ -221,13 +221,14 @@ kulupu o, tenpo sin la utala musi pi pali lipu li open a. o lukin e sona ale. te
 </div>
 <div class="categories" markdown="1">
 
+
 <div class="category-child">{% include  icons/article-story-report-piece-svgrepo-com.svg %}</div>
 
 ### lipu nimi suli pi sitelen namako
 - **suli lipu**: mute nimi o suli tawa LA. sitelen namako li ken sitelen e ijo  kepeken walo kepeken pimeja kepeken kule. mute pi sitelen namako o suli tawa T. 
 - **nasin sitelen**: sina wile kepeken sitelen pona, la sina o pana kepeken sitelen Lasina kin. sina wile kepeken sitelen Lasina la sina ken pana e ona pi sitelen pona kin, lon wile. 
 - **nasin pi sitelen namako**:  sitelen namako ni o namako taso. weka pi sitelen namako o pakala ala e ken sona pi lipu sina. sitelen namako o sitelen ala e nimi ni: ona li lon ala lipu pi sitelen namako ala. 
-- **Submission format**:  o pana e sitelen namako tawa mi kepeken nasin JPG anu nasin PNG anu nasin SVG. o pana e toki nimi pi lipu sina tawa mi kepeken nasin wan pi nasin tu wan ni: [nasin Matan](#nasin-matan-li-seme) anu nasin HTML, anu nasin .txt. sina ni la sina ken pana e lipu sama kin kepeken nasin ni, lon wile sina: nasin lipu pi [kulupu Makoso](https://tok.wikipedia.org/wiki/kulupu_Makoso) (en nasin lipu ni pi kulupu Makoso ala) en nasin PDF en nasin JPG.  
+- **lipu ilo li ken nasin seme**:  o pana e sitelen namako tawa mi kepeken nasin JPG anu nasin PNG anu nasin SVG. o pana e toki nimi pi lipu sina tawa mi kepeken nasin wan pi nasin tu wan ni: [nasin Matan](#nasin-matan-li-seme) anu nasin HTML, anu nasin .txt. sina ni la sina ken pana e lipu sama kin kepeken nasin ni, lon wile sina: nasin lipu pi [kulupu Makoso](https://tok.wikipedia.org/wiki/kulupu_Makoso) (en nasin lipu ni pi kulupu Makoso ala) en nasin PDF en nasin JPG.  
 - **pana mute**: jan wan li ken pana e lipu nimi suli mute pi sitelen namako. 
 
 </div>
@@ -284,7 +285,9 @@ tenpo pi pana lipu li pini la, mi kama pana e lipu musi ale tawa lukin pi ale ku
 
 ### o pana e lipu!
 
-o awen lili-- mi awen pali e nasin pi pana lipu. mi pini la sina ken lukin e nasin pi pana lipu lon ni a. 
+tawa lipu musi ale pi pali sina la sina o pana e sona pi lipu sina e lipu sina. ni li ijo ante tu. 
+- **o pana e sona tawa mi** kepeken ilo ni: [🏷️ utala musi lipu: sona pi lipu sina](https://forms.gle/vqxFrnEHbLdrEgLa6)
+- **o pana e lipu tawa mi** kepeken nasin wan pi nasin tu wan ni: ilo Siko: @raacz106, anu [ilo nasin pi pana lipu](mailto:tokipona.sasalin@gmail.com) , anu ilo Kuko: [📃 utala musi: pana pi lipu sina](https://forms.gle/S87Q8yYC5veRhbas5) (ni li wile e sijelo pi ilo Kuko)
 
 
 </div>

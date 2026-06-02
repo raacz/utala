@@ -278,9 +278,11 @@ Following the submission deadline, anonymized entries will appear on this websit
 <div class="expectations-child">{% include  icons/approval-notice-notice-of-approval-get-approved-svgrepo-com.svg %}</div>
 
 
-### Submission Form
+### Where to Submit
 
-As soon as the submission form is live, it will be linked here. 
+You must separately submit your document and fill out an information form. These two things are separate. The information form must be completed for each entry, if you are submitting multiple. 
+- **Fill out the information form** linked here [🏷️ utala musi lipu: sona pi lipu sina](https://forms.gle/vqxFrnEHbLdrEgLa6)
+- **Submit your entry** using one of these three methods: via Discord DM (@raacz106),  [through email](mailto:tokipona.sasalin@gmail.com) , or through this linked form: [📃 utala musi: pana pi lipu sina](https://forms.gle/S87Q8yYC5veRhbas5) (using the form requires you to log into a Google account)
 
 
 
