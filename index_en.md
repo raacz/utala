@@ -172,7 +172,7 @@ title: null
 
 The Toki Pona writing competition is back stronger than ever! Closing date is July 12. 
 
-**This annual writing contest accepts creative, artistic writing of all kinds.** Toki Pona speakers of all proficiency levels are invited to submit entries. Scroll to the bottom of the page to be inspired by submissions and winners of previous contests, and read through all the information below as there are some changes this year, **including two new categories for illustrated works!**
+**This annual writing contest accepts original creative writing of all kinds, (not translations).** Toki Pona speakers of all proficiency levels are invited to submit entries. Scroll to the bottom of the page to be inspired by submissions and winners of previous contests, and read through all the information below as there are some changes this year, **including two new categories for illustrated works!**
 
 
 ## Categories

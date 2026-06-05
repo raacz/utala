@@ -174,7 +174,9 @@ title: null
 kulupu o, tenpo sin la utala musi pi pali lipu li open a. o lukin e sona ale. tenpo pi pali lipu li pini lon tenpo suno #LLT pi tenpo mun #LT!
 
 
-**utala ni pi lipu musi li open sin lon tenpo sike ale.** kulupu li pali e lipu musi mute ni: ona li toki e ijo musi kepeken nasin musi. (lipu o pona ala tawa lipu Wikipesija o pana sona taso ala). ale li ken pana e lipu tawa utala musi ni: sina sona wawa e toki pona la o pali! sina sona lili e toki pona la o pali (mi ken pana e pona)! lon anpa pi lipu ni la sina ken lukin e utala lipu mute pi tenpo pini. kin lao lukin pona e sona ale pi tenpo sike ni: nasin utala li kama ante lili. **tenpo sike ni la: jan li ken pali e lipu pi nimi taso ala e lipu pi sitelen kule musi kin!**
+**utala ni pi lipu musi sin li open sin lon tenpo sike ale.** kulupu li pali e lipu musi mute ni: ona li toki e ijo musi kepeken nasin musi. (lipu o pona ala tawa lipu Wikipesija o pana sona taso ala, kin la lipu o sin o ante toki ala). 
+
+ale li ken pana e lipu tawa utala musi ni: sina sona wawa e toki pona la o pali! sina sona lili e toki pona la o pali (mi ken pana e pona)! lon anpa pi lipu ni la sina ken lukin e utala lipu mute pi tenpo pini. kin lao lukin pona e sona ale pi tenpo sike ni: nasin utala li kama ante lili. **tenpo sike ni la: jan li ken pali e lipu pi nimi taso ala e lipu pi sitelen kule musi kin!**
 
 ## lipu pi nasin tu tu 
 
