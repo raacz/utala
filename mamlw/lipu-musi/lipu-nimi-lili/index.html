@@ -45,6 +45,11 @@ fontfile: "/mamlw/fonts/fonts.css"
         section .sLasina {
             white-space: nowrap;
         }
+        section.wwrap .sLasina {
+            white-space: normal;
+            line-height: 1em;
+
+        }
 
         h2 .sLasina{
             white-space: normal;
@@ -128,6 +133,19 @@ fontfile: "/mamlw/fonts/fonts.css"
 
     }
 
+    /*Poem-specific Tweaks*/
+    div.len-lawa-suli,div.len-lawa-suli.sLasina {
+        line-height: 0.5em;
+
+    }
+    div.len-lawa-suli p {
+        padding-block: 0.75em;  
+    }
+    div.len-lawa-suli.sLasina p {
+        padding-block: 0.5em;  
+    }
+
+
 
 
 
@@ -173,23 +191,19 @@ fontfile: "/mamlw/fonts/fonts.css"
     {% assign stripped_title = page.title | replace: " ", "-" %}
   <h2 class="two-scripts" tabindex="-1" id="{{ stripped_title }}">
   <span class="sLasina">{{ page.title }}</span>
-  <span class="spona">{{ page.sptitle }}
-
-
-  </span>
+  <span class="spona">{{ page.sptitle }}</span>
   </h2>
 
   {% assign content = page.content %}
 
 
   {% if page.ws_pref contains 'sLasina' %}
-
     {% assign content  = content | replace: "spona","spona not_original" %}
   {% endif %}
 
 
 
-  <section class="two-scripts">{{ content | markdownify}}</section>
+  <section class="two-scripts {% if page.wrap == true %}wwrap{% endif %}">{{ content | markdownify}}</section>
 
   <hr>
 {% endfor %}
