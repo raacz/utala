@@ -3,7 +3,7 @@ title: jan kasi
 sptitle: jan kasi
 ws_pref: both
 font: lipamanka
-permalink: none
+permalink: null
 
 ---
 

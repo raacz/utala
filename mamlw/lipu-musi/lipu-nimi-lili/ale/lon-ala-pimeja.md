@@ -3,7 +3,7 @@ title: lon ala pimeja
 sptitle: lon ala pimeja
 ws_pref: sLasina
 font: 
-permalink: none
+permalink: null
 
 ---
 

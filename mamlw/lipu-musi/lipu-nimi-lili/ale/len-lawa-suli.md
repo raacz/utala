@@ -3,8 +3,8 @@ title: len lawa suli
 sptitle: len lawa suli
 ws_pref: sLasina
 font: 
-permalink: none
-wrap: true
+permalink: null
+tweaks: wrap
 ---
 
 <div markdown="1" class="sLasina len-lawa-suli">

@@ -3,7 +3,7 @@ title: o luka
 sptitle: o luka
 ws_pref: spona
 font: linja Katun
-permalink: none
+permalink: null
 
 ---
 

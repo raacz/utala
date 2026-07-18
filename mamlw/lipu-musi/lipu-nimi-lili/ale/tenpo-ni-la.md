@@ -3,7 +3,7 @@ title: tenpo ni la
 sptitle: tenpo ni la
 ws_pref: sLasina
 font: 
-permalink: none
+permalink: null
 
 ---
 

@@ -3,7 +3,7 @@ title: tenpo pimeja pi pimeja suli
 sptitle: tenpo pimeja pi pimeja suli
 ws_pref: sLasina
 font: 
-permalink: none
+permalink: null
 
 ---
 

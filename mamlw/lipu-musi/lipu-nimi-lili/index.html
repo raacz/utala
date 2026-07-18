@@ -7,158 +7,192 @@ fontfile: "/mamlw/fonts/fonts.css"
 <section class="frontmatter container-in-main" markdown="1">
 
 
-<h2>lipu lili | utala lipu pi sike#MAML</h2>
+    <h2>lipu lili | utala lipu pi sike#MAML</h2>
 
 
 
-<hr>
+    <hr>
 
-{% assign lipu_pages = site.pages | where_exp: "page", "page.path contains 'mamlw/lipu-musi/lipu-nimi-lili/ale'" | where_exp: "page", "page.path contains '.md' or page.path contains '.html'" | where_exp: "page", "page.template == nil or page.template == blank" %}
+    {% assign lipu_pages = site.pages | where_exp: "page", "page.path contains 'mamlw/lipu-musi/lipu-nimi-lili/ale'" |
+    where_exp: "page", "page.path contains '.md' or page.path contains '.html'" | where_exp: "page", "page.template ==
+    nil or page.template == blank" %}
 
-<style>
-    .toggled-sLasina {
-        font-family: Teachers;
-    }
-    .toggled-spona{
-        font-family: 'nasin nanpa 5';
-    }
-    :is(.match, .toggled-sLasina, .toggled-spona){
-        display: none;
-        font-size: 0.8em;
-    }
-    .wile-mama {
-        margin-bottom: 2em;
-        opacity: 0.6;
-    }
-
-    
-    :has(#toggle_both:checked){
-        .match{
-            display: block;
-        }
-        .wile-mama{
-            text-align: center;
+    <style>
+        .toggled-sLasina {
+            font-family: Teachers;
         }
 
-        .spona {
-        }
-        section .sLasina {
-            white-space: nowrap;
-        }
-        section.wwrap .sLasina {
-            white-space: normal;
-            line-height: 1em;
-
+        .toggled-spona {
+            font-family: 'nasin nanpa 5';
         }
 
-        h2 .sLasina{
-            white-space: normal;
-        }
-        .spona p{
-            max-width: fit-content;
-        }
-        .two-scripts {
-            display: grid; 
-            grid-template-columns: 1fr minmax(max-content, 10rem);
-            gap: 2rem;
+        :is(.match, .toggled-sLasina, .toggled-spona) {
+            display: none;
+            font-size: 0.8em;
         }
 
-        @media (max-width: 40rem){
-            .two-scripts {
+        .wile-mama {
+            margin-bottom: 2em;
+            opacity: 0.6;
+        }
+
+
+        .lipamanka .spona {
+                font-family: "linja lipamanka";
+        }
+
+
+
+
+        :has(#toggle_both:checked) {
+            .match {
                 display: block;
             }
-            h2.two-scripts :is(.spona, .sLasina){
-                display: inline;
+
+            .wile-mama {
+                text-align: center;
             }
-            h2.two-scripts .spona::before{
-                content: '.';
+
+            .spona {}
+
+            section .sLasina {
+                white-space: nowrap;
             }
-            h2.two-scripts .spona{
-                white-space: none;
+
+            section.wwrap .sLasina {
+                white-space: normal;
+                line-height: 1em;
+
             }
-            .wile-mama{
-                text-align: start;
+            
+
+            h2 .sLasina {
+                white-space: normal;
             }
+
+            .spona p {
+                max-width: fit-content;
+            }
+
+            .two-scripts {
+                display: grid;
+                grid-template-columns: 1fr minmax(max-content, 10rem);
+                gap: 2rem;
+            }
+            .two-scripts.wwrap{
+                grid-template-columns: 1fr 1fr;
+            }
+    
+            .singlecol.two-scripts {
+                grid-template-columns: 1fr;
+            }
+
+
+            /*various fonts*/
+            @media (max-width: 40rem) {
+                .two-scripts {
+                    display: block;
+                }
+
+                h2.two-scripts :is(.spona, .sLasina) {
+                    display: inline;
+                }
+
+                h2.two-scripts .spona::before {
+                    content: '.';
+                }
+
+                h2.two-scripts .spona {
+                    white-space: none;
+                }
+
+
+                .wile-mama {
+                    text-align: start;
+                }
 
 
 
 
+            }
         }
-    }
-    :has(#toggle_sp_taso:checked){
-        .toggled-spona{
-            display: block;
+
+        :has(#toggle_sp_taso:checked) {
+            .toggled-spona {
+                display: block;
+            }
+
+            .spona {}
+
+            .sLasina {
+                display: none;
+
+            }
+        }
+
+        :has(#toggle_sL_taso:checked) {
+            .toggled-sLasina {
+                display: block;
+            }
+
+            .spona {
+                display: none;
+            }
+
+            .sLasina {}
+        }
+
+        select {
+            position: sticky;
+            top: 0rem;
+            margin-bottom: 2em;
         }
 
         .spona {
-        }
-        .sLasina {
-            display: none;
-            
-        }
-    }
-
-    :has(#toggle_sL_taso:checked){
-        .toggled-sLasina{
-            display: block;
+            font-family: 'nasin nanpa 5';
         }
 
-        .spona {
-            display: none;
+        section.two-scripts {
+            line-height: 2em;
         }
-        .sLasina {
-            
+
+        .content {
+            position: relative;
         }
-    }
 
-    select{
-        position: sticky;
-        top: 0rem;
-        margin-bottom: 2em;
-    }
-    .spona {
-        font-family: 'nasin nanpa 5';
-    }
-    section.two-scripts {
-        line-height: 2em;
-    }
-    .content{
-        position: relative;
-    }
-    .content hr{
-        margin-block: 2em 1em;
-    }
-    .content h2 {
-        padding-block: 1em 2em;
+        .content hr {
+            margin-block: 2em 1em;
+        }
 
-    }
+        .content h2 {
+            padding-block: 1em 2em;
 
-    /*Poem-specific Tweaks*/
-    div.len-lawa-suli,div.len-lawa-suli.sLasina {
-        line-height: 0.5em;
+        }
 
-    }
-    div.len-lawa-suli p {
-        padding-block: 0.75em;  
-    }
-    div.len-lawa-suli.sLasina p {
-        padding-block: 0.5em;  
-    }
+        /*Poem-specific Tweaks*/
+        div.len-lawa-suli,
+        div.len-lawa-suli.sLasina {
+            line-height: 0.5em;
+
+        }
+
+        div.len-lawa-suli p {
+            padding-block: 0.75em;
+        }
+
+        div.len-lawa-suli.sLasina p {
+            padding-block: 0.5em;
+        }
+    </style>
 
 
+    <ul role="list" class="nimi-pi-lipu-lili">
+        {% for page in lipu_pages %}
+        {% assign stripped_title = page.title | replace: " ", "-" %}
 
-
-
-</style>
-
-
-<ul role="list" class="nimi-pi-lipu-lili">
-{% for page in lipu_pages %}
-    {% assign stripped_title = page.title | replace: " ", "-" %}
-
-  <li><a href="#{{ stripped_title }}">{{ page.title }}</a></li>
-{% endfor %}
-</ul>
+        <li><a href="#{{ stripped_title }}">{{ page.title }}</a></li>
+        {% endfor %}
+    </ul>
 
 
 
@@ -167,20 +201,20 @@ fontfile: "/mamlw/fonts/fonts.css"
 
 </section>
 <section class="content" markdown="1">
-<select>
-    <option id="toggle_both">sitelen pona en sitelen Lasina</option>
-    <option id="toggle_sp_taso">sitelen pona taso</option>
-    <option id="toggle_sL_taso">sitelen Lasina taso</option>
-</select>
+    <select>
+        <option id="toggle_both">sitelen pona en sitelen Lasina</option>
+        <option id="toggle_sp_taso">sitelen pona taso</option>
+        <option id="toggle_sL_taso">sitelen Lasina taso</option>
+    </select>
 
 
-{% for page in lipu_pages %}
+    {% for page in lipu_pages %}
     {% if page.ws_pref contains 'sLasina' %}
-        <span class="wile-mama pref-sl toggled-sLasina match"> wile pi mama lipu: sitelen Lasina</span>
-        <span class="wile-mama pref-sl toggled-spona"> wile pi(mama lipu) la o kepeken [la:sina:]</span>
+    <span class="wile-mama pref-sl toggled-sLasina match"> wile pi mama lipu: sitelen Lasina</span>
+    <span class="wile-mama pref-sl toggled-spona"> wile pi(mama lipu) la o kepeken [la:sina:]</span>
     {% else %}
-        <span class="wile-mama pref-sp toggled-sLasina"> wile pi mama lipu: sitelen pona</span>
-        <span class="wile-mama pref-sp toggled-spona match"> wile pi(mama lipu) la o kepeken sitelen+pona</span>
+    <span class="wile-mama pref-sp toggled-sLasina"> wile pi mama lipu: sitelen pona</span>
+    <span class="wile-mama pref-sp toggled-spona match"> wile pi(mama lipu) la o kepeken sitelen+pona</span>
     {% endif %}
 
 
@@ -189,22 +223,29 @@ fontfile: "/mamlw/fonts/fonts.css"
 
 
     {% assign stripped_title = page.title | replace: " ", "-" %}
-  <h2 class="two-scripts" tabindex="-1" id="{{ stripped_title }}">
-  <span class="sLasina">{{ page.title }}</span>
-  <span class="spona">{{ page.sptitle }}</span>
-  </h2>
+    <h2 class="two-scripts 
+    {% if page.tweaks == 'singlecol' %}singlecol{% endif %} 
+    {% if page.font %} {{page.font}} {% endif %}
+    "
+    tabindex="-1" id="{{ stripped_title }}">
+        <span class="sLasina">{{ page.title }}</span>
+        <span class="spona">{{ page.sptitle }}</span>
+    </h2>
 
-  {% assign content = page.content %}
-
-
-  {% if page.ws_pref contains 'sLasina' %}
-    {% assign content  = content | replace: "spona","spona not_original" %}
-  {% endif %}
-
+    {% assign content = page.content %}
 
 
-  <section class="two-scripts {% if page.wrap == true %}wwrap{% endif %}">{{ content | markdownify}}</section>
+    {% if page.ws_pref contains 'sLasina' %}
+    {% assign content = content | replace: "spona","spona not_original" %}
+    {% endif %}
 
-  <hr>
-{% endfor %}
+
+    <section class="two-scripts 
+    {% if page.tweaks == 'wrap' %}wwrap{% endif %} 
+    {% if page.tweaks == 'singlecol' %}singlecol{% endif %}
+    {% if page.font %} {{page.font}} {% endif %}
+    ">{% if page.path contains '.md' %}{{ content | markdownify }}{% else %}{{ content }}{% endif %}</section>
+
+    <hr>
+    {% endfor %}
 </section>

@@ -2,3 +2,11 @@
     font-family: "nasin nanpa 5";
     src: url(nasin-nanpa-5.0.0-beta.3.safari-fix.otf);
 }
+@font-face {
+    font-family: "linja lipamanka";
+    src: url(linjalipamanka-normal\(2\).otf);
+}
+@font-face {
+    font-family: "Fairfax Pona HD";
+    src: url(FairfaxPonaHD.ttf);
+}
