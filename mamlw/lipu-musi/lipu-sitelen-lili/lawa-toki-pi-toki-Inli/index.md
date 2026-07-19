@@ -1,6 +1,6 @@
 ---
 title: lawa toki pi toki Inli
-permalink: nil
+permalink: null
 ---
 
 <details markdown="1">

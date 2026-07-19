@@ -2,10 +2,10 @@
 layout: lipu
 title: kalama olin tu tu 
 jan_pali: 
-suli_lipu: 
+suli_lipu: suli lili
 nasin: 
 mute_nimi: 1800
-ken_ike:
+ken_ike: defer
 ijo_toki: "."
 ---
 

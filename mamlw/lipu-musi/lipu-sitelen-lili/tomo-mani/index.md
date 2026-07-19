@@ -1,6 +1,6 @@
 ---
 title: tomo mani
-permalink: nil
+permalink: null
 ---
 
 <details markdown="1">

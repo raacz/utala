@@ -2,10 +2,10 @@
 layout: lipu
 title: iki
 jan_pali: 
-suli_lipu: 
+suli_lipu: suli lili
 nasin: 
-mute_nimi: 1920
-ken_ike:
+mute_nimi: 1909
+ken_ike: defer
 ijo_toki: "."
 ---
 

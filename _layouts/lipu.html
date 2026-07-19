@@ -24,7 +24,7 @@ title: {{ page.title }}
           </audio>
           {%- endif %}
 
-      
+        {% if page.ken_ike != "defer" %}
         <details>
           <summary>o sona e ken ike lon lipu ni</summary>
           <ul>
@@ -33,6 +33,7 @@ title: {{ page.title }}
             {% endfor %}
           </ul>
         </details>
+        {% endif %}
         
         <p markdown="1"> <em>{{ page.sona_namako }}</em></p>
 

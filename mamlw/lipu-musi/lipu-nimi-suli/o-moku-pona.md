@@ -2,10 +2,10 @@
 layout: lipu
 title: o moku pona
 jan_pali: 
-suli_lipu: 
+suli_lipu: suli
 nasin: 
-mute_nimi: 
-ken_ike:
+mute_nimi: 4207
+ken_ike: defer
 ijo_toki: "."
 ---
 

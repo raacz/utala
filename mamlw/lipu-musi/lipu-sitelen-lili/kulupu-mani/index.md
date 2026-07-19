@@ -1,6 +1,6 @@
 ---
 title: kulupu mani
-permalink: nil
+permalink: null
 ---
 ![](/mamlw/lipu-musi/lipu-sitelen-lili/kulupu-mani/1.jpg)
 ![](/mamlw/lipu-musi/lipu-sitelen-lili/kulupu-mani/2.jpg)

@@ -1,6 +1,7 @@
 ---
 layout: lipu-main
-title: lipu lili | lipu musi pi sike#MAML
+title: lipu lili | lipu musi pi sike#MAMLW
+hub: true
 ---
 
 <section class="frontmatter container-in-main" markdown="1">

@@ -1,10 +1,9 @@
 ---  
-title:   
-sptitle:  
-ws_pref: 
+title:   ona li kama
+sptitle:  ona li kama
+ws_pref: sLasina
 font: 
 permalink: null
-template: true
 ---
 
 <div markdown="1" class="sLasina">

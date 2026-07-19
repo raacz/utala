@@ -2,10 +2,10 @@
 layout: lipu
 title: tomo sewi li wile e seme
 jan_pali: 
-suli_lipu: 
+suli_lipu: lili
 nasin: 
-mute_nimi: 
-ken_ike:
+mute_nimi: 569
+ken_ike: defer
 ijo_toki: "."
 ---
 

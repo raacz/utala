@@ -4,8 +4,8 @@ title: o kule e lipu
 jan_pali: 
 suli_lipu: 
 nasin: 
-mute_nimi: 
-ken_ike:
+mute_nimi: 1383
+ken_ike: defer
 ijo_toki: "."
 ---
 

@@ -2,10 +2,10 @@
 layout: lipu
 title: tomo suli li awen
 jan_pali: 
-suli_lipu: 
+suli_lipu: lili
 nasin: 
-mute_nimi: 
-ken_ike:
+mute_nimi: 558
+ken_ike: defer
 ijo_toki: "."
 ---
 

@@ -33,7 +33,7 @@ pini.
 
 </div>
 <div markdown="1" class="spona">
-tenpo wan la  
+<!--tenpo wan la  
 supa lape ala li lon tan ni:  
 jan ala li sona e supa lape tan ni:  
 ala li lon.  
@@ -49,10 +49,9 @@ jan li toki e meli [lape,,,, suli,,] e lape ona la ona li pilin+ike.
 ni la sewi [lape] li kiwen e jan [lape,,,, suli,,].  
 jan[lape,,,, suli,,] li kama supa lape nanpa wan.   
 ni la jan li lape la sijelo ona li ken pilin+pona  
-pini.
+pini.--->
 
 
---- ken pona la
 
 tenpo wan la  
 zz supa lape ala li lon tan ni:  

@@ -1,13 +1,13 @@
 ---
 layout: lipu-main
-title: lipu lili | lipu musi pi sike#MAML
+title: lipu lili | lipu musi pi sike#MAMLW
 fontfile: "/mamlw/fonts/fonts.css"
 ---
 
 <section class="frontmatter container-in-main" markdown="1">
 
 
-    <h2>lipu lili | utala lipu pi sike#MAML</h2>
+    <h2>lipu lili | utala lipu pi sike#MAMLW</h2>
 
 
 
@@ -183,12 +183,15 @@ fontfile: "/mamlw/fonts/fonts.css"
         div.len-lawa-suli.sLasina p {
             padding-block: 0.5em;
         }
+        .nimi-pi-lipu-lili {
+            column-width: 15em;
+        }
     </style>
 
 
     <ul role="list" class="nimi-pi-lipu-lili">
         {% for page in lipu_pages %}
-        {% assign stripped_title = page.title | replace: " ", "-" %}
+        {% assign stripped_title = page.title | replace: " ", "-" | replace: '"', "" %}
 
         <li><a href="#{{ stripped_title }}">{{ page.title }}</a></li>
         {% endfor %}
@@ -222,7 +225,7 @@ fontfile: "/mamlw/fonts/fonts.css"
 
 
 
-    {% assign stripped_title = page.title | replace: " ", "-" %}
+    {% assign stripped_title = page.title | replace: " ", "-" | replace: '"', '' %}
     <h2 class="two-scripts 
     {% if page.tweaks == 'singlecol' %}singlecol{% endif %} 
     {% if page.font %} {{page.font}} {% endif %}

@@ -1,6 +1,6 @@
 ---
-title: tenpo ni la
-sptitle: tenpo ni la
+title: lon awen
+sptitle: lon awen
 ws_pref: sLasina
 font: 
 permalink: null
@@ -31,11 +31,11 @@ kule ona li walo.
 lon ni la sitelen wan taso.  
 &nbsp;&nbsp;&nbsp;&nbsp;ona li waso.  
 
-noka sina la  
-&nbsp;&nbsp;sina ken luka e lipu.  
+noka la  
+&nbsp;&nbsp;&nbsp;&nbsp;sina ken luka e lipu.  
 sina poka e lipu la  
-sina ken lukin.  
-&nbsp;&nbsp;&nbsp;&nbsp;sitelen ona li pu.  
+&nbsp;&nbsp;&nbsp;&nbsp;sina ken lukin.  
+sitelen ona li pu.  
 
 sina open noka e ona.  
 soweli jan li kalama mu.  
@@ -46,7 +46,7 @@ sina open e lipu
 &nbsp;&nbsp;&nbsp;&nbsp;e lipu e lipu kin.  
 sitelen lawa li lupa.  
 ni la ilo open li len.  
-noka la sina ken ala weka.  
+weka li ken ala kepeken noka.  
 
 tan ni la sina tawa e ona  
 &nbsp;&nbsp;&nbsp;&nbsp;lon anpa pi luka linja.  
@@ -58,7 +58,7 @@ awen la sina lon tomo.
 taso sina lon ala anpa.  
 sina ken tawa li supa lon noka.  
 palisa kiwen monsi li mu  
-&nbsp;&nbsp;&nbsp;&nbsp;li kama kamala.  
+&nbsp;&nbsp;&nbsp;&nbsp;li kama kalama.  
 
 tenpo ni la sina ken tawa  
 &nbsp;&nbsp;&nbsp;&nbsp;li lukin e lipu mute.  
@@ -79,13 +79,13 @@ tenpo suno anu tenpo mun la
 sina toki musi li kalama.  
 ante la kute li supa.  
 tenpo kama lili la  
-sina wile e lipa  
+sina wile e lupa  
 &nbsp;&nbsp;&nbsp;&nbsp;e ijo monsuta.  
 
 taso ni la  
 &nbsp;&nbsp;&nbsp;&nbsp;sina ken lukin.  
 lukin li pona.  
-insa sina ken kama lupa.  
+insa sina li ken kama lupa.  
 ante li ken ala.
 </div>
 <div markdown="1" class="spona">
@@ -112,22 +112,22 @@ kule ona li walo.
 lon ni la sitelen wan taso.  
 &nbsp;&nbsp;&nbsp;&nbsp;ona li waso.  
 
-noka sina la  
-&nbsp;&nbsp;sina ken luka e lipu.  
+noka la  
+&nbsp;&nbsp;&nbsp;&nbsp;sina ken luka e lipu.  
 sina poka e lipu la  
-sina ken lukin.  
-&nbsp;&nbsp;&nbsp;&nbsp;sitelen ona li pu.  
+&nbsp;&nbsp;&nbsp;&nbsp;sina ken lukin.  
+sitelen ona li pu.  
 
 sina open noka e ona.  
 soweli jan li kalama mu.  
 sina lukin e sitelen lawa pimeja.  
-nimi li soweli [wile insa nena ike tawa esun poki uta].  
+nimi li soweli Winitepu.  
 
 sina open e lipu  
 &nbsp;&nbsp;&nbsp;&nbsp;e lipu e lipu kin.  
 sitelen lawa li lupa.  
 ni la ilo open li len.  
-noka la sina ken ala weka.  
+weka li ken ala kepeken noka.  
 
 tan ni la sina tawa e ona  
 &nbsp;&nbsp;&nbsp;&nbsp;lon anpa pi luka linja.  
@@ -139,7 +139,7 @@ awen la sina lon tomo.
 taso sina lon ala anpa.  
 sina ken tawa li supa lon noka.  
 palisa kiwen monsi li mu  
-&nbsp;&nbsp;&nbsp;&nbsp;li kama kamala.  
+&nbsp;&nbsp;&nbsp;&nbsp;li kama kalama.  
 
 tenpo ni la sina ken tawa  
 &nbsp;&nbsp;&nbsp;&nbsp;li lukin e lipu mute.  
@@ -160,12 +160,12 @@ tenpo suno anu tenpo mun la
 sina toki musi li kalama.  
 ante la kute li supa.  
 tenpo kama lili la  
-sina wile e lipa  
+sina wile e lupa  
 &nbsp;&nbsp;&nbsp;&nbsp;e ijo monsuta.  
 
 taso ni la  
 &nbsp;&nbsp;&nbsp;&nbsp;sina ken lukin.  
 lukin li pona.  
-insa sina ken kama lupa.  
+insa sina li ken kama lupa.  
 ante li ken ala.
 </div>
