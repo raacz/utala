@@ -1,3 +1,9 @@
+2026:
+- LIPU PI JAN SOTAN
+
+
+
+
 Issues
 - all settings tools still need work
 - folder strucutre needs to be completely redone with proper redirects
