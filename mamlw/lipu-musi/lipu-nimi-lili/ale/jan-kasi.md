@@ -2,7 +2,7 @@
 title: jan kasi
 sptitle: jan kasi
 ws_pref: spona
-font: lipamanka
+font: 
 permalink: null
 
 ---
