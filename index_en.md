@@ -102,7 +102,7 @@ The 2026 Toki Pona Document Competition
   </ul>
   
 
- <h2><a href="/mamlw/lipu-musi/lipu-sitelen-lili/)">Small Illustrated Documents</a></h2>
+ <h2><a href="/mamlw/lipu-musi/lipu-sitelen-lili/">Small Illustrated Documents</a></h2>
   
   {% assign lipu_pages = site.pages | where_exp: "page", "page.path contains 'mamlw/lipu-musi/lipu-sitelen-lili/'" | where_exp: "page", "page.path contains '.md' or page.path contains '.html'" | where_exp: "page", "page.template == nil or page.template == blank" | where_exp: "page", "page.hub == blank or page.hub == nil" | sort: "title" %}
   
@@ -115,7 +115,7 @@ The 2026 Toki Pona Document Competition
   </ul>
   
   
- <h2><a href="/mamlw/lipu-musi/lipu-nimi-lili/)">Small Worded Documents</a></h2>
+ <h2><a href="/mamlw/lipu-musi/lipu-nimi-lili/">Small Worded Documents</a></h2>
   
   {% assign lipu_pages = site.pages | where_exp: "page", "page.path contains 'mamlw/lipu-musi/lipu-nimi-lili/ale'" | where_exp: "page", "page.path contains '.md' or page.path contains '.html'" | where_exp: "page", "page.template == nil or page.template == blank" %}
   
