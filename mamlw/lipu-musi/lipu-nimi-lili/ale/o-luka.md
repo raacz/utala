@@ -9,7 +9,7 @@ permalink: null
 
 <div markdown="1" class="sLasina">
 
-
+o luka
 o moku  
 o pali  
 o pana e mi  
@@ -24,7 +24,7 @@ n
 </div>
 <div markdown="1" class="spona">
 
-
+o luka
 o moku  
 o pali  
 o pana e mi  
