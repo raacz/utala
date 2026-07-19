@@ -8,6 +8,6 @@ permalink: null
 
 </details>
 
-![](/mamlw/lipu-musi/lipu-sitelen-lili/pipi-li-lon-tomo-ni/spona.png)
+![](/mamlw/lipu-musi/lipu-sitelen-lili/pipi-li-lon-tomo-ni/sp.png)
 ![](/mamlw/lipu-musi/lipu-sitelen-lili/pipi-li-lon-tomo-ni/sLasina.png)
 
