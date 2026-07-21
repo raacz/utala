@@ -40,7 +40,7 @@ lipu #6:
 - leko #3: kijetesantakalu: "toki! sina lape ala lape?" 
 - leko #4: kijetesantkalu li kama lon poka pi kute jan li toki: "mu, mu, mu."
 
-lipu #5:
+lipu #7:
 - leko #1: kijetesantakalu li lukin sin e jan li toki: "jan lili li lon selo kiwen! a!"
 - leko #2: kijetesantakalu li open sin e tawa ona. "mi weka." 
 - leko #3: kijetesantakalu li awen lon palisa sewi pi kasi suli. monsi la, sina ken lukin e tomo waso lili pi kasi suli. kijetesantakalu li toki: "tenpo ni la mi lukin mute mute e ijo pi ma kasi!. mi wile lape!"
