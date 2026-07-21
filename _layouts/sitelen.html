@@ -1,0 +1,191 @@
+---
+layout: default
+title: {{ page.title }}
+---
+
+
+{% assign lipu_pages = site.pages | where_exp: "page", "page.path contains 'mamlw/lipu-musi/lipu-sitelen-lili/'" |
+where_exp: "page", "page.path contains '.md' or page.path contains '.html'" | where_exp: "page", "page.template == nil
+or page.template == blank" | where_exp: "page", "page.hub == blank or page.hub == nil" | sort: "title" %}
+
+
+{% for comic in lipu_pages %}
+{% if comic.title == page.title %}
+{% assign prevIndex = forloop.index | minus: 2 %}
+{% assign nextIndex = forloop.index %}
+{% break %}
+{% endif %}
+
+{% endfor %}
+
+
+
+<div class="layout">
+    {% include lawa.html %}
+
+
+    <main>
+        <section class="front-matter">
+            <h1>{{ page.title }}</h1>
+
+
+            {% if page.jan_pali %}
+            <p><em>tan {{ page.jan_pali }}</em></p>
+            {% endif %}
+
+            {% if page.ken_ike != "defer" %}
+            <details>
+                <summary>o sona e ken ike lon lipu ni</summary>
+                <ul>
+                    {% for item in page.ken_ike %}
+                    <li>{{ item }}</li>
+                    {% endfor %}
+                </ul>
+            </details>
+            {% endif %}
+
+            <p class="prevnext">
+                {% if prevIndex != -1 %}
+                <a href="{{lipu_pages[prevIndex].url}}"> &lt; o tawa lipu pini: {{lipu_pages[prevIndex].title}}</a>
+
+                {% endif %}
+                {% if lipu_pages[nextIndex].url %}
+                <a href="{{lipu_pages[nextIndex].url}}">o tawa lipu kama: {{lipu_pages[nextIndex].title}} &gt;</a>
+
+                {% endif %}
+            </p>
+
+
+
+
+
+        </section>
+        <section class="content">
+
+
+
+            <style>
+                :root {
+                    --reading-comfort-width: 30em;
+                }
+
+                .content {
+                    padding: 0;
+                    box-shadow: none;
+                    background-color: inherit;
+
+                }
+
+                .front-matter {
+                    text-align: center;
+                }
+
+                .front-matter h1 {
+                    margin: 0 auto;
+                }
+
+                .media {
+                    display: flex;
+                    flex-direction: column;
+                    row-gap: 4em;
+                }
+
+                .media img {
+                    max-width: 100%;
+
+                }
+
+                .transcript {
+                    padding-inline: 0.5em;
+                }
+
+                .transcript li {
+                    margin-bottom: 0.5em;
+                }
+
+                .prevnext {
+                    text-align: center;
+                }
+
+                .prevnext a {
+                    display: block;
+                }
+
+                label:has(#comic-toggle){
+                    display: block;
+                    margin: 0 auto 2em;
+                    text-align: center;
+                }
+
+                
+                :has(#comic-toggle:not(:checked)) {
+                    .comicsp {
+                        display: block;
+                    }
+
+                    .comicsl {
+                        display: none;
+                    }
+                }
+
+                :has(#comic-toggle:checked) {
+                    .comicsp {
+                        display: none;
+                    }
+
+                    .comicsl {
+                        display: block;
+                    }
+                }
+            </style>
+
+            {% if page.tweaks == "langswitch" %}
+
+            <label for="comic-toggle"> o kepeken sitelen pona
+                <input type="checkbox" name="" id="comic-toggle" checked>
+            </label>
+
+
+            <div class="media">
+                <img class="comicsl" src="spona.png" alt="">
+                <img class="comicsp" src="sLasina.png" alt="">
+
+            </div>
+
+
+            {% else %}
+
+            <div class="media">
+                {% for link in page.media_links %}
+                <img alt="" src="{{ page.url }}{{ link }}">
+                {% endfor %}
+            </div>
+            {% endif %}
+
+
+            <p class="prevnext">
+                {% if prevIndex != -1 %}
+                <a href="{{lipu_pages[prevIndex].url}}"> &lt; o tawa lipu pini: {{lipu_pages[prevIndex].title}}</a>
+
+                {% endif %}
+                {% if lipu_pages[nextIndex].url %}
+                <a href="{{lipu_pages[nextIndex].url}}">o tawa lipu kama: {{lipu_pages[nextIndex].title}} &gt;</a>
+
+                {% endif %}
+            </p>
+
+
+            <hr>
+
+
+
+
+            <div class="transcript">{{ content }}</div>
+        </section>
+    </main>
+</div>
+{% include noka.html %}
+
+
+<script src="/scripts//nimiNanpa.js"></script>
+<script src="/scripts/font.js"></script>

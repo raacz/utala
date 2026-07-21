@@ -1,9 +1,10 @@
 ---
 title: kijetesantakalu en ma kasi
-permalink: null
+layout: sitelen
+media_links: ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png"]
+
 ---
 
-<details markdown="1"><summary>o sona e lipu kepeken toki nimi taso</summary>
 
 lipu ni la jan li pali e sitelen kepeken luka ona ala; ona li nasin e ijo lon ma lon li sitelen e ijo lon kepeken ilo sitelen lukin. 
 
@@ -44,15 +45,5 @@ lipu #5:
 - leko #2: kijetesantakalu li open sin e tawa ona. "mi weka." 
 - leko #3: kijetesantakalu li awen lon palisa sewi pi kasi suli. monsi la, sina ken lukin e tomo waso lili pi kasi suli. kijetesantakalu li toki: "tenpo ni la mi lukin mute mute e ijo pi ma kasi!. mi wile lape!"
 - leko #4: kijetesantakalu li open e luka ona li lukin e sina li toki: "tawa pona!"
-
-</details>
-
-![](/mamlw/lipu-musi/lipu-sitelen-lili/kijetesantakalu-en-ma-kasi/1.png)
-![](/mamlw/lipu-musi/lipu-sitelen-lili/kijetesantakalu-en-ma-kasi/2.png)
-![](/mamlw/lipu-musi/lipu-sitelen-lili/kijetesantakalu-en-ma-kasi/3.png)
-![](/mamlw/lipu-musi/lipu-sitelen-lili/kijetesantakalu-en-ma-kasi/4.png)
-![](/mamlw/lipu-musi/lipu-sitelen-lili/kijetesantakalu-en-ma-kasi/5.png)
-![](/mamlw/lipu-musi/lipu-sitelen-lili/kijetesantakalu-en-ma-kasi/6.png)
-![](/mamlw/lipu-musi/lipu-sitelen-lili/kijetesantakalu-en-ma-kasi/7.png)
 
 

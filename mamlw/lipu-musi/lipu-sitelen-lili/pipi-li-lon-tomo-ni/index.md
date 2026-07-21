@@ -1,13 +1,27 @@
 ---
 title: pipi li lon tomo ni
-permalink: null
+layout: sitelen
+media_links: ["sp.png", "sLasina.png"]
+tweaks: langswitch
 ---
 
-<details markdown="1">
-<summary>o sona e lipu ni kepeken toki nimi taso</summary>
+lipu ni la, pipi li lon anpa pi leko tomo, li mu mute. nimi li lon sewi, li toki e musi.
 
-</details>
+musi:  
 
-![](/mamlw/lipu-musi/lipu-sitelen-lili/pipi-li-lon-tomo-ni/sp.png)
-![](/mamlw/lipu-musi/lipu-sitelen-lili/pipi-li-lon-tomo-ni/sLasina.png)
+"pipi li lon tomo mi  
+li kalama e mu suli  
+li pakala e lape mi...  
+mi weka e pipi  
+  
+pipi ni li kama sin  
+li wile unpa e pipi  
+ona li awen mu suwi...  
+mi weka e pipi  
+  
+lete en tenpo seli  
+li moli ala e pipi  
+ona li lon poka mi  
+li len e ona tan lukin mi...  
 
+o weka e pipi a!" 

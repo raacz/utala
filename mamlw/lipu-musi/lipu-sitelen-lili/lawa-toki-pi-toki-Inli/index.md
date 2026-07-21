@@ -1,10 +1,9 @@
 ---
 title: lawa toki pi toki Inli
-permalink: null
----
+layout: sitelen
+media_links: ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg", "7.jpg", "8.jpg"]
 
-<details markdown="1">
-<summary>o sona e lipu ni kepeken toki nimi taso</summary>
+---
 
 
 lipu #1
@@ -44,15 +43,4 @@ lipu #8
 - leko #1: lon sewi la "<span lang="en">Your hearing is f*cking great</span>!" lon anpa la "kute sina li pona unpa!" 
 - leko #2: lon sinpin la mama li toki insa e ni tawa ona sama: "mi wawa... mi o sitelen e lipu... mi o pana e sona lon lipu Wesi!" lon monsi la jan lili li toki: "toki tu la nimi wan li ken kepeken kon tu. ni li lon ala lon? sina pini e kute anu seme?"
 - leko #3: jan lili li anpa e sijelo ona li weka e mama li toki: "sina ike, mama o! kute sina li ike unpa!" 
-
-</details>
-
-![](/mamlw/lipu-musi/lipu-sitelen-lili/lawa-toki-pi-toki-Inli/1.jpg)
-![](/mamlw/lipu-musi/lipu-sitelen-lili/lawa-toki-pi-toki-Inli/2.jpg)
-![](/mamlw/lipu-musi/lipu-sitelen-lili/lawa-toki-pi-toki-Inli/3.jpg)
-![](/mamlw/lipu-musi/lipu-sitelen-lili/lawa-toki-pi-toki-Inli/4.jpg)
-![](/mamlw/lipu-musi/lipu-sitelen-lili/lawa-toki-pi-toki-Inli/5.jpg)
-![](/mamlw/lipu-musi/lipu-sitelen-lili/lawa-toki-pi-toki-Inli/6.jpg)
-![](/mamlw/lipu-musi/lipu-sitelen-lili/lawa-toki-pi-toki-Inli/7.jpg)
-![](/mamlw/lipu-musi/lipu-sitelen-lili/lawa-toki-pi-toki-Inli/8.jpg)
 

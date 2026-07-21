@@ -1,10 +1,10 @@
 ---
 title: tomo mani
-permalink: null
+layout: sitelen
+media_links: ["1.jpg", "2.jpg", "3.jpg"]
+
 ---
 
-<details markdown="1">
-<summary>o sona e lipu ni kepeken toki nimi taso</summary>
 lipu #1
 - leko #1: lon sewi pi lupa esun la nimi 'mani' li nimi e tomo. tomo mani la...
 - leko #2: jan pali li toki pi pilin monsuta lili: "toki, n o kama pona!" 
@@ -21,11 +21,15 @@ lipu #2:
 - leko #4: NOKA. jan pi kute suli li pana e noka ona tawa insa pi jan lawa nanpa tu li anpa e ona. 
 
 lipu #3: 
-- leko 
+- leko #1: jan pi kute suli li pilin pi wawa pona utala li toki: "sina li tu taso? mute pi pona ala." 
+- leko #2: "mi toki e nimi wawa ni: AWEN!" ona li toki e nimi wawa la wawa nasa li kama open. 
+- leko #3: jan pi kute suli li toki: "tenpo musi li open!"
+- leko #4: "kepeken nimi wawa mi a, mi ken awen lon utala pakala!" 
+- leko #5: "o pana e ale wawa sina!" luka pi jan wawa li open. 
+- leko #6: jan lawa nanpa wan li toki pi pilin monsuta tawa jan lawa nanpa tu: "ona li ken kepeken nimi wawa! mi o seme?"
+- leko #6: jan lawa nanpa tu li toki tawa jan lawa nanpa wan: "mi awen sona utala kepeken ilo moli!" ona tu li kama jo e ilo utala moli. jan nanpa tu li toki: "o open!" 
+- leko #7: pakala! pakala! pakla! mu pakala li kama tan pana. taso sike moli lili li kama lon sijelo pi jan wawa la sijelo ona li kiwen! sike li tawa insa ala li tawa poka a!
 
-</details>
 
-![](/mamlw/lipu-musi/lipu-sitelen-lili/tomo-mani/1.jpg)
-![](/mamlw/lipu-musi/lipu-sitelen-lili/tomo-mani/2.jpg)
-![](/mamlw/lipu-musi/lipu-sitelen-lili/tomo-mani/3.jpg)
+
 

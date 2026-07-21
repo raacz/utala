@@ -106,7 +106,7 @@ utala musi lipu pi tenpo sike #MAMLW la
       {% for page in lipu_pages %}
       {% assign stripped_title = page.title | replace: " ", "-" | replace: '"', ' '%}
   
-  <li><a href="/mamlw/lipu-musi/lipu-sitelen-lili/index.html#{{ stripped_title }}">{{ page.title }}</a></li>
+  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
           {% endfor %}
   </ul>
   
