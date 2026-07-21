@@ -147,8 +147,8 @@ ni li kama lon tenpo kama poka; o awen lili taso.
 
 ### lipu pi mute seme li lon?
 
-- lipu nimi lili: MT
-- lipu sitelen lili: L
+- lipu nimi lili: MTT
+- lipu sitelen lili: LW
 - lipu nimi suli: LW
 - lipu nimi suli pi sitelen namako: TW
 

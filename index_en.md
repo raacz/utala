@@ -141,8 +141,8 @@ The voting form will land here soon when its ready!
 
 ### How many entries are in the competition?
 
-- Small Worded Documents: 22
-- Small Illustrated Documents: 5
+- Small Worded Documents: 24
+- Small Illustrated Documents: 6
 - Big Worded Documents: 6
 - Big Worded Documents with Additional Images: 3
 
