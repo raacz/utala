@@ -10,7 +10,7 @@ tweaks: singlecol
 <div markdown="1" class="sLasina">
 kili li kasi ala.  
 &nbsp;&nbsp;sina weka e kili kasi la kasi li awen lon   
-&nbsp;&nbsp;&nbsp;&nbsp;li ken pali sin e kili.  
+&nbsp;&nbsp;&nbsp;&nbsp; li ken pali sin e kili.  
 
 noka li sijelo ala.  
 &nbsp;&nbsp;sina weka e noka sijelo la sijelo li awen lon.  
@@ -56,7 +56,7 @@ la mi awen li awen li awen awen.
 <div markdown="1" class="spona">
 kili li kasi ala.  
 | sina weka e kili kasi la kasi li awen lon   
-||i ken pali sin e kili.  
+|| li ken pali sin e kili.  
 
 noka li sijelo ala.  
 |sina weka e noka sijelo la sijelo li awen lon.  
