@@ -121,7 +121,7 @@ sitelen ona li pu.
 sina open noka e ona.  
 soweli jan li kalama mu.  
 sina lukin e sitelen lawa pimeja.  
-nimi li soweli Winitepu.  
+nimi li soweli [wile insa noka ijo telo esun pona uta].  
 
 sina open e lipu  
 &nbsp;&nbsp;&nbsp;&nbsp;e lipu e lipu kin.  
