@@ -29,7 +29,7 @@ zzzzzzzz󱤧 󱤓 󱤉 󱤑 󱤤 󱤆 󱦜
 zzzzzzzzzz󱤧 󱥉 󱤉 󱥁 󱦝  
 zzzzzz󱤑 󱤧 󱤘 󱤂 󱥩 󱤰 󱤆 󱦜  
   
-󱥐 󱥍 󱥫 󱥱 󱥁 󱤡  󱤑 󱦐 󱤲 󱥄 󱥁 󱦑 󱦐 󱥜 󱥰 󱥧 󱤂 󱦑 󱤧 󱤤 󱤉 󱤰 󱥁 󱦜  
+pini pi tenpo utala ni la jan [mani o ni][sike uta tan ala]li lawa e mani ni.  
 zzzz󱥆 󱤧 󱤑 󱥍 󱤍 󱤼 󱦜  
 zzzz󱥆 󱤧 󱥬 󱤍  
 zzzzzz󱤧 󱥉 󱤍 󱦜  
@@ -48,5 +48,5 @@ zzzzzz󱤄 󱤧 󱥎 󱥔 󱦜
 󱥫 󱥁 󱤡zz󱤑 󱤧 󱥎 󱥖 󱥫 󱥍 󱤑 󱤤 󱤍 󱤡  
 zzzzzz󱥆 󱤧 󱥬 󱤉 󱥁 󱦝「󱤴 󱥎 󱥽 󱤀」  
   
-⚠️ 󱥄 󱤮 󱦝 󱤪 󱥁 󱤧 󱤻 󱦜 󱥬 ‍ 󱥔 󱤡 󱥂 󱥽 󱤧 󱥧 󱥂 󱥍 󱥬 󱦐 󱤌 󱥁 󱤭 󱤎 󱦑 󱦜  
+⚠️ 󱥄 󱤮 󱦝 󱤪 󱥁 󱤧 󱤻 󱦜 󱥬 ‍ 󱥔 󱤡 󱥂 󱥽 󱤧 󱥧 󱥂 󱥍 toki [ijo ni luka ilo].
 </div>
