@@ -7,6 +7,7 @@ nasin:
 mute_nimi: 569
 ken_ike: defer
 ijo_toki: "."
+fontfile: "/mamlw/fonts/fonts.css"
 ---
 
 <style>
