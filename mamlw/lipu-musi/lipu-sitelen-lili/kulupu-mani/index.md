@@ -7,8 +7,8 @@ media_links: ["1.jpg", "2.jpg", "3.jpg", "4.jpg"]
 
 lipu #1
 - leko #1: ijo li toki: "o kama jo e ijo pona kepeken mani lili!" ijo pona mute li ken... telo nasa, sike lili nasa, misikeke nasa 
-- leko #2: jan wan li pana e sike lili misikeke pona tawa uta. moku! ona li kama pilin pona sewi a, sitelen lili pilin en sitelen mun lili li kama tan lukin ona. jan ni li kepeken len pali ni: len lipu palisa lili li kama tan anpa lawa lon sinpin pi len sijelo ante. ni li len mije pi nasin esun. 
-- leko #3:  jan pi len esun li lon tomo pali. nimi pi tomo pali li "pali pona." jan li lon poka pi ilo pali suli a. ilo ni li nasin e pali kepeken nasin ni:  jan ale li awen lon linja; supa nasin tawa en nasin lupa mute pi tawa sewi pi tawa anpa li tawa e ijo tawa poka wile; ijo li kama lon sinpin jan la jan ni li pana e pali wan sin. jan ante li pali ante. open linja la ijo li pini ala. pini linja la ijo li pini. jan pi len pali li pilin e ni: pali li ike mute. 
+- leko #2: jan wan li pana e sike lili misikeke pona tawa uta. moku! ona li kama pilin pona sewi a, sitelen lili pilin en sitelen mun lili li kama tan lukin ona. jan ni li len kepeken len mije ni pi nasin esun: lipu len palisa lili li awen lon sewi pi  anpa lawa lon sinpin pi len sijelo ante. 
+- leko #3:  jan ni pi len esun li lon tomo pali. nimi pi tomo pali li "pali pona." jan li lon poka pi ilo pali suli a. ilo ni li nasin e pali kepeken nasin ni:  jan ale li awen lon linja; supa nasin tawa en nasin lupa mute pi tawa sewi pi tawa anpa li tawa e ijo tawa poka wile; ijo li kama lon sinpin jan la jan ni li pana e pali wan sin. jan ante li pali ante. open linja la ijo li pini ala. pini linja la ijo li pini. jan ni pi len esun li pilin e ni: pali li ike mute. 
 - leko #4: lon sewi pi palisa suli la ilo kalama li mu wawa: "tenpo pali li pini la o kama jo e mani pali sina." jan mute pi pilin ike li awen lon linja. ona ale li kepeken len sama pi anpa lawa li awen sewi e luka wan lon sinpin sijelo. 
 - leko #5: kiwen sike mani wan taso li kama lon luka pi jan pali. ike a. 
 
