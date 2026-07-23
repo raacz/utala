@@ -56,7 +56,8 @@ lon kiwen lili nasin la noka soweli li pakala e lape mi. tenpo sama la utala lil
 
  *ni la sina o ~~k~~taua o pona e tempo pini sina.*
 
- *tan ian Nasa Lipu sina\**
+ *tan ian Nasa Lipu sina*
+
 </blockquote>
 
 
