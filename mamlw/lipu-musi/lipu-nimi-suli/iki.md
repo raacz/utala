@@ -33,8 +33,9 @@ taso noka li tawa ala. anpa la supa li pana e luka lili mute, li ona e noka mi t
 ***
 
 
-> mu-mu, mu-mu, mu-mu...
-
+<pre>
+ mu-mu, mu-mu, mu-mu...
+</pre>
 
 lon kiwen lili nasin la noka soweli li pakala e lape mi. tenpo sama la utala lili li open lon ale: monsi mi li tawa nasa lon supa soweli, noka mi la selo li pakala tan kasi poka, lawa mi la suno li loje ale e sinpin... a, sijelo li utala; wile li awen sama. luka mi li alasa lon poki len, li kama e lipu lili tan anpa.
 
@@ -47,10 +48,10 @@ lon kiwen lili nasin la noka soweli li pakala e lape mi. tenpo sama la utala lil
 
  *\"o ante ni e tempo pini:*
 
- *o taua sama suno lom poka ante telo.*
- *o mu e ian tan tomo.*
- *nena seui uan li lom poka mun, li lon selo lon.*
- *sina o taua ala ona:*
+ *o taua sama suno lom poka ante telo.*  
+ *o mu e ian tan tomo.*  
+ *nena seui uan li lom poka mun, li lon selo lon.*  
+ *sina o taua ala ona:*  
  *o taua nena poka ona, o taua supa seui nena, o luka tawa insa iki."*
 
  *ni la sina o ~~k~~taua o pona e tempo pini sina.*
@@ -100,10 +101,10 @@ mi lukin sin e lipu: *o tawa supa sewi nena, o luka tawa insa iki*. ni li taso. 
 
 kiwen li tawa ala. taso mi kama lukin e sinpin kiwen: linja nasa mute li lon ale ona, sama
 
-<pre>
+<pre markdown="1">
 
 UUUU UUU U U UUU
-UUUUUU~~V~~     U       U
+UUUUUU<del>V</del>     U       U
 UU UUU   U
     
 </pre>
