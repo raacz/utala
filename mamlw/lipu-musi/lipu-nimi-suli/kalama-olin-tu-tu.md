@@ -12,11 +12,11 @@ ijo_toki: "."
 <style>
     pre.kalama-olin-tu-tu {
         white-space: pre-wrap;
+		font-family: inherit;
     }
-    body:has(.kalama-olin-tu-tu) code{
-        white-space: pre-wrap;
-        margin-inline-start: 2em;
-    }
+	.poka {
+		margin-inline-start: 2em;
+	}
 </style>
 
 ## nanpa wan: seli
@@ -68,39 +68,48 @@ ijo_toki: "."
 *luka ona li poki e luka mi. mi pilin e seli ona, e sijelo ona, e suli ona lon poka mi.*
 
 o pini.
+{:.poka}
 
 *mi tu li lon supa lape. kon mi en kon ona li kama li tawa lon tenpo sama.*
 
 o pini.
+{:.poka}
 
 *luka wan ona li sike e mi. lawa mi li lon pilin ona. mi kute e mu ona. ona li kalama anpa li kalama lili sama telo suwi tan sewi.* 
 
 mi toki sin e ni: o pini. jan nasa o.
+{:.poka}
 
 *anu la, n… mi lape. anu mi lon poka lape.*
 
 o pini a\! sina sona e ike lon pini pi nasin ni.
+{:.poka}
 
 *ona li lon.*
 
 sina toki awen la, mi —
+{:.poka}
 
 *len li suwi lon mi. ale li pimeja. ona li luka* 
 
 o ala a\! mi luka 
+{:.poka}
 
 *lili e sewi lawa mi.*
 
 wawa e sinpin ike sina. jan ike jan jaki jan anpa jan
+{:.poka}
 
 *jan poka o, sina pali pona, ona li toki tawa mi. kepeken kalama lili la, ona li weka li pini e lupa. ale li lape. ale li pona.*
 
 o lukin e pakala sina. sina jaki tawa mi. 
+{:.poka}
 
 *mi toki taso.* 
 
-	awen la.  
-	  
+awen la.  
+{:.poka}
+  
 *taso la, ijo ni pi lawa mi li luka* sina*, anu seme?*
 
 *…*
@@ -108,86 +117,107 @@ o lukin e pakala sina. sina jaki tawa mi.
 *anu seme?*
 
 ni li suli ala a\! 
+{:.poka}
 
-sina *li jan pi pilin wan taso, li jan wan lon pimeja lete. sina pana e seli pona tawa sina, anu seme? pilin sina la, luka sina li pana e seli sama ona?*
+sina *jan pi pilin wan taso, li jan wan lon pimeja lete. sina pana e seli pona tawa sina, anu seme? pilin sina la, luka sina li pana e seli sama ona?*
 
 mi wile e ala kepeken seli ona. o pina a. mi wile lape. 
+{:.poka}
 
 *sina wile lape sama jan wan?* 
 
 ike o tawa sina.
+{:.poka}
 
 *anu la, sina wile e ni: sina jan wan ala. ona li lon poka sina. seme li pona nanpa wan tawa sina: sinpin ona li tawa sinpin sina, anu sijelo pi sina tu li lukin tawa ma sama —*
 
-	a! o ala!
+a! o ala!
+{:.poka}
 
-*pona, sijelo ona li sike e sijelo sina. luka ona li awen e sina, noka ona li lon noka sina, uta ona…*   
-	  
-	o pini. mi toki suwi tawa sina, o pini a. sina pini la, mi pana e ale tawa sina, mi pali e ale, taso…
+*pona, sijelo ona li sike e sijelo sina. luka ona li awen e sina, noka ona li lon noka sina, uta ona…* 
+
+o pini. mi toki suwi tawa sina, o pini a. sina pini la, mi pana e ale tawa sina, mi pali e ale, taso…
+{:.poka}
 
 *sina wile wawa e pini mi tan seme?*
 
-	ijo pi toki sina. mi wile suli ike e ona. mi wile suli e ona la, ni li pakala e mi. 
+ijo pi toki sina. mi wile suli ike e ona. mi wile suli e ona la, ni li pakala e mi. 
+{:.poka}
 
 *a, ni taso la, sina toki lon.* 
 
-	mi wile lape.
+mi wile lape.
+{:.poka}
 
 *ni la, sina wile ala wile e ni: lon supa lape, lon poka sina la, ona li tawa sina. ni la,*
 
-	mi sike e luka mi.
+mi sike e luka mi.
+{:.poka}
 
 *sina tawa sike. sinpin sina*
 
-	mi luka e len sina. sinpin sina 
+mi luka e len sina. sinpin sina 
+{:.poka}
 
 *li tawa ona. sina luka e len ona. sina*
 
-	li tawa mi. luka ante mi li
+li tawa mi. luka ante mi li
+{:.poka}
 
 *tawa sina e sijelo ona. sewi sinpin ona en sewi sinpin sina*
 
-	tawa monsi mi li tawa wawa sinpin mi li kama wan
+tawa monsi mi li tawa wawa sinpin mi li kama wan
+{:.poka}
 
 *li kama wan. lukin sina li tawa ona, lukin ona li tawa sina,* 
 
-	e sijelo sina. o lukin e ike sina, o lukin e pakala sina, o
+e sijelo sina. o lukin e ike sina, o lukin e pakala sina, o
+{:.poka}
 
 *n\! pakala a. kiwen uta sina li pakala e uta mi.*
 
-	n.
+n.
+{:.poka}
 
 *telo loje lili li tan ni. sina o —*
 
-	ni o pakala pona tawa sina. ni li pakala pona tawa mi.
+ni o pakala pona tawa sina. ni li pakala pona tawa mi.
+{:.poka}
 
 *sina pona ala tawa mi.*
 
-	mi pona ala tawa jan ale pi wile ike. 
+mi pona ala tawa jan ale pi wile ike. 
+{:.poka}
 
 *wile li sina taso. mi toki taso e ona.*
 
-	n.
+n.
+{:.poka}
 
 *telo li tan lukin sina.*
 
-	ni li lon la, seme?
+ni li lon la, seme?
+{:.poka}
 
 *mi toki taso.* 
 
-	n.
+n.
+{:.poka}
 
 *sina wile lape, anu seme?*
 
-	n. ken.
+n. ken.
+{:.poka}
 
 *jan li lape pona tan ni: jan ante li lon. ni li wile sina, anu seme?*
 
-	…
+…
+{:.poka}
 
 *anu seme?*  
-	  
-	lon. o toki. o kalama lili.
+  
+lon. o toki. o kalama lili.
+{:.poka}
 
 ## nanpa tu wan: kiwen
 
@@ -207,6 +237,8 @@ wawa
 
 li pakala
 
+<br>
+
 tan
 
 tawa  
@@ -222,15 +254,19 @@ namako
 suli
 
 pi
+
+<p>
 <pre class="kalama-olin-tu-tu">
 mi olin  mi olin mi olin mi   olin mi olin mi olin   mi olin mi olin mi olin mi olin   mi olin mi   olin   
     mi olin mi olin     mi olin   mi olin mi  olin  mi olin     mi     olin  mi   olin  mi    olin mi  
     	olin  mi      olin mi olin       mi     olin mi    olin       mi   olin     mi olin       mi olin    mi    olin         mi olin                     mi    olin mi     olin mi olin                     mi      olin   
-mi  olin			       olin  mi   
+	mi  olin			olin  mi   
 
-   e				  
-           li
+	   e				  
+					   li
 </pre>
+</p>
+
 sina.
 
 ## nanpa tu tu: sewi
@@ -239,6 +275,7 @@ sina.
 *tan suwi seli suno.*  
 *seme la, pilin sina*  
 *li ike a, jan o?*
+{:.poka}
 
 kasi o, sina mu pona.  
 lon, pilin mi li utala.  
@@ -249,6 +286,7 @@ mi ken ala ala.
 *mute kasi li len ona.*  
 *jan seme sina li ni?*  
 *jan o pana sona.*
+{:.poka}
 
 kon wawa o, sina awen  
 toki suwi tawa kute.  
@@ -259,6 +297,7 @@ e olin seli mute.
 *tan musi pi tawa kon.*  
 *jan o, ijo seme a*  
 *li pana sina lon?*
+{:.poka}
 
 suno ni o, sina kama  
 suno laso suwi a:  
@@ -294,6 +333,7 @@ ale li ken pona.
 *mun li lon li mute a.*  
 *jan o, seme li wile*  
 *sina lon pimeja?*
+{:.poka}
 
 pimeja o len e mi.  
 pimeja o lon e ni:  
