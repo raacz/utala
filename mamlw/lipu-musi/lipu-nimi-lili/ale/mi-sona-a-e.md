@@ -49,7 +49,7 @@ ni la
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;li kulupu.  
 
 mi sona ala   
-la mi awen li awen li awen awen.  
+&nbsp;&nbsp;la mi awen li awen li awen awen.  
 
 
 </div>
@@ -85,9 +85,9 @@ taso ante ante li lon.
 
 kili li ken pali ala e kasi sin.  
 noka li ken ala pali e sijelo sin.  
-jan li sona pali e kulupu   
+jan li sona pali e kulupu  
 
-||la seme.  
+&nbsp;&nbsp; la seme.  
 
 ni la   
 | seme la   
@@ -95,7 +95,7 @@ ni la
 |||li kulupu.  
 
 mi sona ala   
-la mi awen li awen li awen awen.  
+| la mi awen li awen li awen awen.  
 
 
 </div>
