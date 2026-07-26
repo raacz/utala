@@ -5,8 +5,12 @@ jan_pali:
 suli_lipu: suli
 nasin: 
 mute_nimi: 4207
-ken_ike: defer
-ijo_toki: "."
+ken_ike: 
+- wile moku
+- moku suli
+- pali pi jan lawa ike
+- utala poki sijelo 
+ijo_toki: "pakala nasa pi wile moku li lon jan Ewa, la jan olin ona li toki e ni: esun kili taso li ken pona e pakala."
 ---
 
 

@@ -2,11 +2,14 @@
 layout: lipu
 title: o kule e lipu
 jan_pali: 
-suli_lipu: 
+suli_lipu: suli lili
 nasin: 
 mute_nimi: 1383
-ken_ike: defer
-ijo_toki: "."
+ken_ike: 
+- pilin ike pi wan taso
+- jan li wile ala lon
+- nasa pakala pilin
+ijo_toki: "lipu li lon sinpin sina. o pana e sona sina tawa ona. o pana e wile sina tawa ona. o pana e mi tawa ona."
 ---
 
 

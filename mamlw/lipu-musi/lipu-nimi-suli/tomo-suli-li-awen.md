@@ -5,8 +5,11 @@ jan_pali:
 suli_lipu: lili
 nasin: 
 mute_nimi: 558
-ken_ike: defer
-ijo_toki: "."
+ken_ike: 
+- lawa wawa pi nasin ike
+- utala 
+- pakala tomo
+ijo_toki: "jan pi insa utala li wile lawa e kulupu. ona li len e nasin ona e wile ona la, jan ante kulupu li kute ala kute?"
 ---
 
 ma pi weka mute la, ma tomo lili li lon.  

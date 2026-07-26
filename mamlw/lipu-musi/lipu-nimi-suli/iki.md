@@ -5,8 +5,12 @@ jan_pali:
 suli_lipu: suli lili
 nasin: 
 mute_nimi: 1909
-ken_ike: defer
-ijo_toki: "."
+ken_ike: 
+- jan li wile ala lon
+- jan li lon lupa pi lili mute
+- jan li ken ala moku e kon
+- jan li kama ante nasa
+ijo_toki: "wile pi jan Nasa Lipu la ona o luka tawa insa iki. taso ni li alasa suli li wile e tawa suli. kin la , 'iki' li seme? nasa sona a."
 ---
 
 <style>

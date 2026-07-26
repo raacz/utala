@@ -2,11 +2,19 @@
 layout: lipu
 title: tan o
 jan_pali: 
-suli_lipu: 
+suli_lipu: suli lili
 nasin: 
 mute_nimi: 2505
-ken_ike: defer
-ijo_toki: "."
+ken_ike: 
+- "nasin ike ni: kulupu jan ni li ike"
+- nasin lawa ike ma
+- jan li ken ala weka tan poki
+- moli jan
+- jan li pakala e sijelo pi jan ante
+- utala moli suli
+- mama ike
+- monsuta li lawa e insa lawa
+ijo_toki: "jan Leja li lon poki lon tenpo suli. ona li kama lon weka poki la ona li lukin e ni: nasin pilin sin kulupu li kama wawa lon ma ona."
 fontfile: "/mamlw/fonts/fonts.css"
 ---
 

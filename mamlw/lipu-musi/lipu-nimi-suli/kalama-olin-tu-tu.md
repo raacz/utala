@@ -5,8 +5,10 @@ jan_pali:
 suli_lipu: suli lili
 nasin: 
 mute_nimi: 1800
-ken_ike: defer
-ijo_toki: "."
+ken_ike: 
+- "ijo li kute ala e wile pi jan ante li kepeken sijelo pi jan ante ni"
+- pilin monsuta
+ijo_toki: "seli en telo en kiwen en sewi la kalama olin tu tu li kepeken nasin tu tu a."
 ---
 
 <style>

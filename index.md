@@ -77,8 +77,8 @@ utala musi lipu pi tenpo sike #MAMLW la
   <h2>lipu nimi suli</h2>
   
     <ul class="work" role="list">
-      {% assign sorted_pages = site.pages | where_exp: "page", "page.path contains 'mamlw/lipu-musi/lipu-nimi-suli/'" %}
-      {% for page in sorted_pages %}
+      {% assign lipu_nimi_suli = site.pages | where_exp: "page", "page.path contains 'mamlw/lipu-musi/lipu-nimi-suli/'" %}
+      {% for page in lipu_nimi_suli %}
       {% if page.layout == "lipu" %}
         <li>
           <a href="{{ page.url }}">{{ page.title }} </a>
@@ -93,8 +93,8 @@ utala musi lipu pi tenpo sike #MAMLW la
   <h2>lipu nimi suli pi sitelen namako</h2>
   
     <ul class="work" role="list">
-      {% assign sorted_pages = site.pages | where_exp: "page", "page.path contains 'mamlw/lipu-musi/lipu-nimi-suli-sitelen/'" | sort: "title" %}
-      {% for page in sorted_pages %}
+      {% assign nimi_suli_sitelen = site.pages | where_exp: "page", "page.path contains 'mamlw/lipu-musi/lipu-nimi-suli-sitelen/'" | sort: "title" %}
+      {% for page in nimi_suli_sitelen %}
       {% if page.layout == "lipu" %}
         <li>
           <a href="{{ page.url }}">{{ page.title }} </a>
@@ -138,8 +138,10 @@ utala musi lipu pi tenpo sike #MAMLW la
 <hr>
 
 ## nasin pi pana pilin:
-ni li kama lon tenpo kama poka; o awen lili taso. 
 
+[o pana e pilin sina lon lipu ni!](https://docs.google.com/forms/d/e/1FAIpQLScxhuP7rcMOAwdUUSlasnk91pGG_-cY3-CTonRvLnuzhrxqZA/viewform)
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScxhuP7rcMOAwdUUSlasnk91pGG_-cY3-CTonRvLnuzhrxqZA/viewform" aria-hidden="true"><img src="/mamlw/lipu-musi/pana-pilin/pana-pilin.png" alt=""></a>
 
 <hr>
 
@@ -164,6 +166,11 @@ tenpo sike ni la, utala tu tu li lon. kin la, ale la mute lipu li lili. ni la mi
 - utala pi lipu nimi suli pi sitelen namako: lipu W seme li wawa  
 
 
+### lawa pi utala ni li seme?
+
+o lukin e [lawa pi utala ni](/mamlw/lipu-musi/lawa/lawa_tok).
+
+
 ### sina pana pona ala e lipu mi! 
 
 ni li lon la o toki tawa mi; mi wile pona e ona. 
@@ -175,6 +182,44 @@ sina ken. o toki tawa mi; mi kama pona e ona.
 ## mi wile toki tawa sina
 
 nasin pi pana lipu la o toki kepeken nimi ni: tokipona.sasalin@gmail.com. ilo Siko la o toki kepeken nimi ni: @raacz106
+
+
+<hr>
+
+## lipu suli li toki e seme?
+
+### lipu nimi suli
+
+<ul role="list" class="ijo-mute">
+    {% for page in lipu_nimi_suli %}
+  {% if page.layout == "lipu" %}
+    <li>
+    <a href="{{ page.url }}">{{ page.title }}</a> 
+     <span>{{ page.suli_lipu }}</span>
+     <span>{{ page.ijo_toki }}</span>
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+
+### lipu nimi suli pi sitelen namako
+
+<ul role="list" class="ijo-mute">
+    {% for page in nimi_suli_sitelen %}
+  {% if page.layout == "lipu" %}
+    <li>
+    <a href="{{ page.url }}">{{ page.title }}</a> 
+     <span>{{ page.suli_lipu }}</span>
+     <span>{{ page.ijo_toki }}</span>
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+
+
+
 
 </div>
 

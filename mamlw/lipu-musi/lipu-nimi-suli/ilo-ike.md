@@ -5,8 +5,13 @@ jan_pali:
 suli_lipu: suli lili
 nasin: 
 mute_nimi: 920
-ken_ike: defer
-ijo_toki: "."
+ken_ike: 
+- "moli soweli"
+- "jan li pilin lon e ilo pi lon ala"
+- "ilo pi sona toki li ike" 
+- "nasa lawa"
+- "weka pi wile moku"
+ijo_toki: "mi en sina li wan lon tenpo sike mute.  ijo pi ike mute taso li ken kipisi tu e mi sina wan anu seme?"
 ---
 
 
@@ -15,21 +20,21 @@ suwi lukin a. taso, jan ale lon ma ale la, sona sina li wawa namako. sina lon
 tomo pali sina la, sina kama sona e sona sin, li pali e ijo sin, li sitelen e
 lipu pi sina taso e lipu pi pana sona kin. sina jan pi sona suli.
 
-lon tenpo sike nanpa wan, mi tu li kama lon tomo sin. ni li tomo pi mi tu, li
+lon tenpo sike nanpa wan la, mi tu li kama lon tomo sin. ni li tomo pi mi tu, li
 tomo mi. mi tu li pali e tomo pali, li pana e ilo tawa ona, li esun e ilo nanpa
 wawa tawa pali sina. pali mi li lon tomo sona la, mi wile ala e tomo pali suli
 lon tomo mi. lon monsi tomo la, mi pali e ma kasi. kasi namako en kasi kili en
 kasi lipu li lon ona. tomo mi li pona mute tawa mi tu.
 
-lon tenpo sike nanpa tu, mi tu li kama jo e soweli. tenpo suno pimeja la, ona li
+lon tenpo sike nanpa tu la, mi tu li kama jo e soweli. tenpo suno pimeja la, ona li
 lon insa pi lupa telo lon poka nasin pi tomo tawa. telo li kama tan sewi la, ona
 li pilin monsuta suli. ken la, ona li pilin e ni: ona li soweli lili taso, li
-ken ala lon ma suli sama ni. mi kama insa e ona. sijelo ona li ike tan
+ken ala lon ma suli sama ni. mi kama e ona tawa insa tomo. sijelo ona li ike tan
 kipisi, tan pipi, tan moku ala. sina kama jo e ona, li pini e kipisi, li telo e
 ona kepeken telo pi moli pipi. kin la, mi tawa tomo esun soweli, li kama
 jo e moku soweli. tenpo suno kama la, soweli li pilin pona. mi tu li pana e nimi
 Peni tawa ona, tan linja loje ona. taso, pilin mi la, mi tu li lawa ala e soweli
-Peni. ona kama li weka lon pilin ona. pona la, tomo pi mi tu li tomo ona.
+Peni. ona li kama li weka lon pilin ona. pona la, tomo pi mi tu li tomo ona.
 
 lon tenpo sike nanpa luka luka la, soweli li kama lon insa ala. soweli suwi pi
 tawa weka li ken utala, li ken kama ike. ni li pana e pilin ike tawa mi tu. sina

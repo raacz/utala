@@ -74,11 +74,14 @@ The 2026 Toki Pona Document Competition
 <div class="pana-pilin-mamlw" markdown="1">
 
 
+
+
+
 <h2>Big Worded Documents</h2>
   
   <ul class="work" role="list">
-    {% assign sorted_pages = site.pages | where_exp: "page", "page.path contains 'mamlw/lipu-musi/lipu-nimi-suli/'" %}
-    {% for page in sorted_pages %}
+    {% assign lipu_nimi_suli = site.pages | where_exp: "page", "page.path contains 'mamlw/lipu-musi/lipu-nimi-suli/'" %}
+    {% for page in lipu_nimi_suli %}
     {% if page.layout == "lipu" %}
       <li>
         <a href="{{ page.url }}">{{ page.title }} </a>
@@ -91,8 +94,8 @@ The 2026 Toki Pona Document Competition
 <h2>Big Worded Documents with Additional Images</h2>
   
   <ul class="work" role="list">
-    {% assign sorted_pages = site.pages | where_exp: "page", "page.path contains 'mamlw/lipu-musi/lipu-nimi-suli-sitelen/'" | sort: "title" %}
-    {% for page in sorted_pages %}
+    {% assign nimi_suli_sitelen = site.pages | where_exp: "page", "page.path contains 'mamlw/lipu-musi/lipu-nimi-suli-sitelen/'" | sort: "title" %}
+    {% for page in nimi_suli_sitelen %}
     {% if page.layout == "lipu" %}
       <li>
         <a href="{{ page.url }}">{{ page.title }} </a>
@@ -133,7 +136,11 @@ The 2026 Toki Pona Document Competition
 <hr>
 
 ## The Voting Form
-The voting form will land here soon when its ready!
+
+[Vote using this form!](https://docs.google.com/forms/d/e/1FAIpQLScxhuP7rcMOAwdUUSlasnk91pGG_-cY3-CTonRvLnuzhrxqZA/viewform)
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScxhuP7rcMOAwdUUSlasnk91pGG_-cY3-CTonRvLnuzhrxqZA/viewform" aria-hidden="true"><img src="/mamlw/lipu-musi/pana-pilin/pana-pilin.png" alt=""></a>
+
 
 <hr>
 
@@ -156,6 +163,11 @@ In past years, we've assigned three winners per category. Due to the lower amoun
 - Big Worded Documents: First Prize, Second Prize
 - Big Worded Documents with Additional Images: First Prize 
 
+### What are the competition's rules? 
+
+Read through [this competition's rules](/mamlw/lipu-musi/lawa/lawa_en).
+
+
 
 ### You didn't format my submission right!
 
@@ -168,6 +180,46 @@ Yes, you may. Reach out to me and I will fix it.
 ### How can I contact you?
 
 tokipona.sasalin@gmail.com is my email, and @raacz106 on Discord. 
+
+
+
+<hr>
+
+## What are the Big Documents about?
+
+
+### Big Worded Documents
+
+<ul role="list" class="ijo-mute">
+    {% for page in lipu_nimi_suli %}
+  {% if page.layout == "lipu" %}
+    <li>
+    <a href="{{ page.url }}">{{ page.title }}</a> 
+     <span>{{page.mute_nimi}} words</span>
+     <span lang="en">{{ page.ijo_toki }}</span>
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+
+### Big Worded Documents with Additional Images
+
+<ul role="list" class="ijo-mute">
+    {% for page in nimi_suli_sitelen %}
+  {% if page.layout == "lipu" %}
+    <li>
+    <a href="{{ page.url }}">{{ page.title }}</a> 
+     <span>{{page.mute_nimi}} words</span>
+     <span lang="en">{{ page.ijo_toki }}</span>
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+
+
+
 
 </div>
 
