@@ -9,8 +9,8 @@ permalink: null
 
 <div markdown="1" class="sLasina">
 
-mi awen tan sina. sina suno mi  
-lon luka sina. mi pilin e ni  
+mi awen tan sina, sina suno mi  
+lon luka sina la mi pilin e ni  
 mi sama pipi lipu lon kasi suwi  
   
 sina pana e walo  
@@ -31,7 +31,7 @@ kepeken wawa olin
 <div markdown="1" class="spona">  
   
 mi awen tan sina, sina suno mi  
-lon luka sina, mi pilin e ni  
+lon luka sina la mi pilin e ni  
 mi sama pipi lipu lon kasi suwi  
   
 sina pana e walo  
