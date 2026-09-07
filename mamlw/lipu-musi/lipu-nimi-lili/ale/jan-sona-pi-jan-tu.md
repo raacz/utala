@@ -2,6 +2,7 @@
 title:   jan sona pi jan tu
 sptitle:  jan sona pi jan tu
 ws_pref: spona
+jan_pali: kule epiku Atawan
 font: linjalaso
 permalink: null
 ---

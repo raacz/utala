@@ -1,6 +1,7 @@
 ---
 title: jan wan o pini
 layout: sitelen
+jan_pali: jan Ke Tami
 media_links: ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png"]
 ---
 

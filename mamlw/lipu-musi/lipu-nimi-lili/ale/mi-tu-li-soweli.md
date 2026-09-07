@@ -5,6 +5,8 @@ ws_pref: sLasina
 font: 
 permalink: null
 tweaks: wrap
+jan_pali: soweli Solen
+prize: tw
 
 ---
 

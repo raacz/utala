@@ -4,6 +4,8 @@ sptitle: musi li nasin kin
 ws_pref: 
 font: 
 permalink: null
+jan_pali: jan Seliko
+
 
 ---
 

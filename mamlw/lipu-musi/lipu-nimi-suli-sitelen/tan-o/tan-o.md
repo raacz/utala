@@ -1,7 +1,7 @@
 ---
 layout: lipu
 title: tan o
-jan_pali: 
+jan_pali: jan Masa
 suli_lipu: suli lili
 nasin: 
 mute_nimi: 2505

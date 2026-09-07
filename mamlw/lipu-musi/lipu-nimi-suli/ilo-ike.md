@@ -1,7 +1,7 @@
 ---
 layout: lipu
 title: ilo ike
-jan_pali: 
+jan_pali: jan Poki
 suli_lipu: suli lili
 nasin: 
 mute_nimi: 920

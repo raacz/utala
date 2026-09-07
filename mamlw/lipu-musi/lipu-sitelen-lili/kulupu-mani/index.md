@@ -1,6 +1,7 @@
 ---
 title: kulupu mani
 layout: sitelen
+jan_pali: jan Luwiso
 media_links: ["1.jpg", "2.jpg", "3.jpg", "4.jpg"]
 
 ---

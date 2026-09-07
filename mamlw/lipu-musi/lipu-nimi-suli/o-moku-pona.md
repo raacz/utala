@@ -1,7 +1,7 @@
 ---
 layout: lipu
 title: o moku pona
-jan_pali: 
+jan_pali: jan Satase
 suli_lipu: suli
 nasin: 
 mute_nimi: 4207
@@ -11,6 +11,7 @@ ken_ike:
 - pali pi jan lawa ike
 - utala poki sijelo 
 ijo_toki: "pakala nasa pi wile moku li lon jan Ewa, la jan olin ona li toki e ni: esun kili taso li ken pona e pakala."
+prize: t
 ---
 
 

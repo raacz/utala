@@ -4,6 +4,8 @@ sptitle:  uta utala
 ws_pref: sLasina
 font: 
 permalink: null
+jan_pali: jan Jasun
+
 ---
 
 <div markdown="1" class="sLasina">

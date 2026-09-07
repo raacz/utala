@@ -4,6 +4,9 @@ sptitle: o lape a
 ws_pref: spona
 font: 
 permalink: null
+jan_pali: jan Etekin
+prize: w
+
 
 ---
 

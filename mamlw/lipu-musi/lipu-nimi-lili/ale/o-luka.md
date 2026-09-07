@@ -4,6 +4,7 @@ sptitle: o luka
 ws_pref: spona
 font: linja Katun
 permalink: null
+jan_pali: jan Juso
 
 ---
 

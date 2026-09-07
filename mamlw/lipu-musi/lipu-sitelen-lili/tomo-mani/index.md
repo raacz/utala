@@ -1,6 +1,7 @@
 ---
 title: tomo mani
 layout: sitelen
+jan_pali: jan Waluto
 media_links: ["1.jpg", "2.jpg", "3.jpg"]
 
 ---

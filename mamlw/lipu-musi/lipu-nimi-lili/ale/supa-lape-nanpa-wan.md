@@ -5,6 +5,7 @@ ws_pref: spona
 font: sitelen seli kiwen
 permalink: null
 tweaks: wrap
+jan_pali: jan Nijo
 ---
 
 <div markdown="1" class="sLasina">

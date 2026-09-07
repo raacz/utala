@@ -1,7 +1,7 @@
 ---
 layout: lipu
 title: iki
-jan_pali: 
+jan_pali: jan Tumu
 suli_lipu: suli lili
 nasin: 
 mute_nimi: 1909

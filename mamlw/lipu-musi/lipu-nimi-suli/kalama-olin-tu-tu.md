@@ -1,7 +1,7 @@
 ---
 layout: lipu
 title: kalama olin tu tu 
-jan_pali: 
+jan_pali: jan Nesa
 suli_lipu: suli lili
 nasin: 
 mute_nimi: 1800

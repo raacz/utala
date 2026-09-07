@@ -5,6 +5,8 @@ ws_pref: spona
 font: 
 permalink: null
 tweaks: wrap
+jan_pali: jan Kasan
+
 ---
 
 <div markdown="1" class="sLasina">

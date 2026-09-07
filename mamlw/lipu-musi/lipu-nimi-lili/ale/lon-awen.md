@@ -4,6 +4,7 @@ sptitle: lon awen
 ws_pref: sLasina
 font: 
 permalink: null
+jan_pali: jan Sotan
 
 ---
 

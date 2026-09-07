@@ -4,6 +4,7 @@ sptitle: ike li kama
 ws_pref: sLasina
 permalink: null
 tweaks: wrap
+jan_pali: jan Ata
 ---
 
 <div markdown="1" class="sLasina">

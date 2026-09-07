@@ -4,6 +4,8 @@ sptitle:  ona li kama
 ws_pref: sLasina
 font: 
 permalink: null
+jan_pali: sitelen Kosin
+
 ---
 
 <div markdown="1" class="sLasina">

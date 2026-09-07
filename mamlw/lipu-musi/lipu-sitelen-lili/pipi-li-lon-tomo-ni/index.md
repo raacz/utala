@@ -1,6 +1,7 @@
 ---
 title: pipi li lon tomo ni
 layout: sitelen
+jan_pali: waso Seko
 media_links: ["sp.png", "sLasina.png"]
 tweaks: langswitch
 ---

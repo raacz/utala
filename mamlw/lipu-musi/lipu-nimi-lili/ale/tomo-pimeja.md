@@ -5,6 +5,7 @@ ws_pref:  sLasina
 font: 
 permalink: null
 tweaks: wrap
+jan_pali: jan Kowa
 ---
 
 <div markdown="1" class="sLasina">

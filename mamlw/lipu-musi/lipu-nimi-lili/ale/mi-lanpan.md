@@ -4,6 +4,7 @@ sptitle:  mi lanpan
 ws_pref: spona
 font: 
 permalink: null
+jan_pali: jan Kenitan
 ---
 
 <div markdown="1" class="sLasina">

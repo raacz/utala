@@ -1,4 +1,76 @@
 -
+  nimi: jan Etekin
+  tenpo: 
+    tok: 'tenpo sike #MAMLW'
+    en: Small Document 2026
+  nanpa:
+    tok: "lipu nimi lili #W"
+    en: First Place
+  lipu: /mamlw/lipu-musi/lipu-nimi-lili/index.html#o-lape-a!
+-
+  nimi: jan jape
+  tenpo: 
+    tok: 'tenpo sike #MAMLW'
+    en: Small Document 2026
+  nanpa:
+    tok: "lipu nimi lili #T"
+    en: Second Place
+  lipu: /mamlw/lipu-musi/lipu-nimi-lili/#len-lawa-suli
+-
+  nimi: soweli Solen
+  tenpo: 
+    tok: 'tenpo sike #MAMLW'
+    en: Small Document 2026
+  nanpa:
+    tok: "lipu nimi lili #TW"
+    en: Third Place
+  lipu: /mamlw/lipu-musi/lipu-nimi-lili/#mi-tu-li-soweli
+-
+  nimi: jan Pala
+  tenpo: 
+    tok: 'tenpo sike #MAMLW'
+    en: Comic 2026
+  nanpa:
+    tok: "lipu sitelen lili #W"
+    en: First Place
+  lipu: /mamlw/lipu-musi/lipu-sitelen-lili/kijetesantakalu-en-ma-kasi/
+-
+  nimi: kapesi Pake
+  tenpo: 
+    tok: 'tenpo sike #MAMLW'
+    en: Comic 2026
+  nanpa:
+    tok: "lipu sitelen lili #T"
+    en: Second Place
+  lipu: /mamlw/lipu-musi/lipu-sitelen-lili/lawa-toki-pi-toki-Inli/
+-
+  nimi: jan Etekin
+  tenpo: 
+    tok: 'tenpo sike #MAMLW'
+    en: Big Document 2026
+  nanpa:
+    tok: "lipu nimi suli #W"
+    en: First Place
+  lipu: /mamlw/lipu-musi/lipu-nimi-suli/tomo-sewi-li-wile-e-seme.html
+-
+  nimi: jan Satase
+  tenpo: 
+    tok: 'tenpo sike #MAMLW'
+    en: Big Document 2026
+  nanpa:
+    tok: "lipu nimi suli #T"
+    en: Second Place
+  lipu: /mamlw/lipu-musi/lipu-nimi-suli/o-moku-pona/
+-
+  nimi: waso Seko
+  tenpo: 
+    tok: 'tenpo sike #MAMLW'
+    en: Illustrated Document 2026
+  nanpa:
+    tok: "lipu pi sitelen namako #W"
+    en: First Place
+  lipu: /mamlw/lipu-musi/lipu-nimi-suli-sitelen/o-kule-e-lipu/
+-
   nimi: jan keteso
   tenpo: 
     tok: 'tenpo sike #MAML'

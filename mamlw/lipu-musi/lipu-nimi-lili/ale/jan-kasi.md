@@ -4,6 +4,7 @@ sptitle: jan kasi
 ws_pref: spona
 font: 
 permalink: null
+jan_pali: ijo seme Sepi
 
 ---
 

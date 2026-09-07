@@ -4,6 +4,8 @@ sptitle:  musi li seme
 ws_pref: sLasina
 font: 
 permalink: null
+jan_pali: waso Seko
+
 ---
 
 <div markdown="1" class="sLasina">

@@ -4,7 +4,7 @@ sptitle: te sitelen pini to
 ws_pref: spona
 font: lipamanka
 permalink: null
-
+jan_pali: kapesi Pake
 ---
 
 <div markdown="1" class="sLasina">

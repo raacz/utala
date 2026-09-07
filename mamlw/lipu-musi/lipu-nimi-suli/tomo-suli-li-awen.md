@@ -1,7 +1,7 @@
 ---
 layout: lipu
 title: tomo suli li awen
-jan_pali: 
+jan_pali: jan Sepulon
 suli_lipu: lili
 nasin: 
 mute_nimi: 558

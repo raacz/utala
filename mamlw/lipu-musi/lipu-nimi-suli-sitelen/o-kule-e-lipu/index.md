@@ -1,7 +1,7 @@
 ---
 layout: lipu
 title: o kule e lipu
-jan_pali: 
+jan_pali: waso Seko
 suli_lipu: suli lili
 nasin: 
 mute_nimi: 1383
@@ -10,6 +10,8 @@ ken_ike:
 - jan li wile ala lon
 - nasa pakala pilin
 ijo_toki: "lipu li lon sinpin sina. o pana e sona sina tawa ona. o pana e wile sina tawa ona. o pana e mi tawa ona."
+prize: w
+
 ---
 
 

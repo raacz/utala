@@ -4,7 +4,7 @@ sptitle: suno mi
 ws_pref: sLasina
 font: 
 permalink: null
-
+jan_pali: jan keteso
 ---
 
 <div markdown="1" class="sLasina">

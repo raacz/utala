@@ -3,6 +3,9 @@ title: len lawa suli
 sptitle: len lawa suli
 ws_pref: sLasina
 font: 
+jan_pali: jan jape
+prize: t
+
 permalink: null
 tweaks: wrap
 ---

@@ -4,6 +4,7 @@ sptitle: lon ala pimeja
 ws_pref: sLasina
 font: 
 permalink: null
+jan_pali: jan Tumu
 
 ---
 

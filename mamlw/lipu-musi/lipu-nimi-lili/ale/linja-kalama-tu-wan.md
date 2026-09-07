@@ -4,6 +4,8 @@ sptitle:  linja kalama tu wan
 ws_pref: spona
 font: 
 permalink: null
+jan_pali: jan Jasepe
+
 ---
 
 <div markdown="1" class="sLasina">

@@ -1,7 +1,7 @@
 ---
 layout: lipu
 title: tomo sewi li wile e seme
-jan_pali: 
+jan_pali: jan Etekin
 suli_lipu: lili
 nasin: 
 mute_nimi: 569
@@ -9,6 +9,8 @@ ken_ike:
 - moli jan
 ijo_toki: "'ilo pona taso li ken pona e ale!' jan li pilin sama ni la o lukin e lipu ni lon poka ona ."
 fontfile: "/mamlw/fonts/fonts.css"
+prize: w
+
 ---
 
 <style>

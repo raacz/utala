@@ -43,8 +43,16 @@ fontfile: "/mamlw/fonts/fonts.css"
         .linjalaso .spona{
             font-family: "linja laso";
         }
-
-
+        .authorwrap{
+            position: relative;
+        }
+        .janpali{
+            position: absolute;
+            top: -1em;
+            font-size: 0.9em;
+            font-weight: 400;
+            font-style: italic;
+        }
 
 
         :has(#toggle_both:checked) {
@@ -173,7 +181,7 @@ fontfile: "/mamlw/fonts/fonts.css"
             top: 0rem;
             margin-bottom: 2em;
         }
-
+        
         .spona {
             font-family: 'nasin nanpa 5';
         }
@@ -219,7 +227,7 @@ fontfile: "/mamlw/fonts/fonts.css"
         {% for page in lipu_pages %}
         {% assign stripped_title = page.title | replace: " ", "-" | replace: '"', "" %}
 
-        <li><a href="#{{ stripped_title }}">{{ page.title }}</a></li>
+        <li><a href="#{{ stripped_title }}">{{ page.title }}</a>, tan {{page.jan_pali}}</li>
         {% endfor %}
     </ul>
 
@@ -252,6 +260,7 @@ fontfile: "/mamlw/fonts/fonts.css"
 
 
     {% assign stripped_title = page.title | replace: " ", "-" | replace: '"', '' %}
+    <div class="authorwrap">
     <h2 class="two-scripts 
     {% if page.tweaks == 'singlecol' %}singlecol{% endif %} 
     {% if page.font %} {{page.font}} {% endif %}
@@ -259,8 +268,10 @@ fontfile: "/mamlw/fonts/fonts.css"
     tabindex="-1" id="{{ stripped_title }}">
         <span class="sLasina">{{ page.title }}</span>
         <span class="spona">{{ page.sptitle }}</span>
-    </h2>
 
+    </h2>
+        <span class="janpali">tan {{page.jan_pali}}</span>
+    </div>
     {% assign content = page.content %}
 
 

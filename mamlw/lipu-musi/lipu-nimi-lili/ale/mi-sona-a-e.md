@@ -5,6 +5,8 @@ ws_pref: spona
 font: lipamanka
 permalink: null
 tweaks: singlecol
+jan_pali: kili potato
+
 ---
 
 <div markdown="1" class="sLasina">
