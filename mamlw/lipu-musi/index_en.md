@@ -255,7 +255,7 @@ View the [voting page](/mamlw/lipu-musi/pana-pilin/pana-pilin_tok).
 
   <li {% if page.prize %} class="prize {{page.prize}}" {% endif %}>
     <span class="jan-pali"> {{ page.jan_pali }}:</span>
-      <a href="lipu-lili/index.html#{{stripped_title}}">{{ page.title }} </a>
+      <a href="/mamlw/lipu-musi/lipu-nimi-lili/index.html#{{stripped_title}}">{{ page.title }} </a>
     </li>
         {% endfor %}
 </ul>
