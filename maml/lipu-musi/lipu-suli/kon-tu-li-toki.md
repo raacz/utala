@@ -3,7 +3,7 @@ layout: lipu
 title: kon tu li toki
 suli_lipu: suli lili
 mute_nimi: 1419
-jan_pali: jan Ana tan jan Lapate
+jan_pali: jan tu pi sona ala
 ken_ike:
 - jan olin tu li lon weka pi ona sama lon tenpo suli
 - toki pi nasin sewi

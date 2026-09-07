@@ -1,6 +1,6 @@
 ---
 title: lipu pi jan tu weka
-jan_pali: jan Ana tan jan Lapate
+jan_pali: jan tu pi sona ala
 ---
 <style>
     .lipu-pi-jan-tu-weka h3{
